@@ -887,5 +887,19 @@
     "solanart": "desolate",
     "alpha_art": "desolates-metaverse",
     "exchange_art": null
+  },
+  {
+    "moonrank": "artifakts",
+    "magic_eden": "artifakts",
+    "solanart": null,
+    "alpha_art": null,
+    "exchange_art": null
+  },
+  {
+    "moonrank": "forgebots",
+    "magic_eden": "forgebots",
+    "solanart": "forgebots",
+    "alpha_art": "forgebots",
+    "exchange_art": null
   }
 ]

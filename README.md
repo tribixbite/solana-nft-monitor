@@ -2,7 +2,7 @@
 
 Monitors Solana NFT projects at **MagicEden**, **Solanart**, **Alpha Art** and **Exchange Art** marketplaces and updates data every 20min.
 
-Browse all data at https://flatgithub.com/moon-landing-crew/solana-nft-monitor and use "Data File" picker to select one of the available collections.
+Browse all data at https://flatgithub.com/tribixbite/solana-nft-monitor and use "Data File" picker to select one of the available collections.
 
 ### Tracked collections
 
@@ -15,7 +15,7 @@ Browse all data at https://flatgithub.com/moon-landing-crew/solana-nft-monitor a
 
 ### Requesting new collections
 
-If you want us to add a new collection to the site, please submit an issue by clicking [this link](https://github.com/moon-landing-crew/solana-nft-monitor/issues/new?assignees=&labels=add+collection&template=request-a-new-collection-listing.md).
+If you want us to add a new collection to the site, please submit an issue by clicking [this link](https://github.com/tribixbite/solana-nft-monitor/issues/new?assignees=&labels=add+collection&template=request-a-new-collection-listing.md).
 
 Thanks!
 
