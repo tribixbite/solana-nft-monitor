@@ -18,7 +18,6 @@ id,price,moonRank,💎 score (%),storeURL,accessory 1,accessory 2,accessory 3,ba
 92,9.99,117,28.93,https://magiceden.io/item-details/Cuj6NRLXdMK6R8CkukqZpqmr2SptGHF1b6CfaUtMTWm6,No Accessory,Chain,Cigarette,Green,Navy,Beard,Rice,No Helmet,Undead
 99,3.89,706,84.04,https://magiceden.io/item-details/CWQovbyJE594Tv5B2LwGKnn6rWj1RUNVqbGxcQRaHFcz,Red Scouter,No Accessory,Mask,Red,Suit,Beard,Green Bhangra,No Helmet,Human
 105,29,3986,0,https://magiceden.io/item-details/DwqdvTC2kDtQc7MHKQ6uBm14gR4udYTiLXaNGs56KoPr,No Accessory,No Accessory,No Accessory,Pink,Green Vardi,No Beard,Green Bandana,No Helmet,Human
-108,3.05,2038,79.12,https://magiceden.io/item-details/Hp1BxtF6NFRxJKZGuGuxnTAj8twi8JRouiwGVHbEAgLk,No Accessory,No Accessory,No Accessory,Blue,Red Track Suit,Beard,Red Bandana,No Helmet,Undead
 115,3.33,2454,72.16,https://magiceden.io/item-details/Ek8tC3CAetppY321EBkL25mnm4RCDAHQtHTFNARN3UJv,Specs,No Accessory,No Accessory,Green,Green Vardi,No Beard,Airforce,No Helmet,Human
 119,4.77,1555,66.75,https://magiceden.io/item-details/6NjsUu2pCexvbonTLjtAxWwpJp1EcnsaNipVpazDe6z3,No Accessory,Chain,Cigarette,Green,Green Vardi,Beard,Green Bhangra,No Helmet,Human
 124,19.69,2329,0,https://magiceden.io/item-details/9hGLJnEeu8u6Ah1sSULpwLWc7ZKsZTvQvK8b6CrZgD5R,Red Shades,No Accessory,No Accessory,Orange,Red Track Suit,No Beard,Red Bandana,No Helmet,Human
@@ -91,7 +90,6 @@ id,price,moonRank,💎 score (%),storeURL,accessory 1,accessory 2,accessory 3,ba
 483,3.5,3152,63.48,https://magiceden.io/item-details/H89wvavBmzxtzBVt6MbU9JCSk6Ao6V3jk9CNNHxTN2JK,No Accessory,No Accessory,Cigarette,Red,Blue Hoodie,No Beard,Black Cap,No Helmet,Human
 484,21,1116,0,https://magiceden.io/item-details/3oMyEojsYzwU6YiijaGFd2nxykzySxhogSFyqBYzEusD,Red Scouter,Chain,Joint,Pink,Green Track Suit,Beard,Orange Bandana,No Helmet,Human
 491,5,1206,67.94,https://magiceden.io/item-details/DThgwJdVxwionNCY4hYqC9gFrngXTrVwtdk7kgtqt48k,Red Scouter,No Accessory,Joint,Blue,Blue Sari,No Beard,Yellow Bandana,No Helmet,Human
-497,3,1835,81.65,https://magiceden.io/item-details/9i5JSKLmmGPhZtJ8cEs5VpnSkuGQRctZBZibGE8qoe2y,Red Scouter,No Accessory,Joint,Blue,Red Hoodie,No Beard,Bun,No Helmet,Human
 504,15,2178,0,https://magiceden.io/item-details/Az2zTHJy7im2ztwNCG9Usk1QsfDjqHyxX3U8aePBMYzw,Earring,No Accessory,No Accessory,Red,No Clothes,Beard,Strawhat,No Helmet,Human
 507,3.9,3547,55.53,https://magiceden.io/item-details/C6E3Vb6FtWyBWcwMZ9tZ8QnTmVexnunc8oXZS51aWTzk,No Accessory,No Accessory,Cigarette,Blue,No Clothes,No Beard,Red Bhangra,No Helmet,Human
 511,7.9999,74,49.26,https://magiceden.io/item-details/EJQXuxoEawvdAcmbj65fGt66wGaP2TmnzfASZAXCKVmr,Neo Shades,Diamond Chain,Cigarette,Red,Green Hoodie,No Beard,Strawhat,No Helmet,Human
@@ -103,7 +101,7 @@ id,price,moonRank,💎 score (%),storeURL,accessory 1,accessory 2,accessory 3,ba
 531,25,2201,0,https://magiceden.io/item-details/E2oH4pP7923bWeBGEXXEbxborvJZ7H2fYkwdqkQ55KnL,No Accessory,Diamond Chain,No Accessory,Red,Suit,No Beard,Guy Hair,No Helmet,Human
 535,3.5,3477,60.23,https://magiceden.io/item-details/Fvh8PEifdNMeVHn9TZMkBxNEc1tzDW7Xk6bj3zgx12P5,Earring,No Accessory,Cigarette,Orange,Plain Black Tee,No Beard,Green Bandana,No Helmet,Human
 551,4.45,3842,47.08,https://magiceden.io/item-details/GJQGRJcdSJfTDkG7JhPNNTzTp8meLUsEWz2nyKC5iwgB,No Accessory,No Accessory,Joint,Orange,Plain White Tee,No Beard,Red Bandana,No Helmet,Human
-552,4.19,2233,65.77,https://magiceden.io/item-details/BbbvYMJVvEtaqQbB6XB6XwEEp7jCcNZWKsCCxuCrSCoZ,Bindi,No Accessory,No Accessory,Orange,Red Vardi,No Beard,Black Bandana,No Helmet,Human
+552,4.25,2233,65.17,https://magiceden.io/item-details/BbbvYMJVvEtaqQbB6XB6XwEEp7jCcNZWKsCCxuCrSCoZ,Bindi,No Accessory,No Accessory,Orange,Red Vardi,No Beard,Black Bandana,No Helmet,Human
 554,4.9,2264,58.36,https://magiceden.io/item-details/ER8Wpn7GJvS2Lg2X3EA69XPd6cZ64TN45k9bsTyUD178,No Accessory,Chain,Cigarette,Blue,Blue Track Suit,No Beard,Bharatanatyam,No Helmet,Human
 555,55.5,3999,0,https://magiceden.io/item-details/DGxHbnT1y4jBKVcKeXGbqQ8fjZ6rFTRbvzaFuRsTS7w1,No Accessory,No Accessory,No Accessory,Pink,Plain Black Tee,No Beard,Green Bandana,No Helmet,Human
 562,10,220,27.8,https://magiceden.io/item-details/JASxTJkBoGPHLqJXtvVU617XK3DBoKJFMAS62jd1SqJU,Earring,No Accessory,Mask,Red,Plain White Tee,No Beard,Black Bhangra,No Helmet,Ascended
@@ -235,7 +233,6 @@ id,price,moonRank,💎 score (%),storeURL,accessory 1,accessory 2,accessory 3,ba
 1256,4.9,768,73.32,https://magiceden.io/item-details/CkkLZZEtgaJLjc8ejf1VP1gBhJETsYnNk99p5dEZAPqb,Specs,No Accessory,Mask,Red,Plain White Tee,Beard,Navy,No Helmet,Human
 1258,35,854,0,https://magiceden.io/item-details/CsQpeweCrQSXPQz4z3HAqiBx65Pe3jQ9h2maRSz9MBuA,No Accessory,No Accessory,Cigarette,Green,Black Vardi,No Beard,Blue Bandana,No Helmet,Undead
 1269,8.88,861,32.59,https://magiceden.io/item-details/GBAbz1VUDnMt2QSosgYsgkiVdfZSkMkV1ddCa41WFMDx,Neo Shades,No Accessory,Mask,Blue,Plain White Tee,No Beard,Black Bhangra,No Helmet,Human
-1270,4,1262,77.38,https://magiceden.io/item-details/Hz4ZWgkpKHTMXtuzpbKAmT2FFDjVVo4EQHDkgn7Zmsed,Neo Shades,No Accessory,Cigarette,Orange,Blue Track Suit,No Beard,Red Bhangra,No Helmet,Human
 1274,6,3878,31.22,https://magiceden.io/item-details/7BVFErFdYnWQsdJCiZiwxyhj7NGgzBheC67ocPVuu1hF,No Accessory,No Accessory,No Accessory,Pink,Plain Black Tee,No Beard,Blue Dupatta,No Helmet,Human
 1275,9,2423,15.77,https://magiceden.io/item-details/3e3ZQgttQkn6P1AoQ7JJ9p8QpjtqCcf1X7RYCMPVfPxT,Green Scouter,No Accessory,No Accessory,Orange,Black Vardi,No Beard,Navy,No Helmet,Human
 1286,5.38,3417,42.03,https://magiceden.io/item-details/6FvEKa5SQddkgGivU8uNqGh8fedvKKG3ciVsGQpnPUXk,No Accessory,Chain,No Accessory,Orange,Blue Track Suit,No Beard,Blue Bandana,No Helmet,Human
@@ -321,7 +318,6 @@ id,price,moonRank,💎 score (%),storeURL,accessory 1,accessory 2,accessory 3,ba
 1772,5,216,77.84,https://magiceden.io/item-details/sztXuE8UvmWgjbKaLYiQNpsULKuQTFDVVyEZBaeKgs6,Yellow Scouter,Diamond Chain,Joint,Red,Green Hoodie,Beard,Green Bandana,No Helmet,Human
 1774,5.6,661,67.39,https://magiceden.io/item-details/6PHix6ve6c1k1ScWx8yT5Y2mEfGWsXLxs6TRKGfQW894,Earring,No Accessory,Cigarette,Green,Vengeance Tracksuit,Beard,Green Bhangra,No Helmet,Human
 1790,12,550,4.5,https://magiceden.io/item-details/89f6LJtzVmKkHMqo3X1R9zWfrQDKDyWE5Kfk6mRsc44Y,Specs,Chain,Joint,Orange,No Clothes,Beard,Jazzy Hair,No Helmet,Human
-1794,3,2322,76.78,https://magiceden.io/item-details/27cohDvqVMUkCF3uHex7UGoL1Y1LzTHaEN4NaDzt8coV,Earring,Chain,Cigarette,Blue,Red Hoodie,No Beard,Red Bandana,No Helmet,Human
 1799,5,634,73.66,https://magiceden.io/item-details/DaGV2Rjh2cXXCWkcoa19jFyx6TRWvqo2LHZmcDFK8kw6,No Accessory,No Accessory,No Accessory,Blue,Green Hoodie,Beard,Blue Bhangra,No Helmet,Ascended
 1799,20,634,0,https://magiceden.io/item-details/2hLBXbzWoXVkaKSMLdwEEMaUZpJPsu9tnbR5NDt2T6Vt,No Accessory,No Accessory,No Accessory,Blue,Green Hoodie,Beard,Blue Bhangra,No Helmet,Ascended
 1808,5.49,466,70.44,https://magiceden.io/item-details/HmDFTwgCUSPesV433qLsYW91eDAxRSqejaGi8iAcyk4Z,No Accessory,No Accessory,No Accessory,Red,Blue Track Suit,No Beard,No Head,Vengeance Helmet,Human
@@ -329,7 +325,7 @@ id,price,moonRank,💎 score (%),storeURL,accessory 1,accessory 2,accessory 3,ba
 1817,6.99,3095,29.15,https://magiceden.io/item-details/91mAqCYwEbdDJiT9xQjdKXCseuprpaXi41L84iq4Ppfm,No Accessory,No Accessory,Joint,Green,Green Track Suit,No Beard,Navy,No Helmet,Human
 1825,31.69,3424,0,https://magiceden.io/item-details/AZJXCSeGhPXHp5dKPyiSgpHfbp5TKEFUSc3EJeDbxd7L,Specs,No Accessory,No Accessory,Orange,Green Vardi,No Beard,Orange Bandana,No Helmet,Human
 1829,4.69,270,80.4,https://magiceden.io/item-details/6LzDUarspy4vUU1HTHXmMAL6oi2CFBhTCribVur8h9Yv,No Accessory,Chain,Joint,Orange,Green Track Suit,Beard,Navy,No Helmet,Undead
-1846,3.5,3738,57.62,https://magiceden.io/item-details/3rFo2hKajgMbxRDCygae9gjMmnErc3S1Hanvb7Zpu3Cz,Earring,No Accessory,No Accessory,Green,No Clothes,No Beard,Black Bandana,No Helmet,Human
+1846,3.75,3738,55.12,https://magiceden.io/item-details/3rFo2hKajgMbxRDCygae9gjMmnErc3S1Hanvb7Zpu3Cz,Earring,No Accessory,No Accessory,Green,No Clothes,No Beard,Black Bandana,No Helmet,Human
 1876,69.42,352,0,https://magiceden.io/item-details/9PeuM2QngSBwazB2uWbqZhGLsbTKgE741cGeDk5DPKoy,Yellow Scouter,No Accessory,Mask,Red,Samurai,No Beard,Jazzy Hair,No Helmet,Human
 1906,35,3935,0,https://magiceden.io/item-details/6dCkiY2qra3DxEeadbHVfRPvx4jbYV6RpbB8uDoZrumd,No Accessory,Chain,No Accessory,Pink,Plain Black Tee,No Beard,Green Bandana,No Helmet,Human
 1910,4,2312,66.88,https://magiceden.io/item-details/FNychLQRHWFXGWBNeXXa3bjYU5WvZeS3z4ZdU17xs2xA,No Accessory,Chain,No Accessory,Pink,Green Sari,No Beard,Pig Tails,No Helmet,Human
