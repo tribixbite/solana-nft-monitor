@@ -187,7 +187,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 2009,2.25,3175,59.46,https://magiceden.io/item-details/A5pw7TfwUA3VcrkQzjFy1zwtmca8XnFd1aqFFRsUH8HX,Mustard,StreetPirate,None,PissedOff,RuffyDuck,ViperJade,Clay
 2019,3,2769,55.21,https://magiceden.io/item-details/35EJ9RtEqfLZohTDZy2hHQYD4YzBQcA6AabnEnr2YPZJ,Mustard,Bat,None,FeralEyesRed,GramGram,PlumberRed,Night
 2020,8,1455,15.73,https://magiceden.io/item-details/CwLv6AUkrCkB7U5MKNaftFFw97eYEPWN715z7z91DLNP,Lavendar,LuchaLibre,GoldPair,Skii,ThugzBunny,BandanaCrip,GrapeFlavored
-2041,0.739,2943,76.43,https://magiceden.io/item-details/JCR6ppfavTZ6HGwELwpZjHhPdG3heAJLTMXWVocNoCzc,Mustard,StreetPirate,None,CyberSmile,ThugzBunny,SaiyanHair,BudGreen
+2041,1.99,2943,63.92,https://magiceden.io/item-details/JCR6ppfavTZ6HGwELwpZjHhPdG3heAJLTMXWVocNoCzc,Mustard,StreetPirate,None,CyberSmile,ThugzBunny,SaiyanHair,BudGreen
 2067,3.6,2016,55.24,https://magiceden.io/item-details/9rudS7YCDtHiTcgwnoasWj27BKLTrr48pkQ1YDszddtS,Citrus,Paladin,Flag,CuriousJorge,BaconBoar,BeepBoop,CottonCandy
 2069,1.4,619,88.43,https://magiceden.io/item-details/EPX8CDjZHVbUrsm8XQdJdCD8e3S9Y64EQBZ1SppZyEFe,Blue,LuchaLibre,EyeofZauron,Zatoichi,BaconBoar,None,GrapeFlavored
 2099,1.1,3241,70.43,https://magiceden.io/item-details/FNnuzBC5JT6yZn9quMQirTjGKzYWSmumsyyD7D478sXp,Leather,Plug,None,Tycoon,BaconBoar,BandanaCrip,RedHead
@@ -228,7 +228,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 2387,2,2405,68.12,https://magiceden.io/item-details/2BRwATiZMq71zcRCwzizcVtVA9UkkYGWks5bxbp4TpmQ,Leather,Plug,Bone,Unamused,GramGram,BeanieCream,GrapeFlavored
 2394,49,1375,0,https://magiceden.io/item-details/Eh8mNhUt1qZLQkzH5xvwQmMdrceCLKQ2kpkZvdiA2VSq,Citrus,Bat,Flag,ClassicToon,Baztard,AllSeeing,Night
 2395,1,2404,78.13,https://magiceden.io/item-details/9eUjwMJT6hhd9NG8kXaqY8ccGnoJ462kK6DPXZubVzD9,Blue,DeathAngel,Gold,OhGodNo,GoodBoy,None,Night
-2403,0.7389,4602,63.14,https://magiceden.io/item-details/CRyYjrWVVRpXz8m6EAVrP1hDJpSHZjU9rbhiskxWAF9P,Salmon,StreetPirate,None,Unamused,WickeyMouse,Sunnyside,Blonde
+2403,1.49,4602,55.63,https://magiceden.io/item-details/CRyYjrWVVRpXz8m6EAVrP1hDJpSHZjU9rbhiskxWAF9P,Salmon,StreetPirate,None,Unamused,WickeyMouse,Sunnyside,Blonde
 2415,2,454,83.75,https://magiceden.io/item-details/GD6pBaSarExeMuPrDp8KFri7B7LjKGDwY1TYXyN9kvM5,Blue,SaiyanPrince,Gold,ClassicToon,GoodBoy,AllSeeing,DustyBlue
 2422,5.1,2705,34.72,https://magiceden.io/item-details/42huuMBQrwk7uDXLnNuwa7BvnBUBpXwskrELqyAMgTey,Lavendar,OnePunch,None,Steamboat,GoodBoy,None,DustyBlue
 2423,3.3,515,70.26,https://magiceden.io/item-details/31miqm92k1ZTEX3bULLyUSvtAnNpGex23B9gvA2d9BHY,Citrus,Saiyan,Pewpew,Steamboat,DingDong,ShellGreen,Blonde
@@ -274,6 +274,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 2815,1,4555,60.9,https://magiceden.io/item-details/EpR7ZVLq9mVTACA8L6XA5FF97DCDfKDHTpY84ocaZt6C,Acid,Bat,None,FeralEyesRed,ThugzBunny,BeepBoop,Blonde
 2829,4,4044,35,https://magiceden.io/item-details/2MunHuWZ5SE898mZeb9WYUVahneHnt9EwEkTLFHPMs59,Tangerine,DeathAngel,None,StarryEyed,BaconBoar,Sunnyside,Blonde
 2836,1.8,2535,69.08,https://magiceden.io/item-details/Am8LxKNTovntkBPatZ5yhQwpDxnXp7nebdWwj5jPM929,GrannySmith,Thug,Silver,ClassicToon,RuffyDuck,GoonGoon,Night
+2839,0.75,3912,68.55,https://magiceden.io/item-details/2Lv19axVDjaddLeBZmSfetcSCgW17CsM6oaaWy7WenRg,Salmon,SweetChocolate,None,OhGodNo,DingDong,AllSeeing,DustyBlue
 2848,2,3539,59.04,https://magiceden.io/item-details/446tf3JMi5tjjvzej4uHDpw2EP12RV3EpBDuGQRAr2Yc,Leather,SweetChocolate,None,FeralEyes,ThugzBunny,Sunnyside,Night
 2856,0.99,1714,83.76,https://magiceden.io/item-details/4AacQyNXVfMLrs5ZczcfVvdZBTU1kcjt8mxp1r29d159,BabyPink,Kong,PocketMonster,OhGodNo,GramGram,AllSeeing,RedHead
 2865,1.9,1513,76.27,https://magiceden.io/item-details/2kszrHnjhutpGC2q7cRfeVfKkwe3HoZoif9L7nyfiCD2,Lavendar,Bat,None,OhGodNo,BossDingDong,Crab,CottonCandy
@@ -330,7 +331,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 3301,6,2136,30.28,https://magiceden.io/item-details/DsGdGyWoDxH4LXuxx2Lcv2hc4oSiwTyNmbJftvM5PvC3,GrannySmith,Yakuza,None,BlindfoldWhite,DingDong,SuperSaiyanHair,Night
 3338,1,1561,84.88,https://magiceden.io/item-details/7JwkkUYAqenY3mdxESFFwHdziTiuC5gj74P5wS4TCsay,Blue,SkullBomb,Dagger,Robbery,GoodBoy,GoonGoon,BudGreen
 3346,3,4994,37.39,https://magiceden.io/item-details/GvTEfbRh7kxpdTmDT7BikMw9V7buo5Y5d7dUrKbXtDzi,Lavendar,Kong,None,Steamboat,ThugzBunny,BeanieCream,GrapeFlavored
-3348,0.739,1707,86.33,https://magiceden.io/item-details/5tuh2s4WD5YvyJMbGADyVQA2SszBMasbRhWMozt3JYyi,Salmon,FlyTrap,None,Zatoichi,RuffyDuck,Gluttony,Sage
+3348,0.9999,1707,83.72,https://magiceden.io/item-details/5tuh2s4WD5YvyJMbGADyVQA2SszBMasbRhWMozt3JYyi,Salmon,FlyTrap,None,Zatoichi,RuffyDuck,Gluttony,Sage
 3383,6.5,189,40.87,https://magiceden.io/item-details/7eJE98Ba5QdatSZoPTesLjyxe7eWuc9ufGWYQcUeFb6z,Lavendar,Saiyan,Bone,CyberSmile,Baztard,AllSeeing,BudGreen
 3389,2.5,255,80.35,https://magiceden.io/item-details/CgN9dkJ4cdaSjZm2HxChoy5pe2thi8ZGi1DgqBaUpWDS,Tangerine,SweetChocolate,Gold,OhGodNo,WickeyMouse,None,SkyBison
 3398,3,4467,41.61,https://magiceden.io/item-details/HQVVUEys73BcQrZAXwgiy6pd5tjVtxpKhprSp4WaLLgo,Pomegranate,Hockey,None,Unamused,Baztard,BandanaBloodz,Blonde

@@ -17,7 +17,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 136,3,NaN,0,https://magiceden.io/item-details/2tpEaKVhUCAHDRNajjbFBjX5ecEuPhjmroWvkCuRCJMm,,,,,
 149,5,2025,18.17,https://magiceden.io/item-details/4rSXgw5t4qGAWbF3RsGbesBDfqCWJohtRMsZTXNjXJKn,Aww Mustard!,Smoke,FFSC Merch (Grey),Smile,None
 169,60,NaN,0,https://magiceden.io/item-details/37SD1Ee9VXSFFoVHA8kmrrdkRGS8qwefBUXFodp17zuD,,,,,
-178,1.33,93,91.34,https://magiceden.io/item-details/EGz9r2URrHrWdzUuguLMpYk36ANPBP1ixTPoo6omjFVJ,Solana,Salmon,Tie Dye,Angwy,Flower Crown
 186,0.88,1667,66.13,https://magiceden.io/item-details/51ysrz3cjaiV67zMuiym1pcPhHss4KMm7FCB4Y46gmTf,Orange,Juicy,Plain Grey Tee,Pressed,None
 188,0.98,NaN,0,https://magiceden.io/item-details/3EK2fEpSAmSMznPjXdx4beYF92nX79MYLtQgzWMJjGF8,,,,,
 189,250,NaN,0,https://magiceden.io/item-details/3EzXGeP3gQEHpYvC7oy6myMHnfESzh4DW2QYvXXFTQ4n,,,,,
@@ -31,6 +30,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 282,2.5,616,69.77,https://magiceden.io/item-details/6dP5mNVZ5JW2vj6Ayw3JgnqQooKhRxAqdkdPzmsNGZgh,Orange,Smoke,Black Hoodie,Chillin',Pumpkin
 283,5,NaN,0,https://magiceden.io/item-details/3yPTKfrT3ozj8zttxzTgN1dqr4RLR1SLEi54Az4DGJcM,,,,,
 316,0.89,1350,72.02,https://magiceden.io/item-details/Bd5XHTvss9ktRJXbguUfCizky8gasNs9K5FAcn2Cx41Q,Lavender,Forest,None,Resting,Lilypad
+327,0.8,1930,61.97,https://magiceden.io/item-details/9nXTikXoBbYoS4qrTGX8BQH4ZRrrynCADa5hbL31nvQf,Slate,Ocean,Plain Beige Tee,Yummy,None
 335,4.7,826,43.81,https://magiceden.io/item-details/HuX9CY7Unz1sxfiwYqxztN9iXij3cH71zhCxepVRkVDr,Monochrome Trip,Original,Plain Grey Tee,Smile,Lilypad
 339,0.77,2023,60.51,https://magiceden.io/item-details/EKGdD6SGipEGjPppuUnH5YEUhUoHZd17PpjDPoma8Wwz,Lavender,Ocean,Plain White Tee,Lashes,None
 384,0.85,NaN,0,https://magiceden.io/item-details/4tNwAnS9KxhGrZWWWqGXv9JiKdUF6Y4JHVgBcT1y7JRE,,,,,
@@ -118,7 +118,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 1036,0.65,2082,60.6,https://magiceden.io/item-details/8hSENybk1nCrzWqAyYUBCiYgFve7eiSDsbGfPz8Niu4m,Bubblegum,Juicy,None,Yummy,None
 1039,1.49,696,78.36,https://magiceden.io/item-details/5MFDXYRbGmLL2gt3nXzzAsthM7gPEyzeD6gH7VQoBsdL,Dark Lavender,Slime,Clownin' Around,Yummy,Sheriff's Hat
 1053,18,NaN,0,https://magiceden.io/item-details/9wkEmvEhHAuWtFzGfNCsgCd6PopcN2Avvhw5Q144fxt2,,,,,
-1075,3.6969,96,67.62,https://magiceden.io/item-details/As1bHbm3tobh2KPXTzo3sfKMJqmggrSBXiT4sak1JJe1,Dark Lavender,Smoke,Really Green Sweater,Clown Makeup,Demon
 1078,0.89,1228,74.32,https://magiceden.io/item-details/VeZuxRFdGCjaAmQFe3aLZNNbFSFLLn5Kr52DbGgSue7,Aww Mustard!,Forest,FFSC Merch (Blue),Blep,Bunny Ears
 1085,1.15,1279,70.76,https://magiceden.io/item-details/Ehrag3Yyc1wawnbcoZLo2xXRvYCUg5wboddqig1Xf1Gr,Sky,Ocean,Plain Grey Tee,Lashes,Buzz Buzz
 1091,30,NaN,0,https://magiceden.io/item-details/A6x7jhNsjwFjwbuDy48i68MfGp4DJMncZjxv9rkNUHkE,,,,,
@@ -167,7 +166,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 1701,1,1339,71.12,https://magiceden.io/item-details/AENdyxw8s8q2y9qyLRpDGCEwEbX61uvHeh51VBJhRHCv,Orange,Juicy,Bandana Shirt,Sad Lashes,None
 1712,1,2011,58.44,https://magiceden.io/item-details/7NJ8jK7BD6XrcTHqD76SLAavBNnAT8DKyz84wHxo3DWX,Bleu,Smoke,None,Pressed,None
 1719,2,NaN,0,https://magiceden.io/item-details/FTYPbnRkaFgmdkQTyDDB1xsPo2vXiPbCtVvgnWhindcV,,,,,
-1722,1.33,165,89.99,https://magiceden.io/item-details/EUY6RFLu3hSMezQL5a8sup8N7Mom5ep2csnF3mXDp3Ug,Monochrome Trip,Juicy,Plain White Tee,Cute Shades,Pizza
 1734,1.5,NaN,0,https://magiceden.io/item-details/Fe4KR1E4t8XANCxhVKBNBMy4Ty237jSe6XWcwhfPyAEE,,,,,
 1738,2.2,NaN,0,https://magiceden.io/item-details/FknXuwD8JXKXgsckyPK1zeGc8GPkVvqgvUdEjXNPhGfN,,,,,
 1744,7,NaN,0,https://magiceden.io/item-details/FrkuWQ9BQgZvUDpCa3LXCNwULhuXA4aBY64kihdz8P1R,,,,,
