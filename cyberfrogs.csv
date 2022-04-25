@@ -97,7 +97,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 873,5,8186,30.84,https://magiceden.io/item-details/3ZLLp1G8b6KcButPPMU3k1gwC3nTZZ1AkATuxcw7TvWU,Light Green,Yellow,VR Headset,Hot Yakitori,No Accessory,White Tshirt,Spirit
 875,15,3825,0,https://solanart.io/nft/7AZAPbwy1vy5zqzPvb6CXXfunQgUMAP2BpeDRhT4iBfa,Blue Rain,Blue,Cyberwear,Assault Rifle,No Accessory,No Outfit,Half Robotic
 877,15,7305,0,https://magiceden.io/item-details/3Kp7FionLTPYo3iCHGwJ4k7NVcBfJnLs8hfhAbGeHGX4,Cherry Blossoms,Brown,Blue Headphones,Katana,No Accessory,BOGO Tshirt,Green Cyber Suit
-881,2.1,6624,66.91,https://magiceden.io/item-details/FjowcBbvkC83AVvgLi8BPF89yH3524fE21HyyuGVMynA,Yellow,Ghost,Blue Samurai Helmet,Lantern,No Accessory,Blue Racer Vest,Mud
 882,4.7,2089,61.43,https://magiceden.io/item-details/Bc7mHs6xPKFZXij3YAodr5sF982x7X4DFuSt1yYLm6Zg,Light Gray,Brown,Eyepatch,Handgun,Chewing Wheat,Advanced Red Samurai Armour,Green Cyber Suit
 891,3,491,85.67,https://solanart.io/nft/CgiPWPUMm3WAmcAnsJWygWm8X1PaANXwGdyEdz7f2F87,Blue Neon Kanji,Ghost,Boony Hat,Thermal Katana,Chewing Bamboo,White Tshirt,Black Robotic
 892,3,8178,50.87,https://magiceden.io/item-details/FzVCE8wLhaMb8FicT9srbtrM1xEzkNdn9D8CsVPHxvf,Light Green,Brown,Hannya Mask,Baseball Bat,No Accessory,Red Racer Vest,Half Robotic
@@ -222,13 +221,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 2149,2.4969,652,89.97,https://magiceden.io/item-details/BxxGLYFAjdLJAfs8d9RgfYHLmv4suFdDwgEbd7odF1RX,Cherry Blossoms,Possessed,Green Visor,Lantern,Toothpick,Hawaiian Shirt,Green Cyber Suit
 2152,4.5,6525,43.36,https://magiceden.io/item-details/6MPiiuzapnNZQLgaMZ4tBgWakgvrGvkUrjq5yK2rfstg,Purple,Blue,Eyepatch,Leafy Stick,Chewing Bamboo,Red Flannel,Mud
 2156,4.7,2830,58.08,https://magiceden.io/item-details/CgmSiMnDxiMM1GfuQZDkRjyLMJk2J3zLwsuZXmuNUf8A,Purple Rain,Spirit,Blue Singular Optic,Umbrella,Toothpick,Black Tshirt,Green Tattooed
-2170,2,4415,77.91,https://magiceden.io/item-details/HSMRMijqhsYGnkB5wzt7dm3FXQFXJYZSdgus4UUEV9eF,Dark Green,Ghost,VR Headset,Naginata,Pipe,Red Racer Vest,Green
 2173,6,8662,18.68,https://solanart.io/nft/4hrRZQ5t3YBaMUTZn4sCCEoS2mHwQvAnKdSn7kAo8Bj7,Purple,Bloodshot,Boony Hat,Assault Rifle,No Accessory,White Tshirt,Mud
 2176,15,1496,0,https://magiceden.io/item-details/8nxbAuiH38KjxAtbMxqA9ajXKM5KTz4zqBCm3pVW7hLR,Dark Green,Yellow Hypmotised,Green Headphones,Spear,Lizard Tongue,Caveman,Sand Cyber Suit
 2232,23.2232,1028,0,https://solanart.io/nft/CqShR79g6gdqvZazzNYsckr4chv6XQAW3tdaZKdwqTXW,Dark Green,Possessed,Eyepatch,Baseball Bat,Gas Mask,Cyber Policesuit,Green Robotic
 2236,10,16,17.82,https://magiceden.io/item-details/yWNqZEi7Wfy1emN1kn4uQk26gUNMLUXkbXEhetZ3SSn,Storm,Brown,Red Visor,Katana,Lizard Tongue,Blue Racer Vest,Black Robotic
 2249,4.4,1180,68.55,https://magiceden.io/item-details/HxqCfokQrrnVMnDVzQzqM7iiTi6emfvpQp8xrkGhZKq8,Blue,Stoned,Blue Singular Optic,Handgun,Chewing Bamboo,Bloody Robe,Spirit
-2273,2.6,8415,53.8,https://magiceden.io/item-details/oUEKiuLyTNqjT79aWJ5GLpxkGsQ9T6pMWsQMkmf2ohC,Red,Yellow Hypmotised,Black Ski Mask,Cold Yakitori,No Accessory,Red Flannel,Green
 2275,15,2300,0,https://magiceden.io/item-details/E9MEznjW5LydxXPnFefQxXNmaTpck2dHMNSVk3k377kX,Salmon,Cyber,Orange Ski Goggles,Cold Yakitori,Bamboo Bong,Black Tshirt,Ghost
 2276,9.3,5403,0.43,https://solanart.io/nft/Akj9X3TCsP7JJKhRYsCr1p7pe1DKVLjDTsaf9ZBkiiuu,Purple Rain,Spirit,Red Motorbike Helmet,Cold Yakitori,No Accessory,Green Flannel,Demon
 2280,2.5,988,88.42,https://magiceden.io/item-details/BvNbpoo9DGsTeASvq7E5CwALpfhkMb8tC19x2CDaYdnv,Blue,Stoned,Rice Paddy Hat,Handgun,French Mustache,SWAT Gear,Sand Cyber Suit
@@ -256,10 +253,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 2451,10,55,17.64,https://solanart.io/nft/3u3VSahQeuV42PY75DVivGQ9Wrv9BffspsW3hvgJ7ZwP,Pink Neon Kanji,Ghost,Blue Headphones,Mantis Blade,Mustache,SWAT Gear,Half Robotic
 2459,8.89,7387,0,https://solanart.io/nft/4E5osGMm1XB7wJeytFTA4cX57PwhZnkiFnRnCMuGbDSc,Dark Green,Brown,Black Ski Mask,Hot Yakitori,No Accessory,Caveman,Green Robotic
 2464,4,2515,66.51,https://alpha.art/t/8L55wzE2PuAK9dkXTY3EgZotX7sto5KwqFtXZvM7Pq1p,Red,Cyber,Rice Paddy Hat,Fan,Toothpick,SWAT Gear,Spirit
-2466,1.99,5748,71.97,https://magiceden.io/item-details/5LJX5f2RNjLrFYZuBu3UYKkRj4ceb2TLMCa21YFvsnMe,Red,Blue,Cowboy Hat,Rambo Dagger,Mustache,Black Tshirt,Blue
 2473,10,96,17.46,https://magiceden.io/item-details/8wT6TheuUFg9yHAomQmcVKcSTaHz5cmYGGb8d6Rivp56,Blue,Possessed,Cyclops,Cold Yakitori,French Mustache,BOGO Tshirt,Black Robotic
 2483,18,6159,0,https://solanart.io/nft/AvHK6PNPXX4MSAHxBQUetj11zz2Bkmrg7aL12HtQXJhB,Light Gray,Bloodshot,Helmet With Antlers,Spear,Cigarette,Blue Flannel,Mud
-2503,2.2999,1280,89.1,https://magiceden.io/item-details/C4ys377yH1Bq8FYRMupvA96zFKTBruojD8ziY8CpAhan,Blue Rain,Green,Eyepatch,Assault Rifle,Goatee,Cyber Policesuit,Half Robotic
 2507,3,2161,78.11,https://alpha.art/t/JARs2yT1eAEaJ6CQ9H4L3wMFy2L6t4Fb2MgJCgLG2DwX,Purple,Yellow,Blue Samurai Helmet,Katana,Mustache,Blue Flannel,Pink
 2517,16,7391,0,https://magiceden.io/item-details/2Dj3KaLXG29wVE1YjPUD7Ye6pCAi9GwzekiWSvqfwcBz,Red,Green,Cyberwear,Leafy Stick,No Accessory,Blue Wetsuit,Green Cyber Suit
 2519,5.55,2079,52.98,https://magiceden.io/item-details/7Leuzp1xpTKLZMsg72ceBPbvbJB3jC7YC6KB79o5o7k2,Salmon,Black Hypmotised,Blue Headphones,Hot Yakitori,Chewing Bamboo,Leather Jacket,Demon
@@ -373,7 +368,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 3422,6.5,1667,45.34,https://solanart.io/nft/A1zP6PJHA8krVnPHji3BTD4JLhGDr4yRZVH2zVzyw79U,Dark Green,Black Hypmotised,Orange Ski Goggles,Thermal Katana,Pipe,Tracksuit,Green Tattooed
 3423,15,6263,0,https://solanart.io/nft/EgUYKWZCRvJMGjbeewkrivwwUp77w8aiKnWTj42kJk5S,Light Gray,Spirit,Red Motorbike Helmet,Katana,No Accessory,White Tshirt,Green Cyber Suit
 3429,4,364,76.24,https://magiceden.io/item-details/DNbTU5yzQmUc9vrRTx74SRWrLEFFtn48S2xvcLyZWvgm,Cherry Blossoms,Spirit,Kitsune,Thermal Katana,Pipe,Green Flannel,Ghost
-3433,2.3,1343,88.81,https://magiceden.io/item-details/A6y4xbq7o3tXdrosqddaSjvjWB7CqYVKgvVV6zSBqdPe,Purple Rain,Brown,Blue Singular Optic,Lantern,Goatee,Solana Tshirt,Demon
 3436,5,7080,35.84,https://magiceden.io/item-details/EivbqEcW5ZqfCjq3M9p7boYX7HzknoSRCAfcpLZ4vPs3,Blue Rain,Blue,Cyberwear,Umbrella,No Accessory,Green Flannel,Mud
 3437,20,2831,0,https://solanart.io/nft/FfEV4GDgRQMwzA5jgEdt9gRQM29ZLmxHkR2XwERhUytY,Dark Green,Spirit,Blue Singular Optic,Baseball Bat,Chewing Bamboo,Black Tshirt,Black Robotic
 3443,8.88,386,27.34,https://alpha.art/t/uvsVmrfhMYk4SgZZtz8QPCeysqvX8sY8v7Fd2zjveYE,Red,Black Hypmotised,Green Visor,Neon Naginata,French Mustache,Blue Flannel,Green Cyber Suit
@@ -427,7 +421,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 3853,4,4345,58.22,https://solanart.io/nft/9ZGFSsMnKjrUnDmEFumF3ej2HzELD9rsgXvPzp9kveTd,Purple Rain,Yellow,Green Headphones,Fan,Chewing Bamboo,Blue Flannel,Blue
 3856,11.24,1652,0,https://solanart.io/nft/A22Q1WGUKhEawdw1twhza7ufh5BtGohnjupNvWVM4GN3,Salmon,Yellow,Helmet With Antlers,Leafy Stick,Surgical Mask,Caveman,Black Tattooed
 3865,3,2007,78.81,https://magiceden.io/item-details/6Z6CcihWLmdeiWkgHdX3ZKkzWsKfsJxkJH5r8w9sNWek,Cherry Blossoms,Spirit,Blue Ski Goggles,SMG,Cigarette,Solana Tshirt,Blue
-3869,1.99,7912,62.18,https://magiceden.io/item-details/2mv6QCWPo761ivaRRKXkTTcGMxeqXHZg3MFgJwexGE2S,Light Green,Brown,Blue Headphones,Leafy Stick,Surgical Mask,Blue Flannel,Pink
 3881,4.4,1797,65.76,https://solanart.io/nft/DRdCRNLTFLnEtGydJkVbyPLxDpBaBJzmvoVQTR8HzhgX,Yellow,Brown,Blue Ski Goggles,Fan,Beard,Bloody Robe,Black
 3902,8,5287,13.96,https://solanart.io/nft/9kjjQN9acEXF1DwTzcvhBC4ztagS4teFW2hk54HQWwRi,Yellow,Brown,VR Headset,Katana,Cigarette,Cyber Policesuit,Green
 3949,12,994,0,https://magiceden.io/item-details/9idPKpXqTgcamrrhJoq34VoYecLYGY5ySuSpbUnniGcM,Rare Kanji,Bloodshot,Black Motorbike Helmet,Hot Yakitori,No Accessory,Bloody Robe,Green Tattooed
@@ -500,7 +493,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 4550,2.5,6483,63.55,https://alpha.art/t/7XWMBrVU9GnvYHjH2qot7bE3d6qfUQJHSUaPzpbtp1rK,Cherry Blossoms,Spirit,Black Ski Mask,Rambo Dagger,No Accessory,Blue Wetsuit,Black Robotic
 4554,8.99,453,25.94,https://solanart.io/nft/57XVEMJrqZc4KFjJNG7RuGSu8aH5v7ZfDUyxfdjHyH6d,Rare Kanji,Green,Helmet With Antlers,Umbrella,Chewing Wheat,Shirt and Tie,Black Robotic
 4566,3,5308,63.86,https://solanart.io/nft/EBy9LYrC2JfJFwinaU8GGmkk7Rv5NMCDo5FvfMpvdVBs,Light Gray,Spirit,Cowboy Hat,Modded Naginata,Chewing Wheat,BOGO Tshirt,Mud
-4567,1.99,7887,62.29,https://magiceden.io/item-details/5fk6Qi2jv6wzRUtWNJp4FSx8iUS5tWNideu7VhP3i8vz,Blue,Green,Blue Singular Optic,Lantern,Toothpick,White Robe,Blue
 4569,3.44,4538,62.95,https://alpha.art/t/BuiDkVD78JgHDkGN2Yw4ziufdMHwVt2H1vuCvE2H45XU,Blue,Blue,Red Visor,Hot Yakitori,Surgical Mask,Red Flannel,Green Tattooed
 4584,50,5557,0,https://solanart.io/nft/BcDeUqdtab7nWZqEY2ZeCL6WftkhWphK7fB9pGGoi3sa,Light Gray,Brown,Boony Hat,SMG,Toothpick,Tactical Vest,Black
 4588,6,8788,18.11,https://solanart.io/nft/4ZFXceoM6hEguruJQS5LDEAjN5HbkJ1iKaybhmvRweSu,Purple,Brown,Black Ski Mask,Hot Yakitori,No Accessory,Black Tshirt,Green
@@ -768,7 +760,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 6876,6.49,7802,17.67,https://solanart.io/nft/U3rffNimwTGtZzLUYyHAW5iajARL5qVLErxCj5JP74n,Light Gray,Green,Green Headphones,Leafy Stick,Toothpick,Blue Wetsuit,Demon
 6879,5,3133,53.71,https://magiceden.io/item-details/EayZJTmas8mCMYYz1uQ1cSXpdfz1osrSwz4KsSPaPmTW,Red,Blue,Scar,Hot Yakitori,Bamboo Bong,No Outfit,Green
 6920,20,4058,0,https://solanart.io/nft/H5tuF2xiHQ9cVmjxB9R6xwS6KsDXtyuwJLVFAGaC2ryM,Pink Neon Kanji,Cyber,Black Motorbike Helmet,SMG,No Accessory,Bandoiler,Mud
-6923,2,4678,76.72,https://solanart.io/nft/AAF9JMxgz49nn4nQ6R1vUktuBt6B9TmiV6eDk1qsJyrN,Purple,Brown,Helmet With Antlers,Thermal Katana,Bamboo Bong,Green Flannel,Green
 6944,19,7434,0,https://magiceden.io/item-details/1TfcEFzaNFu4WtgnceRTXdNN2YzbYg4ufupZTyHEdfU,Light Green,Brown,Rice Paddy Hat,Rambo Dagger,Surgical Mask,Blue Flannel,Sand Cyber Suit
 6949,77,571,0,https://magiceden.io/item-details/GMzeXT5FiwWH8XsWrFgcDDRFgMca46Qb1moopTCqm8fR,Leaves,Possessed,Cyclops,Cold Yakitori,Pipe,Blue Flannel,Pink
 6949,77,571,0,https://solanart.io/nft/GMzeXT5FiwWH8XsWrFgcDDRFgMca46Qb1moopTCqm8fR,Leaves,Possessed,Cyclops,Cold Yakitori,Pipe,Blue Flannel,Pink
@@ -825,7 +816,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Headware,Item,Mouth,Ou
 7320,7,2040,38.66,https://solanart.io/nft/98AHVnMVaq5wedSMnZUnxYJfmrmsmszSrNeL3rZJ1m2b,Yellow,Cyber,Eyepatch,Naginata,Goatee,Caveman,Mud
 7333,15,2094,0,https://solanart.io/nft/52uR2EAZCqoq3Fo8kk3uds16VEWq3fwgQu21GyFLyeE8,Salmon,Yellow Hypmotised,Blue Optics,Leafy Stick,Bamboo Bong,No Outfit,Pink
 7335,9.42,1216,18.19,https://solanart.io/nft/2347MawguGLTMmos9qxUyoJpUrJsgGRq56wP6mg1RWy4,Red,Yellow,Green Visor,Handgun,Beard,BOGO Tshirt,Green Tattooed
-7342,2.2,3543,79.85,https://solanart.io/nft/3GTf3FHz1dHsBMLLAWEpFBCTsDNFkcd4PGkzXqbNU5zA,Cherry Blossoms,Bloodshot,Blue Headphones,Umbrella,Cigarette,White Tshirt,Green Tattooed
 7345,2,8232,60.63,https://solanart.io/nft/2Y3jSUa5sdLnY8DKDtsUraQFmGKKKysDgPttdjKpjSYh,Salmon,Blue,Red Motorbike Helmet,Hot Yakitori,No Accessory,Hawaiian Shirt,Green
 7350,19,716,0,https://solanart.io/nft/5YpCTkp6qa1e6AYAuFM83YEA6MnRv3QiZK1vRfJ6quo6,Salmon,Blue,Orange Ski Goggles,Spear,Surgical Mask,No Outfit,Black + Red Wiring
 7356,11.1,3265,0,https://solanart.io/nft/B1Rn1iVxnj2m4juCphHo5mNHztSNHrUifpkHa1msF9uG,Blue Neon Kanji,Cyber,Cyclops,Umbrella,No Accessory,Red Flannel,Green Tattooed
