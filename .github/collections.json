@@ -880,5 +880,12 @@
     "solanart": "drippieverse",
     "alpha_art": null,
     "exchange_art": null
+  },
+  {
+    "moonrank": "desolates",
+    "magic_eden": "desolates_metaverse",
+    "solanart": "desolate",
+    "alpha_art": "desolates-metaverse",
+    "exchange_art": null
   }
 ]

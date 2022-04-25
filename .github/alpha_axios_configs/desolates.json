@@ -1,7 +1,7 @@
 {
   "method": "post",
   "data": {
-    "collectionId": "punky-apes-club",
+    "collectionId": "desolates-metaverse",
     "orderBy": "PRICE_LOW_TO_HIGH",
     "status": ["BUY_NOW"],
     "traits": []

@@ -1609,3 +1609,25 @@ jobs:
           http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=drippieverse&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: drippies__solanart.json
           postprocess: ./postprocess/solanart.ts
+
+      - name: desolates - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: desolates__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: desolates - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=desolate&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
+          downloaded_filename: desolates__solanart.json
+          postprocess: ./postprocess/solanart.ts
+
+      - name: desolates - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: desolates__alphaart.json
+          axios_config: .github/alpha_axios_configs/desolates.json
+          postprocess: ./postprocess/alphaart.ts
