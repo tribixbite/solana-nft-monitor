@@ -25,7 +25,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 974,10,3835,36.22,https://magiceden.io/item-details/5rP9yEQPDxWFzLAJps8pa96E8v6RyH59BPSwbQCzgobZ,Straw,,Shades,Backwards Cap Blue,Drool,Shirt Green,Natural
 1029,11.5,1974,30.82,https://magiceden.io/item-details/7Qj1YFAxxDsmXbUTbDh2e3ZHsE7RPAtmY2K5UqLUY4na,Violet,,Eye Patch,Bowler Dark,Closed,Turtleneck Dark,Natural
 1057,19.99,1834,0,https://magiceden.io/item-details/B295QkR8DBvcu97Vt8Tgz8oKmSJtnXtSpCCsZKJgD4bE,Sky,,Mutated,Headset,Drool,Scarf Purple,Natural
-1109,5.6,3081,84.11,https://magiceden.io/item-details/6yKZDcvxqmZQYi4he9Z7AncLe8rZ2dV8vwotzxC3GCXr,Straw,,Sleepy,Bucket Hat Blue,Drool,Hoodie Blue,Natural
 1114,10,3618,37.34,https://magiceden.io/item-details/5PMr7a8LZwefayQukjQb4XHaTyG6hmG3yLV9oFmWcMN,Blue,,Sleepy,Backwards Cap Camo,Drool,Shirt Flannel Blue,Natural
 1147,17,3688,0,https://magiceden.io/item-details/9rDknnY6fCuiD4KbJGRjPP3tNmGm2f6fJSAPVcLjzaY6,Champagne,,Standard,Bowler Light,Smirk,COPE,Natural
 1151,8.4,5472,43.78,https://magiceden.io/item-details/Br1g8wm1GbSYG89a7s5bZCrstELdKt5jbVn3XvuckKgy,Green,,Standard,Safari,Smug,Turtleneck Blue,Natural
@@ -81,7 +80,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 2602,10,2520,43,https://magiceden.io/item-details/EBTB2X1vg1eycWkGZjFr4XNarWW3bjTeQo8BxmXnnLzT,Alabaster,,Shades,Afro,Smug,Hoodie Pink,Natural
 2612,10,6257,23.73,https://magiceden.io/item-details/GynJkwv3JwohHRwvCQcX7tbVPthZWrRty5S6n9h5EaDW,Sky,,Standard,Sportsband,Smirk,Scarf Striped,Natural
 2620,22,3973,0,https://magiceden.io/item-details/QnAeVqb5pC612kxKHDEfCUdnbsmfQrHgtGe6PzZ8jip,Green,,Scar,Sportsband,Smug,Hoodie Light,Natural
-2625,7,5402,58.14,https://magiceden.io/item-details/GWo2m1mTVBrCjvBaaC3Yy96SVWTF3djf7xXAREzXHb86,Green,,Shades,Bucket Hat Ivory,Grin,Shirt Blue,Natural
+2625,5.6,5402,72.14,https://magiceden.io/item-details/GWo2m1mTVBrCjvBaaC3Yy96SVWTF3djf7xXAREzXHb86,Green,,Shades,Bucket Hat Ivory,Grin,Shirt Blue,Natural
 2658,13,5614,0,https://magiceden.io/item-details/3GZThRZiAue6pG9GK31vsJqfUYEkix4C27otUoGhWhoU,Mint,,Jaded,None,Blep,Captain Red,Natural
 2668,8,5505,47.61,https://magiceden.io/item-details/6REfjUsBDEeBKBchTDbDTpeTRCbcKKiVZ8Aw5PQqk9ax,Yellow,,Blank,Bowler Light,Smirk,Tank Top Pink,Natural
 2695,8.2,6245,41.79,https://magiceden.io/item-details/AkugHc3A5xkzSTcqBruZSvj2jeKMQdx1rrJdH5LkuVXd,Orange,,Wink,Backwards Cap Camo,Grin,Shirt Red,Natural
@@ -124,6 +123,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 3698,9,6073,34.68,https://magiceden.io/item-details/8dzrWxF9qFaFqNQbqoWLgiUpAFzMXhneQZxgiQAnfFPW,Sand,,Standard,Bowler Light,Blep,Scarf Striped,Natural
 3703,10,6897,20.43,https://magiceden.io/item-details/GDBbQ4AjDYDimjCPTawhx5TNusgKjb8iSt6Si81qGiNQ,Yellow,,Standard,Backwards Cap Camo,Grin,Shirt Red,Natural
 3726,10,5443,27.93,https://magiceden.io/item-details/GTRDCHcbwPGD1vzTtvsfsvp4r3EGSauqkR1kLMpyP7g7,Straw,,Raised,Headband Dark,Smug,Tank Top Purple,Natural
+3733,15,6808,0,https://magiceden.io/item-details/AfkCnAaza8tP24N9wXyU5r47wTUFRuy8kj8yow48nik5,Amaranth,,Standard,Headband White,Smile,Shirt Flannel Red,Natural
 3796,69,2826,0,https://magiceden.io/item-details/2zVGMyVZLaE8nMGjtcD1HmPPfzv3aHrVA8r4Qd6xexYC,Sand,,Shades,Bucket Hat Ivory,Blep,Shirt Camo,Natural
 3849,22,2132,0,https://magiceden.io/item-details/5FTV9E6dqXFFg8A4eAQERLbc2uVh7eZwiM4oNgZCK5kv,Amaranth,,Shades,Afro,Smirk,Turtleneck Orange,Natural
 3858,30,78,0,https://magiceden.io/item-details/pDPUAy41CXMEV1VJEKEVs6hnkcCyJSV8frazenWsK41,Amaranth,,Shades,Viking Dark,Closed,Armor Light,Natural
