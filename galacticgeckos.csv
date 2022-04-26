@@ -357,7 +357,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 3511,14,5991,28.03,https://solanart.io/nft/7mSRgrzY2YXR9tAxgJquGNvYsuYFrDheD6wNAJGg3CH9,Collapsible Tubing,6,Spotted Turquoise,,Ocular Scanner,Barada,Slab,Pensive
 3520,569,389,0,https://magiceden.io/item-details/5bP71NF3h2gwMzoEcXqp1CQDkW2MXgAt8jDGfqbx8TST,Nebular Wormhole,7,Neon Green,Cosmic Gas,Deluxe Shutters,Alura,Plasmatic Guzzler,Toothy
 3521,24,9737,0,https://magiceden.io/item-details/81j6aUhtJMtzeP7txyYQEXh1sQzjdQ9NEPUCGA625KBQ,,4,Printed,,Groovy Perceptors,Martu,,Pleased
-3522,16.29,869,25.62,https://magiceden.io/item-details/4gYRFYWJfrnEaq4U4EEZ365XRpwBL2VdyBgPRuXEDHP2,Electromagnetic Ring,7,Spotted Turquoise,Escape Rockets,Paranoid Eyes,Alura,Useless Compass,Hungry
+3522,15.89,869,29.62,https://magiceden.io/item-details/4gYRFYWJfrnEaq4U4EEZ365XRpwBL2VdyBgPRuXEDHP2,Electromagnetic Ring,7,Spotted Turquoise,Escape Rockets,Paranoid Eyes,Alura,Useless Compass,Hungry
 3531,140,7672,0,https://solanart.io/nft/fYTuyTqRckxpEb4b9xaHtwMGZyFJwDw741Cgv6me9eB,Excess Hosing,5,Brick,,Extendable Examiners,Barada,,Pensive
 3533,26,7280,0,https://magiceden.io/item-details/F68QTMpDVTqPGvKVF2DHwvQLV6NwaUevfP55TKkGpJdu,,5,Printed,,Sullen Eyes,Targari,Aluminum Cap,Augmented
 3539,11,6539,55.84,https://magiceden.io/item-details/5sPju53AscUA8RC1ho8o69dmhgxBhraJ1Ueptr91XVKg,Spikey Space Trash,6,Brick,,Sullen Eyes,Targari,Aerodynamic Cap,Pensive
@@ -690,7 +690,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 6459,30,3652,0,https://solanart.io/nft/8jA8LuFkmdtRwezYT6SUkgMm9LLmJqp8xQsQHERvVngu,Colonels Finery,7,Light Pink,Cooling Fan,Orbital Retinas,Martu,Decorative Boomshot,Pensive
 6462,50,9239,0,https://solanart.io/nft/CxAiGyLKeH8TBZxgQm3QUzCJTeKwED426DVxJ5hNn3Dh,,4,Light Pink,,Glassy Detectors,Alura,,Hungry
 6476,60,7454,0,https://magiceden.io/item-details/7gKzeVqUJ7HyEyWY38i5enykXa5R3Wdp9b5dGFgij6qc,,5,Light Pink,,Sun Beams,Alura,Photon Harvester,Aggressive
-6478,35,5548,0,https://magiceden.io/item-details/DkuWavnTiAfz7oPf4qwHzntxJuwi7juRbJp4uyrNgGpc,Excess Hosing,5,Orange,,Reptilian Gazers,Martu,,Augmented
+6478,22,5548,0,https://magiceden.io/item-details/DkuWavnTiAfz7oPf4qwHzntxJuwi7juRbJp4uyrNgGpc,Excess Hosing,5,Orange,,Reptilian Gazers,Martu,,Augmented
 6495,100,835,0,https://solanart.io/nft/3Nvq26FcE8D5Qeud4xZvMB28Cc3YfMB5788JdA6Th1ru,Augmented Exoskeleton,7,Spotted Turquoise,Cybernetic Recorders,Haunting Slits,Targari,Grabber,Fanged
 6497,24,7914,0,https://magiceden.io/item-details/USRkykgJy7eZXCbAykvqXgp2k9AhQg27E2V767YGqJU,,4,Spotted Turquoise,,Plasmatic Array,Targari,,Aggressive
 6500,1000,6729,0,https://solanart.io/nft/DaX8pXAgPSxuYMqK6AZiKTZgiWY186Um9UftHswFF6yd,,5,Spotted Turquoise,,Plasmatic Array,Alura,Automatic Rocket,Aggressive
@@ -823,7 +823,6 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 7663,14.99,5423,20.41,https://magiceden.io/item-details/7RQ4RQ3GVetbHUD8oXCdfi1NudSNqV6B2BKHBABWAsHT,,6,Orange,Decorative Bolt,Spectral Auditors,Alura,Signal Deflector,Wise
 7683,17,2583,11.67,https://magiceden.io/item-details/HTZqx2JtM65vYL3vrY37X8GnMzpSMerCKqf9N6ZSQtTZ,Plutonic Plating,7,Spotted Kiwi,Viral Implant,Orbital Retinas,Targari,Lunar Replica,Pleased
 7714,30,4960,0,https://magiceden.io/item-details/Eb7yyQz1HPzZaSTxWNDE6yjoXX9qwZiFkPjZGE6bKJDp,,6,Striped Blue,Ionic Flux Inhibitor,Gilded Lenses,Barada,Plasmatic Guzzler,Hungry
-7719,10,3207,79.17,https://magiceden.io/item-details/HRxyDERksuHRCKxX3XZaggX5s4eaC4u9yKs4BTdijVoK,Pedestrian Trappings,7,Light Pink,Prismatic Capacitors,Villainous Visor,Targari,Aerodynamic Cap,Pensive
 7731,18.5,1208,2.17,https://magiceden.io/item-details/HmBRWKdWw4fQbFtjUpmQYVBnXmWFcrnL9kj4Lt7LoeUQ,Autonomous Carapace,7,Orange,Miniature Geckos,Plasmatic Array,Barada,Grabber,Fanged
 7751,16.97,4071,6.01,https://magiceden.io/item-details/8v5otxin3DuwxCefvUNbyUYqzY21khkMC2RFMChBoBp2,Collapsible Tubing,6,Spotted Kiwi,Pulsing Sizzlers,Spectral Auditors,Barada,,Toothy
 7764,20,5915,0,https://magiceden.io/item-details/FSwPxcZPB4x8QgBX1jfLoHCwHRDGkZxoCB2zuF4ahT6u,,6,Brick,Cosmic Gas,Spectral Auditors,Martu,Electric Doodads,Pensive

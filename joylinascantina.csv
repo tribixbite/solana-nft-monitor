@@ -18,7 +18,6 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 620,0.4,6859,69.96,https://magiceden.io/item-details/7TPxYye1eaq4vQXDJAHmpECdwEicAqHrrm5JDn2nVsnM,Sam Rowan,Uncommon,Urbert Plove,1,1,3,3,None,Normal,10,None
 634,0.33,2017,90.1,https://magiceden.io/item-details/8CgGGVfZr1RJ2JP3wX3sxZrDDVca1viKR6QUWZnT3ofW,Ben Kovar,Uncommon,Exomundi,3,1,5,1,None,Normal,12,None
 664,0.2,6260,74.36,https://magiceden.io/item-details/Fb3WqdKp1TUcoXPdHupaqLVQRKEpFntAcy71V7D69q7M,Sam Rowan,Common,Calphra Torent,2,1,1,3,None,Normal,8,None
-686,0.19,5432,77.79,https://magiceden.io/item-details/TUg8U5QbdVRbrx7zCCQ8uG1yHn2yWs7Gcxnw6GyQ6Tj,Sam Rowan,Uncommon,Tanks And LEOD,2,5,1,3,None,Normal,13,None
 721,0.55,9193,59.08,https://magiceden.io/item-details/DNaSmrFfxcD8EhsSq2TFJ42FMbrwm95ALqJqy7Le5m2d,Sam Rowan,Common,Iye And Spye,2,2,1,4,None,Normal,10,None
 738,2,7234,52.45,https://magiceden.io/item-details/FgCeArwRybvVQfJ4Mucf3xcE2GTJALR8xayEv9pq2sFe,Sam Rowan,Common,Cougana The Widow,5,2,1,1,None,Normal,10,None
 752,1,1726,84.57,https://magiceden.io/item-details/FiXfi5U2KxWkLCTLp5qTFSZVDCAAVZJxvMMUXPLCukiy,Sam Rowan,Legendary,Hephaesta Beaba,1,4,3,5,None,Normal,17,None
@@ -100,8 +99,6 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 2529,10,1401,0,https://magiceden.io/item-details/CRFVbrujuLTuLAFb5wUpboS3GEwieL73DnVziGntHpRs,Yoan Vernet,Rare,Frog Boy,1,4,4,2,None,Normal,14,None
 2538,1.25,2115,80.51,https://magiceden.io/item-details/7DmaBhUfdVPAAtMhizsovjQqBmNkiFw28KarcUwG6hBd,Marby Kwong,Uncommon,Nyandayo Nyan Nyanko,2,1,3,5,None,Normal,13,None
 2563,0.3999,1609,91.04,https://magiceden.io/item-details/4RGJAidq8PfA886tNkcfaK7DnPaDcrsBJKG2UxjNsBK3,Sam Rowan,Common,Kysseme XO,2,1,1,1,Drink,Normal,7,None
-2605,0.5,5717,73.54,https://magiceden.io/item-details/FJXfQiw1pNDrhFm2bn9cbPZ4BW3TomKu86DrN9YVQHJV,Sam Rowan,Rare,Gribbles,2,2,2,4,None,Normal,13,None
-2615,0.25,4959,79.09,https://magiceden.io/item-details/5GWy2HrU6F3xghim9Xj6Ukmj6fgCXkF7Ny76ngvpWfjk,Sam Rowan,Uncommon,Zendon Zezz,3,4,2,4,None,Normal,15,None
 2619,20,6,0,https://magiceden.io/item-details/6LfgrbySwAhfqakVhY4F9RszFfkPA3HuaRUpsiduJkiS,Thomas Du Crest,Legendary,Veduur Draestu,5,5,5,5,None,Normal,24,Signed
 2635,0.4,3841,82.08,https://magiceden.io/item-details/3dvWhdDBTDgPbx5tnmnzTf2QHwameTwtTAKRnjrKGxQJ,Sam Rowan,Uncommon,Melayny Cholya,5,5,1,3,None,Normal,16,None
 2708,0.4,7375,67.88,https://magiceden.io/item-details/3JdvY4NAHpUBTcbGm9GVWkP3qcnpB7sT24TcsSsqp3dz,Sam Rowan,Common,Urbert Plove,2,5,1,3,None,Normal,12,None
@@ -292,7 +289,6 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 6744,0.68,1822,87.38,https://magiceden.io/item-details/H1cbsrRjJajpbJ3DCijcpZSTvvbbpdWFXQRQdU1E47WV,Ben Kovar,Common,Exomundi,1,2,1,2,None,Normal,7,None
 6830,0.8,9104,56.94,https://magiceden.io/item-details/535ut1qVm3qwZyeQbef3rVDiQr4xjrkBNg5X6AXGHDXt,Sam Rowan,Common,Calphra Torent,1,3,2,3,None,Normal,10,None
 6875,1,2351,82.06,https://magiceden.io/item-details/Bkvf2RFM2sE3D13z86D7iJwEpUjJdiPQG5Y4w2q3o6JU,Sam Rowan,Uncommon,Jeff Squeeler,2,3,4,1,Bell,Normal,13,None
-6898,0.59,3226,82.65,https://magiceden.io/item-details/fpzxf9NJA9ya3AbrX332RxCtmYYUFPEJpZeErmbg3hH,Sam Rowan,Uncommon,Jeff Squeeler,4,4,3,5,None,Normal,18,None
 6951,2.1,1227,75.57,https://magiceden.io/item-details/DjPQoNhF7AV1Rcm69TcfBu5Af89sGofa2nSUEUiZ4LQs,Sam Rowan,Rare,Hermin The Creep,5,3,5,4,None,Normal,20,None
 6980,0.2,7088,71.04,https://magiceden.io/item-details/DFtrUG95SDYPDCePvWqvuzx9qRXkf21h8XboyhfuAmuX,Sam Rowan,Uncommon,Credibo And Gorgeon,4,1,3,2,None,Normal,12,None
 6991,4,911,57.84,https://magiceden.io/item-details/6zK5LwVgQpzyBuXdUMoKNEUoXQXo5MsM4e5nZXiVyEwi,Sam Rowan,Rare,Rex Star Steveson,1,2,4,5,Food,Normal,16,None
@@ -333,7 +329,6 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 7766,0.5,6079,72.09,https://magiceden.io/item-details/HYvp6cS7QyYqjuYnh293CpqZBtTS6Zw4FwvUjXyTbjSG,Sam Rowan,Uncommon,Jeff Squeeler,4,3,3,1,None,Normal,13,None
 7782,2,1218,76.61,https://magiceden.io/item-details/AQUyujRphxV2BoYdyDFYsC8hE1rJsiTxAYvLatsHkiMo,Sam Rowan,Rare,Roador Synnix Blu,1,3,3,4,Food,Normal,15,None
 7790,1.7,4716,65.56,https://magiceden.io/item-details/DhPrafMkStnsq3YV2bd5FjASNpE58bYaE63REsXuuX6s,Sam Rowan,Rare,Roador Synnix Blu,2,4,4,1,None,Normal,14,None
-7794,0.2,4989,79.47,https://magiceden.io/item-details/E8BFpHeRsyUP8Pqwv3V4LUZBPN3VcF3t1kHhaZ9dftck,Sam Rowan,Common,Tanks And LEOD,4,2,3,5,None,Normal,15,None
 7808,0.3,1995,90.49,https://magiceden.io/item-details/EeddXfmqW2z6nXdzMShnzkX8aMvTn2YpA2QLV5dtZwX1,Marby Kwong,Common,Nyandayo Nyan Nyanko,2,1,1,2,None,Normal,7,None
 7810,0.8,4639,74.87,https://magiceden.io/item-details/piDCqTimYPDJUtbMTEKpTyyJZgufT1Qa2MdSdyeec53,Sam Rowan,Rare,Roador Synnix Blu,3,2,3,4,None,Normal,15,None
 7815,0.54,4043,79.86,https://magiceden.io/item-details/ASnjKLppdwz3d19pmL7P77rPX79rWZ891cJCfqysRXEk,Marby Kwong,Common,Nyandayo Nyan Nyanko,3,3,2,3,None,Normal,12,None
@@ -390,7 +385,6 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 8883,0.5,3363,83,https://magiceden.io/item-details/A9H3XxQ1s1T8aUQhBq1m7QwT8Bok5J6wpFj3K9kNJoWF,Yoan Vernet,Common,Frog Boy,2,2,2,5,None,Normal,12,None
 8906,0.24,3635,84.5,https://magiceden.io/item-details/yBCCx5DW4D9R6rDWesiCicmB35FtWo24v2sHYtgAXij,Yoan Vernet,Common,Frog Boy,1,2,3,3,None,Normal,10,None
 8920,0.65,3470,81.07,https://magiceden.io/item-details/rTLWfkjpXbKGxphetnCJJm4RWnAgwcekkdXs9DLuQH5,Yoan Vernet,Common,Frog Boy,1,3,2,2,None,Normal,9,None
-8933,0.8,1399,87.88,https://magiceden.io/item-details/2HiBdybRVhMMLJzJiqAsSQGDjeHFfVmmyiqPzGcPJSjX,Sam Rowan,Rare,Jeff Squeeler,4,4,5,4,None,Normal,20,None
 8939,1,6918,63.72,https://magiceden.io/item-details/6zRAVBBhb9oAfsJdYKmXrMuA8Ppq1ebdZx7JhfN52Tgc,Sam Rowan,Common,Urbert Plove,1,1,5,2,None,Normal,10,None
 8953,0.56,9821,56.46,https://magiceden.io/item-details/ArTZoXHwguybNw57TSqZgfXFDwcc2knnpxZvG4GQpNvH,Sam Rowan,Common,Zendon Zezz,2,4,2,2,None,Normal,11,None
 9016,0.5,4507,78.4,https://magiceden.io/item-details/FVwkMpVWG7RBbVKPeNcMvF3LBoPhSErCMFpDeZbLa1CP,Sam Rowan,Uncommon,Urbert Plove,3,4,1,5,None,Normal,15,None
