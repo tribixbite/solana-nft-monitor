@@ -67,6 +67,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 1068,6.69,9255,13.37,https://magiceden.io/item-details/4UnjgFjCeaMA8sezADJ2bRriZMVqaR67ZJFRDvWtrVRq,Pink,Retriever,White Soul Dogs Tee,Lab Glasses,Brown Straw Hat,Closed Mouth,None,Common
 1081,4.5,6224,47.4,https://magiceden.io/item-details/4ZEzm7R6i9iCkD1zPEsR3pucfvyVtJ8KLjonzadhyVMq,Pink,Beagle,Purple Tee,Happy,White Backward Cap,Beer Can Boi,Black Bowtie,Common
 1127,2.49,7862,60.95,https://magiceden.io/item-details/GkxFHD6uEFeYFNggTdNvM7gPfXLJQUoTGrHceaRNn169,Yellow,Collie,White Soul Dogs Tee,Closed,Blue Bow,Tongue Out Side,None,Common
+1144,30,2832,0,https://magiceden.io/item-details/6ccKQjTVzixcV9hsZMr6Hoetf2XGF7DL68x3gUqUNqiN,90s Pop,Beagle,Lab Coat,Stoned Blue Eyes,Brown Straw Hat,Open Mouth,Heart Collar,Cool
 1160,40,276,0,https://magiceden.io/item-details/B6hfjMuJLeodxrHkgZdTAwYQe2yu8rvw1MWmsfm8drBh,STAT7,Alien,White Tank,Cyborg,White Backward Cap,White Bone,None,Dynomite
 1177,10,2077,8.99,https://solanart.io/nft/5sWakUksTGu8rqjTKJgPb17NQ5Bfo2EMSLQUuvzcYD3R,Purple,Collie,Black Grateful Dogs,Bored,Red Bucket Hat,Tongue Out,Probation Tracker Collar,Groovy
 1191,4,8598,42.9,https://magiceden.io/item-details/6tyEjSRi5y8rU6LZrLEsp7RFpRXNEYrbGF22F8d2yoHc,Pink,Lab,70's Vest,Drunk,Black Hippie Headband,Closed Mouth,None,Common
@@ -205,7 +206,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 3689,50,5429,0,https://solanart.io/nft/3mWc2PdnHA96JkwUmrx7pmJrmJWTLSMS8eXw415nyQTV,Psychedelic,Collie,Rebels Hoodie,Circle Sunglasses,Black Bucket Hat,Beer Can Boi,None,Cool
 3713,4.95,9509,29.76,https://magiceden.io/item-details/G4S1DDk3fyqNkm8qWeCJmRBtjaaCXyfbiPDuxqQJKJmD,Red,Collie,Black Solana Tee,Stoned Blue Eyes,None,Open Mouth,None,Common
 3729,5.5,5946,38.51,https://magiceden.io/item-details/66UM3NWCBBcDA4KEGNZ9JPwwmQSiTaSnyMtiVmcQDepz,Red,Hound,Purple Tee,Laser Eyes,White Backward Cap,Open Mouth,Black Collar,Cool
-3769,1.85,8323,65.5,https://magiceden.io/item-details/GqsQcpPiUyesGoLeTcFH9pd2H9WSAZfUr8cCotRv7L8B,Purple,Dalmatian,Blue Hawaiian Shirt,Closed,None,Closed Mouth,None,Common
 3835,5.99,1069,53.12,https://solanart.io/nft/9TEMSMcWSyGBoqQrm55to5eynjGEDbkmkwo7dHFCNdpx,Scooby Groovy Green,Hound,Black Grateful Dogs,Pilot Goggles,White Backward Cap,Tongue Out,Black Power Necklace,Fly
 3880,17,1836,0,https://magiceden.io/item-details/A3wuXzz5c6dhj2Bourre1gVwC9mavn1vNVPny9PZ38tK,80s Rock Lightning,Retriever,White Tank,Stoned Blue Eyes,Yellow Cap,Tennis Ball,Swirl Guitar Pick Necklace,Groovy
 3880,17,1836,0,https://solanart.io/nft/A3wuXzz5c6dhj2Bourre1gVwC9mavn1vNVPny9PZ38tK,80s Rock Lightning,Retriever,White Tank,Stoned Blue Eyes,Yellow Cap,Tennis Ball,Swirl Guitar Pick Necklace,Groovy
@@ -231,7 +231,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 4385,3.33,3393,70.43,https://magiceden.io/item-details/8n8mYUywxfvkhPfd6B4uyVGdNqL5q2zzRkZkb3FGkhiu,Green,Beagle,White Soul Dogs Sweater,Drunk,Woofer Beer Trucker Cap,Closed Mouth,Disco Ball Necklace,Cool
 4404,8,389,35.74,https://magiceden.io/item-details/BWdsHJd1ZpVqjTYFLyGZNuBuZA838GMHFxHKHcwkNziz,Scooby Groovy Green,Hound,Black Soul Dogs Tank,Terminator,White Pimp Hat,Tongue Out Side,Black and White Bandana,Fly
 4409,4,2986,65.35,https://magiceden.io/item-details/9Sk5KXx1NyNUkMp8GfPTrAzaDTgPJ7zMmzKRs9DGN7Aa,Blue,Lab,Black Solana Tee,Drunk,Red Cap,Pipe,White And Black Bandana,Cool
-4431,2.95,2813,76.55,https://magiceden.io/item-details/7wYrqMrM7nEr24fVAd8W8jrNYUwPuKUwN14XuNn44sBi,Yellow,Retriever,Blue Hawaiian Shirt,Eye Patch,Blue Bow,Tongue Out,White And Black Bandana,Cool
 4437,2.98,3299,74.3,https://magiceden.io/item-details/qbPShzQ1ovXuGe1NsbrpebqRYDuHETRLqjCrtnWGmTt,Red,Beagle,Rebels Jersey,Angry,Uncle Sam Top Hat,Tongue Out Side,Junk Yard Chain,Cool
 4470,9.6,1591,14.93,https://magiceden.io/item-details/4DoARF5Wr5HqpgrsxVRsQUGqNDF9XUePDz3x3fVGvxjT,STAT7,Beagle,Blue Overalls,Sus Look,Yellow Pimp Hat,Kiss,None,Fly
 4484,5,5324,46,https://magiceden.io/item-details/FPZvGedNxpgCMZPt62L5auELpZGismuPfDZYb4f1bGmZ,Yellow,Dalmatian,White Hoodie,Closed,Black Cap,Kiss,Junk Yard Chain,Common
@@ -310,7 +309,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 5681,2.1,8232,63.37,https://magiceden.io/item-details/CeKqUe2nLgKkjMF6xis1BYoGybZ9T6kqny2PyTRZi93r,Orange,Retriever,Black Overalls,Bored,Bookie Visor,Kiss,None,Common
 5702,1.95,6270,72.71,https://magiceden.io/item-details/GtC5aoUEcgE21zQSrsbB1wSE1N83XTzczrxsKG69RRBa,Yellow,Lab,Black Overalls,Bored,Retro Headband,Open Mouth,Black and White Bandana,Common
 5711,5,8215,34.43,https://magiceden.io/item-details/sGs6fFRb7iu3Wf5dkkuTXLpLy8Jexm2jGLQA4dPyqF9,Green,Lab,Blue Hoodie,Sus Look,Red Bucket Hat,Closed Mouth,None,Common
-5714,4.2,5444,53.52,https://magiceden.io/item-details/9BiHoKiAqWwwUHSJdgGFDmqo6ZVAfsivaHhDmKhyNYbc,Pink,Shiba,Tie Dye Tank,Stoned Blue Eyes,Black Bandana,Joint,None,Cool
 5748,5.1,3027,54.19,https://magiceden.io/item-details/FpJnpNa473sG42miq1sfSM1LZmtn3FJ13LUfZgwoxPw3,Blue,Collie,Rebels Jersey,Monocle,Black Backward Cap,White Bone,White Bowtie,Cool
 5749,100,8320,0,https://magiceden.io/item-details/3SCyYJuPnxq5YWt4etA2R7PJW3N59ZejX2n2V6Ffj8sK,Green,Hound,Plain White Tee,Aviators,Woofer Beer Trucker Cap,Tongue Out,None,Common
 5758,4,2316,68.03,https://magiceden.io/item-details/F1MFqgKf6aNEfove9atD7PYxfC15uC1P4z2e1dc3XRYU,Pink,Retriever,Black Solana Tee,Cute,Blue Hippie Headband,Drunk Drool,Doggy Bandana,Cool
@@ -326,7 +324,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 5953,3.23,1886,77.45,https://magiceden.io/item-details/7i6Te89PTzBfwA9F7tXk1b4uYLau9PtWgfREiAzcRfAi,Scooby Groovy Green,Retriever,Rebels Hoodie,Circle Sunglasses,Red Headband,Tennis Ball,Black Bowtie,Cool
 5981,6.6,1274,46.2,https://magiceden.io/item-details/54Nsxgd11yBDCs9VyvyhNfTLCn19LMyQjSCT7ssERgGU,Miami Vice,Collie,Plain White Tee,Monocle,Yellow Bow,Kiss,Disco Ball Necklace,Groovy
 5988,2,8827,61.98,https://magiceden.io/item-details/6NDBoHGye3h5GveBNdmZfTr9rWDmpiuLqQjeCjYb6Li3,Red,Shiba,White Soul Dogs Tee,Closed,Black Backward Cap,Tongue Out,None,Common
-5992,5,3542,53.13,https://magiceden.io/item-details/Hsw8vcV6UsEzVgVwstkcgyjSUnCvjZ7LVPpiXYSuKgRg,Purple,Retriever,Rebels Hoodie,Pit Vipers,Black Bandana,Gold Nose Ring,None,Groovy
+5992,4.5,3542,58.13,https://magiceden.io/item-details/Hsw8vcV6UsEzVgVwstkcgyjSUnCvjZ7LVPpiXYSuKgRg,Purple,Retriever,Rebels Hoodie,Pit Vipers,Black Bandana,Gold Nose Ring,None,Groovy
 6004,5,3357,53.87,https://magiceden.io/item-details/DmHb4dx1QpAEbaJGawFVWheq2yNHRAQn1KwDordSHhY4,90s Pop,Retriever,None,3D Glasses,White Bucket Hat,Tongue Out,None,Groovy
 6097,1500,8166,0,https://magiceden.io/item-details/EkQ9a41bXpc5H6BQX4L5UytHGAKTvg1kDxqChMsy9pWT,Green,Beagle,Black Tee,Bored,Black Bandana,White Bone,None,Common
 6100,2.5,5039,72.14,https://magiceden.io/item-details/GAv18wmZbQ6dzSzY6NTSmYuj7NssXj1pRKHnEtMcD2v4,Green,Collie,None,Sus Look,Brown Explorer Hat,Closed Mouth,Black Collar,Common
@@ -355,7 +353,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 6415,4.3,2337,64.95,https://magiceden.io/item-details/EWKaupxF2cDYcfeMRzDSSiSb8H5i67eKM65grHbaaHtg,Psychedelic,Beagle,White Soul Dogs Tee,Stoned Orange Eyes,White Backward Cap,Open Mouth,Ruby Bolo Tie,Cool
 6446,3,5325,66,https://magiceden.io/item-details/DE1kmtwy3pB6jSib2DygnQk5rpF3FvaZJ3whUudYFTZt,Orange,Collie,Rebels Hoodie,Stoned Blue Eyes,Woofs World Trucker Cap,Chewing on Straw,Doggy Bandana,Common
 6454,9.5,4341,4.93,https://magiceden.io/item-details/7ECg7dnPLrhrpjKhKrFKDPgjCU7zvqG7voHMoCAZrWe7,Miami Vice,Shiba,White Hoodie,Happy,Brown Straw Hat,Tongue Out,Bone Necklace,Cool
-6461,1.73,9487,62.04,https://magiceden.io/item-details/G2rxSaso2m7p9AEX3SCoMAbn8ZzYvqLr2eRL8DPfth2B,Yellow,Collie,None,Stoned Blue Eyes,White Bandana,Chewing on Straw,None,Common
 6488,17,2120,0,https://solanart.io/nft/9D4MSH6MxakVoNBL36X2PJASCfstcP8uoMRtfmdHmjur,Pink,Collie,White Soul Dogs Tee,Laser Eyes,American Flag Bandana,Open Mouth,Swirl Guitar Pick Necklace,Groovy
 6492,65,1079,0,https://magiceden.io/item-details/7MkAuM5WirCzFF8neJeDoNsRjRLDJt7qLRC7SV4e9YRG,90s Pop,Hound,Dogidas Vintage Tank,Bored,Red Headband,Kiss,Chain Link,Groovy
 6493,3,2653,76.69,https://magiceden.io/item-details/4zHBqsfwJCeTGPuZ7L9A3Qn2yFsqpxQZbdSCSy8FGyjW,Scooby Groovy Violet,Retriever,White Soul Dogs Sweater,Happy,Black Cap,Silver Nose Ring,Ruby Bolo Tie,Cool
@@ -374,7 +371,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 6733,50,53,0,https://magiceden.io/item-details/8j4SaSw126Q5yq95J6YASG6nRY4R7Mq1i8VMBXPtUmVu,Yellow,Collie,Dogidas Blue Tracksuit,Sus Look,Yellow Rock Idol,Drunk Drool,Egyptian Beetle Necklace,Dynomite
 6739,30,763,0,https://magiceden.io/item-details/4sCEfzADWwF771EqkJpktuCLbnhUb9LvCRT7BR1AFvp7,Blue,Alien,None,Cute,Black Bandana,Tennis Ball,Chain Link,Fly
 6746,8.54,1956,24.07,https://magiceden.io/item-details/DcjBYUBN4DUk2kgrVv6sbHusdRD4yqVKtC1UjvCZzHi5,STAT7,Retriever,None,Happy,Blue Bow,Pizza Boi,Chain Link,Cool
-6753,9.999,1161,12.67,https://magiceden.io/item-details/4hVNrorhsm4aZzykuasEv84WY5Vcby6iXYKRhkmMjECX,STAT7,Hound,Blue Overalls,Cyborg,Native Pattern Bandana,Cigarette,Black Collar,Groovy
+6753,6,1161,52.66,https://magiceden.io/item-details/4hVNrorhsm4aZzykuasEv84WY5Vcby6iXYKRhkmMjECX,STAT7,Hound,Blue Overalls,Cyborg,Native Pattern Bandana,Cigarette,Black Collar,Groovy
 6755,1.8,9968,59.42,https://magiceden.io/item-details/3jmvUZAAtrK3fWbaeLWJ7h1NwTCuimAuaF26k3bHJNmq,Blue,Retriever,Rebels Hoodie,Happy,White Bandana,Tongue Out,None,Common
 6763,2.49,5971,68.51,https://magiceden.io/item-details/5CjFAhpHdFiXitmY3PCu1TXh6a1Q27UwYwm6ya6iAavK,Blue,Collie,White Soul Dogs Tee,Happy,Yellow Bow,Kiss,Doggy Bandana,Common
 6779,6,7223,28.4,https://magiceden.io/item-details/DCvQSxtMFt3FSPox14P3NfLBs3D1B8Pv6xFUg5M58c7r,Purple,Retriever,Purple Tee,3D Glasses,White Bandana,Tongue Out,None,Groovy
@@ -483,7 +480,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 8412,3.4,8689,48.54,https://magiceden.io/item-details/ENuuQY1ha9XE81vZdnu6UvGtpMJaog7ZzNxPw86NAcBv,Pink,Hound,Purple Tee,Flower Print Glasses,White Bandana,Closed Mouth,None,Common
 8417,7999,2096,0,https://solanart.io/nft/HDM8BwfdBZm9peDTwYUuQHQ2kkV8XBZcW64ix1zDness,Yellow,Retriever,Silk Shirt,Laser Eyes,Purple Pimp Hat,Cigarette,None,Fly
 8419,3,6709,60.46,https://solanart.io/nft/DVdQLUk2o8k8o2HugtxLpNkAYVAJExhetGag4DftNYzk,Yellow,Retriever,Rebels Hoodie,Stoned Blue Eyes,Black Mullet,Tongue Out,Black Bowtie,Common
-8421,11.25,1792,0,https://magiceden.io/item-details/3dK3iEazg2o3mQCpepz6veJBSBdWkpoSJHqHxRq7iGMX,Yellow,Solana Special,White Soul Dogs Sweater,Happy,Retro Racing Helmet,Pizza Boi,None,Fly
+8421,7.45,1792,35.63,https://magiceden.io/item-details/3dK3iEazg2o3mQCpepz6veJBSBdWkpoSJHqHxRq7iGMX,Yellow,Solana Special,White Soul Dogs Sweater,Happy,Retro Racing Helmet,Pizza Boi,None,Fly
 8433,3.8,5344,57.92,https://magiceden.io/item-details/HzRsG2MirNrnnFBT6yAPP2m44gELMXUwobsPRvVdcLLW,Low End Theory,Collie,Purple Tee,Angry,Red Cap,Yellow Frisbee,None,Cool
 8455,4,6005,53.28,https://magiceden.io/item-details/EL3CJjZrZCkziNdCoRxQ2uWohCvP5EnDPon339Fq2a4u,Orange,Beagle,White Hoodie,Stoned Blue Eyes,White Pimp Hat,Open Mouth,None,Groovy
 8462,3.3,4138,67.74,https://magiceden.io/item-details/3n1AMdL6X9xj7oW8HUS3LpDrZEYcKNut7vEVdDtgEJ5D,90s Pop,Retriever,Rebels Hoodie,Monocle,Black Cap,Open Mouth,Turquoise Bolo Tie,Cool
@@ -559,13 +556,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 9620,4.99,9232,30.46,https://magiceden.io/item-details/EkPBJ5SSBFvTPcxNf7tWwWA54Un2igFYr65hpSpdWRRQ,Green,Lab,Purple Tee,Lab Glasses,None,Open Mouth,None,Common
 9630,150,6036,0,https://solanart.io/nft/GWVPn4A7HR8DrKgh3HukXigjCV6KLDqFQpcs4Unf5HSy,Pink,Collie,White Soul Dogs Tee,Drunk,White Bandana,Drunk Drool,Black Bowtie,Common
 9642,1.8,7261,70.25,https://magiceden.io/item-details/F9VScoEXc3bXi2MNJ447bK6331Z6tuBq32yM53X4WFxf,Yellow,Lab,Black Tee,Happy,White Bandana,Closed Mouth,Emerald Green Bolo Tie,Common
-9656,4.2,2972,63.41,https://magiceden.io/item-details/4DVNQVZGH9JZtVKgAAatXhXrrc7jxyBpgHqcEHvT8GEA,Purple,Dalmatian,Dogidas Black Tracksuit,Stoned Orange Eyes,Black Racing Helmet,Open Mouth,None,Cool
 9674,9,9407,0,https://magiceden.io/item-details/5WbUY3gbypSr28PVvmxo3NuXDNuVG1sBN3JQHVymsBHZ,Red,Retriever,White Soul Dogs Sweater,Drunk,Black Hippie Headband,Closed Mouth,None,Common
 9683,1.78,9355,62.07,https://magiceden.io/item-details/FKfgqV5rG7eQSvYLALW7sGWbZ7unJVJPUFjvUf3K6mSv,Purple,Shiba,Black Grateful Dogs,Drunk,Blue Hippie Headband,Open Mouth,None,Common
 9704,17,126,0,https://magiceden.io/item-details/2bzYop3QRse6CUBo9TPiWE872n6WGHK1HNspPYKnZzZm,Green,Beagle,Black Solana Tee,ETH Glasses,White Bandana,Rainbow Grill,White And Black Bandana,Dynomite
 9709,5.95,1846,50.41,https://magiceden.io/item-details/CwQVN5bcryA1TkXubU6zqrynWeXymUAkm7Kzt7itzA1K,Orange,Lab,Guitar Boi,Aviators,Black SDC Cap,White Bone,None,Fly
 9713,2.49,5757,69.37,https://magiceden.io/item-details/J2wEU3RNgiWoWo81w3sGZz8YQxGW53PLndM1VqGncxHq,Green,Retriever,Blue Overalls,Aviators,Pink Bow,Open Mouth,White And Black Bandana,Common
 9715,2.7,2063,82.05,https://magiceden.io/item-details/47PeQsLMkvk6TnXAWTgp1RW3WDUPaJsQ9qCbeJtJrEHo,Purple,Hound,Silk Shirt,Pilot Goggles,Woofs World Trucker Cap,Cigarette,Black Collar,Cool
+9719,2,5065,77.04,https://magiceden.io/item-details/4UQo5Viync3Edmtijry1HdqmMe7WQoNW7s96xEyHMhyB,Low End Theory,Hound,Blue Overalls,Stoned Orange Eyes,Black Mohawk,Tongue Out,None,Cool
 9731,2.22,7380,65.57,https://solanart.io/nft/AqYcNArL9rjKLMy8N3ofk65gxV4fSEWxfK9aVQ63eEu1,Red,Hound,White Hoodie,Drunk,Yellow Cap,Closed Mouth,Heart Collar,Common
 9744,4,3613,62.85,https://magiceden.io/item-details/4kw29AeVDsHtvrcWx9e6SQwBCLtwyjRukx7BEf3GhvmF,Psychedelic,Shiba,Black Tee,Laser Eyes,Black Bandana,Closed Mouth,White And Black Bandana,Cool
 9763,5,7511,37.25,https://magiceden.io/item-details/CeGAEBdRnjYb8RHKmcYnKGuR3z4s57XzQMK9ycHc2dhe,Red,Lab,Blue Hoodie,Drunk,White Bandana,Tongue Out,Gold Chain,Common
