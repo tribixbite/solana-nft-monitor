@@ -150,6 +150,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 1471,4,2381,56.88,https://magiceden.io/item-details/3Z9MZKeTYGAJqFipH3ooKqfoA8yBN87wgMjMwweDykMD,Purple,Sweat Short Flames,Angry Eyes,Aviator Glasses,Red Beanie,None,None,Golden Babolex,None,None
 1471,14.71,2381,0,https://solanart.io/nft/4QcxPrjMPvSNFtjprrzTKaMxCUd9CGRS3fkwNQG6tiwP,Purple,Sweat Short Flames,Angry Eyes,Aviator Glasses,Red Beanie,None,None,Golden Babolex,None,None
 1493,13,811,0,https://solanart.io/nft/47V5oVNbw426L64d92JfmE2Ez4LEmgmpMdvvHy4p7Xo3,London,Purple Suit,Angry Eyes,Black Glasses,Bandana,Bow Tie,None,Solana Babolex,None,None
+1523,36,2382,0,https://solanart.io/nft/9uVvppBc8wSubk75tnAr7A1Ug22K5U9Rk9JhrkXmMmwn,Blue,Sweat Short Blue,Base,Disco,Pirate Hat,None,Silver Piercing,Chrome Babolex,None,None
 1532,19,2885,0,https://solanart.io/nft/NjM8L4xKfxq67w8ENPGRHnnC1LMjNP2qHHH3au72ow9,Blue,Fighter Black Red,Base,None,Rare Crown,None,None,Alien Babolex,None,None
 1536,25,767,0,https://solanart.io/nft/8D7wXDMsMkDEfutW61dyq8MBMgVGc1hRjaVXv9W8bKpv,Volcano,Pyjama,Sad Eyes,None,Green Cap,None,Silver Piercing,Chrome Babolex,Gold Tusk,Double Rolex
 1550,3.5,2585,59.98,https://magiceden.io/item-details/7C5TCYcaNFtHPMjA9c4C7Uu4mt4fryQLKMQ5T1L1eYyF,New York,Anorak,Base,Rayban,None,None,Rings,Alien Babolex,None,None
@@ -416,7 +417,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 3955,28,2383,0,https://solanart.io/nft/96XzXKGfdMtrXB48axx2ffutLoUwp8BUMLeNGCRXSAfx,Jungle,Standard Green,Joy Eyes,Rayban,None,Bow Tie,None,Golden Babolex,Gold Tusk,None
 3970,10,2371,0,https://solanart.io/nft/6hM3Teos1Pb7JAusxDfhR57tCYgz1YLYexpaDSb7Msi7,Chinatown,Babolex Sportwear,Fear Eyes,Monocle,None,None,None,Chrome Babolex,Gold Tusk,Crown Bracelet
 3975,15,201,0,https://magiceden.io/item-details/7QU4J1vL1ueBHJ32b76D5oDYfoSrGG1MXne2wDpATHvA,Jungle,Sweat Short Blue,Dizzy Eyes,Diver Mask,None,Crown Chain,None,Zombie Babolex,None,Crown Bracelet
-3977,6,1395,46.04,https://solanart.io/nft/915VPEwAS4RRCfyPrk4ujuCCgYLAnTtECT5dDKGZJrab,Red,Sweat Short Green Gray,Base,None,Green Cap,Scarf,Gold Piercing,Chrome Babolex,None,Gothic Bracelet
 3979,18,982,0,https://solanart.io/nft/G19afezfFeqAvujK9g6ejqrbYrPXZ8Cukj7XsyvP4dPw,New York,Warrior,Alien Eyes,Rayban,Bowler Hat,None,None,Alien Babolex,None,None
 3989,30,2312,0,https://solanart.io/nft/DFXm61g3tJSfkVSiTHD3LCqgLchDfHcPuN26Nst3Dsxy,New York,Sweat Short Green Gray,Sad Eyes,None,Inspector Hat,None,None,Golden Babolex,Gold Tusk,Gothic Bracelet
 3999,8,3878,2.97,https://solanart.io/nft/6BsRV7vazANyikSia1wZ1mp8v2CGTAsVTCNZvSin66MF,Chinatown,Red Brown,Fear Eyes,None,None,None,None,Chrome Babolex,None,Jade Bracelet
@@ -495,7 +495,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 5789,7,NaN,0,https://magiceden.io/item-details/ADPyu2aVGTAwM2owR5kqTt2G8hg4Cd8twKj8VYCqS2Kc,,,,,,,,,,
 5876,50,NaN,0,https://magiceden.io/item-details/Cike2PHRGntu8wig1KmpwkRWiP4W7VGwdLZWX94EhcnZ,,,,,,,,,,
 King of Babolex,450,2,0,https://magiceden.io/item-details/ENmZcQXj7ReizphuiZVWz5zDTztunv1MpKSKUHZNAdfk,Paris,King,Joy Eyes,None,Rare Crown,Gusset,None,Golden Babolex,Diamond Tusk,Double Rolex
-3,2.5,1630,78.85,https://solanart.io/nft/5do1RKMfMJtQm2AjacrfMK9jU5Y49iRiuF8fEido4JQP,Chinatown,Sweat Short Orange,Angry Eyes,None,None,BTC Chain,Rings,Alien Babolex,Gold Tusk,None
 10,5,4076,31.13,https://solanart.io/nft/GHxPDjh9HBrmjurxeG61d9R7L9wm3az15vXAjEgUuYyv,Red,Sweat Short Blue,Angry Eyes,None,Red Beanie,None,None,Chrome Babolex,None,None
 20,200,1514,0,https://solanart.io/nft/5iUqVnGEdjtdKj6VsSeko1RiSBG7fUSYBF1wX5SU4zAa,Chinatown,Red Panda,Dizzy Eyes,None,None,None,Pad,Chrome Babolex,None,Crown Bracelet
 32,100,2062,0,https://solanart.io/nft/9PVsyzSqp9EnhGwSR4wtBnHtnLYMy5sp3fqBooztZofY,Paris,Blue Green,Base,Disco,None,None,Blue Piercing,Golden Babolex,None,None
@@ -605,7 +604,6 @@ King of Babolex,450,2,0,https://magiceden.io/item-details/ENmZcQXj7ReizphuiZVWz5
 1492,5,3683,34.78,https://solanart.io/nft/96FW7HgVnsdGvrjZrT9NPRLKAVHGJwgLiaUCZBiA7aHg,London,Sweat Short Flames,Sad Eyes,None,None,None,Pad,Golden Babolex,None,None
 1498,5.2,1452,53.51,https://solanart.io/nft/QyCb3GpYhxAxCy3hUA3qdSidE1zVcUG4ijty3HYk3LH,Blue,Diver,Fear Eyes,Rayban,Red Cap,None,Rings,Golden Babolex,None,None
 1518,2,2023,80.2,https://solanart.io/nft/DcXSiUC88c6vz16H2yqcTWgujS9d8PUnTz8cyVHv8Pfc,Volcano,Sweat Short Orange,Fear Eyes,None,Red Cap,None,None,Alien Babolex,Gold Tusk,Crown Bracelet
-1523,36,2382,0,https://solanart.io/nft/9uVvppBc8wSubk75tnAr7A1Ug22K5U9Rk9JhrkXmMmwn,Blue,Sweat Short Blue,Base,Disco,Pirate Hat,None,Silver Piercing,Chrome Babolex,None,None
 1525,4.5,3758,39.08,https://solanart.io/nft/HMPuLUphJ1btuVmvFkpu5zB6M7Qpw6DzTY6J3nDpGjnx,Red,Fighter White Black,Joy Eyes,None,Red Beanie,None,None,Golden Babolex,Gold Tusk,None
 1531,100,1029,0,https://solanart.io/nft/B8J9MXDKrBG24SksD7ukCrxz9UxRxtcB5V9vLFMnC9ie,Egypt,Green Suit,Base,None,Rasta Hair,None,Gold Piercing,Golden Babolex,None,Rolex Pepsi
 1554,5,3615,35.41,https://solanart.io/nft/Gpxyyypg7rq673kNfARxPF6acTCLri5ra4aTgzXTM8yE,Green,Purple Suit,Fear Eyes,None,Hay Hat,None,None,Chrome Babolex,None,None
@@ -856,6 +854,7 @@ King of Babolex,450,2,0,https://magiceden.io/item-details/ENmZcQXj7ReizphuiZVWz5
 3960,50,3078,0,https://solanart.io/nft/QmXTktXnyAWLDVJzn862Ufmq9UumnYxLrHzMKHHBK4U,Space,Hippie Clothes,Joy Eyes,None,Top Hat,None,None,Alien Babolex,None,None
 3962,100,3628,0,https://solanart.io/nft/4EvJYUJcMBxmUKNqYhpsC35iednX7QGpZLu8mPub6uVw,Volcano,Babolex Sportwear,Fear Eyes,Disco,None,None,None,Golden Babolex,None,None
 3965,5,4064,31.24,https://solanart.io/nft/AA1j2UKGQQCH2tUGKkkoV3JVn4hajHgbN2g3RD5Jcise,Volcano,Blue Green,Joy Eyes,None,Golden Crown,None,None,Golden Babolex,None,None
+3977,6,1395,46.04,https://solanart.io/nft/915VPEwAS4RRCfyPrk4ujuCCgYLAnTtECT5dDKGZJrab,Red,Sweat Short Green Gray,Base,None,Green Cap,Scarf,Gold Piercing,Chrome Babolex,None,Gothic Bracelet
 3985,45,185,0,https://solanart.io/nft/F9x6pKKd5SzBtjuE4WSKrSL7zgS4LTBo9jpnTr4UmWoe,Volcano,Sweat Short Green Gray,Fear Eyes,Rayban,Bandana,None,Rings,Ghost Babolex,None,Rolex Hulk
 3990,100,3206,0,https://solanart.io/nft/36hsexgvZuA3fY79wR6H4Ws6df7Pqyj8Td1YXwA7YRye,Green,Captain,Sad Eyes,None,Top Hat,None,None,Solana Babolex,None,None
 3996,100,3090,0,https://solanart.io/nft/GeqrQNrbWhb4zeNo31sY4LcrCEweNHyd2VwkatLseQ46,Purple,Sailor Suit,Sad Eyes,None,None,None,Silver Piercing,Chrome Babolex,None,Crown Bracelet
