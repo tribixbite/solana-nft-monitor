@@ -77,6 +77,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 1099,6,1190,51.12,https://magiceden.io/item-details/8dsnQFjeVq5SBsx6myYppr5L6Kx1Pz4rCQDXFAtkMi8F,Blue,Yellow,Fancy Sweater,Palette,Star Eyes,Party Hat,Lick
 1103,4.5,9588,32.39,https://magiceden.io/item-details/BUZTXEcvY7XVvzLSbkCh3y2pBQbs7AGYt6cPxKXi8z2o,Yellow,Salmon,Fancy Sweater,Amulet,Beaten,None,Smiling
 1146,40,1989,0,https://alpha.art/t/4JDh2uDZm1AxE6bjTQQLQ8Hfhq9BK3HA9X1R8euwu9Cf,Green,Zombie,Piggy Tee,Western,Hypnotize,Beanie,Lick
+1182,1.59,9729,60.92,https://magiceden.io/item-details/E3jT4gZD2QLbMWWYbnLu3n94jevDVj9iDnExd9pKqVVk,Green,Salmon,Singlet,None,Focused,Spiky Hair,Smiling
 1229,6,6180,31.08,https://solanart.io/nft/3qBHeQkG1vUxk4V8duFjBXNAJyMLBE32aNx1CyYacX6C,Blue,Salmon,Pink Leather Jacket,Earth,Crying,Santa Cap,Lick
 1246,3.89,5916,53.24,https://magiceden.io/item-details/B3kDKUuAgJv7pSESykPv7qecwp3QZCyvBXpXUzJcx3GQ,Green,Salmon,Red Jacket,Red Diamond,Coin,Beanie,Annoyed
 1252,4.28,3057,60.82,https://alpha.art/t/E1YtQeXyNx1ZKE4Zwj3iDdcnTPPaQuYV3LP7VjAU8TdK,Red,Pink,Pink Leather Jacket,Amulet,Coin,Party Hat,Annoyed
@@ -100,7 +101,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 1691,3.8,8929,42.04,https://alpha.art/t/DnbEpVHaoXVLNDtfbivZfUuMWS9nrBT7ZPyXCLMJt2h2,Purple,Pink,Piggy Tee,None,Hypnotize,Officer Cap,Beaten
 1695,3.88,3077,64.74,https://magiceden.io/item-details/MgGDRqJXfv8oQssmUe2oNhhmC2DK794JWDiBidFP1jB,Green,Pink,Pocket Watch,Weed,High,Fez,Smiling
 1707,1.93,5836,73.16,https://magiceden.io/item-details/AitisgH9M3MGhotdjhrELEh6y6KT3NDqdmJXQrgi4C1U,Blue,Salmon,Pink Leather Jacket,Amulet,Heart Eyes,Cowboy Hat,Bubble Gum
-1708,2,9087,59.4,https://magiceden.io/item-details/9fCuwnt9dKLmnCQFy4TrQBKst6PUXb21LJgzyEGeqHrC,Red,Salmon,Piggy Tee,Western,Wink,Mohawk Hair,Neutral
 1734,69,214,0,https://magiceden.io/item-details/Ef81ieFCQCt3MNzxbnteAWog2AEcsrhpebXF5nraaY4i,Cyan,Purple,Solana Tee,Solana,Crying,Santa Cap,Smiling
 1747,12,9959,0,https://solanart.io/nft/9a8udp33uFwszCQfTjZ8CaK7FrniFx5bsnCe7esmv2yv,Yellow,Pink,Piggy Tee,None,Beaten,Beret,Neutral
 1788,4.5,9098,34.36,https://magiceden.io/item-details/7txGAKNQ1cHVfrU8GGA8JKhkTCydUMBoXVjdrRxMAkGL,Green,Salmon,Purple Shirt,None,Monocle,None,Neutral
@@ -123,7 +123,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 1956,20,4910,0,https://alpha.art/t/65FqfZ39Pn3kasiqXD1tEVS4jMnLyEYnrkN2fdkvkCcC,Orange,Purple,None,None,High,Afro Tail,Lick
 1973,9.99,6423,0,https://alpha.art/t/HPdWamAiqCe2Stq4WMupzDXgtUzZYFYoKsnfsD3JZhFT,Orange,Pink,None,Palette,Beaten,Beanie,Bubble Gum
 2021,21,800,0,https://alpha.art/t/9HbsqcH5EkZgkkDQUNYhMABMYkaz6bNqcNiJoNDaGKYs,Green,Zombie,Fancy Sweater,Western,Coin,Afro Hair,Annoyed
-2024,2.5,2598,80.47,https://magiceden.io/item-details/CwfdaDdftz2icRLurgo7foPRPKNSQxdBinP2JFiBn56G,Red,Pink,Fancy Sweater,Gun,Star Eyes,Red Hair,Neutral
+2024,1.8,2598,87.47,https://magiceden.io/item-details/CwfdaDdftz2icRLurgo7foPRPKNSQxdBinP2JFiBn56G,Red,Pink,Fancy Sweater,Gun,Star Eyes,Red Hair,Neutral
 2026,3.03,2357,76.13,https://alpha.art/t/DZaB6VJi7vexuVqzYBPjpeTLWuxjrTSTyEW6BRC3Fvk8,Green,Pink,Singlet,Western,Coin,Ice Cream,Annoyed
 2027,4.85,7840,35.91,https://alpha.art/t/5uReyuC23aLCUoDZTUYjPAcqSeSBNmvVr43axDpoXUct,Cyan,Yellow,Singlet,Palette,Open,None,Annoyed
 2037,4.79,4195,51.15,https://alpha.art/t/3dKZWYfB7gbkQ6uZcW9KXFEmhWrHSX7Hdk1awKsXw5Ly,Green,Purple,Red Jacket,Weed,Open,Red Hair,Neutral
