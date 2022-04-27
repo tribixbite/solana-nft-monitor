@@ -50,6 +50,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Color,Eyes,Eyewea
 1145,12,5080,26.46,https://magiceden.io/item-details/DhkEP3SFs3H8Li8xwrvkgBtwhHA2sMkpUZ2DsC5JDd2x,,Neon frame,Pink,Wink,,Ethanol,Combustion,Visor,Grin 1,Standard
 1187,6.68,9495,61.99,https://magiceden.io/item-details/C187xx6mAA8MrZR2FNYbWBu2ASHrHFmZSebu5P9mStMG,,Fractal,Red,Smile,,Incense,Neon,,Grin 2,Standard
 1197,11.9,2543,37.62,https://magiceden.io/item-details/7BNrKwqarmgzJ19EvhPf4ouKyeyxNpniEDv9GjJNUNf4,Necklace SOL,Fractal,Blue,Confident,,Wood,Smoke,Marine,Grin 1,Standard
+1201,6.69,1437,94.15,https://magiceden.io/item-details/DqvKJFm9QQAYfx5mHAfszeQ1mfCtKnNUvV1QJemb7a2p,Lightsaber red,,Purple,Angry,,Gasoline,Smoke,Ribbon,Smile 1,Standard
 1209,8.5,4243,64.81,https://magiceden.io/item-details/EDfjHMGhuCJQN43Kx5eKVz3hdDLrTGYJC4oYP3rNQPeg,Necklace LFG,Hearts,Orange,Confident,,Paper,Combustion,Cap,Mustache,Standard
 1214,8.7,8142,47.2,https://magiceden.io/item-details/7tVZkSNMNiEFU4fd9B4Voj15pFszmZ9d33qAgzq12a2X,,Hearts,Blue,Smile,,Gasoline,Flare,,Bandana mask,Standard
 1314,14.33,8241,0,https://magiceden.io/item-details/ACP48sP4pSv55wWg8wuNf4KWCcxhSU4HomgcVbgf55W8,,Stars,Orange,Wink,,Candles,Neon,Witch,Angry,Standard
@@ -118,7 +119,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Color,Eyes,Eyewea
 2829,13.3,3707,18.96,https://magiceden.io/item-details/G6RTkYAuspZrZuumCJeeWadD9yNhw5MSUmqCkWJRSgeT,Katana,Stars,Purple,Smirk,,Candles,Neon,Afro,Smile 1,Standard
 2833,22.33,9359,0,https://magiceden.io/item-details/FofM1Ar8CKUnUtpxH3G6qcAGXGswiD4z2EWuFAKHons3,Katana,,Blue,Wink,,Wood,Flame,,Smile 3,Standard
 2835,12,5933,23.05,https://magiceden.io/item-details/E7xwsudmpsHhBeoDLk7WSztHEFB7LN4ubh1oaEDXqsqx,Necklace Audius,Hearts,Pink,Smirk,,Rubber,Firestorm,,Indifferent,Standard
-2850,6.7,500,97.8,https://magiceden.io/item-details/EyupE7nkeegQU3EKLqtbVnQc3cqbwoeBAvpxdoUNCaWD,,Musical,Yellow,Smirk,Pit vipers,Wood,Haze,Afro,Bandana mask,Standard
 2876,12.7,6665,13.12,https://magiceden.io/item-details/twErsMihybVSMaVCgBYSPYyHDU687BGrmmJkF8X1M5w,,Fractal,Orange,Smirk,,Rubber,Flare,Witch,Cigarette,Standard
 2901,11.99,1351,41.49,https://magiceden.io/item-details/FyQPri3P1j4qGn4hCkaCPYroefqyAhJJpbjjpqHBDvsj,Necklace WAGMI,Hexagon,Silver,Laughing,Circle glasses,Paper,Flare,Afro,Smile 3,Standard
 2926,19.97,9448,0,https://magiceden.io/item-details/39VcM3btXYZDinqpFAAPpRb81FrKDPooodn2AmnQmJqN,,,Navy,Laughing,,Candles,Smoke,,Mustache,Standard
@@ -178,7 +178,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Color,Eyes,Eyewea
 5594,13.98,6204,2.16,https://magiceden.io/item-details/C2KNqi8PSmuUFNmYiHTELSuuHDWeshMQSxMn5q3ZLgJK,,Neon frame,Blue,Wink,,Candles,Smoke,Headphones,Mask,Standard
 5600,14.949494,4870,0,https://magiceden.io/item-details/492zk1bv5Ne9QKN1UEEHgeRxutMN8z2USgD2xVHdFmnu,,Hexagon,Pink,Heart,Glasses,Propane,Flame,,Grin 2,Standard
 5604,88,9413,0,https://magiceden.io/item-details/8e5oTmAToGNS6VQUBp5k4iE4ZQi4Q27GQzAhg9xzQ2VF,,Neon frame,Purple,Laughing,,Candles,Flare,,Mustache,Standard
-5617,6.69,2193,91.12,https://magiceden.io/item-details/uYKZwNTwA6WL1EvE9xJGWeV1ebPyMY3ZpkoLZV9nT6N,Necklace LFG,Light shower,Navy,Confident,,Ethanol,Combustion,Top hat,Grin 2,Standard
 5627,14,5925,3.08,https://magiceden.io/item-details/C3tqJwszQAdsjqRpTJZWjZVLpwSE38f9YPunsvnaRhft,,Musical,Solana,Smile,,Candles,Flare,,Mask,Standard
 5645,12,257,45.77,https://magiceden.io/item-details/BLdqH59uiyo4uD37vEfm3mFaKqfhLZbvPPTFJ5nvuf14,Necklace Audius,Light shower,Pink,Laughing,,Oil,Haze,Horns,Angry,Baby
 5651,14.1,9687,0,https://magiceden.io/item-details/3PnPvYqXu7CUCxYRfZ3koD6dLU1dNz8a3ifg5v7ESA7p,,Light shower,Aqua,Laughing,,Wood,Flame,,Grin 2,Standard
@@ -360,6 +359,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Color,Eyes,Eyewea
 9733,8.6,5048,60.59,https://magiceden.io/item-details/3izYWBFEkZVZTFG18sQASwoPo3f6pwuS1NnjomtYWbN9,Necklace WAGMI,Light shower,Green,Confident,,Gasoline,Firestorm,Witch,Laugh,Standard
 9783,8.6,9974,40.87,https://magiceden.io/item-details/DpHb4EAhSee3Rcu2BW9rqR9DmfFPh8TTKKdn3vFnAgJU,,,Pink,Smile,,Rubber,Flame,,Grin 2,Standard
 9842,6.7,3715,84.93,https://magiceden.io/item-details/H2n9Jfy3nw4xVV22tGXoX8YiHNiiLrRz2q19yrQdAgqu,,,Red,Laughing,,Oil,Flare,Cyclist,Fire breath,Standard
+9879,9,764,73.74,https://magiceden.io/item-details/5XjxRQ8vKJw6uAH2pZdeyvLQLcgXPdHJzAAbvPYQP59p,Lightsaber red,,Purple,SOL,Sunglasses,Ethanol,Smoke,Afro,uwu,Standard
 9890,18.8,43,0,https://magiceden.io/item-details/HWhhErqEqPNtDB3NS6tRJA6PqZxDpsNXySwyAxTjJSyx,Necklace SOL,Hearts,Pink,Laughing,Circle glasses,Gasoline,Zap,Cap,Smile 3,Baby
 9899,7,6893,69.2,https://magiceden.io/item-details/27ztfrT8WMhS8bcRN5gue4aQY5LAU15n8aaQ7iYcBZLU,,Wormhole,Aqua,Angry,,Propane,Flame,,Grin 1,Standard
 9904,9.77,8866,33.6,https://magiceden.io/item-details/41N6Je38UZ1jzWBx7bYm7rqxq5cohXW7jzkruxUBR8Xk,,,Orange,Laughing,,Paper,Flare,Headphones,Indifferent,Standard
