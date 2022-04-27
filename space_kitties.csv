@@ -202,7 +202,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Face Dec
 1326,2,3334,40.74,https://magiceden.io/item-details/6PGSoKaXm9E5cydRFsLcRGMJ1ud7AJiJt3Ycbjwi5W1f,Space Station,Siamese,,Robot,,,,,Excited,Two
 1333,80,232,0,https://magiceden.io/item-details/5NQHbQERYnLZSLoiGciextMhx5Uog6MVS4NCKfmbyQrn,Classroom,Black,Cyborg Enforcer,Cyborg,Monocle with Laser,,,Gas Mask Standard,Happy,Two
 1362,1.5,58,84.61,https://magiceden.io/item-details/35YH5LqhCDnKsihdqJG4dFy37nnwT15FZErNww8kHPMG,Lab,Persian,Patient Coat,,,Ape Mask,Antenna,,Excited,
-1363,0.03,2063,75.52,https://magiceden.io/item-details/9UQLPG32g5hV4a6S6GMBzZKoWpjaTcKKCtrt2Fs5rXFn,Lab,Sphynx,Hoodie,Cool Cat,,,,,Happy,Curly
 1375,0.2,3139,61.05,https://magiceden.io/item-details/AQ3de6NPit229ZRNc6ufVN1qFRJbtihooonQBJeNssb9,Classroom,Thicc,,Crying Cat,,,,,Excited,Two
 1396,2,633,72.79,https://magiceden.io/item-details/5S7UZJMPf1PswC2Jo2U3KT5TjrSMs3UFP6VkG5M4bJqD,Cyan,Persian,Mecha Pioneer,,,Digital Display Happy,Fish,,Standard,
 1400,1,3262,51.59,https://magiceden.io/item-details/B9ofb1a5b4vGN6tXfxNDfXjGebo5wpt3Weo3jZ5FnPuu,Magenta,Black,Mecha Pioneer,Sad Crying,,,,,Standard,One
@@ -241,6 +240,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Face Dec
 1603,0.52,2832,61.5,https://magiceden.io/item-details/93ZM5fRD6PpQYJ8Y8DWAZXmAiAt3DSmndkvGYEN7Hw94,Navy,Persian,Leather Jacket,Sus,,,,,Polite Cat,Messy
 1606,1,2938,55.44,https://magiceden.io/item-details/9SJKh4rB3o6NPJXT1M3N8ghgntfvwpf1L1gp1i9V6pFt,Magenta with Wires,Persian,,Love,,,,,Unhappy,Curly
 1612,0.06,958,88.33,https://magiceden.io/item-details/GGdqQcxaeBKDJEZ4LthZJCybNN4WnjLUVtJ8ipW5kLoe,Night Blue,Siamese,,Sus,Monocle with Laser,,Fish,,Coughing Cat,Two
+1615,0.0987,791,89.93,https://magiceden.io/item-details/B44h3nfkwT8MbXUCYPLeQvoQXdrmtW7mdVgSSRDL2TKV,Cyan,Zombie,T-shirt,Happy,,,Wires,,Happy,Messy
 1616,20,2854,0,https://magiceden.io/item-details/AHp2vLvnF6G3R9NFCUo6agXRCsLF6xeoKCDiqRKsvoTK,Dystopian Ruins,Spotted,Mecha Pioneer,Crying Cat,,,,,Happy,Thick
 1631,0.5,2443,66.31,https://magiceden.io/item-details/9BNrcNGrcpwHF3dvD5vfDvQpUmdHufBvbVVkY1Wj1zt9,Navy,Siamese,T-shirt,Sad Crying,Cyborg Pioneer Head,,,,Shocked,Two
 1632,0.77,3160,55.1,https://magiceden.io/item-details/CN61KFZJXkiy6idvfNh93E1xeAWcCeZcSkmymFJLiA7H,Classroom,Bengal,Mecha Technician,Bored,,,,,Shocked,Curly
@@ -319,6 +319,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Face Dec
 2146,1,2654,58.81,https://magiceden.io/item-details/7Ljj5fUqJPAud1JvDAgA1Khkuw2NQMW8ycMLMhqtmphn,Mars,Persian,,Sus,Bandage,,,,Happy,Thick
 2157,0.3,3198,59.35,https://magiceden.io/item-details/HhEW2BCXbaNfXsMTpiLKY1kDQwmU6fBpY47q26WFGTBt,Navy,Black,T-shirt,Happy,,,,,Shocked,One
 2165,16.69,199,0,https://magiceden.io/item-details/7UWQ5iDekYdhGAboseRyNf2zQg2XtsWNVwZTtd4KcEZM,Violet,Thicc,Cyborg Pioneer,Swirly,Eye Patch,,Halo Yellow,,Excited,Thick
+2166,0.12,99,97.93,https://magiceden.io/item-details/4HWbWXqhLNFvrRoCmFh2V1Y56qFSeHKK2JEFJGFGB4pp,Magenta,Bengal,Lab Coat,Undead,Power Scouter,,,Gas Mask Premium Blue,Standard,Three
 2169,0.199,438,93.11,https://magiceden.io/item-details/4CWVkKhVoKsNsiW5dMrsmEFWr64pDuFXm8GNhwUK78zv,Night Blue,Siamese,Mecha Technician,,,Mecha Technician Head,Antenna,,Happy,
 2171,1.3,1029,75.09,https://magiceden.io/item-details/3Vfk6PUEk4eZk1xaw3Q2b9ZZ6sPzA6vVLV8GQWfJhR7Z,Violet,Spotted,Cyborg Technician,Sus,,,Astronaut,,Shocked,Thick
 2173,0.2,1423,81.41,https://magiceden.io/item-details/8PJANauZNj8P1qbCgk2Lw7tqecPRuMvya6s1J91aYyiD,Yellow,Black,Hawaiian,Disgusted,,,Tinfoil Hat,,Happy,Messy
