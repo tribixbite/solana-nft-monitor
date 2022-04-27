@@ -95,7 +95,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 1058,2,3275,69.39,https://magiceden.io/item-details/Ehqoyu7vUGQoRYXvJ6AX3VgToYQfQHEJz9afWYRERCZ,Gray,Bulk,None,Reading Glasses White,Normal Horns,None,Cigarette
 1062,2.75,2861,63.55,https://solanart.io/nft/AgETWViUYRi99xyoZKfPemhaopsvz117HZFVyoWijVKC,Gold,Bulladdin,TShirt White,None,Old Beret,None,None
 1064,2.9,4418,55.82,https://magiceden.io/item-details/CJpPhawaxox9FStMWVxSaBT3LAViDyLvCTqaEJTpEejV,Orange,Taurus Dark,None,Round Sunglasses,Viking Helmet,None,None
-1064,2.9,4418,55.82,https://magiceden.io/item-details/CJpPhawaxox9FStMWVxSaBT3LAViDyLvCTqaEJTpEejV,Orange,Taurus Dark,None,Round Sunglasses,Viking Helmet,None,None
 1068,3,9182,35.75,https://solanart.io/nft/93BGbZCjiPnnHXvDgXTCcBboviMxN3mTQnzD88JujUDg,Blue,Black Tattoos,None,None,Chicago Cap,None,None
 1082,3.33,3967,53.32,https://solanart.io/nft/2zPXnKFHS5sA6LzdHQwe2y9SKiU1Nfmw1JTDuEWdx56J,Gray,White,None,Taurus Eyes,Normal Horns,None,Party Whistle
 1086,30,141,0,https://solanart.io/nft/2voThG7ZgLLGn2jg1tkb24D2nNoXgdPPpJ1cis7MAhY2,Orange,Black Scars,Suit Bow Tie,Protective Glasses Orange,Normal Horns,Miner Pick,Two Silver Earrings
@@ -588,6 +587,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 3655,1,5428,70.78,https://magiceden.io/item-details/HSQURUYbcFcWjQJxrozVJHJXAGdmU7kVZuZHB7dCyhpW,Blue,Black,TShirt Orange,None,Bulk Horns,None,None
 3659,1,2955,80.67,https://magiceden.io/item-details/29CqrsGdzszfWBWdaqjpf7n24BSfsn6w48z9ixbXGhpC,Blue,Blonde Scars,Prisoner Uniform,None,Two Tone Horns,None,Soldier Microphone
 3664,5.5,4137,30.94,https://solanart.io/nft/8cks5pG2XUJXykhbRQ98zmRqJpxqzYQ7PuvXCQYKoc7W,Bull of War,White,Polo Dark Blue,None,Orange Benie,None,None
+3673,1.25,5247,69,https://magiceden.io/item-details/G98VH6W3gMBWRExrXnA9GALuQjocj2rcyFJj4cV6yLo7,Orange,White Tattoos,Viking Clothing,None,Normal Damaged Horn,None,None
 3682,2.5,2075,69.2,https://magiceden.io/item-details/9R9YL1HMqKhaPbjrH2eXhphCSeqFu9iNSEvyQhAxF5e5,Red,Black,Polo Dark Blue,None,Worker Helmet,None,Sherlock Pipe
 3685,10,8890,0,https://solanart.io/nft/34MMc3dE4cMeW8wwfJMhTgJVvem5gWCdHY28K3d8hSPS,Yellow,Blonde,None,Reading Glasses White,Normal Horns,None,None
 3687,2.25,9470,42.1,https://magiceden.io/item-details/5roCc8q7PLvK4fvWuFwZ46eYhwm8v9XfgCrZYon36Mi5,Green Blue,Mecha Bronze,None,None,Normal Horns,None,None
@@ -729,7 +729,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 4333,14,6989,0,https://magiceden.io/item-details/2uzeKfdMLecKkdVs8jNP7t3y3iV1QUESkfEJPotp58ni,Orange,White Tattoos,None,None,Two Tone Horns,None,Gold Earring
 4343,52,7358,0,https://magiceden.io/item-details/4f4TS6iw5DJbZ7iWi22wtRWUcxvxrkCPwkFEKyB5svLG,Bull of War,Blonde Viking Tattoos,None,None,Black Cap,None,None
 4354,5,286,51.36,https://magiceden.io/item-details/3sN9GUgnbUEhhW1T9rUT4UNEV28vJSYjF8JMtA2Tgt8P,Green,Red,Wizard Robe,None,Zombie Ax,Lumberjack Axe,Three Gold Earrings
-4359,1.5,3517,73.42,https://solanart.io/nft/GCLRj1E7jNctgfi3JrStBuqRr6Ue6Chvo3Q7xNNWcSie,Gold,Orange,King Garment,None,Combat Horns,None,None
+4359,0.35,3517,84.92,https://solanart.io/nft/GCLRj1E7jNctgfi3JrStBuqRr6Ue6Chvo3Q7xNNWcSie,Gold,Orange,King Garment,None,Combat Horns,None,None
 4362,1.8,7441,54.72,https://solanart.io/nft/HYu2iMvHi6XgGhyTRL5vLhgYWx3SUTihqomqvKkDXbRq,Gray,Blonde Viking Tattoos,None,Viper Color,Normal Horns,None,None
 4364,1.5,7787,56.34,https://magiceden.io/item-details/G3Haapd5SEg3RUdxCsGGyKh9ek8aU9HrFZNp1ygVCHEM,Yellow,Red Zombie,None,None,Viking Helmet,None,None
 4397,1.7,1162,80.85,https://solanart.io/nft/3YDF45k1aNJxQ97w7hmdSbv7D1gVCNCyqtHPyz8EXbvH,Red,Red Tattoos,None,Commander Monocle,Viking Helmet,None,Viking Nose Ring
@@ -908,6 +908,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 5312,4.5,3500,43.49,https://magiceden.io/item-details/95KcDJs5z8G5v6ELJdqC364LAwk5vC4cmKZESRQdj3Pa,Purple,Black,Polo Aqua,Viper Pink,Normal Horns,None,None
 5319,5,479,50.58,https://magiceden.io/item-details/Hb8QpMiPcLCUX7ZPUGFEn9Kax5Q3KyM6SercQYEELL7S,Purple,Blonde,Soldier Uniform,Reading Glasses Black,White Benie,None,Silver Combination V1
 5320,3,2902,60.89,https://solanart.io/nft/DjoZhTwXa3v5WoRZnDForqGvL9JhkWtvQVRyvmNDfQBq,Bronze,Black Scars,Suit White,None,Swat Helmet,None,None
+5331,1.25,1606,83.57,https://magiceden.io/item-details/3zuw4NQLXLdKgdgEZASSbDfW13k5Emdf9Q2hx4Qn6f8c,Green,Black Tattoos,Cowboy Clothing,None,Swat Helmet,None,Gold Earring
 5333,2.1,6931,53.76,https://solanart.io/nft/EGwPu11p7yASCiVEi99W4tTKtxKcBvPWMinQUhnKdSdp,Purple,Bronze,Clown Clothing,None,Normal Horns,None,None
 5336,25,9220,0,https://solanart.io/nft/sK6akFSXW26YNU5A7eP5TrxT4m5tTApyZXLFfKhT3US,Yellow,Orange,None,None,Party Hat,None,None
 5343,1.44,867,84.63,https://magiceden.io/item-details/9MFVPyq1jX1vEDeY5Zf8P7SXPzqZRPuSuJmAkfep7QCA,Purple,Clown,Prisoner Uniform,Mask,Normal Horns,None,Nose Ring Hex
@@ -991,6 +992,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 5791,5.5,161,46.86,https://solanart.io/nft/67hiP52seH1jVN7uhwusZ9nQhv8LBFt5bXeeFvmJxchC,Gray,White Tattoos,TShirt Pink,Viper Pink,Graduation Cap,Broom,None
 5796,1.97,2194,74.02,https://solanart.io/nft/2HSpqW4wrkpATFpZdfEdZFPyduEp8KfZzzPfY2jxBezK,Orange,Blonde,None,Mask,Green Benie,None,Soldier Microphone
 5801,1,8855,57.06,https://magiceden.io/item-details/4VwyYnbK3c7JXXfLJk7MctSTADMrnw244hYsMscvETn4,Purple,Orange Scars,None,None,Miner Helmet,None,None
+5822,4,5366,41.03,https://solanart.io/nft/6AX8JmGooVCkMc88yXkA4xr5DgTS9McjcnvVg1GJNaYD,Blue,Blonde Viking Tattoos,Lumberjack Shirt,None,Chicago Cap,None,None
 5823,8.8,7392,0,https://solanart.io/nft/M5qFqbYv6jc9xW7NpiwMUtEgqx4yc42bwGsixgo4uq8,Light Blue,Marble,None,None,Soldier Helmet,None,None
 5830,2.5,8026,45.38,https://solanart.io/nft/EodKmpgMNzPVbsEap2QkNt8z9fB2r2rmztC5KmvdTea7,Gray,Blonde,None,None,Normal Horns,None,Two Silver Earrings
 5834,1.3,9263,52.43,https://solanart.io/nft/Bs1Hvo5MdcQs1kny5B3Tmrcd8HwS3kp2okKdyygUHYYd,Bull of War,White Viking Tattoos,None,None,Two Tone Horns,None,None
@@ -1576,6 +1578,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 8803,0.5,3116,85.03,https://magiceden.io/item-details/FswfpxvYqrTUC1aykSkaaPQn9gCiT4hjWapbr5XukEjA,Green Blue,Black,Safety Vest,Round Sunglasses,Gray Benie,None,None
 8813,4,176,61.8,https://magiceden.io/item-details/7nTYALHKtLh4pe7VoaGjZxe3Ro7LCCWyBozcuddNFzVr,Bronze,White,Jedi Robe,Laser Eyes,Checkered Beret,None,Two Silver Earrings
 8816,4,3042,50.33,https://magiceden.io/item-details/AyL6vbJYSg86K2ATwPyJdJFNQLStqennqa8brF8a6pJr,Bronze,White Tattoos,None,Sunglasses,Two Tone Horns,Katana,None
+8818,20,24,0,https://solanart.io/nft/3NQQRGKM8FPzvXwTyjfP3ZQCwP3iFdb81rvWpYo6acsa,Silver,Mecha Silver,Mecha Silver Armor,Commander Monocle,Mecha Silver Horns,Wizard Staff,None
 8819,15,548,0,https://magiceden.io/item-details/Azc7Zp9vf4u59VDnewnSdNHhj24XSrjqZB3J74h96msd,Purple,Bullminator,Mecha Black Armor,Aviator,Normal Horns,Bull of War Blades,None
 8822,3.6,703,63.69,https://magiceden.io/item-details/4nnmJJ6dAcaZ7WVSWMQEZUJ9LM5J5pZeDuveprBhvfgJ,Orange,Black,Suit Cream,VR Black,Normal Horns,Sword,None
 8826,1.98,7621,52.2,https://magiceden.io/item-details/CPdyS1yWQA1uDKC1wGR5Y91YJXePrVfT6d61B4coGzGS,Yellow,Black Scars,Sleeveless Gray,None,Two Tone Horns,None,None
