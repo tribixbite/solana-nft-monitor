@@ -13,7 +13,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 128,0.85,5600,71.29,https://magiceden.io/item-details/AmyVnRbdTnLVNFURkbkb5G7SG7YeQHywF9bL1rrd1YQ1,Nose Ring,Mystic Blue,,Suit Purple,Purple,,Dreads Teal,Goblin,Tan
 150,9.99,1097,0.16,https://solanart.io/nft/E3z4CdMwB9Mwrm2DyaXiGEM1q1v6LVyo5hGisN3aQxyx,Oni Talisman,Black,,Montsuki,Purple,Ghoul Mask,Goblin,,Tan
 152,2.5,5017,57.42,https://solanart.io/nft/5g59gAvAe11ZGk9UBMKmHyTSDdh5dDGC8PRe8PuYVAdj,X Choker,Yellow,,Jumper Pink,Possessed,,Ponytail White,Stiched,Undead
-158,3.21,2468,61.79,https://magiceden.io/item-details/AKGjGmYFF8RtP9JnLdTXVPZEsuimoJXKCUE6oGALTryv,Neck Bandage,Mystic Red,,Jumper Pink,Samsara,,Royal,Shark,Undead
 160,5,6189,27.14,https://magiceden.io/item-details/Ahv1ETZ68DUmJChTFts2a4AENRfkVXRBsfHH1NB96g8,Ear Cuffs,Yellow,,Yukata,Closed,,Ponytail White,Shark,Pale
 175,5,3735,38.19,https://solanart.io/nft/EvWa66yQvbYFtPwBfeSWhyeoyJ9caXggTAE416tqb3qn,,Yellow,Steampunk Glasses,Yukata,Devil,,Ponytail Green,Fang,Pale
 186,1.98,5391,60.93,https://solanart.io/nft/BtYfBVqiGXknkPnJsPXqrrTERvhh2EfrjckP975hqTwW,,Purple,Nimbus Earring,Tanktop Purple,Bulls Eye,,Long Red,Shark,Tan
@@ -398,6 +397,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 3697,1.6,5018,66.41,https://alpha.art/t/HMRV38YH6wPYA5iAkEi39YMtQgcq9ejZMNeRD5ySTE9b,Nose Bleed,Blue,,Suit Classic,Odd Eye,,Man Bun Navy,Neutral,Undead
 3700,3.5,2570,58.43,https://solanart.io/nft/4GMFobExx2ytUpg27pKbMffJdt7SXKZWU84gURE6QUf4,Ear Cuffs,Yellow,,Slayer Uniform,Devil,Samurai Mask,Dreads Purple,,Pale
 3733,2.2,7646,48.58,https://solanart.io/nft/BVgdRCT9acRH1wxBekj6ox3FsDarMdTpkvhTtn88uWNb,Rope Choker,Blue,,Suit Classic,Samsara,,Textured Green,Shark,Undead
+3737,0.55,6845,68.69,https://magiceden.io/item-details/6jRg74qrhp1Bc1Spq2sW36tLuZR8dzqa4woAoGRcaDc3,Bandage,Purple,,Tanktop Teal,Samsara,,Braided,Shark,Tan
 3752,10,1864,0,https://solanart.io/nft/EezT86NA8spS8hDcPLMF5xZzzJPqEH2akfMZksUjYi9u,,Purple,Emperor's  Earring,Tanktop Red,Samsara,,Dreads Red,Neutral,Undead
 3760,5,2949,41.73,https://magiceden.io/item-details/EsTnL1wqh6AENJrMEQid9DEn1VhKfH81E4QztPTfVdve,,Yellow,Rolling Hill Earring,Shirtless,Fire,,Royal,Goblin,Tan
 3787,295,519,0,https://solanart.io/nft/GrcaDVG21Xm8hC3JhXJwB4hpBhvuxVtVhzyEFNyq2S6v,,Blue,Dragon Earring,T Shirt Black,Purple,Snake Tongue,Spiky Blue,,Tan Tattooed
@@ -525,7 +525,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 4643,10,7515,0,https://solanart.io/nft/HvmfPf9ma8btb7TPMCjvuUpFrucJVVa977X2tSfgQArt,Cheek Bandage,Green,,T Shirt Black,Orange,,Dreads Purple,Stiched,Tan
 4647,6,609,42.26,https://solanart.io/nft/5Hvt6gytz4zVNuJb253EmTJSZzWmtTXBVu8gkmsrAYd4,,Blue,Masquerade Mask,Suit Teal,Bulls Eye,Samurai Mask,Man Bun Green,,Undead
 4657,4,7047,33.28,https://solanart.io/nft/Af19mX9afrcM9Kj2MpNmyT22tiVRA1JEErLoRV8yzgMX,Pain Piercing,Black,,Suit Teal,Samsara,,Spiky Teal,Shark,Tan
-4670,0.94,4306,76.22,https://magiceden.io/item-details/B4jEPmWSqPi9qk3rXuKDpdamT1S1LApWkhfzLTHLKGFo,Pain Piercing,Blue,,T Shirt Navy,Orange,,Braided,Goblin,Pale Tattooed
 4677,5.38,6472,22.07,https://alpha.art/t/pRVi5TWvzsycNJ2WAKatSkbQauJeFbRwZZ4MEAihpMs,Rope Choker,Purple,,Jumper Pink,Orange,,Goblin,Fang,Tan
 4688,2.6,6436,50.03,https://solanart.io/nft/9MCmZxydLfjeSgiQP2QH6ghBZXyrHxzPtAmjQMdsCF9m,Bandage,Black,,Yukata,Fire,,Textured Purple,Angry,Tan
 4715,4.9,3995,38.02,https://solanart.io/nft/4ELKjU1KGmgL4JkPYC1YhbCyjEML58bDv22KTsaHdjL3,Eye Patch,Purple,,Suit Teal,Purple,,Ponytail Black,Shark,Tan Tattooed
