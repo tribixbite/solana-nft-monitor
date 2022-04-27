@@ -10,6 +10,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 162,1.75,5008,58.69,https://magiceden.io/item-details/8SoojmHhQgcvMDh8iUYnTk4osggSyLDZj6kRCwfS5Bde,None,Sand,Albino,Bomber Jacket,Surprised,Banana Headband,Serious,None
 173,1.75,4094,64.59,https://magiceden.io/item-details/H427gkaYwKL1TrPVY8FbFgsS2ShcNmV77cvmdCMMAco5,None,Blue Banana,Blue,Captain Black,Cross Eyed,Silk Durag,Big Smile,None
 180,3.5,3786,49.07,https://magiceden.io/item-details/22Hr3uA1v9YF9Ej77LNNzJc62hmjJza2s41R5xiEhNAw,None,Mint,Red,None,Blank,Pirate Hat,Cigar,None
+181,12,602,0,https://magiceden.io/item-details/GsCt9gkV5ptNNJeSSMgpPvzNTtzBCiGvaHRbvEGurcyu,None,Yellow Banana,Gold,Coogi Sweater,Fire,Unicorn Horn,Fangs,None
 214,2,2018,75.48,https://magiceden.io/item-details/5tTCDtrDHPvUssZdrEJNZ9YQZ3vonFk5qjX1rzfZFAwF,None,Lavender,Cheetah,Austin Powers Suit,Blank,Japanese Bandana,Money,None
 219,3,6100,39.15,https://magiceden.io/item-details/6onUBGGfNVAL9giSPxahYMsrxNvBDA53JBAjBi2EJdbj,None,Mint,Red,MHAC Hoodie,Sleepy,None,Smile,None
 228,2,3584,65.38,https://magiceden.io/item-details/DB54rwUAouWykHWP7Y3dJhKKV6EncYbvaJLscZXJfRMA,None,Lavender,Blue,Drug Rug,Red,Trippy Headband,Big Smile,None
@@ -23,12 +24,14 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 271,2.5,5174,50.12,https://magiceden.io/item-details/jgSSz9w22DcRgzkrLsXHPgSQCJx5yGU5KikLEduKaqy,None,Lavender,Blue,Wife Beater,Blank,Oxygen Mask,Serious,None
 286,6,913,42.61,https://magiceden.io/item-details/DrAjCfRhEppZVZ3DMPbWFKCQAkQYzjCiy16pB1Fxf1tv,None,Lavender,Pink,Captain Blue,Stoned,TopHat,Bubble Gum,None
 292,1.74,5750,54,https://magiceden.io/item-details/4jnMnXHQVkCEzrbYTG66qcqgYPUBxCKmDtefHbktT6qm,None,Mint,Red,North Face Puffer,Angry,Silk Durag,Serious,None
+296,5,570,54.82,https://magiceden.io/item-details/FjANEX7haYTHpmv8MdYqibm7Vpd8SUnsR7m8zoFVTGhj,None,Fine Gold,Red,Astronaut,Popping,Silk Durag,Sad,None
 346,1.6,2700,75.08,https://magiceden.io/item-details/3NKB45jA6Fy8SGY2LgDVRWPQbikTwLCKu7RWLSQ4XYWs,None,Mint,Zebra,Tiffany Biker,Surprised,Black MHAC Headband,Grim,None
 396,1.89,5740,52.57,https://magiceden.io/item-details/4yiVKT6DGkLya3vGxt6MixwipG6qfUpg6NGesFAeiFRU,None,Deep Water Blue,Red,White Turtleneck,Sleepy,Banana Headband,Tongue,None
 398,1.49,3266,72.53,https://magiceden.io/item-details/BMmKvdKZ8aP4AifTErULXiD815dPh84JieeUVPT9nCXT,None,Sand,Cheetah,Coogi Sweater,Blank,Green Mohawk,Smile,None
 408,1.89,3544,66.74,https://magiceden.io/item-details/DPZiT6ruvogFPhmnwYwDbD3QpRjXSB3yntJbnWANpVrY,None,Mint,Red,Captain Black,Cross Eyed,MHAC Visor,Rose,None
 427,2.8,4030,54.5,https://magiceden.io/item-details/9iqnRHPSdawverFyhkMxt6N9HhoUh4uBKLniEMDDSXD8,None,Pink Banana,Blue,Captain Black,Angry,Solana Unicorn Horn,Big Smile,None
 437,3.4,423,71.77,https://magiceden.io/item-details/DCjxXLCrhb2V9DtF3sJsXF4qC5yYbKYcji2PfREe1S7z,None,Sky Blue,Platinum,Austin Powers Suit,Sleepy,Pirate Hat,Big Smile,Dapper Scarf
+440,12,138,0,https://magiceden.io/item-details/3rAwEXMB3ZkULBTyiVNY6YYeG73ca1qRbJmzUysi1YDe,Angel Wings,Steel Gray,Blue,Baby Blue Vest,Blank,Silk Durag,Sad,None
 447,1.75,5566,55.09,https://magiceden.io/item-details/G6PJrdVibSJcLWCJQF6gwPZ9WKYx3LeUs2tSJWWXiB77,None,Yellow Banana,Pink,Tie Dye Tee,Sleepy,Pirate Hat,Sad,None
 453,1.75,4019,65.07,https://magiceden.io/item-details/7ZgyxGK68mhVBRLG4T9HjmF4cbgRo98tQFRYoEUZwnoE,None,Mint,Pink,Baby Blue Vest,Angry,Captain Hat,Big Smile,None
 455,2.2,3719,62.51,https://magiceden.io/item-details/4FGUUn3k7qHqUp7mS6bwC9dKcTWdw9inEVTJHtbvU2kc,None,Aviation Red,Brown,MHAC Hoodie,Angry,Yankee Fitted,Rose,None
@@ -61,13 +64,13 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 824,1.6,3342,70.94,https://magiceden.io/item-details/C1azfu3sbeZvHRCVMRvoMpQjbte42AWvVyTsubi446H,None,Orange,Cheetah,Wife Beater,Solana,None,Serious,None
 827,2.69,2087,68.14,https://magiceden.io/item-details/3hXDojTJJp2NDEHqHxfc25QYsSD47tDXao6cmmGMaik1,None,Aviation Red,Cheetah,Tie Dye Tee,Solana,Chef Hat,Sad,None
 843,1.85,4317,62.15,https://magiceden.io/item-details/3tp16Nbq9wn7yKuifMkPc6yxkixTM8sgwSsra7yNbPJM,None,Lavender,Albino,Blue Angels Jumpsuit,Angry,Banana Headband,Serious,None
-853,1,5371,63.85,https://magiceden.io/item-details/3USLYgUEZ9kYakCTh7r1bVPQouTuPrPNyhFQFv1bj3QL,None,Blue Banana,Blue,Hawaiian,Cross Eyed,Banana Headband,Smile,None
 858,1.8,2113,76.87,https://magiceden.io/item-details/7nDrL7o612DUXqy1kdhwEHeidfaNofXe8eCGMfviKrh5,None,Remove Before Flight Black,Gold,Green Jumpsuit,Surprised,None,Rose,None
 868,2,3717,64.52,https://magiceden.io/item-details/WX2nQYfrXTKEi8FN5mCmi2b6oKSEKajD2HnXXvkDSVq,None,Deep Water Blue,Albino,Tie Dye Tee,Stoned,Pirate Hat,Bubble Gum,None
 881,5,123,57.71,https://magiceden.io/item-details/BcnuqLHMVDt8BoD9bXfZwLMkEYTCboTp3vzNweYzMEFT,Bat Wings,Deep Water Blue,Brown,Wife Beater,Black Eye,Fez,Sad,None
 945,1.75,4168,64.11,https://magiceden.io/item-details/FgM8nuWx3s2LifvVyMpPiR7XRQYdyH4iDbWYfjeSh12r,None,Deep Water Blue,Albino,Drug Rug,Black Eye,Pirate Hat,Serious,None
 955,1.99,1781,77.11,https://magiceden.io/item-details/ASW4mgWS7oHxKuQpX1B9ej2s63Mfh7N6ceEcspopmrS7,None,Jet Engine,Pink,Captain Blue,Angry,Orange Beanie,Cigar,None
 962,2.1,684,83.09,https://magiceden.io/item-details/6pBQH7L2KUzq3hwAV8bjxS8FMtyCmTFx7NTdX4HxNaRH,None,Radar,Pink,Green Jumpsuit,Angry,MHAC Visor,Platinum,None
+964,199,787,0,https://magiceden.io/item-details/BzSNttoNiCNMz723bBh8EwyDriXa3a931Mpi1C3BErvM,None,Radar,Brown,North Face Puffer,Red,Black MHAC Headband,Rainbow,None
 979,1.4,4001,68.69,https://magiceden.io/item-details/GJRXkYKqMpLug8sG5or4SbWMJCPibW9QEWDDTvjLCr3z,None,Deep Water Blue,Blue,Bomber Jacket,Fire,None,Rose,None
 996,1,4021,72.56,https://magiceden.io/item-details/AAnKHCP1pKVEYUGXNDYL5b1GBLXHBN2CmDzhjrsV7hqm,None,Remove Before Flight Red,Cheetah,Wife Beater,Angry,Backwards MHAC Cap,Serious,None
 1021,2.6,3910,57.27,https://magiceden.io/item-details/4yg9W5CwAqmeSifdQzmTrWvS88NRDUMDYM9eGXLVDS4e,None,Pink Banana,Red,Tiffany Biker,Angry,Backwards MHAC Cap,Tongue,None
@@ -83,8 +86,10 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 1249,3,4240,51.15,https://magiceden.io/item-details/GvbEDzrouMHw6WEcgKuTHB67qfcuUCnfiBR8VZuMzyb9,None,Remove Before Flight Black,Blue,Coogi Sweater,Cross Eyed,White MHAC Headband,Smile,None
 1266,2.25,5717,49.12,https://magiceden.io/item-details/13KBrqTtfY72Uaa4b9rjhvf8MkcQTBrZcvUVj8rQhtxv,None,Orange,Brown,Drug Rug,Angry,None,Money,None
 1275,3.3,2029,62.41,https://magiceden.io/item-details/4soGsFZJsSFseUEzwAt9HPH37t5VtyKonuYTpToMGgy9,None,Lavender,Brown,White Turtleneck,Surprised,MHAC Cap,Money,None
+1301,22,67,0,https://magiceden.io/item-details/AhBuKk7diHA5nAgnrRPudVW5VpWP3HtL86oyMgDQUDNe,None,Remove Before Flight Red,Albino,Dashiiki,Popping,Solana Unicorn Horn,Money,Airplane Gold Chain
 1302,3.2,5330,42.11,https://magiceden.io/item-details/E1D9izEE1b3HfZxYhAUx5t9UtFnFY5uBKXpKuenTQpL8,None,Steel Gray,Brown,Captain Blue,Blank,Silk Durag,Smile,None
 1326,6,496,45.3,https://magiceden.io/item-details/Hhtm9TYGjApm8BAouurDYMqhFv8G21QkFWrrgsDYMNwx,None,Remove Before Flight Black,Gold,Drug Rug,Popping,Black Devil Horns,Rose,None
+1334,24.9,20,0,https://magiceden.io/item-details/BkxANDNHQtX17rfCvwetpv7kn9ieeDdtgWgYgtEcUmER,Angel Wings,Aviation Red,Blue,Ramp Vest,Pink Glow,None,Serious,Airplane Gold Chain
 1345,1.75,4484,62.07,https://magiceden.io/item-details/HE1xhd7yaGr5fTr3N29QsiKaNtJ4uFfr3J3JWsayJMTD,None,Pink Banana,Blue,Drug Rug,Surprised,Mafia Hat,Grim,None
 1353,2,2808,70.38,https://magiceden.io/item-details/5jezTwJC65Xvi4YqN61Y2wo59FQEZN4qYfapjx3rCvEQ,None,Aviation Red,Zebra,Ramp Vest,Surprised,Captain Hat,Smile,None
 1365,1,2862,80.04,https://magiceden.io/item-details/BDLXF4uBGDWJ2cHbjPgnJzT8AxvdmYF3iPQZS57NpBcr,None,Fine Gold,Red,Red Track Suit,Angry,Dunce Hat,Fangs,None
@@ -134,12 +139,16 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 1928,3,2769,60.64,https://magiceden.io/item-details/54u4XrX39MLiihscdnDStczMd3sXySnvK4NMphq8EWWJ,None,Remove Before Flight Red,Platinum,MHAC Hoodie,Black Eye,None,Smile,None
 1934,1.85,5873,52.11,https://magiceden.io/item-details/7BPcVEnqPZ5R3CJ667QpmnDkztmL79ZUf3EMWK3Ku72G,None,Sand,Brown,Denim Jacket,Blank,None,Rose,None
 1943,3.5,320,71.44,https://magiceden.io/item-details/27S2xDmyQXFaLSe52ZVSKC4CEuofkgENEze2Hv5ZThDQ,None,Aviation Red,Pink,Hawaiian,Pink Glow,None,Grills,Airplane Gold Chain
+1957,10,211,7.14,https://magiceden.io/item-details/GPFZwCHP3M6uV1TdtQTcmXyswiRpYfYjaP8Lw9WRXWKL,None,Remove Before Flight Red,Red,Captain Blue,Angry,Fighter Pilot Helmet,Rainbow,None
 1969,1.94,6073,49.92,https://magiceden.io/item-details/8pV4ana1QjRcQXsnGJqg3UNHCjmEaSUZ6vceQBxxHmFh,None,Steel Gray,Red,North Face Puffer,Surprised,Japanese Bandana,Sad,None
+1999,9,132,17.65,https://magiceden.io/item-details/5zRbapgKazsGV6u1Sb4nXBFuM4zBrKRw5YA9bL9QBvMP,None,Arrivals Departures,Solana,Captain Blue,Red,Orange Beanie,Rose,None
 2016,0.9,5830,61.89,https://magiceden.io/item-details/2h5PMJFwEepqFg8VJMAANffb7u5vaE5xNu3SLheygC76,None,Steel Gray,Blue,Wife Beater,Angry,Silk Durag,Smile,None
 2027,2.5,883,77.8,https://magiceden.io/item-details/2M2xJ3yoeg19VLBKavk2Xk14oN3Hjdid4HxyXMMtSMg4,None,Moon,Blue,Jedi,Sleepy,Unicorn Horn,Fangs,None
 2030,3.5,4110,46.98,https://magiceden.io/item-details/3N7ptKsZKjTLgU7Hd1iaDJaitTzGaNA8p4NiByeV9UXg,None,Orange,Albino,Solana Hoodie,Sleepy,Fez,Sad,None
 2031,0.99,3321,77.17,https://magiceden.io/item-details/DXSo4jHsEPgymrn3Moy7WUjkj98cg5GyMgkbGL9TVPz7,None,Yellow Banana,Blue,None,Blank,White MHAC Headband,Cigar,None
 2058,2.7,3327,60.04,https://magiceden.io/item-details/26DXEXC37UeTnXoWt2Kn3gwttKideBapfZ3rwnMbi8Ms,None,Remove Before Flight Black,Blue,Green Jumpsuit,Sleepy,Captain Hat,Sad,None
+2059,10,782,3.45,https://magiceden.io/item-details/6aN6Gvd5SwEB3ro7NHWAMzaZUYaEu9nnh3YGYjq9yD1H,None,Sand,Blue,Austin Powers Suit,Popping,Brain,Tongue,None
+2068,9,4552,0,https://magiceden.io/item-details/9cFvA323JJ82N9RvZYEU6fvFgpk2oyX3GSBHJcjyNh8L,None,Orange,Brown,Captain Blue,Surprised,Oxygen Mask,Smile,None
 2070,2.1,4861,56.14,https://magiceden.io/item-details/7abdg7BY7acaHZ9XDotemiEXRefsWvFULnVMFHuQMnwC,None,Steel Gray,Rainbow,Flotation Device,Angry,None,Big Smile,None
 2071,0.9,3119,79.38,https://magiceden.io/item-details/8Zq24SeMwi8YoeWZcLVfpGZkzUBbSyrZvtbNHVYATX6T,None,Steel Gray,Blue,MHAC Hoodie,Popping,Chef Hat,Smile,None
 2084,1.75,5574,55.04,https://magiceden.io/item-details/3Ppg8UZoBYeifDnLhDFwyeh37WkiNizQzxyQfsPJypLP,None,Aviation Red,Blue,White Turtleneck,Angry,Military Boonie Hat,Sad,None
@@ -151,10 +160,12 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 2169,1.75,2996,71.67,https://magiceden.io/item-details/5t4A3Jwc84S8wsCeg3u1uyXNnTDmAdXWNtHMHkL6UFFg,None,Jet Engine,Brown,Bomber Jacket,Surprised,Mafia Hat,Sad,None
 2180,1.75,3592,67.83,https://magiceden.io/item-details/4h3M8ainSD4bDsDrpg1TqcocMdw9p6ocDug8A2XqML2T,None,Jet Engine,Pink,Black Logo Tee,Blank,Dunce Hat,Tongue,None
 2196,6,1859,36.51,https://magiceden.io/item-details/CnuttchaNWXgKqS9YGnm7HiDmGoi8RW9ELHdQt7LKBZh,None,Jet Engine,Zebra,Coogi Sweater,Blank,Bose A20s,Tongue,None
+2199,9,143,17.58,https://magiceden.io/item-details/DebHfBtGV63EKLWLyavfsc6z4gHm9sUi744sUyrs6ekk,None,Mint,Rainbow,Solana Hoodie,Surprised,Tinfoil,Bubble Gum,Dapper Scarf
 2204,1.6,2075,79.11,https://magiceden.io/item-details/2iQoYHtTHUceSyXHnu9sgurWRRiwE6Cftq7YMzXr2ZjF,None,Radar,Pink,Drug Rug,Sleepy,Bose A20s,Cigar,None
 2219,1.75,1560,80.94,https://magiceden.io/item-details/CrDoS424TvoHeuAhKN9YAwruTf1xVvVGqkZKYiCsUH7d,None,Steel Gray,Blue,Drug Rug,Blank,Bose A20s,Big Smile,Dapper Scarf
 2231,1.9,6122,50,https://magiceden.io/item-details/EyRAmqWaFeJ8B3eaSHFXfUNxTfD9NfYUcuVBPqcQpVCj,None,Steel Gray,Cheetah,Hawaiian,Blank,None,Sad,None
 2246,2,3848,63.67,https://magiceden.io/item-details/7HTeNvhMYRq7v9JYTW824ktfcMUnBjTW6KqMGcjYeeYr,None,Steel Gray,Cheetah,Black Logo Tee,Angry,Mafia Hat,Bubble Gum,None
+2247,15,179,0,https://magiceden.io/item-details/7VTdeFgoe1Q65Ec2AxsseqJZe9wTWdTMFciy4KsmjQA9,None,Aviation Red,Cheetah,Mafia Suit,Laser Eyes 1,Pirate Hat,Big Smile,None
 2258,1.39,716,89.98,https://magiceden.io/item-details/F2fqFT9W1MrgbYt4EsUBWoT49Qh6VP4vJ7JvGznTxUBC,None,Deep Water Blue,Red,Solana Hoodie,Surprised,Oxygen Mask,Smile,Dapper Scarf
 2280,1.8,5221,56.82,https://magiceden.io/item-details/7ueUPaNh7XSmwifDZU4Rku4qArVEKnGKVwQHwzzCPXUp,None,Sand,Pink,Brown Mink,Surprised,WW2 Helmet,Grim,None
 2292,3.25,705,71.45,https://magiceden.io/item-details/FBgJsf9pcjKyPwJnEAJreKynXdhgc5FLUskEDNmhPdCg,None,Blue Banana,Rainbow,Coogi Sweater,Pink Glow,MHAC Visor,Smile,None
@@ -178,7 +189,9 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 2494,1.75,5163,57.69,https://magiceden.io/item-details/AMw2B75wSs2ttzWXPsKqej1HfTisTQXDzzsvx1AMPzmV,None,Deep Water Blue,Brown,Hawaiian,Angry,Black MHAC Headband,Big Smile,None
 2508,2.99,854,73.09,https://magiceden.io/item-details/AHYXL3KW1XSqe1xBabcdJcfMMyiHSzjTiRDV8RUPfSzZ,None,Lavender,Red,MHAC Hoodie,Angry,Black Devil Horns,Grim,Dapper Scarf
 2536,1.5,3309,72.15,https://magiceden.io/item-details/DPfHohutcAChJJ55w9LYeBmeGZ4RMMKDG8Ne4ovrYMkT,None,Pink Banana,Blue,MHAC Hoodie,Sleepy,Solana Unicorn Horn,Bubble Gum,None
+2543,10,681,4.11,https://magiceden.io/item-details/BtrKwayFf8LNgKLF2onTsUPt5r2nXHk8yyEiE13bUs1m,None,Fine Gold,Cheetah,None,Surprised,White MHAC Headband,Smile,Dapper Scarf
 2555,1.25,1964,83.33,https://magiceden.io/item-details/5oKf7EBdNuYWpP1izKqvVmXRHhdWAef5APcjM6eaZWw2,None,Pink Banana,Pink,Tiffany Biker,Sleepy,Red Devil Horns,Bubble Gum,None
+2556,2.05,3009,68.59,https://magiceden.io/item-details/6Nx8Nfg77DxxB712B5u1BKTfuGWqGvGznza5zZwWHNAm,None,Steel Gray,Gold,Wife Beater,Surprised,MHAC Visor,Serious,None
 2558,5,3696,34.65,https://magiceden.io/item-details/55MdHq3wxeGxJWpvZteKdsKidB1QE7ocNRFDe5GpcUf5,None,Orange,Brown,Ramp Vest,Surprised,Solana Unicorn Horn,Bubble Gum,None
 2570,3.2,5339,42.05,https://magiceden.io/item-details/7Ssn3iUMfGon6fNgcHDv2W5cCwRaqaZ7Zo5VGh25xXJR,None,Remove Before Flight Red,Red,None,Angry,WW2 Helmet,Big Smile,None
 2616,1.75,1883,78.85,https://magiceden.io/item-details/6QKJPVaAKmirbJ1yjVEUB1dX1fMvPuAuTMoGWrfcQ3Ax,None,Yellow Banana,Brown,Solana Mink,Popping,Backwards MHAC Cap,Smile,None
@@ -186,6 +199,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 2657,1.35,1159,87.52,https://magiceden.io/item-details/78CeKNM3CTa4e6cR3MbTdDRUFTBRr6HNXPthfJtEgHqS,None,Remove Before Flight Black,Rainbow,Blue Angels Jumpsuit,Angry,Captain Hat,Grim,None
 2711,5,876,52.85,https://magiceden.io/item-details/BeDAFEpFuanWEqoFRHxtnDCkUK2V8WhrEF1BZDW25MdY,None,Remove Before Flight Red,Red,Tie Dye Tee,Sleepy,TopHat,Money,None
 2715,2.23,3720,62.2,https://magiceden.io/item-details/9iowbvU9Xtqxevt3jbXUC1Q7PyH6bjaHRyQExfVvZGJd,None,Radar,Pink,Black Logo Tee,Surprised,Trippy Headband,Serious,None
+2745,9.25,306,14.03,https://magiceden.io/item-details/F3sMd1GcEXKz3h9cjpYK6LxnxBEKoZoW4Dh47tedXFbM,None,Lavender,Robot,Denim Jacket,Popping,Chef Hat,Serious,None
 2756,2.22,2587,69.61,https://magiceden.io/item-details/BJh87TdqEXAXpfe3NJs89g9B2QdosULJqwLeJSFExVN5,None,Lavender,Albino,Hawaiian,Fire,Backwards MHAC Cap,Smile,None
 2768,3.5,2945,54.5,https://magiceden.io/item-details/DFWG27Z55mzGGG8cTk52rKQZQmisDQsvFLp6v3dzsDAT,None,Cockpit,Red,Wife Beater,Cross Eyed,Backwards MHAC Cap,Fangs,None
 2799,2.18,3232,65.85,https://magiceden.io/item-details/Enw5HewxVd1NWQ6WwypCNTBsFix2qHe19erzbvZXS6Fy,None,Sky Blue,Cheetah,Black Logo Tee,Black Eye,Mafia Hat,Tongue,None
@@ -221,7 +235,9 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 3247,2,2614,71.64,https://magiceden.io/item-details/BimxJUpj3iSMBBzgp2oMFMQtH7fGMw2ivAVuX54X59bj,None,Pink Banana,Rainbow,White Turtleneck,Angry,Chef Hat,Tongue,None
 3260,1.4,2676,77.24,https://magiceden.io/item-details/96B65q8aCoxpM7iY46A1QGNxPzo1AQUH34o4bExqhBvZ,None,Mint,Platinum,North Face Puffer,Sleepy,Trippy Headband,Rose,None
 3274,4,2368,53.22,https://magiceden.io/item-details/GRcmJL25MEXMC6dAPTQTZur9RRgQk2FoQyAcCuMsMMGs,None,Cockpit,Blue,Wife Beater,Stoned,MHAC Visor,Tongue,None
+3280,10,756,3.62,https://magiceden.io/item-details/BEUFawSfVza7prbFAeaQ2gAz7d3AFGnzPf2mx6SUyzQ1,None,Radar,Brown,Coogi Sweater,Red,Trippy Headband,Money,None
 3283,3.5,5852,35.75,https://magiceden.io/item-details/2EuGSKy61sGjg9Prn9ipbX7AFwnVcjWFp2A8V1cfGF6s,None,Steel Gray,Brown,Tie Dye Tee,Cross Eyed,Black Devil Horns,Grim,None
+3288,10,3448,0,https://magiceden.io/item-details/HXrJmrbHUodX39BXxVfYy3WvPFzFpjhJfUEoG3EvZM3X,None,Arrivals Departures,Albino,Drug Rug,Stoned,Yankee Fitted,Grim,None
 3294,1.69,2395,76.15,https://magiceden.io/item-details/8FrESsSNHdrD4FeujBBZBF1juk4TsNpfgvLAJvfemeQY,None,Radar,Cheetah,Drug Rug,Sleepy,Solana Mohawk,Fangs,None
 3302,1.75,1393,82.01,https://magiceden.io/item-details/5cw5bjNqzuCnr68mkdD997xYzBA1JKXacvJXYChrEBZR,None,Lavender,Red,Drug Rug,Blank,Brain,Money,None
 3311,1.76,1461,81.47,https://magiceden.io/item-details/F3brKMchC6CpqA4paqSAXzEaxBMNKyxjAKhmhkujcRmB,None,Blue Banana,Blue,Captain Blue,Solana,Black MHAC Headband,Tongue,None
@@ -247,9 +263,11 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 3606,0.99,4657,68.55,https://magiceden.io/item-details/6UHQZxosHvtvzBn5fMcGjKR64rSJP7ds22hxTMSe4Cbw,None,Lavender,Albino,Solana Mink,Angry,Japanese Bandana,Grim,None
 3615,1.1,2867,79,https://magiceden.io/item-details/91W21NYAAKE4vW5FGgYjggqCMMHXccxwrShjSGYeEEsL,None,Yellow Banana,Pink,Brown Mink,Red,Oxygen Mask,Grim,None
 3616,3.2,5184,43.05,https://magiceden.io/item-details/AvbVArkz1Fq79AyQUtFBgnDiWa7b3CeA8gWcUzHhxyd8,None,Remove Before Flight Black,Blue,Tie Dye Tee,Angry,Pirate Hat,Smile,None
+3620,18.5,46,0,https://magiceden.io/item-details/5nxMqXg3iHzeAyTDuxWT2DyvCXbpuaeVpuPMzZmM87bW,None,Cockpit,Gold,Hawaiian,Solana,Backwards MHAC Cap,Bubble Gum,Airplane Gold Chain
 3621,5.5,88,52.93,https://magiceden.io/item-details/631Tbs1aszr9o7akeuKQzwkXoxrtX92JXbg41Z8cBku6,Bat Wings,Sand,Cheetah,Ramp Vest,Sleepy,Solana Unicorn Horn,Bubble Gum,None
 3673,2,2326,73.49,https://magiceden.io/item-details/DrLBLayQHLt1dZtoKvo9L8ufpi3L8eu4FNdbsJEVjwS8,None,Lavender,Brown,Flotation Device,Sleepy,Military Boonie Hat,Money,None
 3691,1.969,1742,77.57,https://magiceden.io/item-details/6SFf729CdzaqnM8hEspjtzuyWCJgmVKKDHD4tEN8QtTT,None,Mint,Gold,Red Track Suit,Surprised,None,Rainbow,None
+3713,11,66,0,https://magiceden.io/item-details/EnXKxTGrRPGbQB5fLNZLZfGiKwgfhY1QLtdB65KCNcBJ,Jet Pack,Arrivals Departures,Brown,Solana Mink,Surprised,White MHAC Headband,Smile,None
 3714,2,447,85.62,https://magiceden.io/item-details/FMfBGorob71sENy4mQPd3CjvpbFytKtzaCA1iKcPjbEC,None,Orange,Red,Drug Rug,Popping,Backwards MHAC Cap,Tongue,Airplane Gold Chain
 3721,3.3,772,70.52,https://magiceden.io/item-details/FFZq4rw9rT8BwkT4BBWZcPpdJZTCT6p8hnoeXaCGAic6,None,Cockpit,Pink,Dashiiki,Red,Cowboy Hat,Bubble Gum,None
 3752,1.75,3082,71.12,https://magiceden.io/item-details/3tZ8ugxYmHZBd9xhHTSJ1SsoQrDeuMLkPDhZd8XVoBvT,None,Jet Engine,Blue,Captain Black,Popping,None,Smile,None
@@ -264,10 +282,12 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 3822,3,2412,62.94,https://magiceden.io/item-details/AbWPnYVoZfZmroMvuzUyKb7vb89LTwoXyyrxXt8q86HT,None,Sand,Zebra,Red Track Suit,Surprised,Tinfoil,Serious,None
 3828,2.1,3237,66.62,https://magiceden.io/item-details/5Aq2RGf1WHaf2MXeNwg112YvXFELMMbZsRNqhUUKQLPv,None,Radar,Red,Denim Jacket,Sleepy,Folded Hat,Grim,None
 3836,3.95,140,68.1,https://magiceden.io/item-details/4twU6bDJpGEmPBF6PdZczk2BigJEbEJjgz54nwbnnv14,None,Moon,Gold,Black Biker,Solana,NVGs,Grills,None
+3861,10,74,8.02,https://magiceden.io/item-details/7cjWK2XvbkzXKuLPmXhPX6kyfxHxG6QeBzLwkCp7vcgX,None,Deep Water Blue,Cheetah,Hawaiian,Surprised,Brain,Rainbow,Airplane Gold Chain
 3868,1.5,1395,84.5,https://magiceden.io/item-details/2HHpQAUFBEKm9mFkML7gPQLN7E5B18hRQyUzzkYgM7Nu,None,Jet Engine,Brown,Green Jumpsuit,Sleepy,None,Blue Chip,None
 3870,4,3282,47.33,https://magiceden.io/item-details/Agw8on2XWRY41v1GFzhbpYUFbovgtmJGvvVDTzSLy6yW,None,Steel Gray,Pink,Captain Blue,Sleepy,Fez,Cigar,None
 3877,1.19,2235,82.18,https://magiceden.io/item-details/8NUnqFKv6oPn7BLVEEKZwJRN8oY5hSSBzD7wXuAFMWHe,None,Pink Banana,Blue,Dashiiki,Stoned,Folded Hat,Sad,None
 3918,1.25,4763,65.27,https://magiceden.io/item-details/HmfNh5a98wnYbEbn4ZBMbWrsQPTE8rzBHe3hytGiymwq,None,Lavender,Red,Brown Mink,Surprised,Captain Hat,Smile,None
+3937,10,383,6.03,https://magiceden.io/item-details/8faELu1WZ4584T5MdY3Vs6fv9GSCwPNMZiQm2cX79R7E,None,Radar,Pink,Astronaut,Blank,Red Devil Horns,Money,None
 3944,4,299,66.57,https://magiceden.io/item-details/FbMtj4soY6u5LCmaJoSkLgKPaE89foNfQM84WD5Di16q,None,Orange,Cheetah,Flotation Device,Stoned,Psychedelic Captain Hat,Bubble Gum,None
 3971,2,5395,53.69,https://magiceden.io/item-details/2pr78xXUoUVmpg2GfVkEVTU3axsJJyXxBZscsPYSQJP7,None,Remove Before Flight Red,Pink,Drug Rug,Angry,Orange Beanie,Big Smile,None
 4013,4.5,561,59.88,https://magiceden.io/item-details/CktHuprmRF7f1fYcQ8c5ZaXP5nZoHuf3PpKZxuxWnEkq,None,Cockpit,Blue,Tie Dye Tee,Sleepy,Dunce Hat,Smile,Airplane Gold Chain
@@ -284,6 +304,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 4192,2.97,3752,54.59,https://magiceden.io/item-details/Bt4LTWxTsRUk7XUrH8cU4PdR4YGBT2uK2eeM2C6vNLJo,None,Moon,Blue,North Face Puffer,Angry,White MHAC Headband,Tongue,None
 4206,2.49,1790,72.05,https://magiceden.io/item-details/6HM2WzteCqepQWwS2mDKPZGiccRDucY4qCGRVKnHF81g,None,Aviation Red,Cheetah,Wife Beater,Popping,Chef Hat,Fangs,None
 4207,1.9,242,87.94,https://magiceden.io/item-details/5DjcUK3rY4gVXdu4hs382TJY7RRDVZUHfvbPnkBHdQBE,None,Arrivals Departures,Pink,Red Track Suit,Cross Eyed,NVGs,Grills,Dapper Scarf
+4215,15,1170,0,https://magiceden.io/item-details/CL9t7Bk7QJL341Faz5sd6Dk384kAWmBP63rXeKdSg7FB,None,Cockpit,Blue,Dashiiki,Cross Eyed,Cowboy Hat,Grills,None
 4232,0.85,3229,79.17,https://magiceden.io/item-details/2XFfiyNE1guJrdupWmzcNSFmk7PCS59uotDZNZy1gCcr,None,Pink Banana,Brown,Mafia Suit,Angry,Oxygen Mask,Serious,None
 4248,1.751,4099,64.54,https://magiceden.io/item-details/GXHkuMieiFQPxaMpuJr1mEL3Q6ETjaPusTBMzq6E8hVG,None,Mint,Cheetah,Drug Rug,Cross Eyed,Pirate Hat,Rose,None
 4267,1.2,5191,63.01,https://magiceden.io/item-details/FVyBc6UhLmR2w1GsMmKsagnKiV8eqzpqU7cfZrWKYAWT,None,Deep Water Blue,Pink,Wife Beater,Blank,Dunce Hat,Sad,None
@@ -301,22 +322,28 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 4420,2.42,388,81.8,https://magiceden.io/item-details/CtbeYHzuWKwWREFdodrszwGwRt54MZSVdK7Yo5GEjGS3,None,Yellow Banana,Brown,Denim Jacket,Red,Captain Hat,Smile,Dapper Scarf
 4434,2,2479,72.51,https://magiceden.io/item-details/FMzNYi9DQKywBeeQuP9jdNqNhpZbeG52dDPgWmEUPKDB,None,Aviation Red,Brown,Red Track Suit,Popping,Unicorn Horn,Tongue,None
 4435,1.7,4896,59.91,https://magiceden.io/item-details/252dnSbpAQaRfo18MTeWj3uiYhb24aYyffY2SMDAZqr2,None,Steel Gray,Brown,Wife Beater,Surprised,None,Rainbow,None
+4450,10.5,240,1.95,https://magiceden.io/item-details/8ND7GBTYEjUFjj2snSfK2bVxK6EVKAQsaDAVrf3LZkgL,None,Radar,Albino,None,Pink Glow,Crown,Tongue,None
 4452,1.38,4081,68.37,https://magiceden.io/item-details/8UFn2HrKcZnrytaHJuGTVhtWgw8RWYduPQTzvS7jfU5V,None,Sky Blue,Pink,Austin Powers Suit,Blank,Unicorn Horn,Fangs,None
 4517,4,546,64.98,https://magiceden.io/item-details/ASqmuV6eXffkcNxVmvjZPwKJy9CN7GcoW2UdKu5aekH2,None,Fine Gold,Platinum,Black Logo Tee,Surprised,Tinfoil,Cigar,None
 4553,6,254,46.86,https://magiceden.io/item-details/2goEqJusxectGEB1w2rAt4CwRmnUuZZVGH25M65oUAGG,None,Radar,Platinum,White Turtleneck,Stoned,Solana Unicorn Horn,Smile,Dapper Scarf
 4578,1.18,2166,82.73,https://magiceden.io/item-details/968zd2QFpLwfWXDDzfN3Gf1NBuPzUois6Ygu6ZpaPfT7,None,Pink Banana,Brown,Drug Rug,Fire,Japanese Bandana,Rose,None
 4580,1.75,1538,81.08,https://magiceden.io/item-details/BPzmaHYNa5xL3vzCAQcdsBZAA97ERAiNQX4Ys3Qfny7x,None,Deep Water Blue,Cheetah,Hawaiian,Solana,Silk Durag,Serious,None
+4588,25,18,0,https://magiceden.io/item-details/HmTDJevvcjAV2HvwBtYV4ETbSSixWSwADU3fxamxneXL,Samurai Sword,Remove Before Flight Red,Zebra,Black Logo Tee,Angry,Pirate Hat,Serious,Dapper Scarf
+4616,2.05,1027,81.37,https://magiceden.io/item-details/FWJmo3qpCC1LS4kSaxun1NmcRBaVGNr3xoU62HTyzX8v,None,Mint,Red,Denim Jacket,Angry,Silk Durag,Grim,Airplane Gold Chain
 4624,1.75,2979,71.78,https://magiceden.io/item-details/JVdKrRwpcoq3Ptn5tiaLZCEz1mLjSFULuh7SSHoR8cq,None,Orange,Albino,North Face Puffer,Surprised,WW2 Helmet,Money,None
 4625,6.9,282,37.68,https://magiceden.io/item-details/EdrKNCUjexRcvJ1BG8L3hcvBnZfQDGLNcgfQC3HnZLC4,None,Remove Before Flight Red,Red,Wife Beater,Laser Eyes 2,Solana Unicorn Horn,Big Smile,None
 4630,1.75,2728,73.4,https://magiceden.io/item-details/FJi9SzHrPtiRR5g6SefSjY8BV7Ur4Fq6qmwPVz5pi6FM,None,Orange,Cheetah,White Turtleneck,Angry,Red Devil Horns,Rose,None
 4644,4,135,67.63,https://magiceden.io/item-details/2TJXjvhCtwqgZntt85Zm6nxn6BPeWbvjLA7g4T3UB33w,Bat Wings,Blue Banana,Zebra,Black Logo Tee,Black Eye,None,Big Smile,None
 4654,2.1,6029,48.6,https://magiceden.io/item-details/DJb2CL4fjTmC1bW7sn3BoV7cFHpr8gqfMjX3TkdnYxCF,None,Blue Banana,Pink,None,Black Eye,None,Smile,None
+4662,10,1120,1.27,https://magiceden.io/item-details/Aq4Ez8HPzQyYiAoBbYw9oLUgDquqWRMiPbWzvvf3V78D,None,Deep Water Blue,Platinum,Captain Black,Sleepy,Trippy Headband,Cigar,None
 4687,5,1292,50.16,https://magiceden.io/item-details/9LL75YHGhmgpGv6ouxgtAM91v4niLrhLdYZpy1iYcxfZ,None,Aviation Red,Gold,Tie Dye Tee,Surprised,Military Boonie Hat,Cigar,None
 4704,1.9,5816,51.98,https://magiceden.io/item-details/EMANk6YKG6dF8RGQqPcChbhWYFBBLvCy2dC6toxy9Vrx,None,Fine Gold,Pink,Hawaiian,Cross Eyed,None,Tongue,None
 4713,0.9,3364,77.8,https://magiceden.io/item-details/5FPoEupqHGwyqp7VSfGdVYr3UqNyYE8X31Frz52cyN3f,None,Lavender,Zebra,Blue Angels Jumpsuit,Cross Eyed,Fez,Sad,None
 4716,1.85,1210,82.19,https://magiceden.io/item-details/CncLgufwTWW83sjZJbsjch8ogmiDQ4nyQpxcCeK4JZZU,None,Aviation Red,Brown,Tuxedo,Fire,Pirate Hat,Sad,None
 4757,1.85,1540,80.06,https://magiceden.io/item-details/AHxxkCygzh6EnZXzovxEAuB9XK41wHtRLaWamPiQAcxv,None,Pink Banana,Blue,Austin Powers Suit,Pink Glow,MHAC Visor,Grim,None
+4770,9,1943,5.96,https://magiceden.io/item-details/BgT3uCsCaSQCzVgYuYXT9nS5Q94tN3M7xhC4ERov4VDF,None,Mint,Brown,Astronaut,Cross Eyed,Trippy Headband,Fangs,None
 4808,1.9,3627,66.1,https://magiceden.io/item-details/62WSfg3gFHYfGgVbSMcnb6gzAhqFj1gxPJdjCSs8v23A,None,Fine Gold,Red,None,Black Eye,WW2 Helmet,Sad,None
+4835,22,95,0,https://magiceden.io/item-details/F6AjbyndLQ9k4op5JiVNe6fEqdyX3YyLNE8F8xePCnb3,Bat Wings,Orange,Brown,Denim Jacket,Black Eye,Backwards MHAC Cap,Fangs,None
 4880,2.2,3761,62.24,https://magiceden.io/item-details/8YBhDFZ1tMbZcyAtAewgooVnBx62LKKwR1K6WdBRAEZV,None,Lavender,Albino,White Turtleneck,Blank,MHAC Cap,Tongue,None
 4882,1.75,5479,55.65,https://magiceden.io/item-details/6VjuPf9wumqCmbkSgF5NXoX44HjFXktSp5zp4wHSq7DR,None,Sky Blue,Blue,Black Logo Tee,Angry,Green Mohawk,Serious,None
 4883,1.75,6137,51.41,https://magiceden.io/item-details/BuWLmYZ1pRjNCbyATy5reULx5AtvGwj1dNCq4WD7HW3w,None,Remove Before Flight Black,Blue,Tie Dye Tee,Cross Eyed,None,Smile,None
@@ -325,6 +352,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 4916,2.8,506,77.24,https://magiceden.io/item-details/5kSRXVKZsiJUfm37ZbXB3iZVvNHeEZjw3MgjL7EJ1tF3,None,Pink Banana,Gold,North Face Puffer,Black Eye,TopHat,Smile,None
 4919,2.5,4935,51.66,https://magiceden.io/item-details/Sa66fmSjG6PHSWAPJjrwg6gnrSrH8FjdPGSuHw92iKc,None,Lavender,Blue,Captain Blue,Blank,White MHAC Headband,Smile,None
 4921,1.8,4690,60.24,https://magiceden.io/item-details/7fCQyZP4zHTvH2acVgznUU8QMQJpqhf971TnQaf7Ameo,None,Steel Gray,Pink,Drug Rug,Black Eye,Banana,Smile,None
+4924,12,11,0,https://magiceden.io/item-details/FQpvkVobkXR9u95APZmgFvo5pK82Brwe1gvUevrPMGn9,Lightsaber,Remove Before Flight Red,Solana,Hawaiian,Blank,NVGs,Tongue,None
 4929,2.5,4909,51.83,https://magiceden.io/item-details/FdqCGnbdjQt3DWyWN87SJfKavJHRH7kJi15fMp3PWbbs,None,Jet Engine,Blue,North Face Puffer,Blank,Japanese Bandana,Tongue,None
 4940,2.5,2021,70.46,https://magiceden.io/item-details/FS7HxziYHcjRXURjCSivga8Jw7C2zHs1LbvSDn2FiSnR,None,Sand,Gold,Tiffany Biker,Sleepy,Backwards MHAC Cap,Tongue,None
 4954,2,3045,68.85,https://magiceden.io/item-details/EPsc5UY6VvCxg3X48YmAfTcz9r7C7GHx5PWS9qWXrsjC,None,Remove Before Flight Black,Red,Tie Dye Tee,Red,Backwards MHAC Cap,Serious,None
@@ -335,6 +363,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 4985,3.5,1080,66.53,https://magiceden.io/item-details/4x2kcE3RqErpskPmG29nAfPFr2H64ptJmKfiKryvKa3i,None,Deep Water Blue,Pink,White Turtleneck,Popping,Ram Horns,Big Smile,None
 4987,2.3,838,80.09,https://magiceden.io/item-details/6GbfjotQjzKKvLkmZ8AW7d9A5vkZULU3DxFCjiubZFeG,None,Aviation Red,Zebra,Black Logo Tee,Cross Eyed,Japanese Bandana,Fangs,Dapper Scarf
 4994,2.3,4470,56.66,https://magiceden.io/item-details/5X6pvCU9r2mM5CAEECswhSuPN62GFTnnFGtfGXLijPSf,None,Sand,Pink,Captain Blue,Blank,Trippy Headband,Tongue,None
+4998,13,68,0,https://magiceden.io/item-details/C6nHJ1t4i4pEr4PgcDLxPKaRKjSvcRqfQKkUsfTw5SQv,None,Fine Gold,Albino,Captain Blue,Angry,Medusa Hair,Platinum,None
 5007,2,3163,68.09,https://magiceden.io/item-details/EPfHW2AUjfH3hTDcDr7qMyWXEtBzKjEQTVeMuzyjZ5Rb,None,Deep Water Blue,Cheetah,Captain Black,Angry,MHAC Visor,Fangs,None
 5014,2.8,2346,65.36,https://magiceden.io/item-details/6AtKKwyB3Ga6BiMeFT2aGt6Fbr2KrcyokhNMsaYodjNk,None,Deep Water Blue,Albino,Brown Mink,Popping,Oxygen Mask,Big Smile,None
 5018,3.5,1968,60.8,https://magiceden.io/item-details/FnHbBu723Adk1DFyNw9izv924ii5o4Rmw9QHmqLLcaVK,None,Sky Blue,Red,Blue Angels Jumpsuit,Red,Folded Hat,Big Smile,None
@@ -364,6 +393,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 5230,0.9,3837,74.75,https://magiceden.io/item-details/4kQziinKTWBGrMJ7XQMwubqhkc9HrHWEXmxPTwCPP4yb,None,Lavender,Cheetah,Bomber Jacket,Cross Eyed,Black MHAC Headband,Bubble Gum,None
 5231,4,751,63.65,https://magiceden.io/item-details/9DSqw3hDEUdMtiv3LJGLReUgvgeGRf1CzT28AQN5dDh6,None,Mint,Brown,Black Logo Tee,Black Eye,Black Devil Horns,Sad,Dapper Scarf
 5266,2,1624,78.02,https://magiceden.io/item-details/6y4Kt9B8rDiDVZSQBTotTSZ1DRGMs11iUVMFFpEK7bYJ,None,Blue Banana,Albino,Denim Jacket,Black Eye,MHAC Cap,Fangs,None
+5276,30,600,0,https://magiceden.io/item-details/A69eNGDN4LCxzEjisUo3t7oHZw8KBZE52XyymiYKe2XF,None,Sand,Pink,MHAC Hoodie,Stoned,Unicorn Horn,Big Smile,Dapper Scarf
 5286,7,974,32.22,https://magiceden.io/item-details/6RcERPmVoz4XML4fdccimYGRwcwWnNrgHHVvX1oCoPJp,None,Radar,Platinum,Brown Mink,Red,Pirate Hat,Serious,None
 5319,2.3,4881,54.01,https://magiceden.io/item-details/3YHxYvgNNrtZvdJkqtLnWGUTzfM5d6mnxP64wavxdkLp,None,Aviation Red,Brown,Tie Dye Tee,Black Eye,Chef Hat,Grim,None
 5329,1.75,2239,76.55,https://magiceden.io/item-details/4gZAYerUCRxaA72tETKuzMxF3n9MMsC7jgWbjHSZm7D6,None,Arrivals Departures,Zebra,Red Track Suit,Blank,None,Cigar,None
@@ -397,6 +427,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 5707,1.3,3669,71.83,https://magiceden.io/item-details/AcHtcbGVL5NKGVbExM2PmQDCySy8hgJqCuDpw8SjVWkt,None,Remove Before Flight Red,Blue,White Turtleneck,Black Eye,Black MHAC Headband,Sad,None
 5718,1.75,3973,65.37,https://magiceden.io/item-details/A5BsKzuUVTSXnsMAKGZvNrCro1C6EmJGa5XaVq5QS8UR,None,Yellow Banana,Red,Green Jumpsuit,Cross Eyed,Bose A20s,Big Smile,None
 5732,1.75,5306,56.77,https://magiceden.io/item-details/DTm2sScnu5cqkJGJBudYU7ULZMDT83UV3UYZZagpSppv,None,Orange,Blue,Tie Dye Tee,Angry,Folded Hat,Grim,None
+5733,9.99,755,3.73,https://magiceden.io/item-details/H6ksVnEfq2iTYEQy1v2q1T76cgqevBaSyawYx7hronBr,None,Blue Banana,Pink,Hawaiian,Surprised,Crown,Serious,None
 5749,0.9569,4363,70.78,https://magiceden.io/item-details/9aDdk4XNLR32Kq1CVynM2ahD3zk6mmSp9iQve1SsDsit,None,Deep Water Blue,Cheetah,Ramp Vest,Sleepy,Silk Durag,Sad,None
 5755,1.75,5983,52.4,https://magiceden.io/item-details/5fKopEnNkNS3FRAJoqRxrSzzndfedh55z2uFp9k3fzLD,None,Steel Gray,Cheetah,North Face Puffer,Surprised,None,Rose,None
 5791,1.09,5144,64.41,https://magiceden.io/item-details/AQFAfN8x8i4hBbm2DzKjZmLcxoQHLqZsNegwdYZWsxi2,None,Lavender,Red,Captain Blue,Angry,Backwards MHAC Cap,Tongue,None
@@ -414,3 +445,4 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Clothing,Eyes,Hat
 6077,6,624,44.47,https://magiceden.io/item-details/4niAUg46VhxApn7bbhRYMFjUVpY78T46JU2xrKfRk1JK,None,Lavender,Albino,Mafia Suit,Surprised,Backwards MHAC Cap,Smile,Dapper Scarf
 6150,1.75,2473,75.05,https://magiceden.io/item-details/BdNFx4ADSQAutM8nHbykC5NnDnE9jg8cAhn6qBycSKea,None,Jet Engine,Zebra,Black Biker,Surprised,None,Grills,None
 6155,3,2696,61.11,https://magiceden.io/item-details/EEEn1KrECEBqzbrppuotacj5bKewkUCufkD2WMVhwfBv,None,Blue Banana,Gold,Brown Mink,Cross Eyed,Backwards MHAC Cap,Tongue,None
+6191,12,623,0,https://magiceden.io/item-details/4RSrjZwKfB8nH4DdiSrRQpEoDGXCNXggswfxPMAmrFkK,None,Deep Water Blue,Pink,Coogi Sweater,Stoned,Halo,Serious,None
