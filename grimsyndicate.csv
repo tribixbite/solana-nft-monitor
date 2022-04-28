@@ -28,6 +28,7 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 550,30,2435,0,https://magiceden.io/item-details/HyA3TSiBwbD6MLWZgt9Up8kEK61Zh472jugmXc4jPBgN,None,None,Yellow,Gray - Side Open,Hanging Charms,,Red Visor,Beanie,Mustache,None,High-Collar Robes
 561,18,4379,0,https://magiceden.io/item-details/CgXQgfHAXpWgf3GSGzvKPsG6vzPfqwt5WbpgJbUv46WZ,None,None,Fuschia,White - Open,Hanging Charms,,Angry,Conductor's Hat,Mustache,None,Tanktop
 575,22,1815,0,https://magiceden.io/item-details/HazDjUNrWxWkEvk6AXnx8HFgezksev7g7m2uyUo7mnMb,Oerberus Halo,None,Sky Blue,Blue - Toothy,Freckles,,Default,Beanie 2,Triangular,None,Collared Shirt (Green)
+583,25,1512,0,https://magiceden.io/item-details/HEF4oTEgKyiVNHKxTtPQg6dYjoNDJKU8dSQcC5a7fBWB,None,None,Pink,Robot - Default,None,,Eyepatch,Flat Bill Cap (Coffin),Heart,Surgical Mask,Turtleneck (Red)
 591,18,8574,0,https://solanart.io/nft/8eKVpqXWy4LtcwFUcw8wBBm8yfwZ5MD4Wchyi5LPkYRu,None,None,Aqua,Purple - Toothy,None,,Closed,Tiny Crown,Narrow,None,80s Jogging Jacket
 633,18.99,7496,0,https://magiceden.io/item-details/DhLbBXQ3iwn49TGk4gNMxGANonZEUxoUTXNV22WAJX59,None,None,Fuschia,Blue - Cigarette,None,,Bored,Dad Hat,Heart,None,Astronaut
 654,19,1207,0,https://solanart.io/nft/J1mKPHPNd9Xs4gbNFqJN6SykheCXCLxHCCe4Q9FJ1zfQ,None,None,Red,Silver - Default,Sigils,,Superhero Mask,Trucker Hat (Purple),Narrow,None,Astronaut
@@ -54,7 +55,6 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 945,28,1686,0,https://magiceden.io/item-details/BSQyKGBXk44EdqTmuQRxsdrN2LDHwyhQZRDjsg83BTGR,Crucifix of the Maligned,None,Sky Blue,Blue - Cracked,Freckles,,Monocle,Cycling Cap,Double-Barrel,None,Tanktop
 947,29,1822,0,https://magiceden.io/item-details/9v7Lpxr4hme8QvWaGiBDWX8EMwG7tJaD7QEgNAkKn41j,Herald's Halo,None,Aqua,Yellow - Lockjaw,None,,Monocle,Headband,Heart,None,Combat Armor
 959,13.99,6083,29.11,https://magiceden.io/item-details/5CoK8QD1VZy9JoX8ofAQWmTxrRFVTXFRK4WvAnZYkZ65,None,None,Yellow,Black - Gold Tooth,Piercing (Right),,Sunken,Ballcap (Planet),Heart,None,Basic Tee (White)
-982,10.7,2077,78.07,https://magiceden.io/item-details/J4imiBvb6mi2nPHGTWv2dqBGQ88Tvdgp8briux5koBSx,Crucifix of the Maligned,None,Fuschia,Gray - Lockjaw,None,,Cyclops,Bowler,Default,None,Hoodie (Purple)
 987,30,5677,0,https://magiceden.io/item-details/8NARGf15Ju5JC124W9ggAYwEx6ViUr3obQTiF5TKYhQx,None,None,Purple,Galactite - Default,None,,Possessed,Halo 2,Piercing (Hoop),None,Basic Tee (Yellow)
 993,35,4829,0,https://solanart.io/nft/24Htq1Kx5Sz27vQ25Yq12dcByb6Dpy5jxKTwcXofb4m4,None,None,Yellow,Gray - Cigarette,None,,Occular Tech II,Beanie,Piercing (Studded Hoop),None,Bowtie
 1060,15,8818,8.05,https://magiceden.io/item-details/BNTfDdAZb8BG72z9BBqAqoJ4RKTGQXo3cHyKSgkio3Vg,None,None,Aqua,White - Lockjaw,None,,Glasses (Half-frame),Glowing Power Gem,Double-Barrel,None,Collared Shirt (White)
@@ -382,7 +382,6 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 6387,12.9,9377,26.81,https://magiceden.io/item-details/BTa6puFks3tWkfoSGgPvBY1iWAH1yiYao5ALxvK7hdJT,None,None,Slate Gray,Purple - Side Open,None,,Feminine,Sailor's Cap,Triangular,None,Collared Shirt (Gray)
 6413,18,4238,0,https://magiceden.io/item-details/HvfjnEfK9a1eThgfv3hqaTDjZoBW1yV8T62nj5aFUdw6,None,Soul,Bone,Green - Open,None,,Blindfold,Ball Cap (Skull),Triangular,None,Turtleneck (Red)
 6463,24.2,5276,0,https://magiceden.io/item-details/D6vA9df8hYbeHCsv96tHcbbfFeC2cZZznbWR89AKAQm4,None,None,Blue,Slime - Default,None,,Googles,Conductor's Hat,Heart,None,Overalls
-6504,10,7577,63.03,https://magiceden.io/item-details/59iiNq3PNixgRNBRErrs1qAepFoQYK9sRkaJSv1KmMfj,None,None,Deep Gray,Black - Gold Tooth,None,,Bored,Trucker Hat (Dusty),Heart,None,Bowtie
 6514,20,5960,0,https://magiceden.io/item-details/7js5GqDW92dpFYLjmexowBi1hRHSJxuNjMfns3oCHEL4,None,None,Deep Gray,Blue - Lockjaw,None,,Closed,Serow (Infernal),Default,None,Basic Tee (Blue)
 6549,24.2,5538,0,https://magiceden.io/item-details/HnU9NuvZbKNpG4VLRLqguZjoFs25CF7S8fazCcpJnNyr,None,None,Purple,Slime - Default,None,,Cyclops,Fedora,Heart,None,Collared Shirt (Green)
 6551,25,6596,0,https://magiceden.io/item-details/CvrSk3RT3qKZKQFH7cUUx37EpMTKxkBfX9JvDePqsZrt,None,None,Blue,Green - Default,None,,Button Eye,Ballcap (Night),Narrow,None,Blade Runner Jacket
@@ -417,6 +416,7 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 6941,13,7452,33.53,https://magiceden.io/item-details/5vjxCLosHujyUwqcaq5uMKNHBW5QEsYJgwuXgVE4nzQD,None,None,Aqua,Red - Default,None,,Coins,Horns (Small),Piercing (Hoop),None,Basic Tee (White)
 6943,33,7676,0,https://magiceden.io/item-details/42AjcmST8Jfyq88P5oqLBtdTwVajRs3Dv2XRzPqHo6sb,None,None,Bone,Blue - Cracked,None,,Monocle,Backwards Hat,Piercing (Studded Hoop),None,Tanktop
 6950,40,1457,0,https://magiceden.io/item-details/83Lb4iQCSQw5whHo4VdRDf9Hs8e8bj5beGNp2oZFxTAB,None,None,Sky Blue,Gray - Cracked,Piercing (Right),,Closed,Halo 2,Double-Barrel,Bandana,Basic Tee (Blue)
+6970,11,4145,66.78,https://magiceden.io/item-details/7asuTbAKp7kwATVzPYDJiLGAkcNURS6fyPgfjHPVfjUK,Draelic Nimbus,None,Fuschia,White - Open,None,,Bored,Ornamental Circlet,Narrow,None,Basic Tee (Blue)
 6986,16.99,2564,13.22,https://magiceden.io/item-details/99jbxsBkco6vs8RgEe6yKsFxS5gypxkUZcSJTLKbLb59,None,None,Green,Yellow - Fangs,None,,Eyebrow Raise,Fez,Heart,Goatee,Basic Tee (Purple)
 6998,15,9589,4.96,https://magiceden.io/item-details/EZgLtCU5XDDbG7S6JwHwRJgauqztiZwpQ1VvHo2G75vs,None,None,Slate Gray,White - Fangs,None,,Eyeballs,Tilted Halo,Double-Barrel,None,Basic Tee (Black)
 7012,13,6198,38.55,https://magiceden.io/item-details/2o4ZFBoDCntLp4LPdCnfzo53LPdzwAt8aq7KjzV2TkWf,None,None,Green,Red - Gold Tooth,Piercing (Right),,Glasses (Half-frame),Conductor's Hat,Default,None,None
@@ -452,6 +452,7 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 7433,65,2399,0,https://magiceden.io/item-details/8kdyf3moJmTkczJRZpnDypbhsMHEyzw8MJjaowUmDq9T,None,None,Pink,Robot - Default,None,,Sunken,Bowler,Triangular,Gas Mask,Hoodie (Pink)
 7435,17.86,3240,1.81,https://magiceden.io/item-details/2R7DqyHUzFFZweT7VHGn8rR4i5ixTPx9NfgtGvWFPcP2,None,Soul,Deep Gray,White - Toothy,None,,Blindfold,Flat Bill Cap (Adventure),Piercing (Studded Hoop),None,Basic Tee (Black)
 7440,18,3518,0,https://magiceden.io/item-details/2p6Fu8DXjwJunjTLjGsakZELFYWi9Ka5JiQBPdBAE8gv,None,None,Fuschia,Red - Sewn,None,,Double Button Eyes,None,Heart,Reaper Hood,Robe (Blue)
+7445,10,3910,77.73,https://magiceden.io/item-details/38qow2msbHjMfCjnwvgUDHet7XDMk7uw9wPAmDT5TFRJ,None,None,Red,Gray - Sewn,Sigils,,Feminine,Fedora,Piercing (Hoop),None,Tanktop
 7461,22,6397,0,https://magiceden.io/item-details/3aM92rs2bDcM4aVqRbW6uJkATEJiQPrwQJLFYnVDrkFy,None,None,Deep Gray,Gray - Default,None,,Coins,Viking's Helmet,Piercing (Barbell),None,Hoodie (Gray)
 7476,100,3141,0,https://magiceden.io/item-details/7h8aTr2f88VWk4HqCAHqvhX2EtZ3HCQxeK5C2ozY3Z3o,None,None,Aqua,Ornamental Automaton - Default,None,,Eyebrow Raise,Cyberpunk Hat,Piercing (Hoop),None,Cyberpunk Jacket
 7494,35,9500,0,https://magiceden.io/item-details/4sMBp4yTZJ6wWKxrHCdp69uWReME5a3DjGLCjscEmUM1,None,None,Blue,Yellow - Lockjaw,None,,Feminine,Stapled Dome,Default,None,Tanktop
@@ -552,7 +553,6 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 8702,22,5503,0,https://magiceden.io/item-details/6P5uJTduq2mRVGWCmE1yzRUF8y5KRVPW9NvuUs8gFrBW,None,Soul,Yellow,Red - Cigarette,None,,Closed,Beanie 2,Narrow,None,Collared Shirt (White)
 8720,340,133,0,https://magiceden.io/item-details/CbEVJhfq8pvBidg1uAz3EZgk4UcKJZJjCt4sTnFwrwiD,Sheathed Sword,Harrow Staff,Purple,Ancient Cthulhu,Runic Marking 5,,Scholar's Eyes,Crown,Default,None,None
 8727,24,1147,0,https://magiceden.io/item-details/CGDv9DLvM1nTdwQj9CaaYbX1nwowuAwqFbjy6VynFyoo,None,None,Blue,White - Fangs,None,,Scope Technology,Glowing Power Gem,Double-Barrel,Goatee,Hoodie (Red)
-8730,9.35,2271,90.8,https://magiceden.io/item-details/Gc3grrM1s81T3D54AfLrVhBoA5x59hLx3BJQBgpEfaFi,None,None,Deep Gray,Green - Fangs,Face Tattoo,,Monocle,Dad Hat,Default,None,Samurai Armor
 8768,18.88,4172,0,https://magiceden.io/item-details/ArAzBifYAj5jzsHY4wHs9jP4rrSd4WFZvHRVSWxmKMxZ,None,None,Aqua,Purple - Toothy,Freckles,,Eyeballs,Star,Piercing (Barbell),None,Blade Runner Jacket
 8788,15,1828,36.07,https://magiceden.io/item-details/FQVvxCqgdGbmtwNkQCJnxw9QRL1uxo23NpkYG3TrX5fq,None,Harrow Staff,Deep Gray,Yellow - Lockjaw,None,,Eyepatch,Halo 2,Piercing (Barbell),None,Basic Tee (Yellow)
 8792,23,7905,0,https://magiceden.io/item-details/AaRvn2foG6i9uSk5ADDXtadFUoev7sky3aFaYGSzcjAg,None,None,Deep Gray,Green - Lockjaw,None,,Sunglasses (Big),Horns (Small),Triangular,None,Basic Tee (Blue)
