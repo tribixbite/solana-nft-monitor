@@ -19,6 +19,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Border,Equipment,Eyes,
 789,10.4,7883,49.61,https://magiceden.io/item-details/t4THB5ZcCqUKY9PBJrFgA9r962YRJP1Z9TZcqssGm62,Sky,Brown,Silver,Popsicle Stick,Shocked,None,Golden Circlet,Pink,O,Common,None
 901,12.8,6988,28.83,https://solanart.io/nft/4C7Kp9yEBo4nkxLu1tGhmbgzUcwot9fqXgq54WpXLC7B,Sky,Cream,Silver,Joystick,Crying,None,Backwards Cap,Purple,Grin,Common,None
 945,999,5660,0,https://solanart.io/nft/GqecZ4eUd4HaQYAkL3gpY9m69AuW7c2G1S1NTJir9Dhq,Night,Tabby,Green,Balloon,Shocked,Bitcoin Glasses,Knife,Pink,Sad,Uncommon,None
+969,9.7,10798,46.11,https://solanart.io/nft/HT64x5thiHFLWF9WsVc2N8E6Z6SNKK4XvWb1tmSRLf2i,Night,White,Silver,Balloon,Shocked,None,Trump,Blue,O,Common,None
 1017,19,4561,0,https://magiceden.io/item-details/83jsi2fy9GdZkjowVufKm43PjdqLe6r7Jofan8nLbYag,Night,Grey,Green,Cookware,Lazy,3D Glasses,Wind-Up,Silver,Grit,Uncommon,None
 1040,50,6776,0,https://solanart.io/nft/CJczvxCEm5CzA8a2u9kYyUAydPeEste4HgUYJ4v7pJ9m,Sunset,White,Silver,Joystick,Stern,None,Backwards Cap,Pink,Drool,Common,None
 1084,2100,355,0,https://solanart.io/nft/3Msxh6xCJhSsacLep8QynpEZFj9FZrF7aw3zx7Rp7kPu,Mountain,Rainbow,Gold,Souls,Dread,Cyclops Blue,Bird Cage,Dark Guardian,Vampire,Legendary,None
@@ -186,7 +187,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Border,Equipment,Eyes,
 8316,75,4299,0,https://solanart.io/nft/8twZJcs8p3nHQENr4g61mTQfA96ApGFfb2CmYmfXgyzT,Night Clouds,Tabby,Green,Pinwheel,Stern,Sleeping Mask,Beret,Blue,Pout,Uncommon,None
 8334,69,484,0,https://solanart.io/nft/7a8PXGsSvbFi1xkH9QzU82uj4fMJiuLEq2BthHzzDg7N,Lo-Fi,Rainbow,Pink,Alien Antenna,xD,Gear,Bone Helmet,Ruby,Fish,Ultrarare,None
 8346,15.97,1469,17.01,https://magiceden.io/item-details/8ciydaBeYNBvqmTc9gNgyPr3qwnX7vzvwCRPwJ3YtYHu,Desert,Aqua,Teal,Cat Paws,Tiny,Party Glasses,Mohawk,Obsidian,Canine,Rare,None
-8368,99.9,190,0,https://magiceden.io/item-details/984uXPyAddZc6cGyrFFAq64BtzKFNHAap8WyFZCxGHTS,Lo-Fi,Silver,Gold,Nature's Staff,Crying,Ski Goggles,Light Mech Ears,Dark Guardian,Light Ninja Mask,Legendary,None
 8494,20,1517,0,https://magiceden.io/item-details/6zoTa6CYfGUyykEgeZxKwbKAMFJhx9XPUCFSqCDYJMTL,Night Clouds,Aqua,Teal,Chains,Sparkle,Gear,Cat Skull,Neo Tokyo,Tie,Rare,None
 8522,9.99,8589,51.16,https://magiceden.io/item-details/HgQdscDZF44ghFtyDvPHUNtqd76RrR6BYTduwQDwnt7F,Night,Cream,Silver,Fork-N-Spoon,Stern,None,Backwards Cap,Pink,Pout,Common,None
 8554,9.9,11105,43,https://solanart.io/nft/8occNH5ufisQZ1Hqruw5SAjNjMH22LnLgLR4bW66WLXG,Sun,Grey,Silver,Art Supplies,Pleading,None,Sweatband,Purple,Sad,Common,None
@@ -231,7 +231,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Border,Equipment,Eyes,
 10669,22.879999,2238,0,https://solanart.io/nft/Ch9iv75ctB5Cm3jBTgR9mq5fpUS1iNtYuhgBFu3B8LSF,Sun Clouds,Tabby,Teal,Trophy,Regular,Thuglife,Mech Earphones,Neo Tokyo,Ribbon,Rare,None
 10723,100,5167,0,https://solanart.io/nft/5nJ1pebUVQ4bHDsCKbRe22ftCuNdu7sTmwQB38b257UK,Night Clouds,Brown,Green,Art Supplies,Sparkle,Glasses,Mohawk,Blue,Grit,Uncommon,None
 10834,50,2414,0,https://solanart.io/nft/HieRQ89w6pkT9b3zHa7ggXDP8UHbwaKxTqLzoXJQVSsw,Sunset Clouds,Grey-White,Teal,Cat Paws,Sparkle,Glasses,Cat Skull,Rust,Barf,Rare,None
-10916,10.45,7320,51.13,https://magiceden.io/item-details/5SscX3ySg6ZVecd4yhtZyArGWJfK7tPuuyTq3FQUbCyE,Sunset,White,Silver,Balloon,Lazy,None,Leaf Circlet,Blue,Kiss,Common,None
+10916,9.8,7320,57.63,https://magiceden.io/item-details/5SscX3ySg6ZVecd4yhtZyArGWJfK7tPuuyTq3FQUbCyE,Sunset,White,Silver,Balloon,Lazy,None,Leaf Circlet,Blue,Kiss,Common,None
 11038,60,956,0,https://solanart.io/nft/3PtXZoetzn8AbUP7NQDT4mMHdMy2BAB5MJyeNCQy193y,Lo-Fi,Fox,Pink,Ruby Rod,Sparkle,Visor,Valkyrie,Neo Tokyo,Tie,Ultrarare,None
 11040,21,2461,0,https://solanart.io/nft/2gsTipjYN24MdtwLh5nwTBSc3XMvRhsBxMwYagwPuxNu,Sunset Clouds,Orange-White,Teal,Trophy,Stern,Thuglife,Afro,Opal,Shark,Rare,None
 11054,20,2990,0,https://solanart.io/nft/3vgRoh44RgDe6egzdMkKaeDQdGVVWTGTevXDkbt5Ep7e,Sunset Clouds,Cream,Green,Pinwheel,Lazy,Thuglife,Wind-Up,Obsidian,Grit,Uncommon,None

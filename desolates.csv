@@ -38,7 +38,6 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 287,39,438,0,https://magiceden.io/item-details/AVHcGSTZHNz6kAhor8cCCwjKwCc3RaVa5PQAX3vsMM5x,normal,1,mars,0,,low,left,many,flat,none
 295,33.3,84,0,https://magiceden.io/item-details/AhAKgUreadXKh2DZpzP6yyGYedayh3Exbyq9NjdvnhFU,weak,1,hoth,0,,high,0,gone,hilly,none
 303,8.5,6136,42.09,https://magiceden.io/item-details/B8om5g8B66JjRiKpX3x7ewBxGJKXVquLciU2V91Lkfgk,normal,1,nighburn,0,,high,left,m,rocky,none
-303,8.5,6136,42.09,https://magiceden.io/item-details/B8om5g8B66JjRiKpX3x7ewBxGJKXVquLciU2V91Lkfgk,normal,1,nighburn,0,,high,left,m,rocky,none
 306,69.42,34,0,https://magiceden.io/item-details/3oSYTLRJUYGgJ9cvxdbSFHET9tRRJ6ERfMXhhHnjqN91,normal,1,lumenk,0,,low,0,gone,rocky,snow
 316,55,23,0,https://magiceden.io/item-details/BknRyQsFnGGjhL4Db1mt8EmkZyJjHtYqNFTcYDYMUTTq,normal,3,greenmoon,0,,none,0,gone,rocky,none
 321,33.3,312,0,https://magiceden.io/item-details/55A3sZdejkKu4VivEEwxMfxwCmDhWSJXbATKPgoNvrqn,normal,2,hoth,1,,none,left,m,flat,snow
@@ -79,6 +78,7 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 0802,7.99,4549,56.71,https://magiceden.io/item-details/2hSVeunegczJ2DXiPkJ7niNuyt5hJKEQYRR7jQk2fXHg,normal,2,inferno,1,,high,center,m,desert,none
 0818,35,5274,0,https://magiceden.io/item-details/DgyYSxF1eSrJtybpgw9A1axLhfnCTPBviZ2tXryJ3FzR,normal,0,readydesolateone,1,,high,right,s,cliffs,none
 0822,7.45,4698,61.21,https://magiceden.io/item-details/48msBCX6pdKQwFRamn7cZDE8XsPTKGX56yTxK5R6GkVj,normal,1,cixxin,0,,high,center,m,hilly,none
+0856,9,816,69,https://magiceden.io/item-details/AtvzkgHV773TkCDJwdqKMrqBsz7MVUrLmvR5TBVeXzKb,weak,1,inferno,0,,none,left,l,desert,none
 0859,6.79,6320,58.08,https://magiceden.io/item-details/9oQj2DyvPN1RQeyDtdd6mksrwcqtVD2Uqtm9vKWyacBW,normal,0,godmademedoit,1,,high,left,l,hilly,none
 0888,6.8,6501,56.9,https://magiceden.io/item-details/BvX6akjtGvtRybiiGgDrMcMGF8jUfdhAaxRJCqzZQZWZ,normal,1,magmark,1,,high,left,m,cliffs,none
 0904,9.75,6013,30.32,https://magiceden.io/item-details/EfhGDNqpHAztx5pi3oPTazHGSu4ThinTaJjJap5c3NYk,normal,1,godmademedoit,0,,high,left,s,desert,none
@@ -156,7 +156,7 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 2004,8.798,3769,53.31,https://magiceden.io/item-details/Hn1RiKeHFyPBSt6GsY425Jh1MsDdpvknnbH5zv1ioNkD,normal,1,readydesolateone,0,,low,center,m,desert,none
 2005,10,4951,34.2,https://magiceden.io/item-details/BUXk6PFyfwv1e7AuiyC9mLchAAnKDzrdc8pNqYLB4axg,normal,0,lumenk,0,,high,center,l,hilly,none
 2028,12,6290,6.16,https://magiceden.io/item-details/HEfkA3xRcvzNYrn4Bcqr77x1JEMfut26ViGNo5uWvjYW,normal,2,nigh,1,,high,center,m,cliffs,none
-2038,8,6245,46.43,https://magiceden.io/item-details/3fSRYzRU5TEMTraJLfP5CTb9FkEm2BhheGqmHU7m5CSx,normal,2,death,0,,high,left,m,cliffs,none
+2038,7.9,6245,47.43,https://magiceden.io/item-details/3fSRYzRU5TEMTraJLfP5CTb9FkEm2BhheGqmHU7m5CSx,normal,2,death,0,,high,left,m,cliffs,none
 2053,10,2872,46.67,https://magiceden.io/item-details/5qvqyXGDncHCp5NZVssp7GVqbw1pxWr6jN8fc3xMEv7L,normal,0,xurk,0,,high,right,m,desert,none
 2074,100,4646,0,https://magiceden.io/item-details/HqbFaVvxkp4pEx3Lo7gJj7aPCPAVzFyziHiY1VhFPdLA,normal,1,oliveth,0,,high,center,s,cliffs,none
 2093,55,3411,0,https://magiceden.io/item-details/DEf4CLH86b18AxAXxUrFRFg4ZVZ1vtrMdxmmfxZZ4SPL,normal,0,oliveth,0,,high,center,m,hilly,none
@@ -186,6 +186,7 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 2537,8.88,1439,66.47,https://magiceden.io/item-details/2quSLcjpUK2XJrU1GSHvHNpxkqBHb3oYgkPse2UJFPWo,normal,2,xurk,0,,high,left,s,cliffs,snow
 2547,12.7,3910,13.44,https://magiceden.io/item-details/HmS1WT6u9UfRYUzbyq33EdG3r7zvN1a4D9s7LKDGnqJX,normal,0,dystop,1,,high,right,m,hilly,none
 2586,10,6385,25.59,https://magiceden.io/item-details/94ZmWj4HRjPXZxZ4rhU5aTi2bqeheBohvmzVpkAcX6uP,normal,1,icyknify,1,,high,left,s,cliffs,none
+2597,8.8,5887,40.58,https://magiceden.io/item-details/6nfZuMSqPQDQyjV2yrEtemnCGBSaN9wqRGYPJu1tpqCk,normal,0,greenmoon,0,,high,left,l,cliffs,none
 2613,12.5,2862,21.73,https://magiceden.io/item-details/EJW9z18uFeRuoDmsXu2U4mikF1WSBFZ5P6h3S7Fsyq9c,normal,1,venus,1,,high,left,l,cliffs,snow
 2620,9.99,4466,37.21,https://magiceden.io/item-details/GD4CHFPMynE3VTHn1r4ZQrWYwenKUqcBwQmz3DEbeVye,normal,1,venus,-1,,high,center,l,cliffs,none
 2622,11,6311,16.04,https://magiceden.io/item-details/GAPyry3Yf1sfB9GZX7tnF1qi4VFW54tHAsrdAtca52xd,normal,1,lucifer,1,,high,left,m,sharp,none
@@ -279,7 +280,6 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 4269,42.69,1445,0,https://magiceden.io/item-details/8WbQQ6kE926T5KfKcxEt14wjdqU8RiExQ5Vpv3fWoaUV,normal,0,fxy,2,,low,left,s,rocky,none
 4270,12,6268,6.29,https://magiceden.io/item-details/E4SULYXLfKzyGMU1ASjeZqncRoDpXBisDRAYzDcwJuSg,normal,1,mxmx,0,,high,left,m,cliffs,none
 4281,9.99,450,61.3,https://magiceden.io/item-details/GdDZtQxUmd4oPcmskoDdf1DgB3GCZ1NmZYKZCC1J3JwV,weak,1,inversesolano,1,,none,right,m,cliffs,none
-4285,10.99,885,48.69,https://magiceden.io/item-details/24gkzZsUuurAAGkJi6GAeRbRojczRaJKQJHzi6W53Cap,normal,1,inversesolano,-1,,none,center,s,cliffs,none
 4288,10,2801,47.09,https://magiceden.io/item-details/9UknJKts8YTt5K7CqakfZFcExQASqq5ZAy8JbZXowUZK,normal,1,community,-1,,low,left,m,hilly,none
 4314,125,2,0,https://magiceden.io/item-details/B2gaDh3SrqhgZDpZLiptSys33PPbqgBTY6ppZgydq4xf,strong,1,fxy,1,tokenaddr:sol:2sU274JhiFTDrBGMzroWCYsdTfaaNnYBHwpbdQv8wMbQ,none,left,l,cliffs,none
 4321,7.5,5745,54.43,https://magiceden.io/item-details/6dF4y6bKn3F5HE4djZsuMNveofA37LH44erK3HsW2JMJ,normal,1,community,0,,low,left,m,cliffs,none
@@ -352,7 +352,7 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 5699,18,57,0,https://magiceden.io/item-details/CkbRPvgJvQQ4qGRZLEvdtv1Napn2EihTRRYxc5JERBJW,normal,3,tatooine,-1,,low,0,gone,cliffs,none
 5700,19,2015,0,https://magiceden.io/item-details/EuE4oV3484hnbSdi6g5V7XtZo5h6Ujf3WrsLLwrARLeF,normal,3,marchofmadness,-1,,low,left,s,cliffs,none
 5703,30,1057,0,https://magiceden.io/item-details/7EGjet6RK1GiAbkjXncc1Z7XxSNdKBvonzRsSWxG27Lt,normal,2,blackwidow,-1,,high,right,l,sharp,none
-5719,19,549,0,https://magiceden.io/item-details/5VSzjuzwP1KxozjSho5ce2juVSSMzpTPNwWwoAsMhZXR,weak,0,satori,-1,,low,left,l,rocky,none
+5719,13.9,549,21.61,https://magiceden.io/item-details/5VSzjuzwP1KxozjSho5ce2juVSSMzpTPNwWwoAsMhZXR,weak,0,satori,-1,,low,left,l,rocky,none
 5720,49.99,1582,0,https://magiceden.io/item-details/UaTvkJD4oPAteGAZZm3VeVdb6xP7CiuTDdA6Teb3gdq,normal,3,panterabursts,1,,high,right,l,hilly,none
 5757,24,2465,0,https://magiceden.io/item-details/D9gK6ZCiM4b4MbGWyxirp52JKwWXPbytSUF8me9SNfLJ,normal,2,icyknify,-1,,high,left,s,desert,none
 5758,9.95,1489,55.47,https://magiceden.io/item-details/3gs68aoTCdvcv7e6YUryrVncKaS68jDPteik8gdLBKb5,normal,3,shugar,1,,none,left,m,desert,none
@@ -382,7 +382,7 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 6215,8,5072,53.47,https://magiceden.io/item-details/AHussi9yxj4g9LkTxP7rHVoifmpgtCWYc19rTsEi6LYS,normal,1,tith,1,,high,center,m,sharp,none
 6216,84,268,0,https://magiceden.io/item-details/3Grtb29ABbFTyBbJZAo8JEFEpkN3d5nhBvqrt8oTDfM9,strong,3,blackwidow,1,,low,right,l,cliffs,none
 6217,50,2060,0,https://magiceden.io/item-details/GnX7HMdXVpuGmy8Pq4LeVmW4SShSfTcSfrMuFRjJpPE4,normal,3,mutantfung,1,,high,left,m,flat,none
-6218,8.59,3330,58.02,https://magiceden.io/item-details/9xtMhjVgERGKasK2YSRD64ndL27XaAHM18q2SmyTuuxY,normal,2,rumiscall,1,,low,left,l,rocky,none
+6218,7.95,3330,64.42,https://magiceden.io/item-details/9xtMhjVgERGKasK2YSRD64ndL27XaAHM18q2SmyTuuxY,normal,2,rumiscall,1,,low,left,l,rocky,none
 6222,33.3,61,0,https://magiceden.io/item-details/4B5hYDNQHtgiU27TY5CChofespZDknqfqhH8PyRgzD63,normal,0,freezethor,-1,,low,0,gone,hilly,none
 6229,14.99,4462,0,https://magiceden.io/item-details/92bX7qnRUgcH1RRg6oFcjJrPUXccAsqjt9V79r31hoeQ,normal,0,fluor,0,,high,left,l,sharp,none
 6232,10000,3288,0,https://magiceden.io/item-details/HZUVme8ne7fW8BFFYjdW6hjpBMNiJ2FQmDW7rDcWYZfG,normal,0,mutantfung,-1,,high,left,l,cliffs,none
