@@ -162,6 +162,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Fruit,Ground,Le
 3447,4,739,64.54,https://magiceden.io/item-details/5suJ2BieNCoVRKAWFU3W1dkdwVgntnx2YQBEQUNHZ9N5,Bagel Swing,Orange,Nothing,3 SOL Mushrooms,Autumn Fade,Blue Bat,Oak
 3451,2.49,7833,51.21,https://magiceden.io/item-details/3seU8bLHYiEDRKFuyuFc7YJzcvYBaYSw667igWB4ogKL,Owl,Sunset,Nothing,3 Mushrooms,Orange,Nothing,Grey tree
 3498,25,351,0,https://magiceden.io/item-details/EUWDXDQTxV187PADw9zgRyFYH3w4FM9jy4tYwfLwv13H,Sloth,Balloon,Nothing,Diamond Fairy Door,SolFire,Pink Butterfly,Oak
+3544,0.75,8270,66.85,https://magiceden.io/item-details/9UeGWQ48iWf19L2u8qGpwzLY3icUm9hjskyZAUSc4pTU,Black Swing,Plain,Nothing,Blue Balloon,Pink 2,Boomerang,Oak
 3557,3.99,975,63.69,https://magiceden.io/item-details/21G96oUmgQcEV8gJbdfkdhxDf25u2DcmKFQV7AXhSFch,Swing,Heart Balloon,Oranges,Diamond Fairy Door,SolFire,Purple Kite,Tree
 3560,0.8,2916,87.81,https://magiceden.io/item-details/A2DBMLbpVpTnvqhu8mJKZhCEa4SUjhw2dMbdfatc1pYF,Bagel Swing,Suspicious Balloon,Cherries,Headstone,Stealth,Brown Bat,Tree
 3578,1,6761,70.4,https://magiceden.io/item-details/AnptfsLaUVP38x1judrAoRJhnTf8Thvwhj2STB8TeFyR,Snowy Owl,Heart Balloon,Nothing,Nothing,Golden,Pink Butterfly,Tree
@@ -253,7 +254,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Fruit,Ground,Le
 4878,1.5,6057,68.22,https://magiceden.io/item-details/FZ6ifrkezhtTB2NymMDLUxeBe9g56rh5VY4Ph2gGahkL,Swing,Happy Balloon,Lemons,Purple Bat,Purple 2,Blue Bat,Tree
 4880,1.95,8029,55.82,https://magiceden.io/item-details/CUphgQKH5aBnDZe28aHyTKQKVYKhPavuLPSKBdnQyt5M,Owl,Clouds,Nothing,Headstone,Purple 2,Purple Kite,Vibrant Tree
 4919,8,1838,20.13,https://magiceden.io/item-details/J5PJPrDU18fc9f7wTbrVW4unJGXrz97rFxoWoULCrvKu,Beehive,Clouds,Oranges,Golden Sword,Green,Golden Kite,Grey tree
-4958,1.2,7456,65.62,https://magiceden.io/item-details/3HyyrEC6ZdCLtpBeN8DoeQuXdv5tikspu6jpv6JdKpLC,Plastic Swing,More Blue,Cherries,Pink Trunk Lights,Orange,Nothing,Branchy tree
 5000,0.8,2541,89.32,https://magiceden.io/item-details/Bc6FBJjxxPBrztkLDwvpboRcmXGTP2dTPDQfb8ZJTu39,Hard Wood Swing,Happy Balloon,Oranges,Gold Fairy Door,Green 2,Golden Kite,Vibrant Tree
 5021,2,192,86.73,https://magiceden.io/item-details/CmctESTHDmxf8vH5v8PsgPwguYnKic7iui9EF4wo4Pt,Donut Swing,Balloon,Cherries,Blue Balloon,Golden 2,Red Bat,Branchy Oak Tree
 5068,4,94,67.12,https://magiceden.io/item-details/Gn3z92M27o38woFYZhekAjTTXmpXrAUuBmp7kJQfAhdF,Black Swing,More Blue,Oranges,Purple Fairy,Fire,Gold Crown,Diamond Tree
@@ -357,7 +357,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Fruit,Ground,Le
 7081,0.92,8664,63.57,https://magiceden.io/item-details/3qyMKBw91McmWR5ECBnTJpxYHjX1RoMiLBJcwWpxsb4A,Hard Wood Swing,More Blue,Red Apples,Purple Fairy,Green 2,Nothing,Tree
 7087,0.81,8689,64.57,https://magiceden.io/item-details/9vxpjST1KAzVCBucYmX7FYu1TtADJ5LzbSxDVduMWxDy,Plastic Swing,More Blue,Red Apples,3 Mushrooms,Green,Nothing,Vibrant Tree
 7124,0.8,2084,91.15,https://magiceden.io/item-details/FmneNWqpNPGpt5yeDU5noVv9Raaof5xhyfQyuv5ZZ88E,Busy Beehive,Blue,Green Apples,Green Fairy,Green 2,Nothing,Diamond Tree
-7138,0.88,533,96.56,https://magiceden.io/item-details/7XVmyhFmEKsad7SXpS4rkZMq89ZoqjZBaUsJGWtmaHn4,Owl,Orange,Lemons,Gold Fairy Door,Brown Leaves,Sol Butterfly,Branchy grey tree
 7143,100,495,0,https://magiceden.io/item-details/GPd2GMkdLSEqGnCteeyrp5RJRV13pwva3z8cGPvQefLt,Hard Wood Swing,Retro Night Sky,Lemons,Pink Balloon,Fire,Pink Bat Asset,Branchy grey tree
 7146,0.8,3652,84.86,https://magiceden.io/item-details/FazrVUuwPTkCaDxc7sqZyXczNNgoM7mFZF5F98mkDoP4,Black Cat,Balloon,Nothing,Blue Balloon,Purple 2,Brown Bat,Branchy grey tree
 7185,6,1345,42.11,https://magiceden.io/item-details/2REJk6D9pQ122Mpt2KLPDHbUHsVbmcoNua5s8obDAQAJ,Golden Swing,Happy Balloon,Oranges,Fairy Door,Green,Blue Bat,Grey tree
