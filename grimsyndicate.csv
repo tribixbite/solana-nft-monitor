@@ -8,6 +8,7 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 64,199,17,0,https://magiceden.io/item-details/AmEBtcgTrTGpD7r6ds378UMq2BHnZQPfxWB4aZL7f5Ap,Wheel of Carthyss,Look Up (Golden),Red,Ancient Toothy Maw (Golden),Runic Marking 2,,Ancient Eyeballs,Ancient Reverie,Beaded,Reverie Beads,None
 95,50,273,0,https://magiceden.io/item-details/5RsGCYt3sHDM6Qq2PaM8uBZdk8N9wVHq9fawwctwzNyr,Wheel of Carthyss,None,Blue,Ancient Squid (Golden),Runic Marking 5,,Grinning,Small Horns (Golden),Default,None,None
 120,72,264,0,https://magiceden.io/item-details/31Rf6mJ6jntoLkwkG9ZxKGFdEpqzibvsJj7juiy5Jtyn,Draelic Nimbus,None,Sky Blue,Ancient Default (Golden),Runic Marking 3,,Ancient Eyeballs,Socketed Circlet,Default,Reverie Beads,None
+127,100,156,0,https://magiceden.io/item-details/CgE9y9Xq41mUwAawVC6xzWV8juFe3qmTi434VCm39PkH,Crucifix of the Maligned,Raw Crystal (Golden),Green,Ancient Default (Golden),Runic Marking 1,,Grinning,Circlet,Default,None,None
 132,120,34,0,https://magiceden.io/item-details/5XsjvipXQwEpYjZY9cqrpjGuK94YBiTQGumbw7AYQpoW,Oerberus Halo,Nephul Tablet,Slate Gray,Ancient Cthulhu (Golden),Runic Marking 3,,Ancient Default,Circlet,Beaded,Overgrown,None
 147,420.69,286,0,https://magiceden.io/item-details/6U8mnpU1pEzwG4awN9DfChuwFb7q6onYRhQZsnd9nhSN,Umbric Bindings,Nephul Tablet,Aqua,Ancient Default (Golden),Runic Marking 2,,Ancient Default,None,Default,None,None
 181,50,780,0,https://magiceden.io/item-details/9Hx2m51XFTvgfPurDopwCNFnRczwwDeYgnUAho78W7cx,None,Nephul Tablet,Green,Gold - Default,None,,Eyebrow Raise,Explorer's Hat,Mustache,None,Explorer's Outfit
@@ -184,7 +185,6 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 2927,18,9372,0,https://magiceden.io/item-details/FrmB4v3rMaDERddqVgkhe9xYPNkxfvFicYC3N1U9XGzo,None,None,Pink,Red - Gold Tooth,None,,Glasses (Half-frame),Halo 2,Double-Barrel,None,Turtleneck (Red)
 2951,28,1939,0,https://magiceden.io/item-details/A7uZcoWfjEADdw9ycMcVHrNq3Lwtc3BwUKnhQVRcb56T,None,Soul,Sky Blue,White - Side Open,None,,Occular Tech II,Glowing Power Gem,Heart,None,Robe (Blue)
 2991,20,6896,0,https://magiceden.io/item-details/6vUxweSrPYkudroyxrsUj6UdmyZAfCpr3WsmEU1WBNDK,None,None,Bone,Blue - Fangs,None,,Googles,Baphomet Horns,Triangular,None,Turtleneck (Green)
-3025,9.5,5311,77.11,https://magiceden.io/item-details/AK1prciwG8ZGVFTgC926KTctiJ8S8q9vdeX8eMAfqiz6,None,None,Slate Gray,Black - Side Open,Piercing (Left),,Blindfold,Ball Cap (Skull),Default,None,Basic Tee (Red)
 3034,50,2026,0,https://solanart.io/nft/AhQZFYeDMARcH9drpjrbBZVXAyNnZ2astdnmjpEP4EXG,None,Soul,Green,Red - Side Open,Freckles,,3D Glasses,Ball Cap (Skull),Default,None,Collared Shirt (White)
 3040,26,5101,0,https://magiceden.io/item-details/9eDM5sHN3Hw4XtEZKwkQkeiYnD1biKr53KH14pG6J7kV,Sheathed Sword,None,Yellow,Gray - Open-minded,None,,Glasses (Half-moon),Jewel,Heart,None,None
 3045,18,7677,0,https://magiceden.io/item-details/66bHrDcowXAcw1WzwTxHsWFPjtN6avWUqhvSXTW3YA8b,None,None,Bone,Purple - Toothy,None,,Eyeballs,Athletic Visor,Default,None,Blade Runner Jacket
@@ -452,7 +452,6 @@ id,price,moonRank,💎 score (%),storeURL,Arsenal Back,Arsenal Front,Background,
 7433,65,2399,0,https://magiceden.io/item-details/8kdyf3moJmTkczJRZpnDypbhsMHEyzw8MJjaowUmDq9T,None,None,Pink,Robot - Default,None,,Sunken,Bowler,Triangular,Gas Mask,Hoodie (Pink)
 7435,17.86,3240,1.81,https://magiceden.io/item-details/2R7DqyHUzFFZweT7VHGn8rR4i5ixTPx9NfgtGvWFPcP2,None,Soul,Deep Gray,White - Toothy,None,,Blindfold,Flat Bill Cap (Adventure),Piercing (Studded Hoop),None,Basic Tee (Black)
 7440,18,3518,0,https://magiceden.io/item-details/2p6Fu8DXjwJunjTLjGsakZELFYWi9Ka5JiQBPdBAE8gv,None,None,Fuschia,Red - Sewn,None,,Double Button Eyes,None,Heart,Reaper Hood,Robe (Blue)
-7445,10,3910,77.73,https://magiceden.io/item-details/38qow2msbHjMfCjnwvgUDHet7XDMk7uw9wPAmDT5TFRJ,None,None,Red,Gray - Sewn,Sigils,,Feminine,Fedora,Piercing (Hoop),None,Tanktop
 7461,22,6397,0,https://magiceden.io/item-details/3aM92rs2bDcM4aVqRbW6uJkATEJiQPrwQJLFYnVDrkFy,None,None,Deep Gray,Gray - Default,None,,Coins,Viking's Helmet,Piercing (Barbell),None,Hoodie (Gray)
 7476,100,3141,0,https://magiceden.io/item-details/7h8aTr2f88VWk4HqCAHqvhX2EtZ3HCQxeK5C2ozY3Z3o,None,None,Aqua,Ornamental Automaton - Default,None,,Eyebrow Raise,Cyberpunk Hat,Piercing (Hoop),None,Cyberpunk Jacket
 7494,35,9500,0,https://magiceden.io/item-details/4sMBp4yTZJ6wWKxrHCdp69uWReME5a3DjGLCjscEmUM1,None,None,Blue,Yellow - Lockjaw,None,,Feminine,Stapled Dome,Default,None,Tanktop

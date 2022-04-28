@@ -65,8 +65,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 475,110,9477,0,https://magiceden.io/item-details/8edrqte4gxdp74JXjCHAzdebaRaXtwvHYGCC8rCXXxaA,Blue,Turtleneck,No Traits,Blue / Blue,No Traits,Soda,No Traits
 486,250,429,0,https://magiceden.io/item-details/5jjDf6TEHxEyymPjUfFzzTt4VmBahVa5pityMEFd4tRL,Green,Overalls,Heart Glasses,Leopard,Mobster Hat,Pizza,No Traits
 489,120,2554,0,https://magiceden.io/item-details/Crrspjq6TC4KqXFUsomeYsFtBZ1NLg1S4NMHEhvhGGmL,Black,Hawaiin Shirt,Aviator Glasses,Black / Peach,Headband,No Traits,No Traits
-498,195,9885,0,https://magiceden.io/item-details/F9v4Q3QnDV44gC2kcFHSWUQTRZrso9jziQLiRVkWFXmc,Purple,No Traits,No Traits,Red / Blue,No Traits,Grilled Cheese,No Traits
-498,195,9885,0,https://solanart.io/nft/F9v4Q3QnDV44gC2kcFHSWUQTRZrso9jziQLiRVkWFXmc,Purple,No Traits,No Traits,Red / Blue,No Traits,Grilled Cheese,No Traits
 502,244,2110,0,https://solanart.io/nft/4cNijUBApnnk41rP6Z3YM522SL6XNwzxvPTCptmtigQv,Black,Maid's Uniform,Wayfarer Glasses,Black / Peach,Beer Hat,No Traits,No Traits
 504,120,1330,0,https://magiceden.io/item-details/F2oDwi6dCTSmkm47N5Tb8CgjRs8rZpL84yDZHgVo8H6V,Blue,Hawaiin Shirt,No Traits,Blue / Peach,Fishing Hat,Donut,Wooden Tooth
 505,387,4995,0,https://solanart.io/nft/A234oGog8LW1sHSxgqzNEeYhbiwtKhJYv8EZS5dygBLS,Green,Jungle Explorer,No Traits,Green / Green,Football Helmet,Pizza,No Traits
@@ -773,7 +771,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 6291,139,156,0,https://magiceden.io/item-details/KFyK3CpRRTCKC4cvo7DArFk2rJNZ4Qv6eyFcMpSTMtN,Purple,Tie-Dye T-Shirt,Round Glasses,Blue / Peach,Beanie,Burger,Wooden Teeth
 6315,105,4087,0,https://magiceden.io/item-details/26M4JXisEPri5J4EVhUN8CqJFun2RHazqCgRdD43dG21,Green,Hoodie,No Traits,Green / Green,Pilot's Hat,Sushi,No Traits
 6322,4500,2526,0,https://solanart.io/nft/Avb2Sf2P43jHUad99hfAz3rYViMePm1shgtooSUQBrCU,Purple,Bowling Shirt,Wayfarer Glasses,Red / Peach,Musketeer's Hat,Ape-le Juice,No Traits
-6335,69.9,6013,6.9,https://magiceden.io/item-details/9KoBTufy8SB8y9cBcKdgRfBN1nUMKFWUuuHvqELbVMZR,Green,Striped T-Shirt,No Traits,Green / Green,Football Helmet,Dirty Fiat,No Traits
+6335,65,6013,55.9,https://magiceden.io/item-details/9KoBTufy8SB8y9cBcKdgRfBN1nUMKFWUuuHvqELbVMZR,Green,Striped T-Shirt,No Traits,Green / Green,Football Helmet,Dirty Fiat,No Traits
 6336,100,9185,0,https://solanart.io/nft/9sSi7zkGQYHEBxWmCf9X9LLter2YLssn37TVU3Rn1WSe,Yellow,No Traits,No Traits,Brown / Peach,Conical Hat,Banana,No Traits
 6342,140,1794,0,https://magiceden.io/item-details/mgFmUdGMy7rPkHkUYbHFAAsrfhLXFQuhLs8Bm18Tsde,Purple,Tie-Dye T-Shirt,Ape Vipers,Red / Peach,Baseball Cap,No Traits,Wooden Tooth
 6343,120,7188,0,https://magiceden.io/item-details/9zuQRt1hfPYmj32measUDMp5RSUAqgw13HxizrUBjLR3,Green,Dress,No Traits,Green / Peach,No Traits,PV-Ape Glue,No Traits
@@ -944,6 +942,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 7661,333,400,0,https://magiceden.io/item-details/AuddGzpu5vZ5By176W8GRtWjqMh5cvcbMkGPHcYEZvQm,Black,Striped T-Shirt,Ape Vipers,Black / Gray,Pilot's Hat,6pc Tendies,No Traits
 7663,666,4730,0,https://magiceden.io/item-details/E5TR99KC2pPdi9KDwNRTSEGuH2HgaM7rRwG142S4SNrK,Teal,Leather Jacket,No Traits,Brown / Peach,Top Hat,No Traits,No Traits
 7666,130,6216,0,https://magiceden.io/item-details/JU8Ua38HD1JMxUz4Zg28jeYkKf5s2KvsX9Zpfrbk2Ti,Blue,Striped T-Shirt,3d Glasses,Brown / Peach,No Traits,Sandwich,No Traits
+7666,100,6216,0,https://solanart.io/nft/JU8Ua38HD1JMxUz4Zg28jeYkKf5s2KvsX9Zpfrbk2Ti,Blue,Striped T-Shirt,3d Glasses,Brown / Peach,No Traits,Sandwich,No Traits
 7668,287,3686,0,https://solanart.io/nft/9QSWjVaXv8EinVuxcWCwVbm1YsfhstVw8xYsUiTwszRD,Yellow,Leather Jacket,No Traits,Brown / Yellow,Viking's Helmet,PV-Ape Glue,No Traits
 7670,250,8809,0,https://solanart.io/nft/AZTXV9iYRhHYF6wDB34nkmTQigdzPTDZRBEupB2bUD3r,Red,Dress,No Traits,Red / Peach,Beanie,No Traits,No Traits
 7691,289,1896,0,https://magiceden.io/item-details/HJMGUNH5uoEAXp1D12qEtZE5wRgkbcBWwhwecmACGsWh,Yellow,Black T-Shirt,No Traits,Blue / Peach,Pilot's Hat,Hotdog,Wooden Tooth
