@@ -128,12 +128,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 949,83,5721,0,https://solanart.io/nft/6ZEiyoSMQGU6pLYv7Ycj24udbpTk5R9cGU6CLGzTdpnq,Purple,Bowling Shirt,No Traits,Purple / Peach,Captain's Hat,Pizza,No Traits
 965,1369,407,0,https://magiceden.io/item-details/2fcmtEQVJJnfsAoYjWVX6PP28pznx8zQ6ZZEUuNvsDan,Green,No Traits,No Traits,Zombie,Pharaoh's Neme,No Traits,Wooden Tooth
 972,124,5647,0,https://solanart.io/nft/F5wJoqRmW8mqM9ne59i6dEtb9vyJEEBrBVjyJTUNBmSv,Red,Japanese Uniform,No Traits,Red / Blue,Conical Hat,Banana,No Traits
-980,63,6504,53.93,https://magiceden.io/item-details/3gduzYKm5m4Ek7HEKKaph5LzGM8KSLiesdxZHuuXR27W,Blue,Bowling Shirt,Round Glasses,Blue / Peach,No Traits,Burger,No Traits
+980,63,6504,43.93,https://magiceden.io/item-details/3gduzYKm5m4Ek7HEKKaph5LzGM8KSLiesdxZHuuXR27W,Blue,Bowling Shirt,Round Glasses,Blue / Peach,No Traits,Burger,No Traits
 987,288,7325,0,https://solanart.io/nft/FJDvebJ28Lp2BuAZfirPR28PqrTJ8uqKfovnnnwyugUL,Green,Tie-Dye T-Shirt,No Traits,Green / Green,Football Helmet,Sandwich,No Traits
-990,1666,37,0,https://solanart.io/nft/AAakTreDGq1V18Va5wqhuwoge6rUZ4bLSsHCMExXK3Xz,Purple,NB-Ape Green,Round Glasses,Purple / Purple,Graduation Cap,Burger,Wooden Teeth
 993,155,5523,0,https://magiceden.io/item-details/CFNwaHoRpDyeDDxePHJWYnnNYzN68qp5L9D2YPwjkEmk,Red,Cheerleader,No Traits,Red / Peach,Captain's Hat,Drool,No Traits
 993,155,5523,0,https://solanart.io/nft/CFNwaHoRpDyeDDxePHJWYnnNYzN68qp5L9D2YPwjkEmk,Red,Cheerleader,No Traits,Red / Peach,Captain's Hat,Drool,No Traits
-997,61,5496,77.97,https://magiceden.io/item-details/7CBy1NkdE28NwweDoU856kN6X2rmDJGEYsD1sDst3fgH,Yellow,No Traits,No Traits,Brown / Peach,Sun Hat,Pizza,Wooden Tooth
 1003,196.69,8079,0,https://magiceden.io/item-details/E4w2NeHC5yApXP2zrwV4Er6LNoSnPgPjaBbYPLRtLntu,Blue,No Traits,No Traits,Albino / Blue,Sun Hat,Ape-le Juice,No Traits
 1004,175,3049,0,https://magiceden.io/item-details/3V2pxvuyujiGcVKFYXaTEaE4sVAUPZrqzpe6st3HTe7f,Yellow,Denim Vest,Wayfarer Glasses,Brown / Peach,Musketeer's Hat,Soda,No Traits
 1016,200,8492,0,https://solanart.io/nft/Hd2G717LRBJGxFjZNaBDmUPMvFdu1MqbMyMJNUrZCiYs,Blue,No Traits,No Traits,Albino / Peach,Straw Hat,Soda,No Traits
@@ -197,7 +195,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 1465,175,6784,0,https://magiceden.io/item-details/CirpAF8q4YhGi7F5V5VFuoxwTkvyRJVta9gQpwhyRzLY,Black,Academy Uniform,No Traits,Blue / Blue,Fireman's Helmet,No Traits,No Traits
 1478,169,1681,0,https://magiceden.io/item-details/H3iY3peksGSicGGqUoegzk388N7zcQ7pbM1Cn1YEeGd2,Green,NB-Ape Green,No Traits,Green / Green,Sergeant's Hat,Sushi,No Traits
 1490,120,4729,0,https://solanart.io/nft/4j8uTRdCVYL6f2o3FdpNc3a4naPej2vbbPNb3ehnJ929,Yellow,Tie-Dye T-Shirt,No Traits,Red / Peach,Explorer's Hat,Donut,No Traits
-1508,63,7959,48.1,https://magiceden.io/item-details/DNifkBjBU6jGwVvufza1bX7eQoXfyzSfRM2n7LQxJcyP,Red,Tie-Dye T-Shirt,No Traits,Brown / Peach,Mobster Hat,Sandwich,No Traits
+1508,63,7959,38.1,https://magiceden.io/item-details/DNifkBjBU6jGwVvufza1bX7eQoXfyzSfRM2n7LQxJcyP,Red,Tie-Dye T-Shirt,No Traits,Brown / Peach,Mobster Hat,Sandwich,No Traits
 1517,420,2308,0,https://solanart.io/nft/GDw3DQARQBxLjGhqCSjB9jtre7G3ETstNPs47tP2BY8m,Blue,Hawaiin Shirt,Wayfarer Glasses,Black / Peach,Baseball Cap,Dirty Fiat,No Traits
 1520,499,539,0,https://magiceden.io/item-details/4M7dhe3jcT5N6feMfo8rxChZEbBVtMreiUvoG5urqVW5,Red,Jungle Explorer,No Traits,Black / Peach,Top Hat,Burger,Wooden Tooth
 1522,100,7313,0,https://magiceden.io/item-details/7ayQua3RPsKJBSeb52T2GQ9vANC3spDQaEjMckJYiXdQ,Black,No Traits,No Traits,Green / Peach,Top Hat,Pizza,No Traits
@@ -221,6 +219,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 1648,333,3780,0,https://magiceden.io/item-details/BHeTtGHPsn5pjgBLpqBxXrA4fcKttaLwWMkJ9AVmw7Dq,Yellow,Striped T-Shirt,No Traits,Leopard,Policeman's Cap,Hotdog,No Traits
 1661,322,3591,0,https://magiceden.io/item-details/51fbi7bqd2D9Fd29PXK9CKABBmHz7FEQ67by7hyJ2B3G,Purple,Denim Vest,Shutter Shades,Purple / Purple,Explorer's Hat,No Traits,No Traits
 1661,322,3591,0,https://solanart.io/nft/51fbi7bqd2D9Fd29PXK9CKABBmHz7FEQ67by7hyJ2B3G,Purple,Denim Vest,Shutter Shades,Purple / Purple,Explorer's Hat,No Traits,No Traits
+1674,8888,72,0,https://solanart.io/nft/DqfNUJDLDJRmiom8qgPP9GnukUoRr7S1MJZMbHEVRZ6P,Red,Silk Robe,No Traits,Albino / Peach,Harambe's Halo,Cigar,No Traits
 1687,149,7779,0,https://magiceden.io/item-details/8TcA1bmrYenBHFTtCD77Q5aKPiD5vF3Rvu9eTWLQpnuQ,Purple,Tie-Dye T-Shirt,No Traits,Green / Green,Laurel Wreath,No Traits,No Traits
 1688,450,2534,0,https://magiceden.io/item-details/BxVjS7Y7zPKxHACHhD4PZrqdfKgGwrz4mvpzA6H6qkrj,Red,Overalls,No Traits,Purple / Peach,Pharaoh's Neme,Grilled Cheese,No Traits
 1704,5000,3005,0,https://solanart.io/nft/AwvhhcZenFBwwy5rdkk6JgH8DF8CaUGPmTNc8zqtaBDz,Blue,Wetsuit,Shutter Shades,Blue / Blue,Viking's Helmet,Banana,No Traits
@@ -260,9 +259,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 1971,400,59,0,https://magiceden.io/item-details/cPZWXoRCfCPGMmwto9jDq5VPj2tjA5G4Fg1hHDJvhmL,Green,NB-Ape Red,Aviator Glasses,Green / Green,Conical Hat,Grilled Cheese,Wooden Teeth
 1981,107,594,0,https://magiceden.io/item-details/EMBNVkvf6EHxYQRarTYRJGd8C1R95DduizbgKgn7CuEV,Black,Ski Jacket,No Traits,Black / Gray,Sun Hat,Pizza,Gold Tooth
 1991,119.69,4251,0,https://magiceden.io/item-details/4DzEtxQZKUHsWnf9q9gD9NiRJX7rg95pekKJ2kupFC4y,Black,No Traits,Ape Vipers,Black / Peach,Musketeer's Hat,Banana,No Traits
-2001,65,5917,36.29,https://magiceden.io/item-details/6cV64P2voTdj3DTEYM6ovJ3o1nFrZGzZvWXb8NagoXft,Red,Tie-Dye T-Shirt,Wayfarer Glasses,Red / Peach,No Traits,Eggplant,No Traits
+2001,77,5917,0,https://magiceden.io/item-details/6cV64P2voTdj3DTEYM6ovJ3o1nFrZGzZvWXb8NagoXft,Red,Tie-Dye T-Shirt,Wayfarer Glasses,Red / Peach,No Traits,Eggplant,No Traits
 2019,190,4560,0,https://magiceden.io/item-details/nsNjHL4KfdwAAjQE4e7RSZshvVAQvSmEEro6g57Lyoy,Yellow,Leather Jacket,No Traits,Brown / Peach,Top Hat,Drool,No Traits
-2022,69,4931,0.24,https://magiceden.io/item-details/ErY6Ph4jPHr3uB4iTAPASURKehzjaHazW3yT4KnExFEu,Purple,No Traits,Round Glasses,Purple / Purple,Racoon Skin Hat,Soda,No Traits
+2022,69,4931,0,https://magiceden.io/item-details/ErY6Ph4jPHr3uB4iTAPASURKehzjaHazW3yT4KnExFEu,Purple,No Traits,Round Glasses,Purple / Purple,Racoon Skin Hat,Soda,No Traits
 2026,199,8322,0,https://solanart.io/nft/HYJsm5kAGS2BuDytKoDjHAvUKCRczK4S9PvtVmjpxrk4,Yellow,Hawaiin Shirt,No Traits,Brown / Peach,No Traits,Burger,No Traits
 2030,188,9085,0,https://solanart.io/nft/GSCbKa3SJ8TAqaPcLgwDD8fpZ82A9J5hu4s7CPZq3zQV,Yellow,No Traits,No Traits,Brown / Peach,Straw Hat,Grilled Cheese,No Traits
 2036,180,6707,0,https://magiceden.io/item-details/HamBtd94BJaJNoeLHAWwSmaoeepmtg5qCQuk8D4h6oUc,Yellow,Hoodie,No Traits,Leopard,Headband,No Traits,No Traits
@@ -280,7 +279,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 2138,420.69,5506,0,https://magiceden.io/item-details/Cm9879YUbKDMXJ24YCx2JnStEoprXxEVzBqr3piddpwB,Blue,Turtleneck,No Traits,Blue / Blue,Headband,Ape-le Juice,No Traits
 2141,500,9705,0,https://magiceden.io/item-details/Eay9RG9fxTeUbVU4HuRmUcLD4Qcs7Voocxcxi775T744,Red,No Traits,No Traits,Red / Peach,Sun Hat,No Traits,No Traits
 2149,650,191,0,https://solanart.io/nft/6uivB7eQYNrTPPKLvrgAWUNmTh1RtgbJFzS6VZfNEoki,Blue,Maid's Uniform,VR Headset,Green / Peach,Wizard's Hat,Sandwich,No Traits
-2158,68,4950,0.16,https://solanart.io/nft/59oowd7ksK3621QCA5FoBDcEdkbhPWeaGzeWbg62aH92,Green,Denim Vest,No Traits,Green / Green,No Traits,Hotdog,Wooden Tooth
+2158,68,4950,0,https://solanart.io/nft/59oowd7ksK3621QCA5FoBDcEdkbhPWeaGzeWbg62aH92,Green,Denim Vest,No Traits,Green / Green,No Traits,Hotdog,Wooden Tooth
 2160,1289,5276,0,https://solanart.io/nft/Aa8hrvAUZ1y5VoiZ2nbWxmdAZTNR32AoBoBzckPpGaJT,Blue,Black T-Shirt,No Traits,Blue / Blue,Football Helmet,No Traits,Wooden Tooth
 2166,85,2356,0,https://solanart.io/nft/CV5DiNuG7d48VSZ2X3LR7g2oEU3e13GW8ruiHbD1VrCL,Blue,Jungle Explorer,Aviator Glasses,Blue / Blue,Beanie,Hotdog,No Traits
 2172,1969,176,0,https://magiceden.io/item-details/A6ZUavHLb4N9LZhXEpJGbzpo2z8qUYJt2vX7CyQwYtpQ,Green,Striped T-Shirt,Round Glasses,Red / Peach,No Traits,Golden Tendie,Wooden Tooth
@@ -325,7 +324,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 2481,200,1067,0,https://solanart.io/nft/47cEDmDXEgDd3Fq7Td5oVH1TxxCa89GbqEsApUiYqFcf,Red,Hoodie,Shutter Shades,Purple / Peach,Laurel Wreath,Sushi,No Traits
 2488,800,133,0,https://magiceden.io/item-details/7TY7raLeHx4VXGdQoxcQMaKHEsyX8WfC2gSUNj8J16Fk,Purple,Turtleneck Suit,No Traits,Purple / Peach,Viking's Helmet,Crayons,Wooden Tooth
 2494,499,2273,0,https://magiceden.io/item-details/9LuVqVDGunSmSnf41EqgnurQQ4nYsW4bmNC4ievypH3m,Blue,Striped T-Shirt,No Traits,Albino / Blue,Umbrella Hat,Cigar,No Traits
-2541,68,4927,0.25,https://solanart.io/nft/HcCx642hnqBrbjok9oF3zZgNjBPQ8AzCEGvew5XSSSEk,Blue,Wetsuit,Shutter Shades,Albino / Peach,No Traits,Soda,No Traits
+2541,68,4927,0,https://solanart.io/nft/HcCx642hnqBrbjok9oF3zZgNjBPQ8AzCEGvew5XSSSEk,Blue,Wetsuit,Shutter Shades,Albino / Peach,No Traits,Soda,No Traits
 2547,800,1666,0,https://magiceden.io/item-details/Fqacnry5CgbzeQEHMpmFDEDy4Zk3XEqGvLsr5x6WKS4U,Purple,Dress,No Traits,Purple / Purple,The Artist,Eggplant,No Traits
 2554,133,3671,0,https://magiceden.io/item-details/H8KydsQQRenPtKdC9TCWpre1BdgadU7bRYSMk4fdUF3Q,Black,Police Uniform,No Traits,Blue / Peach,Laurel Wreath,Pizza,No Traits
 2562,190,870,0,https://solanart.io/nft/38dPKARHU2qmRbHeRBegZ24PYjpmiTxkZF8tLW4EJug3,Black,Bowling Shirt,No Traits,Black / Peach,Pilot's Hat,Sandwich,Gold Tooth
@@ -389,17 +388,18 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 3003,369,556,0,https://solanart.io/nft/BjRoAYTVDivAmLjHUNLLM18VinsBNfbYf6ptBzwCe6kG,Red,Pilot's Jacket,Shutter Shades,Red / Peach,Top Hat,Bubblegum,No Traits
 3009,99,5230,0,https://magiceden.io/item-details/AvsM42ZeNE22Y6rtxUv7iZLfDBq8r3h4wRaJJJeb2jUL,Red,Striped T-Shirt,No Traits,Red / Blue,Top Hat,Sandwich,No Traits
 3016,250,4561,0,https://magiceden.io/item-details/2c6XNg2ZGysNurTFJXQd6voiuKQxau3ZQSDivYpTS7Ss,Yellow,Maid's Uniform,No Traits,Albino / Peach,Pope's Mitre,No Traits,No Traits
-3017,66,6431,24.23,https://magiceden.io/item-details/HrkqJncr4E8zgTX2ueCyCyb7YqacCASuKUojg6t1XUfA,Black,Hoodie,No Traits,Black / Gray,Racoon Skin Hat,Pizza,No Traits
+3017,66,6431,14.23,https://magiceden.io/item-details/HrkqJncr4E8zgTX2ueCyCyb7YqacCASuKUojg6t1XUfA,Black,Hoodie,No Traits,Black / Gray,Racoon Skin Hat,Pizza,No Traits
 3025,84,7910,0,https://magiceden.io/item-details/2geUTgtPg9sMDwseKFhLaSYaupA2dj23KWojy4abouYP,Blue,Dress,No Traits,Blue / Peach,Mobster Hat,Grilled Cheese,No Traits
 3032,333.329987,6791,0,https://solanart.io/nft/69Sy4Duhagt5ERm8ug4b6rGqvezPReo2SdzemDbmC4ee,Yellow,Tie-Dye T-Shirt,No Traits,Albino / Blue,Beanie,Banana,No Traits
 3033,150,8375,0,https://magiceden.io/item-details/6BoVCCdRtjLVvo5zqsNB4d6vE4hhQBzDBYrg3FsD3xxP,Red,No Traits,Wayfarer Glasses,Red / Peach,Mobster Hat,No Traits,No Traits
 3039,125,8281,0,https://solanart.io/nft/YWoVhhVSJbCtuFi8JdZNzd2ATe6k2exYWUxT2hxWpF3,Blue,Japanese Uniform,No Traits,Blue / Peach,No Traits,Ape-le Juice,No Traits
 3046,118,9314,0,https://magiceden.io/item-details/De5zwjGhkq5HczbU7kNWBUUTpUX8vLtKXnwLHd2ZVigi,Purple,Cheerleader,No Traits,Blue / Peach,No Traits,Grilled Cheese,No Traits
 3051,120,6197,0,https://solanart.io/nft/4J8gqwADzwfvk2K5CatgiVsrSzXNFZzJK3p3bytXx77p,Yellow,Bowling Shirt,No Traits,Purple / Purple,Headband,Pizza,No Traits
-3056,62,6686,63.21,https://magiceden.io/item-details/2Wg5i1tsizTvtFFGUtiWucs71NmBSXSp8Wd4CKKC8tD1,Purple,Turtleneck,No Traits,Purple / Peach,Fishing Hat,Soda,No Traits
+3056,59,6686,73.21,https://solanart.io/nft/2Wg5i1tsizTvtFFGUtiWucs71NmBSXSp8Wd4CKKC8tD1,Purple,Turtleneck,No Traits,Purple / Peach,Fishing Hat,Soda,No Traits
 3058,120,6816,0,https://solanart.io/nft/9wGQD9Dj8UcdYXf6mezGb1ycYZvGP5GB2fv1WUBfFVNa,Blue,Black T-Shirt,No Traits,Black / Gray,Viking's Helmet,Corndog,No Traits
 3065,240,668,0,https://solanart.io/nft/kvRvbBXcM3LCjnEFogvieaJooiqi2rRBULLEJ9YqupQ,Purple,Japanese Uniform,Aviator Glasses,Blue / Peach,Knight's Helmet,Banana,No Traits
 3070,200,4120,0,https://solanart.io/nft/AEjxtLP9WrL9YxKda1vqykUghhqx8MVocZ8FR4876f91,Green,No Traits,Heart Glasses,Green / Peach,Sun Hat,No Traits,No Traits
+3094,105,7237,0,https://magiceden.io/item-details/JEG3bCYjhwndYbGYoFaae7LjyfoE7AnZo9NNHvDRSHW3,Black,Police Uniform,No Traits,Black / Peach,Snapback Cap,No Traits,No Traits
 3095,300,1344,0,https://magiceden.io/item-details/wUpDqxsPvTgnWYhdSA9hhMvM8Sx3Y8bT7AMSscrYcvn,Yellow,Fur Coat,No Traits,Brown / Peach,The Croc Hunter,Burger,No Traits
 3097,500,825,0,https://magiceden.io/item-details/4Rnxzk8kU9WgjXUF78bsCcxuKWW2BcTREiVj67ab1U3n,Blue,Wetsuit,Shutter Shades,Albino / Peach,Beanie,Cigar,No Traits
 3102,597,4160,0,https://solanart.io/nft/FBxJuPNz15qWkCZSZ46amGiqDZ7Jb9Zxxw4gJpQsh82Q,Black,No Traits,Shutter Shades,Black / Peach,Straw Hat,Drool,No Traits
@@ -421,7 +421,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 3247,299,1161,0,https://solanart.io/nft/BvYgsGx3uHYTz246K2okTYkAje6D3Rz7CkNHboouZh5V,Purple,Suit,No Traits,Purple / Peach,Snapback Cap,No Traits,Wooden Teeth
 3250,588,1734,0,https://solanart.io/nft/3G7T8Zp282hKJSJoF8FA1F7HcJYcXB1tCUzDquicABUw,Green,Maid's Uniform,No Traits,Green / Green,Pharaoh's Neme,Pipe,No Traits
 3262,119.690002,9226,0,https://solanart.io/nft/GjcgcFCuVmhu4guTQYBJVcZJuhaiTAQFZdkUY2WK9vTm,Green,No Traits,No Traits,Green / Green,Bucket Hat,Pizza,No Traits
-3266,150,4126,0,https://magiceden.io/item-details/ENAa3S7CSeqYyeiXacHA7TCsKRdCcyNsSzeuVHMjG2Zv,Yellow,Bowling Shirt,Round Glasses,Brown / Peach,Captain's Hat,No Traits,No Traits
+3266,90,4126,0,https://magiceden.io/item-details/ENAa3S7CSeqYyeiXacHA7TCsKRdCcyNsSzeuVHMjG2Zv,Yellow,Bowling Shirt,Round Glasses,Brown / Peach,Captain's Hat,No Traits,No Traits
 3268,160,5833,0,https://magiceden.io/item-details/64pMPrWnf144z3ZteBeeb2ZhwrpvmQPQqmX29KfXdpC4,Purple,No Traits,Aviator Glasses,Purple / Peach,Sultan's Turban,No Traits,No Traits
 3276,250,7470,0,https://solanart.io/nft/66qV9HFi5t5Cb2KK9kidmvyb8tKaoXXU91SYFSxHQHxF,Teal,No Traits,Wayfarer Glasses,Red / Peach,No Traits,Banana,No Traits
 3291,221,4293,0,https://magiceden.io/item-details/DtGghctkZgmjHco7T4qzcmZuwPGvCwoQDjNwu5bmdTzv,Blue,Denim Vest,Wayfarer Glasses,Blue / Blue,Wizard's Hat,No Traits,No Traits
@@ -436,6 +436,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 3372,500,3775,0,https://solanart.io/nft/6vTS5xGzRKnZoiLiYHechqBq4y57bBTzkgRaox6rxfRr,Yellow,Overalls,No Traits,Leopard,Pope's Mitre,No Traits,No Traits
 3386,137.69,7359,0,https://magiceden.io/item-details/E1C7i6XBYAk5xRH3vii7wV5xxBj9hweoUzBf8tcQ8D1u,Blue,Bowling Shirt,No Traits,Blue / Peach,Sailor's Hat,Corndog,No Traits
 3392,130,4787,0,https://magiceden.io/item-details/AQDymCi2y9Ew8PG2rKpJoZFskAL3STzDG9NUW1QjyAU2,Blue,Suit,No Traits,Albino / Peach,Musketeer's Hat,Sandwich,No Traits
+3408,70,9023,0,https://magiceden.io/item-details/7W1VBpkxaFAzgZ63UUV1gokTQcvX6uoPcVUTSTgWW5Cq,Purple,No Traits,No Traits,Purple / Peach,Baseball Cap,Corndog,No Traits
 3412,3669,9222,0,https://magiceden.io/item-details/2Q9Ut8epeRydkrnRRkVjA7cGghYCHEwmMyBNfDcRHcYS,Blue,No Traits,No Traits,Ice,Snapback Cap,No Traits,No Traits
 3430,300,8020,0,https://magiceden.io/item-details/9ztXWqDkgXYVBMtoBRZ4WQXWzAf3PWUw8Y44iA5BasqW,Green,No Traits,Wayfarer Glasses,Green / Green,Floral Crown,No Traits,No Traits
 3439,300,2391,0,https://magiceden.io/item-details/9bmvJnKmY5yB4dMMsiCDhxMEk9smJkRGtX8X6kf9WLfK,Black,Black T-Shirt,Aviator Glasses,Black / Peach,Beer Hat,No Traits,No Traits
@@ -494,7 +495,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 3851,400,7688,0,https://solanart.io/nft/B7egsgeMxinZfmX3wHCD2ZuY9nLLYD8LkS2LdD148icT,Blue,Overalls,No Traits,Ice,No Traits,Banana,No Traits
 3859,150,3821,0,https://magiceden.io/item-details/t3CP58AHmVuQcyFagquzSktxUbSAj3QfgvykShxTWFp,Black,Bowling Shirt,No Traits,Black / Gray,Sultan's Turban,Burger,No Traits
 3866,2555,63,0,https://solanart.io/nft/HoShMeDzPBRjKbtQ2Z6tkuMDjY1RnA2HX6cbzPqZcoTD,Red,Tie-Dye T-Shirt,Shutter Shades,Red / Peach,Explorer's Hat,No Traits,Gold Teeth
-3867,69.989998,1573,0,https://solanart.io/nft/sGMFu1dTHbovM2DhyVU4ZHLKA5zSUS68NwufrtW3Fmr,Blue,Leather Jacket,No Traits,Blue / Peach,Captain's Hat,Sandwich,Gold Tooth
 3881,155,2072,0,https://magiceden.io/item-details/5jh3aNz83skNFeX9ef1SstLJEHa4MjTLQ2tTHfqPy9YT,Purple,Tie-Dye T-Shirt,No Traits,Purple / Peach,Judge's Wig,6pc Tendies,No Traits
 3882,500,9850,0,https://solanart.io/nft/GTdcEz4gnQKUP8hqZJquDqBkm1FfmL84J4ZMUE8JLQ6y,Green,Black T-Shirt,No Traits,Green / Green,No Traits,No Traits,No Traits
 3887,400,4273,0,https://solanart.io/nft/FznMTN3eAtDXEi9t3WkCZkpc6s9SCxbHbv95aZ2wrpa8,Red,Denim Vest,Ape Vipers,Red / Peach,No Traits,Eggplant,No Traits
@@ -582,7 +582,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 4535,425,1168,0,https://magiceden.io/item-details/xHhAc2Hpf9Yj82L7v8syjtHL2kzVtSdCWDBabx9quHx,Green,Silk Robe,Wayfarer Glasses,Green / Peach,Conical Hat,Soda,No Traits
 4544,125,2416,0,https://magiceden.io/item-details/WTxvnq7Yfu3T58inkv3sdeXX6LLjWdZMURBEyyhDSet,Blue,Bowling Shirt,Shutter Shades,Blue / Blue,Mobster Hat,Donut,No Traits
 4549,399,2824,0,https://solanart.io/nft/ABA2DGPNqcvv38QGhrBqjhzQRZMPDYc3Hwy1JxthYyDb,Yellow,Silk Robe,Round Glasses,Brown / Yellow,Baseball Cap,No Traits,No Traits
-4563,65,9320,22.65,https://magiceden.io/item-details/9Gq2TzUQwef1CakziSYR1PyLaEjuNYwVdNmdXRzrcUDT,Black,Striped T-Shirt,No Traits,Green / Peach,No Traits,Soda,No Traits
+4563,65,9320,12.65,https://magiceden.io/item-details/9Gq2TzUQwef1CakziSYR1PyLaEjuNYwVdNmdXRzrcUDT,Black,Striped T-Shirt,No Traits,Green / Peach,No Traits,Soda,No Traits
 4569,99,2753,0,https://solanart.io/nft/H3FtrG4gTMCZJCcDns25rRKswu8VeUqK8XiTtHMNWnAn,Black,Bowling Shirt,Round Glasses,Blue / Peach,Racoon Skin Hat,Banana,No Traits
 4570,169,6520,0,https://magiceden.io/item-details/7aGQdrnBjdBcvP67cax8VbGCpb9BZRk9JBphtWQuuep4,Teal,Tie-Dye T-Shirt,No Traits,Albino / Blue,Beanie,No Traits,No Traits
 4571,599,1862,0,https://magiceden.io/item-details/CCzzCnYLRCssbCXmrsLwCSTQTwFkN19K47cDFehn11NH,Red,Biggie Sweater,No Traits,Red / Peach,Baseball Cap,Eggplant,No Traits
@@ -600,9 +600,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 4674,90,6352,0,https://solanart.io/nft/5vNVspsks1ZZDMxBjwWd7B8bAnX5e5yMacPXpi5u87ff,Blue,Tie-Dye T-Shirt,No Traits,Blue / Blue,Pilot's Hat,Burger,No Traits
 4693,500,965,0,https://solanart.io/nft/F4A8YZnnJWJyKjmRmb9p398qY6heXArZ58rNUefSbTWU,Blue,Police Uniform,No Traits,Blue / Blue,Judge's Wig,Hotdog,Wooden Tooth
 4695,110,5729,0,https://magiceden.io/item-details/3Y9zi2WFnezwazqYypsTwj4jMWFGKDxA1rvPFHZuDL5i,Blue,Bowling Shirt,No Traits,Black / Gray,No Traits,Corndog,Wooden Tooth
+4696,79.989998,2812,0,https://solanart.io/nft/HgZ72ZDe5STP9H5BAoLhECpfzuSo7YoQCEc6RgUtgpUZ,Red,Japanese Uniform,No Traits,Red / Peach,Sun Hat,Ape Force 1's,No Traits
 4697,400,2746,0,https://solanart.io/nft/GNWWU8ok9fxUtJdX1ghLeYwQidmd97eGkaoRex1uHizu,Green,Suit,No Traits,Brown / Yellow,Snapback Cap,Cigar,No Traits
 4701,300,5904,0,https://solanart.io/nft/75Xgohrx8zKG2Kzb2rMhGr1sdctr5rXzm1X8QzxVPtap,Red,Maid's Uniform,No Traits,Black / Gray,Beanie,Corndog,No Traits
 4724,135,1452,0,https://magiceden.io/item-details/84jk1dz4kezjPZ1G4Be5nSVg5mxEpmTwYNXJ1ueUfwFJ,Yellow,Hoodie,Shutter Shades,Brown / Peach,Mobster Hat,PV-Ape Glue,No Traits
+4733,479,3287,0,https://magiceden.io/item-details/HoRoD2yF3se59suAQDXX5zzQnhMXnQfppNjErrbAkkPz,Red,Biggie Sweater,No Traits,Red / Peach,Explorer's Hat,No Traits,No Traits
 4754,216.69,8690,0,https://magiceden.io/item-details/C8zxhgYx4hkWMj7Boh2kL8boJyRmqVXRgsLNrRvu6sz7,Blue,Tie-Dye T-Shirt,No Traits,Albino / Blue,Beanie,No Traits,No Traits
 4769,169,5769,0,https://magiceden.io/item-details/BAYzSU5tdMHtQJETmpuQC2NV22hYaBfVqrzZYtUTaKjy,Yellow,NB-Ape Yellow,No Traits,Brown / Peach,No Traits,Sushi,No Traits
 4770,200,2000,0,https://magiceden.io/item-details/5XfWDnHVB5o9hXMyEZuRjnSEbiGbYQT7ZfMeUUJQ9ufE,Black,Wetsuit,Aviator Glasses,Black / Peach,No Traits,6pc Tendies,No Traits
@@ -676,6 +678,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 5349,199,6214,0,https://solanart.io/nft/8wbaiwZeC7dHzqqfrG77sH8Aa7FqHUtA8wSMSaM7QTkj,Blue,Turtleneck,No Traits,Albino / Blue,Football Helmet,Banana,No Traits
 5354,2277,41,0,https://magiceden.io/item-details/928QqjGcLjmTi1rmXLtHbcw4KeFtePJgZPD5hikXf6CV,Yellow,Cheerleader,Aviator Glasses,Leopard,Crown,Hotdog,Wooden Tooth
 5357,356.42069,9663,0,https://magiceden.io/item-details/H36Rcx2oh3CWbfpjxDwrMKjPCo8uQtPiNSyH7aTmgbw8,Purple,No Traits,No Traits,Purple / Peach,Conical Hat,No Traits,No Traits
+5360,69.69,5638,0,https://magiceden.io/item-details/3VwTZGhEEUyAYnx6F5rWpNVE32URj5RAnSXg4N2FJ6fb,Green,Tie-Dye T-Shirt,Aviator Glasses,Green / Peach,Floral Crown,No Traits,No Traits
 5361,225,2728,0,https://magiceden.io/item-details/2YpyqjHFHLcZKAkBeBpWRqn9pLmUZ3vpN6F2rJ9gp3eG,Blue,No Traits,Wayfarer Glasses,Ice,Explorer's Hat,Hotdog,No Traits
 5361,225,2728,0,https://solanart.io/nft/2YpyqjHFHLcZKAkBeBpWRqn9pLmUZ3vpN6F2rJ9gp3eG,Blue,No Traits,Wayfarer Glasses,Ice,Explorer's Hat,Hotdog,No Traits
 5362,200,6764,0,https://magiceden.io/item-details/2wq4xKXqzrd1VK8VkzNvFekS6kQsJVHPmdVi3PfyBngA,Black,Denim Vest,No Traits,Green / Green,Bucket Hat,Grilled Cheese,No Traits
@@ -733,12 +736,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 5787,79.69,6752,0,https://magiceden.io/item-details/334uqXnRArj5USTyZ4sefYXhsLjFVxQTuWYNeQyeWXHF,Green,Turtleneck,No Traits,Green / Green,Floral Crown,Soda,No Traits
 5790,90,9376,0,https://magiceden.io/item-details/54zS8qZLZaywTYpFMQHJm75FhkDwKPv941ogZ8ayJv8f,Red,Bowling Shirt,No Traits,Red / Peach,No Traits,Grilled Cheese,No Traits
 5796,279,4470,0,https://magiceden.io/item-details/7iMGUoQ3jJcPy8DKnGUWzDnDkkzyPSK1zakJBrkRiGK2,Yellow,NB-Ape Green,No Traits,Red / Peach,No Traits,PV-Ape Glue,No Traits
+5797,92.69,4765,0,https://magiceden.io/item-details/GBVSTg8nGmjDj5PG22wTSjQ4iw4f3g1N1KLAV3MMWr5,Green,Overalls,Shutter Shades,Green / Green,Snapback Cap,No Traits,No Traits
 5808,699,819,0,https://solanart.io/nft/FE9DrFZTFpM5aZCnhzkJtR8xFLRmyov38ndGdkERYYjp,Red,Fur Coat,Aviator Glasses,Red / Peach,Snapback Cap,Soda,No Traits
 5817,250,3783,0,https://solanart.io/nft/6whcsHzG4oEmDGVLFHsFUVYqpjAhWUPL7ab5tqTvbYMe,Black,Bowling Shirt,No Traits,Ice,Fishing Hat,Grilled Cheese,No Traits
 5828,95,8515,0,https://magiceden.io/item-details/3xJkwtBHs5dasz1niD2G5dXduf7sxwYQiz7spDHctccP,Red,Japanese Uniform,No Traits,Red / Blue,No Traits,Pizza,No Traits
 5831,135,1119,0,https://solanart.io/nft/53xLzktjAEsq6WAdPJMXDJD1CSd98jifrfmhexyWHQ5f,Black,Turtleneck,Round Glasses,Blue / Blue,Snapback Cap,Ape Force 1's,No Traits
 5835,139.690002,5026,0,https://solanart.io/nft/CBTce3odwtYDf3QL4sMM2xt3Ns36vrb7qQaqZrKw5ThZ,Red,Leather Jacket,No Traits,Green / Green,Umbrella Hat,Grilled Cheese,No Traits
-5848,60,9590,61.57,https://solanart.io/nft/D2dMHuVeinjgjUz2b43ZWiitb8GT4o8czpySohFnNpDZ,Blue,Hoodie,No Traits,Blue / Peach,No Traits,Pizza,No Traits
 5875,121,2006,0,https://magiceden.io/item-details/3cb1233gPEq5bzJJfv3YAQUZG194U4CygzYyZ6us23DG,Red,Overalls,Wayfarer Glasses,Blue / Blue,Graduation Cap,Bubblegum,No Traits
 5875,121,2006,0,https://solanart.io/nft/3cb1233gPEq5bzJJfv3YAQUZG194U4CygzYyZ6us23DG,Red,Overalls,Wayfarer Glasses,Blue / Blue,Graduation Cap,Bubblegum,No Traits
 5876,120,3523,0,https://magiceden.io/item-details/4Ho48fGYEWKC85jX2T1wBxiGh6q1oAF3hs3rzBpKH5aH,Purple,Turtleneck,No Traits,Blue / Blue,No Traits,Burger,Gold Tooth
@@ -781,7 +784,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 6291,139,156,0,https://magiceden.io/item-details/KFyK3CpRRTCKC4cvo7DArFk2rJNZ4Qv6eyFcMpSTMtN,Purple,Tie-Dye T-Shirt,Round Glasses,Blue / Peach,Beanie,Burger,Wooden Teeth
 6315,105,4087,0,https://magiceden.io/item-details/26M4JXisEPri5J4EVhUN8CqJFun2RHazqCgRdD43dG21,Green,Hoodie,No Traits,Green / Green,Pilot's Hat,Sushi,No Traits
 6322,4500,2526,0,https://solanart.io/nft/Avb2Sf2P43jHUad99hfAz3rYViMePm1shgtooSUQBrCU,Purple,Bowling Shirt,Wayfarer Glasses,Red / Peach,Musketeer's Hat,Ape-le Juice,No Traits
-6335,65,6013,35.9,https://magiceden.io/item-details/9KoBTufy8SB8y9cBcKdgRfBN1nUMKFWUuuHvqELbVMZR,Green,Striped T-Shirt,No Traits,Green / Green,Football Helmet,Dirty Fiat,No Traits
+6335,65,6013,25.9,https://magiceden.io/item-details/9KoBTufy8SB8y9cBcKdgRfBN1nUMKFWUuuHvqELbVMZR,Green,Striped T-Shirt,No Traits,Green / Green,Football Helmet,Dirty Fiat,No Traits
 6336,100,9185,0,https://solanart.io/nft/9sSi7zkGQYHEBxWmCf9X9LLter2YLssn37TVU3Rn1WSe,Yellow,No Traits,No Traits,Brown / Peach,Conical Hat,Banana,No Traits
 6342,140,1794,0,https://magiceden.io/item-details/mgFmUdGMy7rPkHkUYbHFAAsrfhLXFQuhLs8Bm18Tsde,Purple,Tie-Dye T-Shirt,Ape Vipers,Red / Peach,Baseball Cap,No Traits,Wooden Tooth
 6343,120,7188,0,https://magiceden.io/item-details/9zuQRt1hfPYmj32measUDMp5RSUAqgw13HxizrUBjLR3,Green,Dress,No Traits,Green / Peach,No Traits,PV-Ape Glue,No Traits
@@ -816,7 +819,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 6616,250,7646,0,https://magiceden.io/item-details/DSEffqPZuGCQQQs3ExDyQr3pnb4DQTJrUvFk3SPm1Zq5,Red,Tie-Dye T-Shirt,No Traits,Red / Peach,Conical Hat,Sandwich,No Traits
 6627,120,5060,0,https://solanart.io/nft/5WphHYM46TVeMiWir2DnqSmVZSiYPBFL2acCy8EPfVSe,Black,Hoodie,Shutter Shades,Green / Green,Bucket Hat,No Traits,No Traits
 6634,325,2305,0,https://magiceden.io/item-details/2AxAdcLrLSsgvvBSwm3tdVbZHPr4T5HtAPc7epZWp2hd,Blue,Black T-Shirt,3d Glasses,Blue / Peach,Beer Hat,No Traits,No Traits
-6642,93.994446,3881,0,https://solanart.io/nft/329qF6aHQEGMmh3VoWYVXTs1oYJAb9Rcj8bVBXExU7bg,Yellow,Pilot's Jacket,No Traits,Brown / Peach,Umbrella Hat,Banana,No Traits
+6642,89.994446,3881,0,https://solanart.io/nft/329qF6aHQEGMmh3VoWYVXTs1oYJAb9Rcj8bVBXExU7bg,Yellow,Pilot's Jacket,No Traits,Brown / Peach,Umbrella Hat,Banana,No Traits
 6646,555,302,0,https://magiceden.io/item-details/HgTxcujfWJsqeQ5qAvCAH13oDd7tXWekerMMn6iTMXuP,Blue,NB-Ape Red,Heart Glasses,Blue / Blue,Beanie,Ape-le Juice,No Traits
 6647,299.69,1421,0,https://magiceden.io/item-details/AK99Sg6Raz4XFY692FYd8tfiMvHoBExx87F1wWpawajM,Green,Turtleneck Suit,No Traits,Green / Peach,Explorer's Hat,6pc Tendies,No Traits
 6670,262.5,2078,0,https://solanart.io/nft/9vqNMfpgpdwb6mxz9Dz5i3qgadontR6szYLngK1qGwRX,Black,Jungle Explorer,Wayfarer Glasses,Red / Blue,Sailor's Hat,Soda,No Traits
@@ -900,11 +903,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 7223,80,6634,0,https://magiceden.io/item-details/GnKGuaiRiMYFDDswFceHdUiq2C2HSaRGyCSR8LK2zBbR,Purple,Black T-Shirt,No Traits,Black / Gray,Beanie,Corndog,No Traits
 7223,80,6634,0,https://solanart.io/nft/GnKGuaiRiMYFDDswFceHdUiq2C2HSaRGyCSR8LK2zBbR,Purple,Black T-Shirt,No Traits,Black / Gray,Beanie,Corndog,No Traits
 7228,188,6948,0,https://magiceden.io/item-details/77W9tmQPv5qkwA1YD8yM9ona7hRCfeoonVkdZCq5csda,Purple,Hoodie,No Traits,Purple / Purple,Sailor's Hat,Burger,No Traits
-7232,68,3571,15.69,https://magiceden.io/item-details/BAmiFNnLQjF5qpMu5aJMFvu1zXGPba6YrwQsde2dBPYz,Red,Tie-Dye T-Shirt,Wayfarer Glasses,Red / Peach,Fishing Hat,Drool,No Traits
+7232,68,3571,5.69,https://magiceden.io/item-details/BAmiFNnLQjF5qpMu5aJMFvu1zXGPba6YrwQsde2dBPYz,Red,Tie-Dye T-Shirt,Wayfarer Glasses,Red / Peach,Fishing Hat,Drool,No Traits
 7243,80,8443,0,https://magiceden.io/item-details/H3qmZHV1p4LnNMhyvDTpkpTpJnhT3PKDjpqk5EBpSuxU,Yellow,No Traits,No Traits,Brown / Yellow,Straw Hat,Dirty Fiat,No Traits
 7249,109,6320,0,https://magiceden.io/item-details/FueKsbiAgR2PvawMMyNNAjg1x9goByNtmjYEjqe5To2r,Blue,Ski Jacket,No Traits,Blue / Peach,Mobster Hat,Sandwich,No Traits
 7261,84,1213,0,https://magiceden.io/item-details/G3zQeGT7QuyJtKH1UgQ3x3Xt79kHPAi8QjdKJ2dzcC5R,Green,Academy Uniform,Aviator Glasses,Red / Peach,Straw Hat,Sushi,No Traits
-7262,140.333506364,1416,0,https://magiceden.io/item-details/3pvBPzYwVHpoems6DZkEG1GmUg2Qi1w1YMjgyJDs9dCg,Purple,Turtleneck Suit,No Traits,Purple / Purple,Tiara,Soda,No Traits
 7267,149,6741,0,https://magiceden.io/item-details/6AhdX2LkwWn5HZuKpGR5VTe9cJPAvZgCQjJdRPhvo1JV,Purple,Cheerleader,No Traits,Blue / Blue,Graduation Cap,Banana,No Traits
 7268,115,7365,0,https://magiceden.io/item-details/uEfVrJVeSDMgfWTiYTgdUQvXBunj7pmPCPjD2H173mR,Yellow,No Traits,Round Glasses,Brown / Peach,No Traits,Sushi,No Traits
 7284,99,4713,0,https://magiceden.io/item-details/47XjtRP3r5Dsxrt2W4EB6nTK7nLjN61k9D8ttMxtdfK9,Blue,Turtleneck Suit,No Traits,Blue / Blue,Viking's Helmet,Burger,No Traits
@@ -921,7 +923,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 7442,111.11,1594,0,https://magiceden.io/item-details/Gxq3qz3xyMNYDX2TKuZXDZAY1iiFxSX52C7pUwapaAAT,Purple,Tie-Dye T-Shirt,Aviator Glasses,Purple / Purple,Racoon Skin Hat,No Traits,Wooden Tooth
 7457,111,8169,0,https://solanart.io/nft/BqismyNLrXat58ucYguRaH7a6va8aZnbieFLwtmyccHo,Black,Cheerleader,No Traits,Brown / Yellow,Football Helmet,No Traits,No Traits
 7473,999.98999,9275,0,https://solanart.io/nft/HurnjWUVkzd6CphuBbCenadGkeKAMMbP1wE6MpsecMhp,Yellow,Hoodie,No Traits,Brown / Peach,Baseball Cap,No Traits,No Traits
-7485,68,7258,0.91,https://magiceden.io/item-details/Ciy9VXygTh7KqHGhKUx1omhZB6Wr5RiHR6ig2X424WTH,Red,Hoodie,No Traits,Red / Blue,Mobster Hat,Corndog,No Traits
+7485,68,7258,0,https://magiceden.io/item-details/Ciy9VXygTh7KqHGhKUx1omhZB6Wr5RiHR6ig2X424WTH,Red,Hoodie,No Traits,Red / Blue,Mobster Hat,Corndog,No Traits
 7486,225,2747,0,https://magiceden.io/item-details/9xnG9A8oXtPP66Y2emQoeVzDzgcfBUBvbj8h3nhrtUtD,Teal,NB-Ape Yellow,No Traits,Red / Blue,Snapback Cap,Grilled Cheese,No Traits
 7496,1200,492,0,https://solanart.io/nft/Gb7Etr7211Kg9M38PphPdWQk4f68L5VyvwHm8YcWSbeT,Blue,Black T-Shirt,Ape Vipers,Ice,No Traits,Pizza,Gold Tooth
 7502,333.329987,5737,0,https://solanart.io/nft/DtzE3f2osQ9W8XEfJ53TBFVgf7zzXJxNSoKsrQfR7skx,Yellow,Striped T-Shirt,Aviator Glasses,Brown / Yellow,Sun Hat,No Traits,No Traits
@@ -956,12 +958,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 7691,289,1896,0,https://magiceden.io/item-details/HJMGUNH5uoEAXp1D12qEtZE5wRgkbcBWwhwecmACGsWh,Yellow,Black T-Shirt,No Traits,Blue / Peach,Pilot's Hat,Hotdog,Wooden Tooth
 7691,289,1896,0,https://solanart.io/nft/HJMGUNH5uoEAXp1D12qEtZE5wRgkbcBWwhwecmACGsWh,Yellow,Black T-Shirt,No Traits,Blue / Peach,Pilot's Hat,Hotdog,Wooden Tooth
 7693,725,987,0,https://magiceden.io/item-details/GSWyeD1baGoHAX1fe3TVV1zPKYv83PjLS3qbFFq9UDL1,Red,Striped T-Shirt,Ape Vipers,Red / Peach,Snapback Cap,6pc Tendies,No Traits
-7696,135,1172,0,https://magiceden.io/item-details/3J63kTAJgT9SqR3xzaFBAX2RzjfcbmdjnttrjBj6WyD1,Yellow,Striped T-Shirt,Shutter Shades,Leopard,Fireman's Helmet,Drool,No Traits
 7703,175,8872,0,https://solanart.io/nft/5GfKYbYRrxqPT9osToRoDjJama6xxMznykebqb6xmuzx,Blue,Police Uniform,No Traits,Blue / Blue,No Traits,Pizza,No Traits
 7713,88,6085,0,https://magiceden.io/item-details/ACecxCHvmkAt8cn7RAWwqJsWyLmDpzfVGab86B3D6713,Blue,Suit,No Traits,Brown / Yellow,Straw Hat,Sandwich,No Traits
 7714,149.69,4167,0,https://magiceden.io/item-details/2BDDLwpbAwk9ZUyeEXCud4aNPrwFRx3yowMvV6ZK6a4x,Green,Hoodie,No Traits,Black / Peach,Sultan's Turban,Hotdog,No Traits
 7715,225,601,0,https://magiceden.io/item-details/CxwuEm6sEXhHTnpPbRRCpC6MkUXXC8PqQqM2FDBgytxW,Black,Cheerleader,No Traits,Black / Peach,Graduation Cap,Ape Force 1's,Wooden Tooth
-7722,66.69,8060,10.8,https://magiceden.io/item-details/EChEXfJPhMv87fa3z5c546MNjYz62Bm3r6dqQoruMNi1,Green,No Traits,No Traits,Albino / Blue,Racoon Skin Hat,Pizza,No Traits
+7722,66.69,8060,0.8,https://magiceden.io/item-details/EChEXfJPhMv87fa3z5c546MNjYz62Bm3r6dqQoruMNi1,Green,No Traits,No Traits,Albino / Blue,Racoon Skin Hat,Pizza,No Traits
 7738,2222,2520,0,https://solanart.io/nft/DdEAzNpzo9dCJGSuSPLP4tGmnLZMfkorUPmxaADaXfHT,Teal,Wetsuit,No Traits,Black / Gray,Wizard's Hat,Hotdog,No Traits
 7742,480,2729,0,https://magiceden.io/item-details/5TiaBMeENNfysbpsVRS4d3QQ54FiBHpFtM6Vrw77ea4J,Blue,Degen Service Shirt,No Traits,Blue / Blue,Degen Service Hat,Pizza,No Traits
 7756,75,4230,0,https://magiceden.io/item-details/2ckrq1WMNjUB2H3f68qjjcX7911qtUb9qDhx6PtKyMYp,Green,No Traits,Shutter Shades,Green / Green,Captain's Hat,Pizza,No Traits
@@ -994,10 +995,9 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 7974,99.5,3110,0,https://magiceden.io/item-details/HFmAN6oACc7A24fUaNVLgyMTErXdNmC2KTB6nbojpzVA,Black,Dress,Wayfarer Glasses,Black / Peach,Sun Hat,Sandwich,No Traits
 8017,222,6460,0,https://solanart.io/nft/Ai6GgdartuY4eDsgE7YfYB6aFgsTN2MeqGzviCvkGVcV,Blue,Cheerleader,No Traits,Albino / Blue,Bucket Hat,Burger,No Traits
 8025,700,562,0,https://solanart.io/nft/8AgjUipJ44KUHGexwu3VKWPYKJ6dttYACtHpkiveV1cp,Green,Dress,Ape Vipers,Green / Green,No Traits,Grilled Cheese,Wooden Teeth
-8032,99,6947,0,https://magiceden.io/item-details/ETJPsh1DGP37cQJ9ZaGgKPPT8jqhJGS7d91pvjBLLhks,Green,Turtleneck,No Traits,Green / Peach,Snapback Cap,Burger,No Traits
+8032,90,6947,0,https://magiceden.io/item-details/ETJPsh1DGP37cQJ9ZaGgKPPT8jqhJGS7d91pvjBLLhks,Green,Turtleneck,No Traits,Green / Peach,Snapback Cap,Burger,No Traits
 8040,300.69,2313,0,https://magiceden.io/item-details/3c6vo2d67WWn1uVRqUAS9XKez9ixPnZvLcLA7qJDiUcP,Red,Japanese Uniform,Wayfarer Glasses,Red / Peach,Sailor's Hat,Hotdog,No Traits
 8052,125,629,0,https://solanart.io/nft/H6dSjbx5LqS6PeLATUR5iw3PwDKHA2SPJsr54ZpGxUV1,Blue,Wetsuit,No Traits,Green / Peach,Captain's Hat,Sushi,Gold Tooth
-8053,88,9173,0,https://magiceden.io/item-details/ETEomKgVJQ5DovAyyd8setbAy9ci4p989dt7qUfv5J88,Black,No Traits,No Traits,Black / Peach,Policeman's Cap,No Traits,No Traits
 8056,350,5322,0,https://magiceden.io/item-details/9SSgmw2RimpFqUNBYhxiQbxSTxtPqgAgiNP6cgvyYYNL,Red,Leather Jacket,No Traits,Albino / Blue,Beer Hat,No Traits,No Traits
 8065,122.69,4902,0,https://magiceden.io/item-details/3JRmhoH1dcKHQjx1GpxP4ARVr4f7jb3C7Lz2zd8XvBw7,Purple,No Traits,Round Glasses,Green / Green,Fireman's Helmet,Sandwich,No Traits
 8078,100,4637,0,https://magiceden.io/item-details/GpcsAse5NoqCZgdXn1XuZyQm2F6ULkuZsgkzFyaZC3hk,Green,Maid's Uniform,No Traits,Purple / Purple,Pilot's Hat,Burger,No Traits
@@ -1049,6 +1049,7 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 8479,180,1558,0,https://magiceden.io/item-details/8cEgWFARj5NAU9McPg2vdHbLArDKkB6SS9eeLQcd9FyF,Yellow,Japanese Uniform,3d Glasses,Brown / Yellow,Baseball Cap,Drool,No Traits
 8482,180,1757,0,https://solanart.io/nft/GpVenyX5rKzM7VgKq79QkR3PEkWMD5XPFAPpnqphoe7y,Blue,Police Uniform,Wayfarer Glasses,Blue / Blue,Headband,Hotdog,No Traits
 8498,249,3804,0,https://solanart.io/nft/977omWSxokGa1UorosqEm2JcUStE1MgPLm52djL1eCEw,Purple,Tie-Dye T-Shirt,No Traits,Purple / Purple,No Traits,Burger,Gold Tooth
+8504,99,6366,0,https://magiceden.io/item-details/2qPTNxT5zwrzUybWzHgXN7X9QfN9QNsDFmNYsfvnZ4e9,Teal,Academy Uniform,No Traits,Brown / Peach,Baseball Cap,No Traits,No Traits
 8510,222,7677,0,https://magiceden.io/item-details/5SfGUqpwiuryz3Yi2utRxaquxwXEu8fVRtxk7k2kBKMC,Blue,NB-Ape Red,No Traits,Albino / Blue,No Traits,Sandwich,No Traits
 8513,1000,8981,0,https://solanart.io/nft/EyMujGMgiN7Yb2hsKbXWahwQ5QqU8Qon9xjAsMuBFse6,Blue,Black T-Shirt,No Traits,Albino / Peach,No Traits,Burger,No Traits
 8526,115,9811,0,https://magiceden.io/item-details/FD6B4WdJXrnrz4iLNpx2Vvhwo1r1CYQG2Lzw6aAUFTnk,Green,No Traits,No Traits,Brown / Peach,No Traits,Corndog,No Traits
@@ -1065,7 +1066,6 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 8561,99,499,0,https://magiceden.io/item-details/CNLhqqazkTX2GS5z41uBne5QmW4ihppXvA5WewSzRT7u,Green,Overalls,Aviator Glasses,Green / Peach,Captain's Hat,Sandwich,Wooden Tooth
 8576,83.99,608,0,https://magiceden.io/item-details/3WxXqeNMAFpkwcUxtYrsnrwxZ1f7er3mBHd9fnS3KMMg,Blue,No Traits,Shutter Shades,Albino / Peach,Mobster Hat,Eggplant,Gold Tooth
 8603,135,9614,0,https://solanart.io/nft/Fi1kUmi5Ac78N2JSMM4YiSVgApirUPX4gy7PANvoZk8F,Yellow,No Traits,No Traits,Brown / Yellow,No Traits,Sushi,No Traits
-8616,63.99,9289,32.87,https://magiceden.io/item-details/DLS93hsmnpZqrDSb7PQkJgQJJH9h5HJcu8yG7nBCVaLP,Purple,No Traits,No Traits,Purple / Peach,Baseball Cap,Grilled Cheese,No Traits
 8632,139,2918,0,https://magiceden.io/item-details/EPgD69tADPRxYCExLym9kL9NWX9RUZ6V7wM5WdFWGZix,Red,Dress,Wayfarer Glasses,Red / Blue,Fireman's Helmet,Sandwich,No Traits
 8647,299,8004,0,https://magiceden.io/item-details/AkRN2ekQHuhhbqkPWkbrhtaU5SF985WYUpdnSHVqo9B3,Yellow,Turtleneck Suit,No Traits,Brown / Yellow,No Traits,Drool,No Traits
 8654,250,5963,0,https://solanart.io/nft/BgQbpNnHBLoYswrz4wDZbU1pEnL6cn33HV7SJBchLwH5,Black,Maid's Uniform,3d Glasses,Black / Gray,No Traits,No Traits,No Traits
@@ -1077,7 +1077,7 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 8681,149,7874,0,https://solanart.io/nft/JB55SvUmTCa5BELeErKYQiVuGi59gMkdumUSxTXwT39e,Blue,Turtleneck Suit,No Traits,Albino / Peach,No Traits,Banana,No Traits
 8715,2000,7716,0,https://magiceden.io/item-details/8zqNJv5Wh3BJGUQHVty2UwZUJ7UiYqDgAcVjmrtrbdtM,Yellow,No Traits,No Traits,Leopard,Viking's Helmet,Sandwich,No Traits
 8733,233,4880,0,https://solanart.io/nft/8XspH45ZeZneX6ZSuQEsKG7Zc7J2tG5pM2ogEwRpD8QZ,Blue,No Traits,Aviator Glasses,Blue / Blue,Wizard's Hat,Pizza,No Traits
-8734,799,1882,0,https://magiceden.io/item-details/2YcVammo9DJnjGQL7A4gBxr1hVdFowMWLXf2VF5mgBmS,Green,Pilot's Jacket,No Traits,Green / Peach,Tiara,Grilled Cheese,No Traits
+8734,299,1882,0,https://magiceden.io/item-details/2YcVammo9DJnjGQL7A4gBxr1hVdFowMWLXf2VF5mgBmS,Green,Pilot's Jacket,No Traits,Green / Peach,Tiara,Grilled Cheese,No Traits
 8737,444,3154,0,https://solanart.io/nft/5me9NKTVZ63s4ytMHPYE6xT268P1zrFwRwgr5R8ShqQS,Blue,Bowling Shirt,No Traits,Albino / Blue,Racoon Skin Hat,PV-Ape Glue,No Traits
 8752,329,9011,0,https://solanart.io/nft/9pkHHgriSSrtzutzBjj9xbSeDEEKyfhbqF7chUsBGrza,Blue,Denim Vest,No Traits,Blue / Peach,Sailor's Hat,No Traits,No Traits
 8780,142.69,9112,0,https://magiceden.io/item-details/8Qud2drMF74BbrdnZq14UcPWz8jfYVT8TstgN7Sn9whH,Purple,No Traits,No Traits,Purple / Purple,Sailor's Hat,Pizza,No Traits
@@ -1110,7 +1110,7 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 8987,869,2970,0,https://magiceden.io/item-details/9PZ9TyFqsdfkW8cZWkda5ET9ti5sPm45FUaFD1QNUrjF,Purple,Black T-Shirt,Round Glasses,Purple / Purple,Baseball Cap,Dirty Fiat,No Traits
 8996,148.69,1122,0,https://magiceden.io/item-details/45gBWRRQGDEQqcLxyywnM1xdZgCqPwWpDsc82ayA7die,Red,NB-Ape Green,Shutter Shades,Red / Peach,Floral Crown,Drool,No Traits
 9046,95,3361,0,https://magiceden.io/item-details/AQSf9An1iFd7mneu5Y9BJbyVNgZuPFZ9bPtxtQDRKqS6,Green,Overalls,No Traits,Green / Green,Policeman's Cap,No Traits,Wooden Tooth
-9049,65,8041,27.77,https://magiceden.io/item-details/6bptMEvSag5e9BJyK3JZ8ZpJ4tpmDtPUT8KgC3x3wwcH,Yellow,Dress,No Traits,Blue / Peach,Fireman's Helmet,No Traits,No Traits
+9049,65,8041,17.77,https://magiceden.io/item-details/6bptMEvSag5e9BJyK3JZ8ZpJ4tpmDtPUT8KgC3x3wwcH,Yellow,Dress,No Traits,Blue / Peach,Fireman's Helmet,No Traits,No Traits
 9050,250,1742,0,https://magiceden.io/item-details/66MV5ZdjQ855Nb3ZBCkYLe2mVkCuFZQhaM3xLsXXnWWS,Black,Police Uniform,Aviator Glasses,Black / Peach,Baseball Cap,Soda,No Traits
 9053,119,2204,0,https://magiceden.io/item-details/6naQBgSLjjxopdoosHFWoaCarSzDBLe7b9Z8ZzjfpJtb,Green,Denim Vest,Round Glasses,Green / Green,Fireman's Helmet,Grilled Cheese,No Traits
 9064,200,4543,0,https://magiceden.io/item-details/8B6fm9Xp48QwYkkGXRt9C6AcRe5aHsexFtBf9XXF4uHE,Teal,Bowling Shirt,Wayfarer Glasses,Leopard,No Traits,No Traits,No Traits

@@ -119,6 +119,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 02672,1.5,925,81.47,https://magiceden.io/item-details/7wG8YCxHHBsGhE2jstxK9MwCeEvxrk51Kd4w32HW4mbf,Undercover,Sandals,Gen 0,Bobby,Blue,Chinos,Lieutenant,Orange Tanned,Cop
 02684,0.5,3187,82.4,https://magiceden.io/item-details/9GpMNL64ADVFKXHaCenJQtMeto1xZomc1zd7woCbxbh2,Speedo,Red,Gen 0,Wooly,Normal,Ripped Jeans,,Orange Tanned,Robber
 02705,2,1939,72.4,https://magiceden.io/item-details/6f9Qoo7WgbM42o7LMXLAQtJjerBkZCFUQvu3sxTQ7qa6,Coolio,Black,Gen 0,Peaky,Bloody,Ripped Jeans,,Orange Tanned,Robber
+02714,0.1,544,96.99,https://magiceden.io/item-details/CJaKYeMrXEeUoGnCkx5fy7QzV8sFnXTrWrnsN7cde1nS,Pipe,Xmas,Gen 0,Blue,Blue,Black,Detective,Yellow,Cop
 02755,0.1,5530,77,https://magiceden.io/item-details/6kmqXAFqiJs35V9K6DJo3mCeiy822kp2tnyHhy1doDc8,Speedo,Black,Gen 0,Peaky,Ripped,Prisoners,,White,Robber
 02756,1,8180,57.37,https://magiceden.io/item-details/6oAFiAWjemcvDZ6gTd5mjrn1Eo9PSdt4BT7gs5iKnXXR,Bandana,Sandals,Gen 0,Wooly,Damaged,Chinos,,Dark Brown,Robber
 02759,2,2061,71.91,https://magiceden.io/item-details/FWjsNxB9JuyZdES6fEhEWVzktkhHzFMpkGhnoSqcxfPt,Monocle,Sandals,Gen 0,Fedora,Damaged,Prisoners,,Orange Tanned,Robber
@@ -155,6 +156,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 03353,1,9606,51.65,https://magiceden.io/item-details/TdFevqmNHpwCHrDBWHWyFe6KxBw2W29L2iqfBpBnXTv,Covid,Orange,Gen 0,Wooly,Normal,Black,,White,Robber
 03377,0.3451,5211,75.83,https://magiceden.io/item-details/HF1LA8FQz5XgvvhGJfbjNzRagvFf1Lq1Xm4jS7C8ZoXg,Covid,Black,Gen 0,Wooly,Damaged,Shorts,,Tanned,Robber
 03404,0.028,9166,63.14,https://magiceden.io/item-details/GH68aqtoMkprtJiN5JKGmkVAwPEQMgzWK5AAp1ZYMR1E,Nerdy,Sandals,Gen 0,Wooly,Normal,Chinos,,Dark Brown,Robber
+03437,0.1,405,97.55,https://magiceden.io/item-details/5ZQWivzhyLN5jdtT7qP62nzh8bdRRWXXm4187UkLRXqi,Cool,Brown,Gen 0,Bobby,Blue,Ripped,Detective,Pale White,Cop
 03438,0.197,2638,87.63,https://magiceden.io/item-details/6ggeGkrfEdhN4Q9JWBQUepGtMumycS86BBhufdaFUjJ1,Spy,Black,Gen 0,Top Hat,Damaged,Bloody Jeans,,White,Robber
 03443,0.19,2998,86.25,https://magiceden.io/item-details/Fow8eUVMLwCzS9373QCGMutj4ytkzhgqVt7pwShtJnu5,Zoro,White,Gen 0,Wooly,Bloody,Prisoners,,Pale White,Robber
 03453,2.5,5297,53.93,https://magiceden.io/item-details/5Qtw8ifi35ivGyKRyfq95v1uVdfhgxnHm9PsMG7F91HA,Zoro,Sandals,Gen 0,Fedora,Ripped,Jeans,,Dark Brown,Robber
@@ -225,7 +227,6 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 04995,2.66,1146,68.98,https://magiceden.io/item-details/5nK48AJAXuRpkgt5wss66u3LRGRUQzjpoDSqyPUs3HHt,La Casa,Orange,Gen 0,Zoro,Normal,Ripped Jeans,,Tanned,Robber
 04996,0.09,3758,84.21,https://magiceden.io/item-details/BWPBabgyM73cUSCh6qzNKTNJEd2fFe5dyqvUKoasxxNg,Bandana,Red,Gen 0,Wooly,Ripped,Chinos,,Orange Tanned,Robber
 04998,0.3,507,95.14,https://magiceden.io/item-details/A3LtYhiNR5GpKDfmwi6CQYtu3GavByhadnnLLb1w7dwh,Golden Frame,Beige,Gen 0,Bobby,White Shirt,Black,Detective,Yellow,Cop
-05013,0.0175,6719,73.06,https://magiceden.io/item-details/5HNSfoX6ZDg2J1QX46NspXVJ2zqDApDTi1cHsMYQEQfN,Speedo,Black,Gen 0,Wooly,Turtleneck,Chinos,,Orange Tanned,Robber
 05035,0.6,9282,56.95,https://magiceden.io/item-details/GPPyVCoV119XhpNDn2rF9z8JELArM1jY6bGKDHbGK7zF,Covid,Sandals,Gen 0,Fedora,Normal,Chinos,,Yellow,Robber
 05047,0.2,712,95.32,https://magiceden.io/item-details/CWsQ9un84rqZR58YNWn8ws6J5SGmVoJKb3w8dkmTgigL,Undercover,Brown,Gen 0,Blue,Vest,Black,Detective,Yellow,Cop
 05069,0.2,4885,78.59,https://magiceden.io/item-details/2ffh4uPoxfT1vggYqcn87Q9EtzaAGx9YjsVWveDYUuBt,Zoro,Black,Gen 0,Fedora,Damaged,Bloody Jeans,,Pale White,Robber
@@ -236,6 +237,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 05319,1.5,7227,56.19,https://magiceden.io/item-details/CVuHkFk8wc6fD88165W7ULPqGubbn1CU5o82rEmj6v9v,Spy,Black,Gen 0,Wooly,Ripped,Ripped Jeans,,Tanned,Robber
 05358,0.85,1144,87.09,https://magiceden.io/item-details/614N4Y6uRE84Tgwj5AGKFvGJxfGGKU8xu3i1rEFMK9xy,Monocle,Black,Gen 0,Pirate,Turtleneck,Black,,Orange Tanned,Robber
 05371,4,9326,22.78,https://magiceden.io/item-details/AYiWoLvZ1tdrf6u9SF7SpSx15V5V2PXvssmsm8zEq35t,Coolio,Black,Gen 0,Wooly,Ripped,Black,,White,Robber
+05383,0.1,285,98.03,https://magiceden.io/item-details/4ag1YmYD8uoLzcXECgqfNkGqzNLbckLuig2jSVxo2LjP,Covid Mask,Brown,Gen 0,Bobby,Top Star,Dirty,Detective,Black,Cop
 05387,0.046,7685,68.9,https://magiceden.io/item-details/Bcg8MGcf3YqQwQcf53ZxDkCr4eoRNEfSnyB8bYZpfXyH,Spy,Orange,Gen 0,Wooly,Ripped,Jeans,,Yellow,Robber
 05408,0.046,8274,66.54,https://magiceden.io/item-details/4FsovdQ1MmKhysePLoV7JYSsBapuNipJsLtrQcjnRTqX,Zoro,Sandals,Gen 0,Wooly,Damaged,Chinos,,Orange Tanned,Robber
 05431,0.333,5488,74.84,https://magiceden.io/item-details/6NX5of5uaJn3Q4Ze1iuDfUbFBH5nZv2TZ2YEncK2tFFs,Balaklava,Sandals,Gen 0,Wooly,Normal,Prisoners,,Tanned,Robber
@@ -368,6 +370,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 07902,0.056,5838,76.2,https://magiceden.io/item-details/7GzLYp4Ucsnz31yrQsUQ5D5Na3RoXHg8MAs9RMvKS9CP,Coolio,Black,Gen 0,Peaky,Normal,Prisoners,,Tanned,Robber
 07915,4.4,684,53.43,https://magiceden.io/item-details/DGfUc8Da2DeTWHxgT3BsEZxhs6nSoRzuCFW3oJwmpZY2,Pipe,Brown,Gen 0,Black,White Shirt,Chinos,Detective,Dark Brown,Cop
 07944,0.247,3633,83.14,https://magiceden.io/item-details/AePbfhqojvMiGLGREzjciXhXVqMUpCX5o5rNUnead4UQ,Spy,White,Gen 0,Top Hat,Normal,Chinos,,Black,Robber
+07953,0.2,77,97.87,https://magiceden.io/item-details/9c4vxuBs6uow75YvFoX4PR47ps9BXT1NLdtnEv8KC42Q,Pirate,Beige,Gen 0,Admiral,White Shirt,Ripped,Lieutenant,White,Cop
 07971,0.99,3346,76.86,https://magiceden.io/item-details/EM3W8DdChbD7XS6HuvbdQfpdmg1ZErd13wBm6njQVP7m,Bandana,Orange,Gen 0,Zoro,Damaged,Prisoners,,Dark Brown,Robber
 08005,1.5,8591,50.72,https://magiceden.io/item-details/9SFL6KeCYrz2wncrTvjrjERfBfNYiwfUJVNKQwQvLYfE,Speedo,Orange,Gen 0,Wooly,Normal,Prisoners,,Tanned,Robber
 08014,0.1,7028,70.99,https://magiceden.io/item-details/9zXoh1UNayNimMzhZHDVVNKK7FQ7QUWWgE2xnYhUKxfd,Spy,Black,Gen 0,Wooly,Bloody,Jeans,,Black,Robber
@@ -441,6 +444,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 09620,3.5,1410,59.52,https://magiceden.io/item-details/6EHEgvvKGn3ghW86ZHBZHcKydhYR7MrP1XyEkCW47ZDx,Nerdy,Orange,Gen 0,Wooly,Turtleneck,Shorts,,Tanned,Robber
 09650,1.7,103,82.76,https://magiceden.io/item-details/EBNRQ1r6XrEmBKLJE8SereEJj9UEx9XkhArDhgUxNi7A,Wayfarer,Brown,Gen 0,Blue,Armed,Armed,Detective,Orange Tanned,Cop
 09659,5,154,49.56,https://magiceden.io/item-details/B9KK18mHfnTfA1PUnYcVQ9SJBTJbYJrg5oW41gpzBjZt,Scar,Brown,Gen 0,Russian,Blue,Armed,Detective,Pale White,Cop
+09671,0.1,560,96.93,https://magiceden.io/item-details/Fdz58imimCmkUBzAXsP8G78UpTKqRsyBdG1aWY1cZJ2J,Pirate,Brown,Gen 0,Blue,Blue,Blue,Detective,White,Cop
 09683,3.23,9877,28.27,https://magiceden.io/item-details/FxNvYLY5zZQZ7bdVvjMWyJUha7qKq4mtJh37oN1mmGWc,None,Orange,Gen 0,Wooly,Normal,Chinos,,Dark Brown,Robber
 09733,0.42,2185,87.21,https://solanart.io/nft/EMPLvjfra1cngzxaVEXXXePeG4zhfxbRiLq1YxjCSHYs,Nerdy,Orange,Gen 0,Peaky,Ripped,Bloody Jeans,,Dark Brown,Robber
 09743,6.95,967,26.8,https://magiceden.io/item-details/6epHjB5Z7CURj6yraFVfyzsDdGGWbay1eN8PYiYjNAxA,Covid Mask,Black,Gen 0,Blue,White Shirt,Chinos,Detective,White,Cop
@@ -515,7 +519,6 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 11195,0.44,NaN,0,https://magiceden.io/item-details/6rxPgfVGyahvgZiQMnna9eiXVKDqEZNfnZK3DJ2v6G2t,,,,,,,,,
 11201,0.46,NaN,0,https://magiceden.io/item-details/Dz5kGL52n6P5UvNeu9zTdbNp4omj2jwdsdESWULKFkh5,,,,,,,,,
 11213,2,NaN,0,https://magiceden.io/item-details/2WaPHf8LJLP7YFJdJ48g2hUxE3EpiUGrw8yupPyz8afJ,,,,,,,,,
-11220,0.0175,NaN,0,https://magiceden.io/item-details/8RvyKvDf6bXornAjw5jfGKcE3HDubnWA6ncBicjPu4PE,,,,,,,,,
 11247,1,NaN,0,https://magiceden.io/item-details/4tM768GfmMuVW4j3HQGYKZEwqeDQJcXZRqstDBTddTRU,,,,,,,,,
 11290,0.075,NaN,0,https://magiceden.io/item-details/2BvZ9JiWy3YKhXrkU86QEu4HTARoe4bVkPDzL7icwWij,,,,,,,,,
 11293,0.42,NaN,0,https://magiceden.io/item-details/8RFijvnj4V912tBHk3ZqvDkovqhovfBULArwJpJYcxmq,,,,,,,,,
@@ -951,7 +954,6 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 21997,0.1,NaN,0,https://magiceden.io/item-details/AmWLuRJNCKag4KxAf1jEkbqLxWpcqek3kCEKqV9Mw1hb,,,,,,,,,
 22023,0.475,NaN,0,https://magiceden.io/item-details/35AhwU3PFdnopDK1x5QmvyYGA7xf79jTQPBB1gnieqQt,,,,,,,,,
 22044,0.92,NaN,0,https://magiceden.io/item-details/DTZh7c43RyZKC2BKLPmHSnNTZxTgGfWcgFFNiHxDQubK,,,,,,,,,
-22049,0.1,NaN,0,https://magiceden.io/item-details/6id1FXLFF9QJAMZrrVAVKvxT5F1P68pWek1kvbUwfPEY,,,,,,,,,
 22052,1.69,NaN,0,https://magiceden.io/item-details/8TS7PGM33p1tbtvtskcELZSHPo34RL2vLtMbuL6QMjDq,,,,,,,,,
 22070,0.075,NaN,0,https://magiceden.io/item-details/E2SnoD7uqGJ2hbUWgBKVdN9Gs44gXqkVFDNzY2GM2Eok,,,,,,,,,
 22072,0.3,NaN,0,https://magiceden.io/item-details/3HMTL8QEyZukWhZWzkWLNL6cJqTU74TrT7YUPbu5JyZj,,,,,,,,,
@@ -1363,6 +1365,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 30640,1,NaN,0,https://magiceden.io/item-details/GtyQ534FE4xfvueMDtD7vEHpcQwLKyEgCXvpqQ8HRsd2,,,,,,,,,
 30667,0.075,NaN,0,https://magiceden.io/item-details/C7y2KJP4YhaV6mDujCUBTq1ifSg2gvEJU5t3HQG6aCQE,,,,,,,,,
 30672,0.0275,NaN,0,https://magiceden.io/item-details/8nKqdG33TT46id63fGCui4Ntq6L5yoycmp9YJkAxKoX2,,,,,,,,,
+30744,0.02,NaN,0,https://magiceden.io/item-details/Hi1cowi4HpLZYpqWeFUKWGh4hSXARSqp5WeC7h8nj5cy,,,,,,,,,
 30768,0.777,NaN,0,https://magiceden.io/item-details/474kZ9kfUevk53LG9MUAXjiv1u3YkQKd3gh6jzX5Vf3J,,,,,,,,,
 30815,2,NaN,0,https://magiceden.io/item-details/CzkpBHH9pbC6iS1vTUuS1pZ8ES9Hq9LUCDBpQsLyvrn1,,,,,,,,,
 30844,1.2,NaN,0,https://magiceden.io/item-details/FPp6byiL7DpZJM2aY7BNqkPStarswmQJRiiT8RbhCwqt,,,,,,,,,
@@ -1929,6 +1932,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 46064,0.0922,NaN,0,https://magiceden.io/item-details/78nmMENajH98osMqMX6Va6sYLgUwjyTyQZeLz8bDZ94c,,,,,,,,,
 46071,1.989,NaN,0,https://magiceden.io/item-details/9RjGiEWNGJ7jFvGbTfnadyJkbs4z8K1h45hPVvWnru8i,,,,,,,,,
 46098,0.04,NaN,0,https://magiceden.io/item-details/BWVxriEeYa4Nqd3rug1PEpHH4cksCex4GzT58cDA4ADP,,,,,,,,,
+46146,0.02,NaN,0,https://magiceden.io/item-details/2XMwnj3Te1dhFgTH1Y8zbQk7gnDfXotnPxEDNqNSK1j3,,,,,,,,,
 46246,0.03,NaN,0,https://magiceden.io/item-details/4HsMsVm3hGCW6HjDh8d7Un4q79W3XG43e8JudDnXHdKN,,,,,,,,,
 46305,0.039,NaN,0,https://magiceden.io/item-details/DexWmR7hJfPRCxZyvkBm5L5iC3BNxR39aa7w5ugUFd1T,,,,,,,,,
 46352,3,NaN,0,https://magiceden.io/item-details/HAcsKtxiCzQXipgwfQ6n9tkb22DKv62STemYwXcPbFgR,,,,,,,,,
@@ -1937,9 +1941,9 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 46437,0.12,NaN,0,https://magiceden.io/item-details/EEsTwChDYhtMQ6LhkBehbUQ8btQn641VmVWdsJ7xSE8W,,,,,,,,,
 46466,0.2,NaN,0,https://magiceden.io/item-details/G5mNLGu1We2iMTRDUcQcKWE359ge4KBdjqyBpYoz8QnH,,,,,,,,,
 46605,0.05,NaN,0,https://magiceden.io/item-details/7msN9ViKWkx2EgRErJERMoH277v4PvBV7VgXGApdS75D,,,,,,,,,
-46698,0.02,NaN,0,https://magiceden.io/item-details/5W17B2nWmh4Rr6Q2soEK3cVViuFzTFa2spp1CvpPstDf,,,,,,,,,
 46748,0.03,NaN,0,https://magiceden.io/item-details/AriuAUcFCv3Kh5UBKmu7V4m61J8jw6RyYvriShf7ywjY,,,,,,,,,
 46757,0.05,NaN,0,https://magiceden.io/item-details/3jYn57zdZzm56YT1EKVuWfW49BBtPcx83pisAMXENd22,,,,,,,,,
+46787,0.02,NaN,0,https://magiceden.io/item-details/3EKDU3f6fDykeoBMphTTmsGQvMJmmdFz3UvJ7kLcZdie,,,,,,,,,
 46836,0.9,NaN,0,https://magiceden.io/item-details/3XofdnD99xgneJda1XPa4wx94x1koAv8ettRiGajtENx,,,,,,,,,
 46869,0.35,NaN,0,https://magiceden.io/item-details/7CWrAaZSFVBcBEw1FRCJN5i1pK7jnhhf5NM8hUkcLqy8,,,,,,,,,
 46986,0.2,NaN,0,https://magiceden.io/item-details/7CYYVfrFNqcXpmrrqU4TkyKYEHqWe4ttHMESDbAbTEGF,,,,,,,,,
@@ -1986,6 +1990,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 48830,0.5,NaN,0,https://magiceden.io/item-details/7BhB9iJ1tXn6Dre1riHeCY4e84jbacpkrdyiSaVAmwRn,,,,,,,,,
 48839,0.3,NaN,0,https://magiceden.io/item-details/5kiTB8PaxFhjRKggGYsF4GVwJw12Qwf2r1dFfvJQtbT,,,,,,,,,
 48881,0.0275,NaN,0,https://magiceden.io/item-details/6jZV76XtgKAqfgXuDu8pW6yracf4gaZTvBADwK227NmP,,,,,,,,,
+48888,0.275,NaN,0,https://magiceden.io/item-details/DwdmxXZxoVacFCzBGP1Gd7EcYx9jSg77eeTAEnDCbWeT,,,,,,,,,
 48895,0.024,NaN,0,https://magiceden.io/item-details/2xzQgfvX5hjBFdTPkobvakMLo1g2PPNTJSihDVbUrGze,,,,,,,,,
 48934,0.5,NaN,0,https://magiceden.io/item-details/3P2xwE3VX9M2cXLH6w3Cj3HLPrCmYRGptTTL6zENW9HP,,,,,,,,,
 48957,0.024,NaN,0,https://magiceden.io/item-details/3HnU2ac8RJqGitwpxridqs1R5sfcfcdSsxUQaHdQq3hr,,,,,,,,,
@@ -2008,6 +2013,7 @@ id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,
 49578,0.018,NaN,0,https://magiceden.io/item-details/3Zv7NHS28KCJjhmqsvYH1Sgzqmz7LEJyhd8Ypv2o4Q1H,,,,,,,,,
 49611,0.23,NaN,0,https://magiceden.io/item-details/nnpqheRTQMTjtRkGLLPziUdnqGZLKBUhCfXfiZhnMxr,,,,,,,,,
 49612,0.12,NaN,0,https://magiceden.io/item-details/3PB6FqYuhGzjF8UAi4u7ZGWLfZCgc4RoBxV2kjpxFfKE,,,,,,,,,
+49632,0.02,NaN,0,https://magiceden.io/item-details/FUpD193R6C1PUCzuhNxBux1MJ1fuuvpbhFKotvYwafDo,,,,,,,,,
 49640,0.12,NaN,0,https://magiceden.io/item-details/9ygALtS6RndupGvwqdAG3tSMLtfpc5VWy86n2pmtGbUo,,,,,,,,,
 49648,0.03,NaN,0,https://magiceden.io/item-details/DasoPhRxubGDnZFMETzT5CMRgFkuzLNCmMdyKjNu3MfS,,,,,,,,,
 49721,0.0275,NaN,0,https://magiceden.io/item-details/9xVdpMDMT8nmbhbvQAySzK3Lv8HRpdSdvRMM4DHfD5fV,,,,,,,,,
