@@ -49,7 +49,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 429,3.7,NaN,0,https://magiceden.io/item-details/591tDMoyGqqYdQ2au6y24SvMAj7QioWXbtM6DBMXghcJ,,,,,
 431,1,NaN,0,https://magiceden.io/item-details/59XmgZ9v7xEUfmXoGBbBxV6f9bnfASU7d7mruLWCNb7J,,,,,
 433,333.333,1889,0,https://magiceden.io/item-details/F4LHJsaNq5VR7cr9dWbveGGWf8azMsHY6G4qTqJNcvnb,Meadow,Ocean,None,Meowers,None
-457,0.8,NaN,0,https://magiceden.io/item-details/5MMb5oWcDzkbTSYuxME6f4uzj9f8Kx3rMHTWWr2KpgUm,,,,,
+457,0.6,NaN,0,https://magiceden.io/item-details/5MMb5oWcDzkbTSYuxME6f4uzj9f8Kx3rMHTWWr2KpgUm,,,,,
 460,10,47,5.11,https://magiceden.io/item-details/8xUGQejeTB8XTCeYkXBSdrsAA1tFqnPeHEhUY8CdDUjr,Just Green,Galaxy,Paint,Chillin',Chef's Hat
 479,1.69,892,72.2,https://magiceden.io/item-details/FJhngACBzgXgB6SosTFbx8vgkH8kueFF2QvLZ9roF4mt,Slate,Ocean,Fuzzy Sweater,Blep,Strawberry
 480,100,NaN,0,https://magiceden.io/item-details/5bSbZenJHVjHKG7TYFRK3nMipc4ufpSezkE6VCd7sqvz,,,,,
@@ -181,6 +181,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 1774,0.9,1766,63.54,https://magiceden.io/item-details/4cCQeG7ybHCjePXBCnUnFowqfe6WZh46dGnTXJnVJVvS,Slate,Ocean,Skull Shirt,Fluster,None
 1781,1.13,1333,69.44,https://magiceden.io/item-details/Gf7oqFRuxaVf8qvmPabu1DQmCXzdawpcJdw3MA2HjwTT,Slate,Solana,White Turtleneck,Smile,None
 1790,5,NaN,0,https://magiceden.io/item-details/GBTqBaoPgvZG4ctrhojwXmQu8opiAktDnCDTSLzsht2M,,,,,
+1800,0.78,500,88.73,https://magiceden.io/item-details/B6tugsi1NukK85289dxrDV7F5GtR5YnKb4UP1sKdeNFC,Savanna,Smoke,Really Red Sweater,Lashes,Bang
 1804,2.99,1031,56.56,https://magiceden.io/item-details/AgRprKfMn1Ns5cFxWpj4Vs4RMksnmjJxU7u5xskmx1RL,Just Green,Original,FFSC Merch (Blue),Fluster,Turtle Shell
 1806,74.03,NaN,0,https://magiceden.io/item-details/GHkjQwkvfvdWF5iL77yQy1FERXFggfBArdp6kJgo7q5d,,,,,
 1825,1,347,89.42,https://magiceden.io/item-details/9VvYnXNs5R1fThL1M1mCNQSNocwA1TFFRTxdNJpYPKNm,Bubblegum,Juicy,Happy Face Tee,Sad Lips,William

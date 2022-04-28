@@ -18,7 +18,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 46 Stewart Avenue,33.99,1476,0,https://magiceden.io/item-details/6Yc2evcJduo3Ea8esswqq2mQDMrBiygqK2oMndhWcJtw,Field,Green,46,Cottage,,Yellow,Rounded,,Green,Patio,Stormy,Stewart Avenue
 47 Stewart Avenue,43.5,1680,0,https://solanart.io/nft/2p1YVTzuuX3zgNS97LK5BWvrcinW2QQK84qucjahWMgF,Desert,Red,47,Cottage,,Green,Rounded,,Green,Skylight,Night,Stewart Avenue
 48 Supple Circle,48.87,1994,0,https://magiceden.io/item-details/BMeYUjkKcxaWzyGxmh3qE1Rfv5pDvP83HGLUqdNFrsFE,Desert,Yellow,48,Cottage,Vines,Green,Shuttered,,Yellow,Tin,Day,Supple Circle
-50 Supple Circle,26,842,76.37,https://magiceden.io/item-details/F8Jndu1yaEXBZQn8tZJ6GXWg4KnfWKMo9Eg6u121e1hn,Desert,Red,50,Art Deco,Brick,Green,Rounded,,Pale green,Shingle,Night,Supple Circle
 50 Stewart Avenue,69.420911,659,0,https://magiceden.io/item-details/B4oM35Q9AerucJpftk5gNhJMyUzM1VGG1VmwUinHb1ci,Underwater,Red,50,Art Deco,,,Crystal,,Blue,Skylight,,Stewart Avenue
 50 Rosa Street,69.69,1147,0,https://magiceden.io/item-details/22RfyNfKvvPNNb3p4jut34TG3HPiGmoJKbfVTyWCgooP,Field,Green,50,Modern,Vines,Yellow,Rounded,Rain,Red,Shingle,Day,Rosa Street
 52 Ape Lane,90,577,0,https://alpha.art/t/BJ9DepuotJjRATGokjD1gLbX553U16rnNU6r8Wz2BwT3,Field,Lavender,52,Mansion,,Red,Shuttered,,Mix,Grass,Night,Ape Lane
@@ -52,7 +51,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 80 Abbey Road,111,1118,0,https://magiceden.io/item-details/318cGu6r8x6AHryc97w2SzXEHHiwtMYHFjMk4MksLV7Y,Treehouse,Green,80,Cottage,Vines,Blue,Shuttered,,Mix,Grass,Day,Abbey Road
 81 Teeps Lane,48.88,1617,0,https://magiceden.io/item-details/HvGwRifNPNdsyGsSinr1MKASCSFdx8RbpiG5UMQ2b8fK,Desert,Yellow,81,Cottage,Vines,Blue,Shuttered,,Blue,Tin,Night,Teeps Lane
 81 King Street,69,2333,0,https://magiceden.io/item-details/DVwQkpBw3x7QfxVf7yUm1N4NyakEGGD7nwzxbX3pzVPN,Mountain,Red,81,Cottage,,Yellow,Shuttered,,Blue,Shingle,Day,King Street
-82 Abbey Road,35,593,0,https://magiceden.io/item-details/AQXTb729SjwMCnKdpduX926QtDYi7F6r16VkHckq6kXJ,Treehouse,Yellow,82,Art Deco,,Blue,Rounded,,Red,Shingle,Sunset,Abbey Road
 83 Rosa Street,26,1853,60,https://magiceden.io/item-details/14HhmATXqpiXLuRz48hbQqFpGeekhyc5fwBZfxM4aUm5,City,Blue,83,Modern,Vines,Red,Rounded,,Pale green,Patio,Day,Rosa Street
 83 Abbey Road,100,2244,0,https://solanart.io/nft/GNG8KpFF1nA6eTNjtdqLzP68mq6jJDhwz3mM4DZAb53k,Desert,Yellow,83,Cottage,,Red,Shuttered,,Mix,Grass,Day,Abbey Road
 85 Stewart Avenue,30,979,34.15,https://magiceden.io/item-details/G2bMnciCTqoixirmK3wck8eoTfag45BfmUe3oh3dghC1,Mountain,Yellow,85,Cottage,,Blue,Shuttered,Snow,Green,Shingle,Day,Stewart Avenue
@@ -147,6 +145,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 390 Lamport Lane,58,1911,0,https://magiceden.io/item-details/EeBHfbMJoVcXK96fvFS7pDfoTPmLAXm5ZhFrtuyYNW8Z,Treehouse,Blue,390,Cottage,,,Glass,,Mix,Mushroom,Day,Lamport Lane
 393 Lamport Lane,89.99,2163,0,https://magiceden.io/item-details/H46zyn9CsvqmNMerBuhdQRCkdFSRh8h8TFGvtdMHL6wQ,Field,Green,393,Cottage,,Yellow,Shuttered,,Green,Haunted,Day,Lamport Lane
 393 Sierra Avenue,69,277,0,https://solanart.io/nft/55jD8Wtows7CZ3tVJrRKL5Aqe2sJ22wa51mGikaHctF4,Beach,Pale green,393,Modern,Vines,Green,Rounded,,Mix,Food,Day,Sierra Avenue
+394 Lamport Lane,50,1969,0,https://magiceden.io/item-details/9AeTJapE25wDQ1pGUJXDbnEVRNvwUiEwst5MJ58Bivjg,Treehouse,Yellow,394,Art Deco,,Red,Shuttered,,Red,Tin,Day,Lamport Lane
 394 First Avenue,100,1682,0,https://solanart.io/nft/BWusSA3kVNrX1Zso6AdSBNJoNmp5aLT9qZCg2msmPRcv,Field,Blue,394,Art Deco,,Green,Shuttered,Rain,Green,Tin,Day,First Avenue
 395 First Avenue,26,2296,52.83,https://magiceden.io/item-details/J3VgVu3Pgu6F6Js5fKFJUKuNCND9Leo6Sb7o7tzNEhUM,Field,Green,395,Modern,,,Glass,,Blue,Patio,Day,First Avenue
 398 Grime Lane,38,1828,0,https://magiceden.io/item-details/876kesd4zx7yJTWAsCLeXjmriXU7raBvaCWMSrxLbLBZ,Arctic,Blue,398,Cottage,,Green,Rounded,,Red,Patio,Day,Grime Lane
@@ -202,7 +201,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 545 Poplar Street,190,1497,0,https://magiceden.io/item-details/3Xv7cADppVEYfNtdpxNV75ys4kHjpdKMTyhDW6ASAXD1,Beach,Green,545,Modern,Vines,Red,Shuttered,,Green,Skylight,Day,Poplar Street
 547 Jane Jacobs Way,110,376,0,https://magiceden.io/item-details/8vm7sUVUpGWwGFTUfZow4XYthE1fFztomQZ4zyD3Z3Pv,Field,Blue,547,Mansion,Vines,,Occult,,Blue,Patio,Day,Jane Jacobs Way
 549 Dip Drive,48,392,0,https://solanart.io/nft/HdM1C7ZC4yV2GgJPKzbrjTJFPXKzSbtbkFR6LJQbd3Gn,Arctic,Red,549,Art Deco,,Dark green,Shuttered,,Pale green,Skylight,Day,Dip Drive
-551 Jane Jacobs Way,42,503,0,https://magiceden.io/item-details/H8vk6PTFtETJuFPENqpt82b7GVAhJE9mXUFzdVqm8Yhn,Underwater,Red,551,Modern,,,Glass,,Yellow,Tin,,Jane Jacobs Way
 554 Jane Jacobs Way,64.800003,1836,0,https://solanart.io/nft/BvQnCGn6BFjEiw3v3Vi64t4eYRjGc4TSXHJtsgf8WhfL,Desert,Red,554,Cottage,Brick,Yellow,Shuttered,,Green,Skylight,Day,Jane Jacobs Way
 558 Jane Jacobs Way,37,904,0,https://magiceden.io/item-details/F4rVHqEZVMtbaKL7vYedo4rx65vd3rCWF12YSnAURYMU,Underwater,Blue,558,Cottage,,Yellow,Shuttered,,Blue,Shingle,,Jane Jacobs Way
 559 Poplar Street,34.9,1690,0,https://magiceden.io/item-details/GqEYPcPZnVqmHq5Ujjkr3GJXEx9vgtc6yY89K5YTSWK1,Field,Green,559,Cottage,Brick,,Crystal,,Pale green,Skylight,Day,Poplar Street

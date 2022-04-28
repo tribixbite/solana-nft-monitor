@@ -38,7 +38,6 @@ id,price,moonRank,💎 score (%),storeURL,Cheek,Chest,Earpiece,Gradient,Headdres
 1531,8,2426,29.97,https://magiceden.io/item-details/28oUJrbosMcTtyeiwxYKtHgNwMwdcG4fMHunD9nQZcsM,RB-T,Shawl,Transmitters,No,Amygdalac,Ergo,Skirt,Abalone,Stage 1,Oni,Orbital Band,Baseon
 1557,7,990,50.35,https://magiceden.io/item-details/HSd3qRTBCdTKSSKE3c5Q15Fy9JtM2xHYKYDky7R2k7t7,FE-TT,Bandolier,Grievance,No,Splitter,Seer,C1-Standard,Jet Blue,Stage 2,Maverick,Orbital Band,Interlocked Baseon
 1576,17,108,0,https://magiceden.io/item-details/Ah5WABbV1JBFxXod8FX2ixafyUHSADwzCfEb6yJzDTR,Aero V,Shawl,Periscope,Yes,Fin,Ergo,Saturn,Oracle,Stage 3,Equalizer,Clockwork,Inner Rim
-1605,3.1,2949,75.2,https://magiceden.io/item-details/DBTutt3dhwby1XKpm2eGLoqSCwB4Yisqd3NAoSQodEK9,Aero V,Shawl,Transmitters,No,Fin,Code,Analogue,Ray,Stage 2,Equalizer,Ergopads,Baseon
 1630,4.5,2340,65.6,https://solanart.io/nft/79pVQuqkSNDZWCg2gK2uZ9q8dgvNx8FYhEH7i8bwZixZ,Odin,Notched,Transmitters,No,Ridge,Invader,Saturn,Blaze,Stage 1,Amphibian,Ergopads,Baseon
 1671,5,3649,51.14,https://magiceden.io/item-details/DEm2hedKZH5kT5ThZg1KESM3VtDQoqMm3pE8CMkejB8u,Odin,Shawl,Plugin,No,Ridge,Blockpath,TK,Cyber Runner,Stage 1,Maverick,Cape,Inner Rim
 1678,5.55,2512,53.85,https://solanart.io/nft/DrJuADCoTnShVzVCXW7p4Z7NrtLGwfTxzVhGWy7y8bFB,Aero V,Mondrimod,Frequency,No,AmoraTech: Beacon,Blockpath,Dual Vent,Unfathomable Depths,Stage 3,Maverick,Cape,Inner Rim
@@ -137,12 +136,11 @@ id,price,moonRank,💎 score (%),storeURL,Cheek,Chest,Earpiece,Gradient,Headdres
 4137,6,665,62.7,https://magiceden.io/item-details/HqJjpTQacoD3YDhHirHccogrjwA8NWSdD7suJjGmqdnX,Odin,Notched,Vib-Cap,No,Amygdalac,Invader,Strype,Amoran Seas,Stage 3,V Phase,Ergopads,Inner Rim
 4262,7,3255,33.99,https://solanart.io/nft/HPytFbHNB7YDw7Ed9bEBtutEe5MHnHhQ7J5fgVTWBN1,Solaris Class U,Uniplate,Plugin,No,Bi-Nocs,Double Stripe,Dual Vent,Ordo,Stage 1,Equalizer,Epaulettes,Inner Rim
 4265,2.75,4282,69.07,https://magiceden.io/item-details/FoJSyddEz8tczpMvZ2M3uNuWG7kdwvvrmdzJ4cNmb7q4,Strata-T,Notched,Hermes,No,Mo-Exhaust,Seer,Cyltanks,Exo,Stage 1,The Beak,Epaulettes,Interlocked Baseon
-4272,2.75,1577,88.61,https://magiceden.io/item-details/3jMyE7kwReZbvVXqTthhvVbZxggDDXtVTZHqDkSeuDQ5,Necro,Bandolier,Periscope,No,Ridge,Center Stem,Mandibles,Wolverine,Stage 3,The Beak,Armguards,Interlocked Baseon
 4288,2.85,1585,87.55,https://magiceden.io/item-details/2pjZDeXk9hyk3UJeMh7KiAGxq8tuznpHxyvZS5nHnqsH,RB-T,Notched,Transmitters,No,Ridge,Invader,Commando S,Tantu,Stage 1,Amphibian,Ergopads,Interlocked Baseon
 4291,2.8,1083,91.68,https://magiceden.io/item-details/DktBVbkyRrasxoizuoXhkdmZfyojWSwCptTAcxB9oczQ,Odin,Notched,Grievance,Yes,Bi-Nocs,Speedster,Conrad,Ashen Steel,Stage 1,Amphibian,Clockwork,Inner Rim
 4296,2.9,4038,69.33,https://magiceden.io/item-details/GSb6KUz4UVDRKJdSqe7L7GpD69yDFpkM5pcPuUkYu1AE,AmoraTech: S Curve,Notched,Contracaps,No,Duofin,Dovetail,Analogue,Parsec,Stage 1,BHSG,Clockwork,Inner Rim
 4299,6,178,66.21,https://magiceden.io/item-details/86sWfrk45CmLG94u1JG4W6Jh2jEjEUneXeim1yCBgPkC,Big Dipper,Notched,Magnesium,Yes,Fin,Flush,Bevelled,Starborn,Stage 3,AmoraTech: Capacitor,Ergopads,Inner Rim
-4311,2.99,5306,59.27,https://magiceden.io/item-details/BJcGnULM8WLUUhvakW5V32S3zWGZ3kA1PZWqWNisnU9K,Arc-50,Bandolier,Periscope,No,Mo-Exhaust,Code,Cyltanks,Sputnik,Stage 1,Space Gill,Clockwork,Interlocked Baseon
+4311,2.75,5306,61.67,https://magiceden.io/item-details/BJcGnULM8WLUUhvakW5V32S3zWGZ3kA1PZWqWNisnU9K,Arc-50,Bandolier,Periscope,No,Mo-Exhaust,Code,Cyltanks,Sputnik,Stage 1,Space Gill,Clockwork,Interlocked Baseon
 4316,7.9,1841,35.2,https://solanart.io/nft/C2nH3L94qZu7uEXuZzB7wtB79qKx7vYY6aT4icUigqqK,Negative T,Bandolier,Vib-Cap,No,Mo-Exhaust,Dash,Cyltanks,Galactic Whale,Stage 2,Equalizer,Armguards,Baseon
 4318,2.8,4634,66.02,https://magiceden.io/item-details/4uRup2FUiQCmRXRAxDwiMM8VWVUNWxXJMxZtLrsX9Rcr,FE-TT,Uniplate,Transmitters,No,Mo-Exhaust,Duplate,Commando,Abalone,Stage 1,Quadic,Armguards,Shockwave
 4322,4.9,2696,59.02,https://magiceden.io/item-details/G995GqGWSaYUVuFCERrrL7fu2GMmfjMM6VibAcJSgqNG,Arc-50,Notched,Contracaps,No,Ridge,Uniring,Flux,Obsidian,Stage 3,Equalizer,Armguards,Inner Rim
