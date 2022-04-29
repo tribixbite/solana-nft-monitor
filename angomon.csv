@@ -111,7 +111,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Bottom,Ears,Eyes,Head,
 751,1.5,1761,77.35,https://magiceden.io/item-details/Ejn26NruK5y5DcG1QbT385C3sADFbpodVLG1ejpKi5SJ,White,Purple,Puff Pants Purple,Heart,Cross,None,Angoboot Neon Orange,Vamp,Sweater Carolina
 752,9.9,2334,0,https://magiceden.io/item-details/9xQPrEJ7Qt3SQiw4cVjEZbtgQYtPUk6JD6EcEaoPrzcj,White,Flame,None,Mickey,Cross,None,Angoboot Black,Vamp,Enigma Vest Neon Green
 759,2.5,1804,66.85,https://magiceden.io/item-details/4KLzGzC53aewx6aeuiFU5msgwn8BCFFTc8nt3ioSwYLd,Yellow,White,Jeans,Mickey,Round,None,Fly Panda,Spike Open,Puff Vest Cream
-760,5,907,52.12,https://magiceden.io/item-details/ChFKzqmRQMAgBkDYmUDqZPFn8Rog59ef5MjUS4Ls48Q7,Yellow,Orange,None,Heart,Glory,None,Fly Panda,Spike Open,Long Puff Orange
 761,2.7,2007,62.53,https://magiceden.io/item-details/5N3pnZ12PZebZknTCAuN6pPFY9dMJaxVzzkpAmebXvqk,Green,Purple,Windbreakers White,Pigtails,Cross,None,Runners Black,Spike,Long Puff Black
 766,4,987,61.2,https://magiceden.io/item-details/EXiB67qaYXWuRm1zFU94Q8FD1YqbPWv4nQNsq5bD25C2,White,Sky,Shorts Black,Pigtails,Round,Blue Flower,Angoboot Neon Green,Spike,Tee Blue
 768,3,2689,51.72,https://magiceden.io/item-details/77cBi2rsr1VoVsKiU87yNiJZTebxyn1u5YegUvyM8o5M,White,Shadow,Puff Pants Cream,Heart,Cross,None,Angoboot Beige,Gap,Base Puff Yellow
@@ -241,6 +240,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Bottom,Ears,Eyes,Head,
 1587,5,2808,30.36,https://magiceden.io/item-details/7zRh5HbujziN2AvNpQZs4Xuq36PDKExSkQguyq88my36,White,Pink,None,Heart,Spiral,None,Sandals White,Spike Open,Enigma Vest Neon Green
 1592,3.5,2700,46.6,https://magiceden.io/item-details/232PFajX3C9V7CE2YTYqhm9AafCddC1cCKFQMLDZw218,Purple,Orange,Latex,Heart,Cross,None,Runners Black,Spike Open,Smooth Puff Seafoam
 1596,4.3,3244,32.37,https://magiceden.io/item-details/H9WUN6JWt8JN2Q3yZXqwuwP1wNyhCFJ1D5G5EjGtaAQ,White,Black,None,Mickey,Cross,None,Sandals Red,Gap,Tee Blue
+1606,12.5,2331,0,https://magiceden.io/item-details/EbATNoHTCvb15ENYVGPUNkRriG8ZuvCeAPFhCRd8PZxi,White,Purple,Puff Pants Purple,Mickey,Spiral,None,Angoboot Beige,Spike Open,Enigma Vest Neon Green
 1612,2.7,1980,62.84,https://magiceden.io/item-details/AmqGP9w6fu5xV3yvCQy6nxK9HiKxyvjFhgC1q3AqqiCb,White,White,None,Mickey,Spiral,Pink Flower,Angoboot Neon Green,Spike,None
 1616,4,2064,48.88,https://magiceden.io/item-details/AeHyqkDo3EhfYgFV3DkepvokPB8oT5XgP5ioA953jJVK,White,White,Shorts Pineapple,Heart,Cross,Pink Flower,Runners White,Spike,Long Puff Black
 1621,3.9,296,70.11,https://magiceden.io/item-details/APtawPcZBeETYa44DYGPpcHo2NjKxXRT2wDhzeSW7RwJ,Yellow,Mint,Puff Pants Cream,Pigtails,Spidey,Halo Yellow,None,Gap,Tee Blue
@@ -426,6 +426,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Bottom,Ears,Eyes,Head,
 2983,9,919,11.98,https://magiceden.io/item-details/8o5bwJPG5foMNpWy3RNgvqhPRJtsdtTBCVsSBQqQoYAS,Red,Purple,Windbreakers White,Heart,Round,None,Croc,Rainbow,None
 2986,3.5,239,74.76,https://magiceden.io/item-details/3KKN92bNQaX4QxfM8pxFX1gzQ9GqfjtQBRVWFcRFMjne,Red,Purple,Jeans,Mickey,Spiral,Halo Red,Sandals Red,Spike Open,Striped Sweater
 2994,18,782,0,https://magiceden.io/item-details/Ha7k1cByCpwPbo86nvzU4ZybzFnqAuTAjWXavQS5dzn5,White,Candy,None,Heart,Spiral,Halo Red,Angoboot Black,Spike,SHLD
+3020,2.69,2857,52.9,https://magiceden.io/item-details/4dFUxn6LTHSGf1m41j7EU373DsF2xgJQbNcM3qsrH9yK,White,Mint,Shorts Pineapple,Pigtails,Spidey,None,Runners Black,Spike,Sweater Black
 3041,2,1055,80.43,https://magiceden.io/item-details/ChPydupXC7zNNsAaULMkWfwRvwvb9LXh7QJAhkyH2tUk,Red,Pink,Puff Pants Red,Pigtails,Cross,None,Sandals Yellow,Spike,Smooth Puff Chrome
 3042,1.47,2027,74.6,https://magiceden.io/item-details/gxoe46gxxnioZrLSTkPXQGefG749i6jHtdDmpWBibqw,Green,Purple,Shorts Pineapple,Mickey,Spidey,None,Fly Bred,Spike,Tee White
 3045,2.75,2588,55.38,https://magiceden.io/item-details/9YrH3yb7VxqFjeHM865KthfCns4WhR44m6aQuh2ZYrej,White,Orange,Jeans,Pigtails,Spiral,None,None,Vamp,None
