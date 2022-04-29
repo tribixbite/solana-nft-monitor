@@ -46,7 +46,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 675,5.55,491,61.55,https://alpha.art/t/3hpbaegnF8jyUhMgqwpGxgC6FMjdUjEKcDRLGECyjdjV,Red,Deadpan,Censored,Blood,None,Blue Mohawk,Worry Lines,Willard the Loaded,None,Purple Creepy Crawlies
 700,4,1334,71.98,https://solanart.io/nft/G8iZWEQHpUX4xv677q6LBNP9UaMpiosGkRqM6YD8K3tC,Orange,Deadpan,None,Purple Worms,Kunai,Green Baseball Cap,None,Cryus the Inferno,None,Hard Scrape
 734,53,3187,0,https://solanart.io/nft/EJFFmJAnLeehBoYYKx4ZZ3vpiNbcvniTLgde7yUUAMFD,Teal,Deadpan,None,Eight Ball,Kunai,Red Mohawk,Cheeks,Casper the Wrathful,None,Bone
-744,2.4,3254,76.44,https://magiceden.io/item-details/5KZxL3GM6qfZvdmi2DtwpXQs4v6LGdTzQ2XcNeEVTVBw,Orange,Fearsome,None,Blue Flames,Chef's Knife,None,Worry Lines,Raphael the Unreasonably Macho,None,Ramen
+744,3.79,3254,62.54,https://magiceden.io/item-details/5KZxL3GM6qfZvdmi2DtwpXQs4v6LGdTzQ2XcNeEVTVBw,Orange,Fearsome,None,Blue Flames,Chef's Knife,None,Worry Lines,Raphael the Unreasonably Macho,None,Ramen
 749,19.99,514,0,https://magiceden.io/item-details/4cteVKb1BxqCBgMzUhmCpcs3uj2sYUKScHQAREQbeZkq,Royal Blue,Deadpan,None,Nine Ball,Tongue,Red Baseball Cap,Squiggle,Mark the Bareboned,None,Gold
 822,3.1,3386,68.64,https://solanart.io/nft/BiF8u7VrMxPsxtSuaSWQmPa78MNtYTsRE7xn9c56Lzpx,Red,Deadpan,None,Slime,Chef's Knife,Green Spiked Mohawk,Cheeks,Hagrid the Ferryman,None,Blue Crosshatch
 841,6.9,6260,13.36,https://magiceden.io/item-details/G2F98HUHoiVMjKqGiFni61d4jqMHfrQzDSrxpNTD2wsN,Yellow,Deadpan,None,Matches,None,None,Cheeks,Cronos the Unbalanced,None,Blue Crosshatch
@@ -86,7 +86,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 1292,2.8,4160,66.99,https://magiceden.io/item-details/4NJd1vA7SUi1ayC9mvKRB9ac1fX3Ranie4pt2i4aV2sX,Red,Deadpan,None,Red Flames,Tongue,Royal Blue Durag,None,Freddy the Stealthy,None,Blue Marbled
 1312,10,451,17.29,https://magiceden.io/item-details/AA6fXBjtjKGWRHz5GraqxGxA65G4zCbDUVTYK36QzoCJ,Yellow,Fearsome,None,Flat Eyes,Tongue with Eyeball,Halo,Worry Lines,Manolo the Treacherous,None,Putting Green
 1316,5,398,67.61,https://magiceden.io/item-details/CFdnK9yx72nFHwWmJ2PK7CZRFUArSfd8U1RYo4vkJLXm,Purple,Deadpan,None,Twin Red,Trench Knife,Victor's Laurels,Divot,Propero the Chaotic,None,Putting Green
-1347,2.03,3138,80.83,https://magiceden.io/item-details/2VYBdujm4cPidxp2cvgEqShRagGfDrz9T1VS7DHAt4V8,Grey,Deadpan,None,Purple Worms,Tongue,None,Divot,Hiro the Truly Obnoxious,None,Brains
 1387,8.9,232,29.61,https://magiceden.io/item-details/GkDyGKYft17EmEr2DwDh54rqiNpGzYucc1HaupBAEB76,Blueberryish,Fearsome,None,Nine Ball,None,Toasted,Cheeks,Buzz the Ooze,None,Bloody Splatters
 1389,8,3266,20.36,https://solanart.io/nft/DuHUnypmxqggmziq9bkX3CUh2PVst5Dm6pvKZmWWu5Cn,Orange,Fearsome,None,Single Blue,Razor Blade,Blue Mohawk,None,Donatello the Unhinged,None,Blue Splash
 1396,5,2403,55.55,https://magiceden.io/item-details/HtymtsruqY2ZKUbSwUS34jkbv61D182SnfVbYzFNzFXA,Purple,Deadpan,None,Neon Spray Paint,None,Captain's Hat,Worry Lines,Freddy the Champion,None,Fuschia Tie Dye
@@ -139,7 +138,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 2177,10,6596,0,https://magiceden.io/item-details/QfBLCXfytpxbDHsEBtUo8uNkfsh5QXKVg5A9ZKoJYiT,Purple,Fearsome,None,Red Flames,None,None,Worry Lines,Victor the Unspeakably Dreadful,None,Pink Spray Paint
 2199,5,4147,45.07,https://magiceden.io/item-details/EzQiwRMV3qtLWR4akk99pjT1ERsh2gw8EmeVrKMe8xFj,Purple,Deadpan,None,Matches,None,Royal Blue Durag,Worry Lines,Claus the Unhallowed,None,Red Pop Art
 2250,3.9,1752,70.47,https://solanart.io/nft/H5AG3vEWfidGfLeCAdu4qit6mRpQHdyzxko1wsZ6EQ7p,Grey,Deadpan,None,Dead Xs,Mango Hammer,Dark Crown,Cheeks,Wade the Terror,None,Camo
-2279,2.15,3285,78.75,https://magiceden.io/item-details/3rZAaiPHNod3cf2dvuUSsaTQAi1AQNc73Wp6HMvotQfY,Red,Fearsome,None,Single Orange,Razor Blade,Horns,Divot,Andre the Dire,None,Candy Corn
 2312,5,5078,39.47,https://solanart.io/nft/CzFG3aeDpsgGZpN7QapUYQdDVGvEt9C9K8PTuiQoUHao,Teal,Fearsome,None,Lightning,Mango Hammer,None,Cheeks,Odin the Cruel,None,Green Spray Paint
 2325,79,1894,0,https://solanart.io/nft/8LFd8JQMCM3Kxc32tDWH5dvjHb4ZXaTAZVxAsFh1A4Yf,Orange,Fearsome,Censored,Single Blue,Kunai,None,Worry Lines,Pascal the Death-defying,None,Brains
 2336,2.3,4992,66.99,https://magiceden.io/item-details/Dv58bDv5VisXLDpnRUBuzWdgvrPqumS5NDo4TNZSxPvA,Orange,Deadpan,None,Single Blue,None,Cherry,None,Stanley the Noodle,None,Spalding
@@ -265,7 +263,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 4557,2.29,3180,77.98,https://magiceden.io/item-details/9bGiYCBNBbVQQmURkm4hhzmTZRtNEXxQvoz39TqWWuQy,Teal,Deadpan,None,Single Blue,Melon Hammer,Ice Scream Cone,Worry Lines,Tyler the Adorable,None,Jungle
 4559,6.68,5563,19.75,https://magiceden.io/item-details/8iUWzi3ZwxWQsLjcpKUPpAt7jFruVZsmF3rZg9HaHQjz,Yellow,Deadpan,None,Lightning,Chef's Knife,None,Cheeks,Norman the Masterless,None,Teal Bucket
 4601,5.5,5756,30.39,https://magiceden.io/item-details/37e5KMPBzzeQCGRXDk72VvpoJFLiMVyJbDhunWXBrJwf,Orange,Deadpan,None,Slime,Tongue with Eyeball,None,Cheeks,Willard the Masterless,None,Empty Candy Bucket
-4610,2.5,2608,79.32,https://magiceden.io/item-details/7PqX3rrSX2K58VNgDuaf9LVXtZjdZodJfgdphBittrqY,Red,Deadpan,None,Blue Flames,Tongue,Royal Blue Durag,Squiggle,Wagner the Tempter,None,Putting Green
+4610,2.1,2608,83.32,https://magiceden.io/item-details/7PqX3rrSX2K58VNgDuaf9LVXtZjdZodJfgdphBittrqY,Red,Deadpan,None,Blue Flames,Tongue,Royal Blue Durag,Squiggle,Wagner the Tempter,None,Putting Green
 4620,10,6193,0,https://solanart.io/nft/9i4DkCJDvsBYP2eEemiyQBVFLg8TZ4CzoBksyw7zqZrB,Orange,Fearsome,None,Blood,Orange Record,None,Worry Lines,Wade the Traitor,None,Teal Bucket
 4675,3,5368,57.73,https://magiceden.io/item-details/9rwnYjcUZGseerovUoKNBFnLDZqt4JbPs1348LvSkdCV,Teal,Fearsome,None,Zombie Whites,Kunai,None,Worry Lines,Morpheus the Deathbringer,None,Empty Candy Bucket
 4693,5,2578,54.5,https://solanart.io/nft/CXPasoPtxiPedXGsLJ8MvoVW37yrxpzqmmMhSgskHwvN,Grey,Fearsome,None,Blood,Razor Blade,Ice Scream Cone,Worry Lines,Propero the Savage,None,Nebula
@@ -295,7 +293,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 5220,3.5,3021,66.84,https://magiceden.io/item-details/4YmeByxtqBgWta2DXkLbKc6aRF1vcTFRosSijPuKKizZ,Orange,Deadpan,None,Lightning,Kunai,Headphones,Cheeks,Ajax the Reprobate,None,Green Spray Paint
 5252,4,1929,68.4,https://magiceden.io/item-details/ATyuRqZjYisYYBC3N1JSZdyk5N88n69bZwc2N5hd5Zwd,Red,Fearsome,None,Red Flames,Money,Ice Scream Cone,Cheeks,Stanley the Relentless,None,Purple Creepy Crawlies
 5255,2.5,4666,66.95,https://magiceden.io/item-details/Em5XZjZydJHeenPsC37gQ3VEhJRH53w2qrfZqzpCSdVX,Fuschia,Deadpan,None,Lightning,Chef's Knife,None,Worry Lines,Atlas the Schemer,None,Jungle
-5256,3,2907,72.52,https://magiceden.io/item-details/6zAA29vwR3UsteUxPomCj9QfYKEtwDffmDp4B2oEjNHc,Orange,Fearsome,None,Twin Red,Joker Grin,Red Baseball Cap,Cheeks,Sam the Unspeakably Dreadful,None,Graphic Lines
+5256,2.03,2907,82.22,https://magiceden.io/item-details/6zAA29vwR3UsteUxPomCj9QfYKEtwDffmDp4B2oEjNHc,Orange,Fearsome,None,Twin Red,Joker Grin,Red Baseball Cap,Cheeks,Sam the Unspeakably Dreadful,None,Graphic Lines
 5259,14,151,0,https://solanart.io/nft/uBCd6mg7w11nHzQth4TqX37eUY4bQQgHgK3XKdoJzgK,Purple,Fearsome,None,Single Solana,Smoke,Green Spiked Mohawk,Divot,Claus the Gravecrawler,None,KISS
 5263,11,3490,0,https://solanart.io/nft/7Nh4SQQ9uPpL4cuNumyt36JwknSSU3CLisexbXNKS4rv,Yellow,Deadpan,None,Slime,Kunai,Royal Blue Durag,None,Luther the Crypt Keeper,None,Blue Marbled
 5270,3.3,6494,47.96,https://solanart.io/nft/r63nMmPWyFaoZLTLAptUmV3D5c4dTMGrfqecd9cC3c3,Yellow,Deadpan,None,Dead Xs,Kunai,None,Worry Lines,Axel the Unphased,None,Wavy Blue
