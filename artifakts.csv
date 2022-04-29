@@ -10,7 +10,6 @@ id,price,moonRank,💎 score (%),storeURL,ARTIFAKT,Colormap,Form,Geometry,Scalar
 328,0.3,1426,60.33,https://magiceden.io/item-details/AHgkkR9hD9ewxcHeb91Z1HWuQaG8fCDMv9sNLrsvf966,Temple of Kukulcan,Nipy Spectral,Cloud,,Planarity,,,,,,,
 330,0.9,1292,57.96,https://magiceden.io/item-details/7Hz6HQMUHHq6mW4LeQxEJT1tLc1GDY7yA8mTS3B6S7dR,Torre de Aragon,Tango,Wireframe,,Verticality,,,,,,,
 388,0.75,280,86.91,https://magiceden.io/item-details/3VnhX7Cui92N2iVnSs1JFUyu2zmg8q7FGMJe2nYQBYSg,Temple of Concordia,Pizza,Geometric,Cone,Planarity,,,,,,,
-506,0.2,1044,71.69,https://magiceden.io/item-details/45ZkoybzSUSgBxiDXFPwZ65DeHJ3dD9DRnZCsVTnZDui,Linji Huguo Chan Temple Sanmon,Aubergine,Cloud,,Illuminance,,,,,,,
 516,0.5,155,92.8,https://magiceden.io/item-details/5x21qdr7pau38PkBzV5Ca6PBJapyDsU22FXJEsHtDBbp,Puerta de Toledo,Electra Planet,Geometric,Triangle,Omnivariance,,,,,,,True
 531,0.2,1063,71.17,https://magiceden.io/item-details/GASs471ADEnbEbfdfXAyUiUyfgW6RhUQvGo4Br9jT8Co,Belem Tower,Mango,Voxel,,Verticality,,,,,,,
 547,0.79,95,91.52,https://magiceden.io/item-details/GXa4tWfBZXFNBY2qNk57nMiwLQfQD1g6iVza5ZrefBqx,Umm an-Nar Tomb,Otono,Geometric,Cube,Illuminance,True,,,,True,,
@@ -58,7 +57,6 @@ id,price,moonRank,💎 score (%),storeURL,ARTIFAKT,Colormap,Form,Geometry,Scalar
 1189,0.45,1036,69.41,https://magiceden.io/item-details/AtWZeVPmHGZNjwSDAA2xDCZxjsJpjke689T9aoQtGeu5,Puerta de Toledo,Mango,Wireframe,,Linearity,,,,,,,
 1204,1,1473,52.05,https://magiceden.io/item-details/5NZYUzR2kNcdNYsRrpdhAGyC1fCKC4gnUZsfU3UDfQ2,Umm an-Nar Tomb,Gemini,Wireframe,,Illuminance,,,,,,,
 1219,0.35,1398,60.59,https://magiceden.io/item-details/Fi7JJYtwTT1YcqWmknQtp8Q3E8z67mQhqczvj87zg8JU,99 Domes Mosque,Tango,Wireframe,,Omnivariance,,,,,,,
-1226,0.2,604,83.62,https://magiceden.io/item-details/HrcrYeKckH2jZqURaQvxZPYzw8hiJe4agsvVhJxCWYS6,Herstmonceux Castle,Aubergine,Geometric,Tetrahedron,Linearity,,,,,,,
 1234,0.69,503,81.46,https://magiceden.io/item-details/9h7qi3Xuw5h8nMRfCEi7RjEucqsZT4zcKMjxdbRRmTBq,Puerta de Toledo,Gemini,Geometric,Icosphere,Omnivariance,,,,,,,
 1248,0.35,429,86.87,https://magiceden.io/item-details/HM4ZAszfhoxCT4bFaB9UhnU2wtqF7VKVUVDzYsFdeyL5,Herstmonceux Castle,Aubergine,Geometric,Icosphere,Omnivariance,,,,,,,
 1266,1,1329,55.96,https://magiceden.io/item-details/6gnvNCdkxKUYZTecb5PyXaZG34VAN9r6EfwKcepGtctk,Heddal Stave Church,Drip,Voxel,,Linearity,,,,,,,
