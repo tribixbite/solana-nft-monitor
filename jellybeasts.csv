@@ -1,4 +1,5 @@
 id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
+80,18.5,432,0,https://magiceden.io/item-details/HBjWT6RUWD9sL96Mc4VArY5EMHhNo5kCiTgnjae34tN5,Blue,White,Cyclops,Bull horns,Dino,Spiked even
 96,2.2,355,83.77,https://magiceden.io/item-details/5tX9CpXFeA1CxjTTM1XHuy5BG7YLHbFmoqMgTpRNsvta,Silver,Red,Guppy,Dino spikes,Dino,Buck teeth
 116,9.5,1886,0,https://magiceden.io/item-details/EC1oe1crBUXdbP4C7i3zrbvAJk4zEVo2uZp9z2fEdrza,Purple,White,Cyclops,None,Cartoony,Spiked uneven
 126,2.5,2359,48.42,https://magiceden.io/item-details/64LVLqtckQjkbYgZoMaKpLYHiPYUnb71rpoG8K96Kkw7,Red,White,Puppy Dog,None,Cartoony,Spiked uneven
@@ -18,7 +19,9 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 336,5,1960,29.86,https://magiceden.io/item-details/6NctcHwQDcuPHF2rRja5NGTQ6jtCPdrbk6t89TX1g81e,Red,Blue,Offset,None,Dino,Orc teeth
 342,4.5,833,53.05,https://magiceden.io/item-details/GkkK981tF32WLzjbVDphvbT6hGAAp9TobkXhn9Nmkhmy,Red,Yellow,Black sclera,Bull horns,Dino,Spiked uneven
 346,3.8,888,59.17,https://magiceden.io/item-details/3zj43foEB65PkVixVuvUZeDwDDWjYnGvd8C8tEvagWdn,Orange,Yellow,Cyclops,Dino spikes,Dino,Spiked uneven
+379,25,87,0,https://magiceden.io/item-details/6orpeeJSxAQ73NpMwJCvet9eEYBFuBnkmmpShW3tFPGS,Gold,Pale gold,Guppy,None,Cartoony socks,Spiked even
 399,3.33,1233,58.3,https://magiceden.io/item-details/BPiFojZnLCGXQ3gP8ia1W4viSY9R48yPwer6THVYzkYu,Green,White,Guppy,None,Mech,Round
+418,24,48,0,https://magiceden.io/item-details/HTcQZ1r8AH8Wkg7CdU18QD8CyLNNaezgUcHtA4S42V9A,Yellow,Orange,Offset,Dino spikes,Mech,Grills
 422,2.2,1588,63.87,https://magiceden.io/item-details/Dy5tWtgiULsKusQ3KtV1G8qYq2uisWiPUeLFJH9WBPHM,Red,White,Guppy,Dino spikes,Dino,Spiked uneven
 448,1.5,1571,71.14,https://magiceden.io/item-details/B6rdVjy9hzhNdrUH99yozfcEuJEaB3tGTczzeUcNThcX,Blue,Orange,Offset,Dino spikes,Cartoony,Round
 463,7,311,36.48,https://magiceden.io/item-details/9ZT7AkHcGhYMNA6EUSL4DTtMVhpZyK9VZVAV2Erq8pb1,Black,Blue,Offset,Dino spikes,Mech,Orc teeth
@@ -44,6 +47,7 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 791,1.9,1193,73.24,https://magiceden.io/item-details/BDepjch27EbWU5hcbaxtZ5NMWXkmFjaKFqAFxms8UGE4,White,Orange,Pure Pupil,None,Dino,Buck teeth
 806,1.3,903,83.92,https://magiceden.io/item-details/HZzzD9GQVR8s2T35Uh8QUHm5jUNr8RMkHfUyQCacDBFP,Orange,Yellow,Black sclera,Bull horns,Cartoony,Round
 810,1.5,360,90.69,https://magiceden.io/item-details/6XHrq5qnUWwiehrFfZc1ijetjkhQnSNtto1CgnLG5RHy,Black,Purple,Black sclera,Bull horns,Cartoony,Orc teeth
+828,125,2470,0,https://magiceden.io/item-details/6osXN7PvAXgSpLAuABNdLAcfLQqejGvMB9R2Uy2bw5G3,Red,Yellow,Guppy,None,Cartoony,Spiked uneven
 873,1.49,1844,66.83,https://magiceden.io/item-details/FATu2tmfActvq2y9CbU8dq9bK9uC3CYksYq5KYfHpZrN,Orange,Red,Offset,None,Cartoony socks,Buck teeth
 880,9,1408,0,https://magiceden.io/item-details/FZgA3gbTqaranERnCEpmjCMacqRZ6jPbJEyLikarZkym,White,Blue,Offset,None,Mech,Round
 888,8.88,1049,5.77,https://magiceden.io/item-details/7WjcvYQufQyQPFkeDjA9x2n6CY85vxVX7LUVHwqX4RUr,Purple,Yellow,Puppy Dog,Bull horns,Cartoony,Spiked uneven
@@ -56,6 +60,7 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 1041,1.47,2077,63.27,https://magiceden.io/item-details/AJqYtEn4HUyssQqjTqskQbv78fUgfqqMnJE7XBf5zB1P,Purple,Yellow,Offset,None,Dino,Buck teeth
 1050,4.88,2384,24.22,https://magiceden.io/item-details/9G1v9hxvrPWL4RbuNfrbjiHM1YYRqwW5awNsFXkstyDk,Red,White,Offset,None,Webbed,Spiked uneven
 1075,4.96,1769,33.34,https://magiceden.io/item-details/CW9wytAF4oSLBAka5djXJrnyx6Cz6dqJqekLfzqx9ewg,Purple,Black,Cyclops,None,Cartoony,Round
+1094,45,53,0,https://magiceden.io/item-details/73KUxJBGf9SB9AntbZjLJjFafjZoigiKbFnczpCXsLMs,Silver,Pale gold,Laser,None,Cartoony,Spiked uneven
 1107,1.94,1607,66.16,https://magiceden.io/item-details/BQG7NQknoSKj5JKv871W2w4jKAEfNkZDo33dvwiwQwEy,Orange,Blue,Cyclops,None,Cartoony,Buck teeth
 1130,3,971,65.83,https://magiceden.io/item-details/2UporbsA6XRqGr125n92yniUqsAsUXFbHgYeXuQthh52,Solana,White,Offset,None,Dino,Round
 1132,4.95,1302,40.98,https://magiceden.io/item-details/3ZJp9TfjEFzg6hwPSbGcCVz1wvN94S8H5ZRzSYJQum1U,Black,Blue,Pure Pupil,None,Cartoony socks,Round
@@ -79,8 +84,10 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 1389,2.9,1862,52.44,https://magiceden.io/item-details/871vHRiL7UHyt9QQoYykpxMsRfZY7nbjy3Dc2KPgQkZF,Orange,Black,Black sclera,None,Dino,Spiked uneven
 1405,5,1270,41,https://magiceden.io/item-details/GCFXcFw9AwWUGq8i3ecxkAgd3LkE75iQ3PmWpNEwTtKJ,Orange,Pale gold,Puppy Dog,None,Cartoony,Spiked even
 1412,1.15,1861,69.96,https://magiceden.io/item-details/j4RXstu7bYhgWCSU8LKttMhXc7b8YD3oNA6Z4Xw1MtZ,Yellow,Red,Puppy Dog,None,Cartoony,Spiked even
+1429,1001,1467,0,https://magiceden.io/item-details/6gWwBQT5LHXJxJ82X6cyJaJxBSXFRdqAnwGwXEn2Ug6t,Orange,Solana,Guppy,None,Dino,Round
 1448,4,387,65.25,https://magiceden.io/item-details/EqGV9j1ynqE7uf3YL2FnFGxE954Ye7uyNC5QTHQWTfZT,Green,White,Puppy Dog,Angler lure,Cartoony socks,Round
 1452,1.88,1954,61.16,https://magiceden.io/item-details/4FfAdnZiURMp8hAkgXVbYTrxGK4fJasQnRgXgQk3j4sS,Green,Red,Cyclops,None,Cartoony,Spiked uneven
+1468,22,36,0,https://magiceden.io/item-details/51fkzYYTTpKwEWAr2sECWX6ctpQcnKVGFw3Drv2L9eKL,Green,Orange,Puppy Dog,Halo,Cartoony socks,Spiked uneven
 1469,2.5,2297,49.42,https://magiceden.io/item-details/Fc5zKB9mDMMUtPPdmYU9sBzCjFP24mEXEGdPMucoFLuo,Green,Black,Offset,None,Webbed,Spiked uneven
 1478,1.5,1101,78.73,https://magiceden.io/item-details/7hbnizaoVLxJUFWG1UZcr6LbnsBxDrrXcHE4K1z1wphH,Red,Black,Puppy Dog,None,Cartoony socks,Orc teeth
 1491,2.6,2103,51.55,https://magiceden.io/item-details/HhAY8QQ43uS88PQ97w3dPRtK5cbC77NHoNyzqZf3Rnj,Yellow,Yellow,Offset,None,Cartoony socks,Round
@@ -92,6 +99,7 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 1591,5,1804,32.38,https://magiceden.io/item-details/EfX56Bk2eKaouWpTpXzEpCsxwbLqVWhw7mqH2yqJqAdX,Yellow,Pale gold,Offset,None,Webbed,Spiked uneven
 1654,1.51,1039,79.63,https://magiceden.io/item-details/9gfwd8nEzFEbYnbiNA2gCzU1WwYQWiTfAWnkmH8dJEag,Yellow,Purple,Guppy,Dino spikes,Cartoony,Spiked even
 1665,10,289,6.83,https://magiceden.io/item-details/G7GtXpBQnyB69TuHFc4PKYhGQX3phYQveSNLjZEF2bhA,White,Solana,Puppy Dog,Dino spikes,Webbed,Buck teeth
+1725,24,196,0,https://magiceden.io/item-details/ChR4MgFxxz4FdX84NhmAvmZ5SWTnW6qAtC3WpUt8fVfT,Blue,Blue,Guppy,Crown,Dino,Buck teeth
 1727,10,12,11.31,https://magiceden.io/item-details/H4BkzTeogKf3tDSqqS5HyLHgo3zZRscQ897Ysd8UJ8ai,Blue,Pale gold,Black sclera,Crown,Webbed,Spiked even
 1738,2.4,1540,62.64,https://magiceden.io/item-details/GzCHtZcAs8qWung5cXopfjprEPUdr7LXVAoArkZXoFnt,Red,Orange,Black sclera,None,Webbed,Round
 1756,2.5,2287,49.58,https://magiceden.io/item-details/7z7X1VkQ3Az8iMU4pjAeVayFCj4XBSVUr6FJDfD5XcC7,Yellow,Purple,Offset,None,Dino,Spiked uneven
@@ -108,6 +116,8 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 1948,6.59,275,41.16,https://magiceden.io/item-details/CuJHuhGyppcJeZSpeBbzHgQXTuieBFSpfCgJyJG97Mp4,Green,White,Pure Pupil,Gills,Cartoony,Spiked even
 1957,6,232,47.76,https://magiceden.io/item-details/Bx1yMmWaWzsHWfc7EKgFEEJnvBvnThhaoPQvgr8ZAuWx,Silver,Purple,Pure Pupil,None,Dino,Orc teeth
 1958,2.5,2478,46.5,https://magiceden.io/item-details/5yDn4btRwKhDVJw2tkP33DZWNJsJLGBUeZu5Bc5EqTyw,White,Red,Offset,None,Cartoony,Round
+1975,30,304,0,https://magiceden.io/item-details/byKcMj7NszDGScpF44Wm6tWqG39GBhSdXRt1EsQ7TQ9,White,Orange,Cyclops,None,Webbed,Grills
+1988,25,59,0,https://magiceden.io/item-details/9YDjA7yhvTbba8wBMGEuzFQVp6Lh2xdBgg5KXguZGa54,Orange,Red,Guppy,Halo,Dino,Orc teeth
 1994,2.1,1557,65.37,https://magiceden.io/item-details/Dhk6c3rPzRJt9oNXKqWpyozN2mJuVKftE27KrbTJaMPJ,Green,Blue,Guppy,None,Cartoony socks,Spiked even
 2025,5,2198,26.02,https://magiceden.io/item-details/83qXWao1pNUypdWJ4VYwiWPKoqJnP2HR9eQBSVv1Qb9X,White,White,Offset,None,Cartoony socks,Spiked uneven
 2038,3,510,73.27,https://magiceden.io/item-details/2H74S6zeAYtK7gp4bT2ycHcfEyNUDCRH7NUVb9EiWhcT,Orange,Blue,Offset,Gills,Webbed,Buck teeth
@@ -115,6 +125,7 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 2070,1.9,1570,67.16,https://magiceden.io/item-details/FbFoFYrCEehVG6k4dN4Qt84sVxumkRiM2AKEUSA2JXWf,Red,Red,Offset,Dino spikes,Cartoony,Buck teeth
 2088,2.5,2109,52.46,https://magiceden.io/item-details/CJ2SAdhPL3NFZCfULiQGE5oo9oYnQXgLC5ozuFCxeW5F,White,Purple,Offset,None,Webbed,Round
 2103,6.8,1579,18.01,https://magiceden.io/item-details/7HouaMiFgm3n3tftwqQxDF7TDM8eU92bi62QmVwyWBu5,White,Orange,Guppy,None,Webbed,Spiked even
+2168,45,498,0,https://magiceden.io/item-details/5Q8Q9wV2WYYWatvUUw9N5S9Y7UvHfJLc38bctwk1EoUN,Silver,Yellow,Offset,None,Mech,Spiked uneven
 2178,7,71,40.35,https://magiceden.io/item-details/4pqF7KQCLUTvJGwzvMdesciH7xV4Mnh3mqh1yUpBq76m,Blue,White,Black sclera,Crown,Dino,Spiked even
 2188,4.2,561,60.44,https://magiceden.io/item-details/7t7kfhFEh6W8eqehYfJ8E9Z3Kq3Bp6W5zSKwetG3aFth,Red,Red,Guppy,Gills,Dino,Buck teeth
 2198,2.5,2228,50.54,https://magiceden.io/item-details/3otJi7bzEVuHpYj34MT9T8hDPSBAuLFkhtL3BiscVc7k,Blue,Yellow,Guppy,None,Cartoony,Buck teeth
@@ -123,6 +134,7 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 2220,10,852,0,https://magiceden.io/item-details/Cbx5DavkHENhzGa8AGbFZE17rcEujZJHWUJrNh2c1qhJ,Red,Yellow,Pure Pupil,Bull horns,Cartoony,Round
 2226,3.33,904,63.61,https://magiceden.io/item-details/DCzSxFvWRghthPKoVJNXs7Wa8MkXadZB1BmQBhPCHKow,Orange,Orange,Puppy Dog,None,Cartoony socks,Orc teeth
 2249,2.69,829,71.22,https://magiceden.io/item-details/8hJXAz6PVCbHnijAnx5B9hhDHk9AwUfJVcicdgaEht6M,Red,Pale gold,Pure Pupil,None,Cartoony,Orc teeth
+2250,20,328,0,https://magiceden.io/item-details/8dzFfEUkDrKnvRGfyEVK4PzopT5bmhzgMEvPxqtcU7U8,White,Black,Cyclops,Unicorn horn,Cartoony,Round
 2257,6.9,314,37.43,https://magiceden.io/item-details/EkVDvAYyvdydbsmiJGaLM4aDQ22Vw9vqapmzULBACUJC,Orange,Red,Offset,Halo,Cartoony,Round
 2260,1.5,855,82.7,https://magiceden.io/item-details/EeJFDVXjRmD97vEfZhCRBtq4QeZzfB1MVQVddMTnE44D,Blue,Purple,Puppy Dog,Dino spikes,Cartoony,Buck teeth
 2302,2.5,1364,64.48,https://magiceden.io/item-details/EMaSn5bwckGLQAkvdTr2bkYdrRXKoRQh4GdxhequWJ9r,Yellow,Blue,Offset,Bull horns,Dino,Spiked uneven
@@ -131,6 +143,7 @@ id,price,moonRank,💎 score (%),storeURL,Bean,Bkgnd,Eyes,Head,Legs,Teeth
 2351,1.6,895,81.05,https://magiceden.io/item-details/6iCSXtuuqHA1vwM9k9rhXpP6jELYDy3mFNgVt2AsgCnt,Purple,White,Puppy Dog,Bull horns,Dino,Spiked uneven
 2352,5.5,1528,31.83,https://magiceden.io/item-details/9cTQRmKbz15xrMsa3873oMKusGXV6yKyBbQWUbbfAXAV,Red,Black,Offset,None,Cartoony socks,Orc teeth
 2379,18.5,91,0,https://magiceden.io/item-details/83PC9LDGeLasFK1bWLHbjWXzq23BA87hdtnsbEvYn6ru,Red,Blue,Puppy Dog,Crown,Webbed,Spiked even
+2403,42.69,205,0,https://magiceden.io/item-details/Hx464v7cPe46KJJmDmDJJVFTU45K6sfV946Z3wYpjr64,Solana,Purple,Puppy Dog,Dino spikes,Cartoony,Spiked uneven
 2410,3.5,1948,45.06,https://magiceden.io/item-details/AJdyCKUwkEm1U41Wprp7rVvGxfBE3WppaKsNbQfCq4T3,Yellow,Purple,Guppy,None,Webbed,Round
 2412,5.5,435,49.48,https://magiceden.io/item-details/BrhvFTrbZK2g8BhJZSCUwm7HN3dhuHpZNP7U61iysqGn,Red,Blue,Black sclera,Angler lure,Cartoony,Spiked even
 2423,4,1321,50.18,https://magiceden.io/item-details/6aE7MahAwXXXV1UJjvZzZbV7cR6SxBg4bgyt4Yy5p8h1,Green,Purple,Cyclops,None,Cartoony,Buck teeth
