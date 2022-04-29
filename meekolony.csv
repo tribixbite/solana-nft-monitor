@@ -37,7 +37,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Aura,Back,Background Color,B
 1148,4,9579,50.21,https://alpha.art/t/Ekya6RCAkRicJXHNB3bbcp74bCwZpAX1rJGA6n4DBgcL,,Party C Aura,,#85e8a9,,03,13,18,Black School Shoes,grey,36,,Yellow Baggy Pants,03,human,
 1169,4.95,8898,43.5,https://magiceden.io/item-details/EpZbVHibPXT2YUXLdVU8LaBPX6qMBHDA1tMSDEX7cix,,Orange Leaves Aura,,#9ca4a7,,03,04,13,Brown Boots,brown,04,,Brown Cargo Shorts,03,catfolk,02
 1219,3,2709,88.35,https://magiceden.io/item-details/463ek1JMBUAjkmgrnmpDX5doxJGYNGDgoUx6jR126ovJ,,Pink Hearts Aura,,#87fff3,,03,14,28,Tall Green Boots,blonde,33,,Long Green Flowery Skirt,01,catfolk,05
-1223,4.75,9092,44.7,https://magiceden.io/item-details/DcMauuM4SJjAXEUHjvmME8tjSS6eT7T3wTBwQ3VfA6VC,,Weed and Chocolate Aura,,#383838,,03,05,08,Blue Flip Flops,red,37,,Blue Jeans,02,elf,
+1223,3.5,9092,57.2,https://magiceden.io/item-details/DcMauuM4SJjAXEUHjvmME8tjSS6eT7T3wTBwQ3VfA6VC,,Weed and Chocolate Aura,,#383838,,03,05,08,Blue Flip Flops,red,37,,Blue Jeans,02,elf,
 1242,21,6555,0,https://magiceden.io/item-details/BjhMM8JXWpYuzVJpkZTbPUkFcTr2iHGeeYBH2mvx51Tz,,Purple Stars Aura,,#383838,,02,19,25,Brown School Shoes with Black Socks,red,34,,Black Jeans,04,elf,
 1333,5.99,1372,63.93,https://magiceden.io/item-details/Dm9ey1CxF6SDosLD2yeYgxKTWL7tvZR5TUeBkFkH7UpN,,White Broken Glass Aura,,#20cecb,,01,03,07,Strappy White Sandals,brown,37,,Blue Shorts,04,human,
 1351,5,3339,65.77,https://magiceden.io/item-details/4UC68fvbEsM7kQjNkmihgsYLnERorgMFxj9foVfviABd,,Green Leaves Aura,,#e2e2e2,,02,14,16,Purple Skate Shoes,blonde,37,,Gray Shorts,01,lizard,01
@@ -83,7 +83,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Aura,Back,Background Color,B
 2995,19,NaN,0,https://magiceden.io/item-details/6pc3S9KYST51AKH5mf1aaA7M9FntUyP4Xv87G7S3abS3,,,,,,,,,,,,,,,,
 3038,10,NaN,0,https://magiceden.io/item-details/FLdgWacFeAJHxQrBzoBreiN4Kbn8uctBrYSLEqv2LFHb,,,,,,,,,,,,,,,,
 3042,2.98,1923,91.77,https://magiceden.io/item-details/7K2snvwKudBTV97uh75F79NXp9TJ7R4tkabxgVVCDXuM,,AA Gun A Aura,,#85e8a9,,03,19,01,Tall Black Boots,grey,37,,Black Cargo Shorts,01,human,
-3043,3.5,8861,58.15,https://magiceden.io/item-details/Hu81KdgTqf2wWGs96dL63PSCGZLNF4T1gVTDo1Ti4s9d,,Party A Aura,,#ffd864,,01,07,16,Purple Skate Shoes,red,37,,Green Leggings,03,lizard,02
+3043,3.9,8861,54.15,https://magiceden.io/item-details/Hu81KdgTqf2wWGs96dL63PSCGZLNF4T1gVTDo1Ti4s9d,,Party A Aura,,#ffd864,,01,07,16,Purple Skate Shoes,red,37,,Green Leggings,03,lizard,02
 3070,15,NaN,0,https://magiceden.io/item-details/6Bq8KwZvRxbSUAbHX4QX8LKVqdZr45kDzmjVowUNxfkC,,,,,,,,,,,,,,,,
 3081,10,6401,3.23,https://magiceden.io/item-details/6iX5LveYjAGrbvYEYSLvpjP78nGR8qTokCGcx3QzNX7x,,Blue Sparkles Aura,,#20cecb,,01,10,02,Tall Blue Boots,grey,14,,Gray Pants,03,lizard,02
 3087,7,NaN,0,https://magiceden.io/item-details/73PVLSpjoLVYmkgnM3L82SKQnKmWBy37CBagYdHvvw3e,,,,,,,,,,,,,,,,
@@ -152,6 +152,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Aura,Back,Background Color,B
 4313,39,NaN,0,https://magiceden.io/item-details/79KkgXawxzLpXShmC2xTvB5oQHExV1Cf6NwGXpnpqh4W,,,,,,,,,,,,,,,,
 4315,3,6623,72.32,https://magiceden.io/item-details/A1yb2Z4fJ28H3tYv9FurmPpoPoVPHM7D8w8Z1ZjF4hDM,,Orbs A Aura,,#8ce647,,01,07,31,Tall Brown Boots,red,21,,Blue Jeans,03,elf,
 4317,15,NaN,0,https://magiceden.io/item-details/7WULp7J79DP7T5XynRd2q6VXM7x1GB8zTioyqAauNNFr,,,,,,,,,,,,,,,,
+4343,3,3754,84.07,https://magiceden.io/item-details/GYUJAjnWAHm8BUZor5bKA2TYuvi5vkViAPZvwy5PUaxR,,Rainbow Stars Aura,,#9ca4a7,,02,01,18,Purple Heels,blonde,28,,Long Purple Flowery Skirt,02,human,
 4347,6.66,1724,55.79,https://magiceden.io/item-details/Frw9C2BpdjTcQbcaWwH1HZEvYeFmCTGEjgwJnPsBV4CF,,AA Gun B Aura,,#383838,,01,03,18,Tall Black Boots,blonde,19,,Black Leggings,02,human,
 4378,3.5,5276,72.84,https://magiceden.io/item-details/621SFhwrqC8ASV7DFV1mqJMxjdbgyVLK1gMvt3hdXCDk,,Colorful Weed Aura,,#e2e2e2,,02,,13,Gray Slippers,grey,11,,Gray Shorts,04,lizard,02
 4386,6.69,5087,41.71,https://magiceden.io/item-details/3FqogWCu6YGooqzWP14JAqH53MHcGKmiuQiXTMTmSdhu,,Octopus Game Guard A Aura,,#f14345,,02,14,25,Tall Brown Boots,red,17,,Brown Pants,03,lizard,01
@@ -270,7 +271,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Aura,Back,Background Color,B
 7372,5,1006,75.33,https://magiceden.io/item-details/EceksABwN8U52evSkuGWTx4zBrCEy6kecpaagcMttktH,,Doodle B Aura,,#232234,,02,20,13,Strappy Red Sandals,brown,07,,Red Baggy Pants,04,lizard,01
 7402,3.49,7724,62.91,https://magiceden.io/item-details/HHk29mhkNvVGicz1pmqPvVkSYqiQkviafNaZuGCBZrUG,,Balloons C Aura,,#ff99ef,,03,20,25,Tall Brown Boots,brown,33,,Brown Pants,02,orc,
 7411,3.25,4396,78.94,https://magiceden.io/item-details/9LtPYcpajeRMmDEdLmQsaeyr3kvoT23nMFNAozFZmMBF,,Moon Pajamas Aura,,#85e8a9,,02,19,30,White and Teal Skate Shoes,red,19,,Plain White Miniskirt,01,human,
-7446,3.3,5875,72.38,https://magiceden.io/item-details/8jHmHcNwQXGf4BLsHegRiK9dqeEXWNyCz7dGwTep86sg,,Broken Glass Aura,,#ffaf2e,,03,01,03,Tall Blue Boots,brown,37,,Blue Jeans,03,lizard,01
+7446,3.8,5875,67.38,https://magiceden.io/item-details/8jHmHcNwQXGf4BLsHegRiK9dqeEXWNyCz7dGwTep86sg,,Broken Glass Aura,,#ffaf2e,,03,01,03,Tall Blue Boots,brown,37,,Blue Jeans,03,lizard,01
 7476,18,NaN,0,https://magiceden.io/item-details/EK7ESs9tkWxrGrc1Rn27zcw1crRqePzDpoXNovchw9c,,,,,,,,,,,,,,,,
 7484,6,NaN,0,https://magiceden.io/item-details/5922RaN7eF9YgQjZDGdhFrCrFFBLYbJTwzoY6xL3VTq9,,,,,,,,,,,,,,,,
 7509,9.5,NaN,0,https://magiceden.io/item-details/6wH2bCVSegqU9mMk6eAT6KnBFeP73pqPUVFdy9wVN9TN,,,,,,,,,,,,,,,,
