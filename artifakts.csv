@@ -9,7 +9,9 @@ id,price,moonRank,💎 score (%),storeURL,ARTIFAKT,Colormap,Form,Geometry,Scalar
 328,0.3,1426,60.33,https://magiceden.io/item-details/AHgkkR9hD9ewxcHeb91Z1HWuQaG8fCDMv9sNLrsvf966,Temple of Kukulcan,Nipy Spectral,Cloud,,Planarity,,,,,,,
 330,0.9,1292,57.96,https://magiceden.io/item-details/7Hz6HQMUHHq6mW4LeQxEJT1tLc1GDY7yA8mTS3B6S7dR,Torre de Aragon,Tango,Wireframe,,Verticality,,,,,,,
 388,0.75,280,86.91,https://magiceden.io/item-details/3VnhX7Cui92N2iVnSs1JFUyu2zmg8q7FGMJe2nYQBYSg,Temple of Concordia,Pizza,Geometric,Cone,Planarity,,,,,,,
+506,0.2,1044,71.69,https://magiceden.io/item-details/45ZkoybzSUSgBxiDXFPwZ65DeHJ3dD9DRnZCsVTnZDui,Linji Huguo Chan Temple Sanmon,Aubergine,Cloud,,Illuminance,,,,,,,
 516,0.5,155,92.8,https://magiceden.io/item-details/5x21qdr7pau38PkBzV5Ca6PBJapyDsU22FXJEsHtDBbp,Puerta de Toledo,Electra Planet,Geometric,Triangle,Omnivariance,,,,,,,True
+531,0.2,1063,71.17,https://magiceden.io/item-details/GASs471ADEnbEbfdfXAyUiUyfgW6RhUQvGo4Br9jT8Co,Belem Tower,Mango,Voxel,,Verticality,,,,,,,
 547,0.79,95,91.52,https://magiceden.io/item-details/GXa4tWfBZXFNBY2qNk57nMiwLQfQD1g6iVza5ZrefBqx,Umm an-Nar Tomb,Otono,Geometric,Cube,Illuminance,True,,,,True,,
 576,23,1467,0,https://magiceden.io/item-details/EsWXDZ3Um2eWsoPFGbP2Zf7JatFMpTabNb9zoxHUP2o8,Temple of Kukulcan,Tango,Wireframe,,Verticality,,,,,,,
 601,0.3,360,89.24,https://magiceden.io/item-details/J23r5ov1VaVcsr6b1AgeoZmBDpygob5vaFYpSZmxCNmY,Rinsi Church,Duality,Geometric,Icosphere,Linearity,,,,,,,
@@ -31,6 +33,7 @@ id,price,moonRank,💎 score (%),storeURL,ARTIFAKT,Colormap,Form,Geometry,Scalar
 822,0.45,907,72.9,https://magiceden.io/item-details/AZNkvr8SeoHfuM2oApFekarqeE5pSHkZJGvpz9zhEbDb,Belem Tower,Hi-C,Cloud,,Linearity,,,,,,,
 823,0.2,595,83.86,https://magiceden.io/item-details/38bd1KXVP9AvwsgyZgmKJj7kUGfsdxvYTzp2wqRReLQ9,Belem Tower,Thermal,Geometric,Tetrahedron,Omnivariance,,,,,,,
 825,1.25,748,69.22,https://magiceden.io/item-details/8ZPcNee6RnNAkmTAkdPyLRoErjP3Uuqh7Gy26c4xvvgB,Rinsi Church,Thrust,Wireframe,,Linearity,,,,,,,
+848,0.2,1394,62.2,https://magiceden.io/item-details/4Kopn5bC573V8nghtfpRnbPrcigiBDAFS5mpakCP3K77,Salomons Stables,Retro,Voxel,,Planarity,,,,,,,
 850,0.31,742,78.78,https://magiceden.io/item-details/FRTj8kUXGWEe4AVcKQNGCcmAy5rH8S8poyirvs8xoruj,Heddal Stave Church,Fusion Factory,Cloud,,Planarity,,,,,,,
 867,1.13,214,84.9,https://magiceden.io/item-details/7iQM2TanK3rNd1qNdmQYHqz5fRamhVoei875nXSxbjAD,Salomons Stables,Hi-C,Geometric,Icosphere,Verticality,,,,,True,,
 870,0.4,551,83.06,https://magiceden.io/item-details/J5MVQTkSDNZNoX1huPKLMKBpj1YYbtYtibsdvqnsniCm,Salomons Stables,Virid,Geometric,Tetrahedron,Verticality,,,,,,,
