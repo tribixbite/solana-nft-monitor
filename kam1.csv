@@ -46,7 +46,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 580,1.99,1967,79.14,https://solanart.io/nft/8LXxCixKSb7QUVwexz1dHCsRP2AiVq1dWQeHKpx7B6h6,,Purple,Nimbus Earring,Tanktop Teal,Closed,,Long Black,Smirk,Pale Tattooed
 588,1.3,6119,67.35,https://solanart.io/nft/Hothk5PDb3Z5khy4xLoZpyyAhRNab1KbdXAkzfshmvc,Neck Scar,Red,,Oni Suit,Closed,,Spiky Teal,Angry,Undead
 591,1,6827,67.16,https://magiceden.io/item-details/C127xEj27MASkSzKXiWE2tf4udWb883r2xhTtieWmD9X,Nose Scar,Purple,,Suit Classic,Samsara,,Man Bun Red,Stiched,Undead
-596,15,7030,0,https://magiceden.io/item-details/c15M21MHEuKVAYCLP14abz9ieRho464uD63dXEPEhRR,Nose Scar,Green,,T Shirt Red,Closed,,Ponytail Black,Goblin,Pale
 604,1,7210,65.44,https://magiceden.io/item-details/9gCmrda3tWX7HWxt1JCLPE5jz3V7jRMNa9uPsn1ZXrVD,Cheek Bandage,Purple,,T Shirt Teal,Fire,,Man Bun Navy,Fang,Tan
 661,1,5031,75.25,https://magiceden.io/item-details/6jdhput18KqjDKhvP4CJJx5MfCuBhfue2nPa6WEKLmzJ,,Purple,Oni Earring,T Shirt Teal,Orange,,Dreads Rose,Stiched,Undead
 668,7,145,37.25,https://magiceden.io/item-details/3KjzQ1XPTFEbHppmUfAEHkdaqTQfxyE2Pq3Z8nDLqboD,,Purple,Oni Necklace,Yukata,Nymph,,Dreads Purple,Goblin,Zombie
@@ -62,6 +61,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 811,1.2,6675,65.85,https://solanart.io/nft/EAJjhXG2C6xwrQkcYhubKpw6urjevRdMzkiKMUzuV1Qh,,Yellow,,Skeleton T Shirt,Devil,,Samurai Bun,Angry,Zombie
 858,1.99,8078,51.63,https://alpha.art/t/7cvnCpuQi3nS2JWq3HoPxnAVbbp4CoS2bz6bb4TPBKMz,X Choker,Green,,KAM1 Jacket,Purple,,Ponytail White,Fang,Pale
 875,1,8186,61.04,https://solanart.io/nft/61hLxZGgjeYQjCzs5xboC9R92AcwjnTaUaLubM6AQSwe,Cheek Scar,Blue,,Jumper Navy,Nymph,,Long Black,Angry,Pale
+883,1.8,1245,84.29,https://magiceden.io/item-details/2acL9sQMQuTKYamh4LG93bf13D2Cv54RUiE6CBBPEZra,Neck Bandage,Red,,Jumper Pink,Odd Eye,Hahoe Mask,Spiky Purple,,Tan
 896,3.33,257,73.44,https://magiceden.io/item-details/75iueFgCKrDcEEP4K7Bg9HeJyiei4EWbj8mvksubV3PL,Eyebrow Scar,Mystic Blue,,Oni Suit,Closed,Snake Tongue,Ponytail Green,,Undead Tattooed
 905,6,2072,38.57,https://solanart.io/nft/8gpHMT5XGHGhbUfxgM3Aydj2sWUci19xYGmTMZAVFM4s,Cheek Scar,Green,,KAM1 Jacket,Bulls Eye,Cigarette,Long Red,,Pale Tattooed
 932,40,5828,0,https://solanart.io/nft/BWdF6Shdd2A5tZpCR8JeJbgvHRUMCeLuAxDaP6yUpEWD,Cheek Bandage,Blue,,Shinto Uniform,Samsara,,Textured Teal,Stiched,Undead
@@ -332,7 +332,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 3464,1.9,5857,62.53,https://solanart.io/nft/ADTqKtHZj18TurDSDJZdkUubLoWry6PPZzxumS9VQ4CU,Celestial Choker,Blue,,T Shirt Red,Purple,,Zero One,Fang,Pale
 3467,8.5,116,22.38,https://solanart.io/nft/AtJxtgVo6eDTVqvpoPvNw4g7dviGZ8dsLcKD7RFb84sP,,Red,Oni Earring,Tanktop Black,Elementalist,Bubblegum,Spiky Blue,,Pale Tattooed
 3470,65,2747,0,https://solanart.io/nft/4C7jvgM7G5MyGQTqTDEpLZMdYpjf1mjKnMThbTnqudY4,Celestial Choker,Mystic Blue,,Butler Suit,Fire,,Dreads Purple,Stiched,Tan
-3476,4,1981,58.98,https://solanart.io/nft/FXn2WazHsAZV6tq4A3yvn9fx9N54D137pZV7rZsgdo5G,Ear Cuffs,Red,,Butler Suit,Samsara,,Long Black,Neutral,Kaisen
 3490,2,8693,48.76,https://solanart.io/nft/7aviUrt3z3vJM3XTNz1PBJAEepf7rH48nn5d6gvGfojh,,Yellow,,Jumper Pink,Devil,,Dreads Red,Stiched,Tan
 3498,1,6207,69.95,https://solanart.io/nft/4XuatA8nSCEJHdhwYCXZ7EBRXCNnsNbAvUGxcCurMsdg,Neck Scar,Red,,Military Uniform,Bulls Eye,,Ponytail Black,Goblin,Undead
 3502,1.8,2601,78.19,https://magiceden.io/item-details/99rCdN5JA8sR9rMBKYMq375dWH2yb3cvJBpXC1xmdtXG,Nose Ring,Green,,Butler Suit,Purple,,Dreads Red,Shark,Tan Tattooed
@@ -397,7 +396,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 4059,4.2,766,62.45,https://solanart.io/nft/Aaot2oFi1FbULWdVDqHd13f1p1ekHYLkPecpkmFj3Vxf,Bandage,Blue,,Gangster Jacket,Closed,Ninja Mask,Man Bun Red,,Pale Tattooed
 4063,2,7838,52.61,https://solanart.io/nft/GNQ7wKnuEPaHuiJTmTsbYLnPvL1RzcWAGVAwXYjEKoCC,Nose Ring,Black,,Suit Teal,Bulls Eye,,Man Bun Teal,Angry,Undead
 4074,3.49,8025,36.87,https://solanart.io/nft/G5m6wz1NZB432zZcQDnceSsYZGA3U1uPb2viL9Uwxgte,Pain Piercing,Green,,KAM1 Jacket,Devil,,Man Bun Green,Neutral,Tan
-4076,1.25,1327,89.43,https://solanart.io/nft/HvbAoHQnoc6q1ULXr5SLi5r2ok4qXgRjCm9mfn8r4kMe,,Red,Cat Mask,Jumper Pink,Closed,Hahoe Mask,Dreads Teal,,Tan
 4092,3.79,4297,50.65,https://solanart.io/nft/5QAJU8gE8XkWpvQCJJZA3UDRfriyzX7CdD8XBNApCZs2,Rope Choker,Purple,,Butler Suit,Orange,,Dragon,Stiched,Pale
 4104,2,2944,74.64,https://magiceden.io/item-details/4n1z5CWaNiAPfo3movPWtrVMhS2n6pacDMTSDeQHYX3t,Oni Talisman,Blue,,Suit Purple,Samsara,Hahoe Mask,Braided,,Pale
 4109,2,468,85.79,https://magiceden.io/item-details/AywSsLyBVfYD4TkXJg9XMaidxMFW48bDP4yVpUcup19A,,Purple,Cat Mask,Suit Teal,Elementalist,Fox Mask,Ponytail White,,Pale
@@ -607,7 +605,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 5769,2.9,4817,57.21,https://solanart.io/nft/GgkFBJUp5jq6k1rhAuVAibZ5HAHsLySC8hV4SjFNPQ5n,Neck Bandage,Green,,Yukata,Fire,,Zero One,Stiched,Undead
 5780,2.9,6609,49.14,https://solanart.io/nft/6AtFvfNXJmTRqtmriKzRkcDCq4H8HR8huYicx3cFqz2s,Celestial Choker,Yellow,,Suit Classic,Fire,,Ponytail Green,Stiched,Pale
 5784,4.99,4010,39.95,https://solanart.io/nft/BfAYU5qogaDt48iJc62KYcDgjDobw1ebx397qqNSQSvV,Ear Cuffs,Purple,,Samurai Armor,Nymph,,Man Bun Green,Shark,Pale
-5790,6,614,45.14,https://solanart.io/nft/JDXbLVerKdQdbKsVQwMWNLAJjtKBm5Fv5HxGc6PwA82D,,Blue,Masquerade Mask,Suit Classic,Devil,Cigarette,Goblin,,Undead
 5794,2,2973,74.51,https://solanart.io/nft/DHrpUB6eicTo2tsWEdV1Kr249qmLGYdLCMJYQ627zZe9,,Mystic Red,Dragon Earring,T Shirt Red,Orange,,Ponytail Green,Angry,Undead
 5802,2.79,1816,71.82,https://solanart.io/nft/2wpHwKPcAZACBvs9mk33HfHBJ4WDgx7jMdf7n9gijdja,Pain Piercing,Blue,,Butler Suit,Nymph,Ghoul Mask,Man Bun Teal,,Undead
 5819,0.8,1370,93.73,https://solanart.io/nft/Ew8ezrtuUoxQZFf5fLyxrJK3r2Q3w4wLnUZsZUpCXTmv,Oni Talisman,Green,,Hoodie,Odd Eye,Noh Mask,Long Teal,,Tan
@@ -627,7 +624,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 5965,1,5746,72.03,https://solanart.io/nft/GdaBRf9kYEfcJqYHFxpeFjZCErf7VYSP8YN7gymQyy7y,,Blue,Rolling Hill Earring,T Shirt Teal,Orange,,Long Cyan,Stiched,Undead
 5975,99,350,0,https://solanart.io/nft/EwvCFcHXChPd6Tyznxg6R8xJvmDxQiFAfnxEfW2JKTrx,Cheek Bandage,Purple,,Shirtless,Odd Eye,Snake Tongue,Ponytail Green,,Kaisen
 5988,2,1765,79.95,https://solanart.io/nft/AJW254xZbUyjikMwQF8YVmAVxN3KGCkvcbf7DmvCuBBx,,Red,Scouter,Tanktop Black,Closed,,Dreads Red,Fang,Undead Tattooed
-5995,6,998,43.41,https://solanart.io/nft/GCzs9rX5pVFitAzwRPDSbJoRANVFwaxrrW4ahJCGuZYA,Eyebrow Scar,Yellow,,Emperor Suit,Samsara,Cigarette,Fox,,Tan
 6000,1.79,2657,78.04,https://solanart.io/nft/D8Ruvtxx88nQ6ccmFeDAfjaMyQT6LRpouhJWfSYHK7HY,Celestial Choker,Red,,Suit Teal,Orange,Hahoe Mask,Ponytail Red,,Tan
 6002,2,8858,48.02,https://magiceden.io/item-details/8wUjtRJoyEFGA8ZY8ecJgtA7HjqkdL5huQSgQ7UGE8GE,,Yellow,,T Shirt Navy,Nymph,,Dreads Teal,Angry,Tan
 6012,4,4912,45.78,https://alpha.art/t/98Ua9efTAS5FHH8FpRd4kjd8MkUi9Wr6Z1ZJxJrspy94,Cheek Scar,Black,,Gi,Closed,,Goblin,Smirk,Pale
@@ -673,6 +669,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 6414,2000,2741,0,https://solanart.io/nft/FsenXquqAPEKJtBpTjYc2rUx7N4gMakjSoHp9cNn4ATA,Eye Patch,Green,,Elementalist,Bulls Eye,,Dreads Teal,Shark,Undead Tattooed
 6428,0.85,7111,67.38,https://magiceden.io/item-details/6bH9be3kc4xWDPzxvZKPemYAJHpBaxxCAzGybvr6JdZo,Nose Bleed,Red,,Jumper Yellow,Samsara,,Long Teal,Angry,Pale
 6443,1.5,6111,65.39,https://magiceden.io/item-details/A3mLTvgX8p22Ku82EQG6yrVx1Sr8ZCQUcLX6mB5mvjuo,Nose Ring,Purple,,T Shirt Navy,Purple,,Police,Stiched,Undead
+6473,0.83,8390,61.82,https://magiceden.io/item-details/2DqZZYCPBmgwqU5aKFgRFDC8o5pZj23FCBt3267PEdZ1,,Green,,Jumper Navy,Closed,,Ponytail White,Neutral,Pale Tattooed
 6480,1.75,6078,63.03,https://magiceden.io/item-details/8UM9Rs4YpUmVQFWwg9TT5Afku2gMQYrB8GgFb2bbGSTk,X Choker,Red,,Butler Suit,Purple,,Long Cyan,Shark,Tan
 6484,1.15,5768,70.43,https://magiceden.io/item-details/2NjX8nbC9sQL9KvQZwDM4oTF1XXRwRB5s7CM4w28zoXV,,Green,Dragon Earring,Jumper Navy,Devil,,Ponytail Black,Stiched,Pale
 6485,1.11,6500,67.53,https://magiceden.io/item-details/CdTQFoFxmMzm5GyVnAsxmV6BBKiX5Dnr61DYVPupCuPE,Neck Scar,Purple,,Jumper Teal,Purple,,Fox,Stiched,Tan
@@ -719,6 +716,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 6852,3.98,4425,48.18,https://solanart.io/nft/CSqktiDaJNCxCqSAySA5N6iwMBEZRvF3nfvhH7zHLhMa,Eyebrow Scar,Yellow,,Tanktop Black,Purple,Bubblegum,Textured Rose,,Pale
 6864,5,1293,52.08,https://solanart.io/nft/CfyyqBGeAbGethNsbcoh1aoKQDBY8bVbXkAVN2AoTbHp,,Black,Wu Zhu Earring,Raijin's Robe,Possessed,,Ponytail Black,Stiched,Undead
 6870,1,4591,77.23,https://solanart.io/nft/9YtRejQj4QvBwk1rNmV7ATgai7dSRZQkmGBLFEKyVkd8,Eye Patch,Green,,KAM1 Jacket,Fire,Snake Tongue,Man Bun Teal,,Undead
+6880,0.79,5868,73.58,https://magiceden.io/item-details/8tZogmgRrYiQuCpPc4Wk7x7vaa7VGVqt4xzMYHFoSNmT,Oni Talisman,Yellow,,Shinto Uniform,Bulls Eye,,Dreads Teal,Smirk,Tan
 6883,4.75,127,59.83,https://magiceden.io/item-details/5gqj2TJSe57FKRiM7t4q8FyQUVEEDsB5sey4oziawGAm,,Green,Masquerade Mask,Raijin's Robe,Odd Eye,,Textured Purple,Smirk,Undead Tattooed
 6888,3.29,4158,56.28,https://magiceden.io/item-details/HA6VDt7UtMUogeg2Tx4qzu1QY5kydxsQiSSm2LwC8g6g,Bandage,Purple,,Butler Suit,Fire,,Police,Goblin,Tan
 6893,12.5,8862,0,https://solanart.io/nft/2A8vrsMKDxvJNBFux3BawJgWxsXDAfgkwDVUFynyn9u6,,Yellow,,T Shirt Teal,Samsara,,Dreads Rose,Neutral,Undead
@@ -752,6 +750,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 7173,4.49,1512,56.19,https://solanart.io/nft/DenUepj3i72Du4TU8Yb5HF4AS1nzGbeZkLGep1s3wz3a,,Red,Revenger Earring,T Shirt Red,Devil,Fox Mask,Textured Rose,,Undead
 7176,0.9,2205,88.97,https://solanart.io/nft/C4638TFqJhp2qtq9v5fcmkbP4YfJFHfX7Vn9cXdNfpqC,Bandage,Red,,Raijin's Robe,Purple,Hahoe Mask,Man Bun Red,,Tan
 7179,1,4375,78.2,https://solanart.io/nft/JV4hSYGGTu6AYWaqKnRGtFxgjSuusJ7BF1D4mgEZe8j,Neck Scar,Purple,,KAM1 Jacket,Devil,,Textured Rose,Goblin,Undead Tattooed
+7198,1.1,4088,78.49,https://magiceden.io/item-details/3Qf6pH9KojkaV6RCQiefofemQ5rKr2exY4CuxD9Ef4XM,,Yellow,Cat Mask,Arctic Jacket,Closed,,Textured Purple,Neutral,Undead
 7199,1.3,6857,64.03,https://solanart.io/nft/DYJLuLhohTBtXa4xxJQxB4i5iJqDKgX2zPEEd4v4T5LA,Eye Patch,Purple,,Suit Burgundy,Nymph,,Spiky Teal,Goblin,Tan
 7216,2,6188,60.04,https://solanart.io/nft/CSPGEBZRN6uB78KMkAeSTS2jJB2rToFRL5kPoNAoynWW,Eye Patch,Red,,Montsuki,Closed,,Braided,Angry,Tan
 7248,3,1581,70.78,https://magiceden.io/item-details/2VoiZaZPupEm4qxKmG7mheydy3vhJKy8PpJXhQKh7dn3,Nose Bleed,Mystic Blue,,Suit Teal,Bulls Eye,,Ponytail White,Goblin,Zombie
@@ -794,6 +793,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 7682,3.969,5864,41.81,https://magiceden.io/item-details/FUxfKDtbk1NbjWEd6EJQpP54FJxKPFE9zoWqUUfuMoe7,,Purple,,Shihakusho,Samsara,,Braided,Stiched,Kyubi
 7691,5.5,3517,37.06,https://alpha.art/t/7qL6yYzp6Ce5D1yJ7eegJVqPMqLJhaa2Dp5wF6xxq6ku,,Yellow,Masquerade Mask,Shirtless,Samsara,,Ponytail Red,Goblin,Pale
 7700,5,2636,46.03,https://solanart.io/nft/8FxBJx48LpQyZqRnBTCvE61KhFbApkA7Bv5XXf6E7EXh,Nose Bleed,Purple,,Gi,Purple,Ninja Mask,Spiky Blue,,Undead
+7706,0.849,7373,66.21,https://magiceden.io/item-details/GtqHWYKydcyXFW8NpGNEiDnsBXcTsbPLnHBp9okMCWLX,Ear Cuffs,Black,,T Shirt Navy,Samsara,,Ponytail Green,Shark,Undead
 7710,19.190001,2590,0,https://solanart.io/nft/FBcpRbdhFZHQ1YWQzFBhf9Js9PtjezRAtsSUNFZNHjt5,Eyebrow Scar,Yellow,,Skeleton T Shirt,Purple,Fox Mask,Goblin,,Pale
 7725,4,6478,38.73,https://solanart.io/nft/49Yrai89ksy8J3Dq79e3b99FtYSmQ7KMNNuDvwtYuX75,Pain Piercing,Yellow,,Shinto Uniform,Bulls Eye,,Textured Purple,Neutral,Tan
 7735,2.5,5223,59.38,https://solanart.io/nft/4ZR1j2m2t5XxqbQACKN98Vftp8BT8JahNvigiZJX4bnE,,Red,Parallel Bar Earring,Shirtless,Orange,,Ponytail Black,Stiched,Pale
@@ -886,7 +886,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Celestial Acces
 8408,4.5,1315,56.98,https://solanart.io/nft/7wPubLjMPvnF5FyuSiCiLxMq4iY4VoVKXLnwQNNxhEpH,X Choker,Black,,Shirtless,Purple,Tengu Mask,Textured Green,,Pale Tattooed
 8415,1.5,3494,77.17,https://magiceden.io/item-details/2fCehUD7eo2E6CTVtnz9Roq2jUjSgZpQmMfcKWXeKxq8,,Blue,Silver Earring,Military Uniform,Nymph,,Spiky Teal,Goblin,Pale
 8416,1.9,6971,57.51,https://solanart.io/nft/FXP3KVPa3WFGVEDU5DTqkMyqo8K4ZSrpxqxQTMbrDvXf,Neck Bandage,Black,,Suit Burgundy,Purple,,Textured Rose,Fang,Pale
-8432,2,423,86,https://solanart.io/nft/AEpEhBk3gWWL8SSr4wVkcEs15fDvr9a5tqgi3GUFCBbr,,Yellow,Nimbus Earring,Butler Suit,Orange,Gas Mask,Samurai Bun,,Undead
 8437,7.77,1243,24.6,https://solanart.io/nft/AP9UMJg3VrrkMcXg1MeGkn5YEG9v7murcvcu99MynPmq,Neck Bandage,Black,,Jumper Teal,Elementalist,Ghoul Mask,Man Bun Teal,,Undead
 8439,3,3669,61.38,https://solanart.io/nft/GuDNy9ZkwCh8CYZedsLe1vnfYMjWBr4Jnu712WhFnGDn,Cheek Scar,Black,,T Shirt Navy,Samsara,Samurai Mask,Dreads Teal,,Tan
 8448,3,3435,62.43,https://alpha.art/t/F6u7ZoKqnUJYesEBYhoJNScxSohEyfh3LenwgvLs4QvL,Cheek Scar,Purple,,Jumper Teal,Orange,,Ponytail Black,Shark,Zombie
