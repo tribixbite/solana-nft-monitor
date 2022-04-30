@@ -478,7 +478,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 5674,48,6586,0,https://solanart.io/nft/C3RtGNhbnq95MoDUj8yLv4jrRHBd2pjZ6cgLyVxsQKeo,Spectral Companion,6,Brick,,Sullen Eyes,Targari,Automatic Rocket,Pleased
 5677,25,5098,0,https://magiceden.io/item-details/6yNDvkxbu9rnDU1gi325KZB2p2hiE647pcJmnbFh9sFF,Pointy Statement,6,Striped Blue,,Galactic Sequencer,Martu,Micro Thingamajig,Wise
 5692,22,6331,0,https://magiceden.io/item-details/HgmWmbgtCcYF3FYdLJR7vTTWbtTkX3uxV3Ei1jgANyUL,Augmented Exoskeleton,6,Light Pink,,Orbital Retinas,Martu,Glorious Trespasser,Pleased
-5701,13.5,3607,68.57,https://magiceden.io/item-details/CGktsGNRk47e4AqRJCYkGX3fotgwDj9fEMXeqL6XMMjh,Colonels Finery,7,Printed,Cooling Vent,Optical Enhancements,Martu,Gibbous Blaster,Pleased
+5701,12.2,3607,81.57,https://magiceden.io/item-details/CGktsGNRk47e4AqRJCYkGX3fotgwDj9fEMXeqL6XMMjh,Colonels Finery,7,Printed,Cooling Vent,Optical Enhancements,Martu,Gibbous Blaster,Pleased
 5714,18.5,4458,15.17,https://solanart.io/nft/6bviFAMJvgAX5hNanz8DxLuzdU9S6tVoKCKHww62qm6Y,,6,Spotted Turquoise,Portable Satellite,Funky Shades,Martu,Kingly Rings,Fanged
 5719,95,829,0,https://solanart.io/nft/mWS4WN3cn6ScVTdWjD1cFih9EYF8W8CDH185QzrzRQ1,Cosmonautic Shielding,7,Spectral Black,Ionic Flux Inhibitor,Scoundrel Winkers,Barada,Budding Coral,Pleased
 5720,35,3555,0,https://solanart.io/nft/HkGyYaWevAmrUH2h4a79LTXGB394A8aTtQajF83wi2Kb,Nebular Wormhole,7,Light Pink,Ionic Flux Inhibitor,Mixed Reality Grid,Barada,Solar Converter,Pensive
@@ -747,6 +747,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 8377,40,6610,0,https://magiceden.io/item-details/CrxiGb7uDCp4MSDsd6oi2tLTDbbKa4iWhHpQwA4LJm8y,,6,Spotted Turquoise,Captive Ear,Orbital Retinas,Targari,Decorative Boomshot,Pleased
 8387,52,7838,0,https://magiceden.io/item-details/EfZBGwPrVJdQic2ACSdRL5YR2Sjzz9QEC8L6pzrXXw67,,5,Printed,,Galactic Sequencer,Barada,Defensive Cannon,Hungry
 8406,25,6375,0,https://magiceden.io/item-details/FeeiKSrrUEX9edxhUhgbo63vuEbQ6y3MXTaENVU8ajRi,,6,Striped Blue,Intergalactic Fins,Prying Eyes,Alura,Slab,Pleased
+8430,19.97,5528,0,https://magiceden.io/item-details/BjgSt6B6ic467dnYfakGorse2ywAA9bVPc7dhyQYkC4y,,6,Lime,Ionic Flux Inhibitor,Groovy Perceptors,Targari,Glorious Trespasser,Wise
 8463,45.69,4015,0,https://magiceden.io/item-details/Gx4NvNVkmUzpguxNgGGXvKgxugXNyZ87X1e7Expky9B3,,6,Spotted Turquoise,Splendid Recorders,Laser Sight,Alura,Plasmatic Guzzler,Augmented
 8469,16.9,469,47.12,https://magiceden.io/item-details/3XBXXggKxHf5WkSa2tmZekDFrdU5YcKtaZAiei5M5wJM,Resplendent Deflector,7,Spotted Turquoise,Captive Ear,Engaging Pupils,Barada,Princely Helm,Hungry
 8471,200,7269,0,https://solanart.io/nft/65W4xNWt81ZaSmCCj2WFmUWfkB55DcuibnS89pZJrdPz,,5,Spectral Black,,Laser Sight,Targari,Mechanical Hound,Wise
@@ -815,6 +816,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 9099,22,7628,0,https://magiceden.io/item-details/5sLTbPDDPtsxAWG1gJJhcK7jwiRWsrpPZqc8DbRUSHXz,,5,Lime,,Ionic Disruptors,Alura,Kingly Rings,Hungry
 9107,100,257,0,https://magiceden.io/item-details/5ciLuxNUoDkGVSxanrJpBSdtYhMexfB1fz9VnyL8qchP,Lunar Robes,7,Ghostly White,Cybernetic Recorders,Sullen Eyes,Alura,Princely Helm,Wise
 9142,133.699997,1689,0,https://solanart.io/nft/38HvgN7FBL2JZdR16oYBEg9i6af6JSinTr7C86QpK81R,Frivolous Costume,7,Spectral Black,Splendid Recorders,Engaging Pupils,Martu,Viral Intruder,Pensive
+9143,12.5,3462,79.15,https://magiceden.io/item-details/CHjHoUnnLg9odeuMKuoVS9Ki4GLoS2UDDEjnctw5ywpJ,Distinguished Shirting,7,Orange,Martian Speakers,Orbital Retinas,Targari,External Hard Drive,Pleased
 9158,31,8841,0,https://solanart.io/nft/98CGL4cHefv4cifVevxXNHcbCNEgyGdabq3TN6hGzThr,,5,Striped Blue,,Wonky Headlights,Alura,Grabber,Pensive
 9160,49,5031,0,https://solanart.io/nft/CHXXsHFzkbn8vCzkn2PbzYNWYafFcbgePHxx5A8Psk3J,Cosmonautic Shielding,6,Printed,Ionic Flux Inhibitor,Villainous Visor,Targari,,Pleased
 9174,35,4729,0,https://magiceden.io/item-details/HaB4BgNdF2N1AomWmPF6FuL9T3t4R49KrceUg5RFD8eL,,6,Spectral Black,Cooling Vent,Vulgar Eyes,Martu,Signal Deflector,Pleased
