@@ -30,7 +30,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Color,Eyes,Eyewea
 531,8.5,1098,66.6,https://magiceden.io/item-details/ALhL6jeg9PH5rpSpiBE7cH2jQuyr6x4PnUWUPa1FK6D,,Aurora,Pink,Confident,Solanasummer,Incense,Haze,Straw hat,Smile 2,Standard
 569,7.7,4003,62.97,https://magiceden.io/item-details/AiiT6JmNChbSooL1CnBV1Nq9dVJXEiuiGqkS11aUCK5G,Necklace LFG,Wormhole,Green,Confident,Sunglasses,Oil,Flare,,uwu,Standard
 582,16,2638,0,https://magiceden.io/item-details/Eh7ztMc6B3iH7KEve78a6WWCg1pGfrshb4RUi6tLzohP,,Hexagon,Pink,Angry,Circle glasses,Candles,Zap,Witch,Mustache,Standard
-599,22,2742,0,https://magiceden.io/item-details/FXrseDWBY9yNw75BoSgQmQwX2xy7626D6M3rVepKXMaV,,Thunderstorm,Orange,Smile,,Candles,Zap,Cap Synthetify,Mustache,Standard
+599,14.77,2742,0,https://magiceden.io/item-details/FXrseDWBY9yNw75BoSgQmQwX2xy7626D6M3rVepKXMaV,,Thunderstorm,Orange,Smile,,Candles,Zap,Cap Synthetify,Mustache,Standard
 620,10.6,8704,15.15,https://magiceden.io/item-details/F1WovSMukJ7k5f7aHihMjZAHxrdoTon3C8SRSL75WbM8,,Hearts,Orange,Bitcoin,,Paper,Flame,Cap,Laugh,Standard
 639,8.2,4878,54.47,https://magiceden.io/item-details/FLKoCqWJfbhPZaEZSsSqp1XfnP6GpSUpfjst1c6z3FyU,Necklace BTC,Stars,Green,Bitcoin,,Wood,Firestorm,Cap,Smile 1,Standard
 660,6.5,7215,62.11,https://magiceden.io/item-details/5Jr9uF9p3NJCojH1Abt6xmSAGbDmhcGrbZWBFg6UNB7Q,,Hearts,Red,Laughing,,Gasoline,Inferno,,Smile 1,Standard
@@ -192,7 +192,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Color,Eyes,Eyewea
 4423,16.5,2194,0,https://magiceden.io/item-details/9brez8W3pKxhn7RRN1fDKp5nt8oSVAzXSfVPhsua8A58,Campfire,Hexagon,Purple,Confident,Matrix glasses,Ethanol,Electric,,Smile 2,Standard
 4535,6.35,5939,68.72,https://magiceden.io/item-details/6rfUUApqs1UVPD18C2ma3MropShjJuNsTGof89D6HUh6,Necklace BTC,Rocket,Navy,Smile,,Rubber,Neon,,Smile 2,Standard
 4830,15,7803,0,https://magiceden.io/item-details/3CaMyyeNdAwsvvpEGm7DR9D3qZbDZVyx1wzBj1jk9V5W,Necklace BTC,Hearts,Pink,Smile,,Oil,Flare,,Smile 1,Standard
-4854,5.9,8235,64.03,https://magiceden.io/item-details/CcpZyv6c5egfBnjAoKCj5gigjU6L2P168tQybiYDDnR3,,Hexagon,Blue,Confident,,Candles,Smoke,Halo,Smile 1,Standard
 4873,6.45,2511,81.45,https://magiceden.io/item-details/9XQjostJf7VPAFRdoFwUEpX3nhuoMCtqQ5xt12yYgE4T,Necklace Audius,Neon frame,Blue,Wink,,Paper,Flame,Football,Laugh,Standard
 4884,13,8869,0,https://magiceden.io/item-details/73wity1jJw29AqxgkQZqCECZJpUGovvbG4CLriizsfq8,Necklace WAGMI,Neon frame,Blue,Wink,,Wood,Electric,,Smile 3,Standard
 4895,13,3709,11.15,https://magiceden.io/item-details/J6Xt8wspvaS2MfsjFvt5AUsTVsbbG1RrmuCL5isyMJZp,Bowtie,Hexagon,Green,Smile,Sunglasses,Oil,Flare,Cap,Smile 2,Standard
@@ -232,7 +231,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Color,Eyes,Eyewea
 5820,88,9843,0,https://magiceden.io/item-details/8DJyagmkBQUMAfDVGSCRUp89TyqArvyGbFBETGXSEzqF,,,Pink,Confident,,Ethanol,Electric,,uwu,Standard
 5823,88,6686,0,https://magiceden.io/item-details/CEr99uYBBr6WgxL64qMKQJMeeY9evU7zBqZvSkg81vNQ,,,Aqua,Smile,,Rubber,Neon,Marine,Small,Standard
 5829,19.9,5150,0,https://magiceden.io/item-details/9HHx5Jk5tNwbvrPnSi55hPZqPwqhTvFghGYzXytPz4Rg,,Musical,Blue,Smirk,,Wood,Inferno,Halo,uwu,Standard
-5863,5.71,8983,62.94,https://magiceden.io/item-details/HY9ZUQc7dcxHiCBYDyWRyNGygVNrVR4YQHbkX1YVAjXb,,,Orange,Wink,,Paper,Electric,Cap,Cigar,Standard
 5894,10,9243,18.99,https://magiceden.io/item-details/FU7uTWbGZPbpsk7zJEN17AThYYLHFwSC2k6AZGioc8EZ,Necklace BTC,,Pink,Wink,,Wood,Haze,,Laugh,Standard
 5940,7,3758,70.95,https://magiceden.io/item-details/B7awj8xKGViFbDnh6UZ4vBpEZRnXBWxZNpJDxx72SNaQ,,Light shower,Purple,Smirk,,Coal,Combustion,Viking,Mustache,Standard
 5964,6,543,93.83,https://magiceden.io/item-details/B9nTy3tRgsntiPt39Ce8376AfbnpqJrupF5jsxttSjzP,Necklace BTC,Musical,Green,Smile,Sunglasses,Oil,Haze,Horns,Bandana mask,Standard
