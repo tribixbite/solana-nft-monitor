@@ -141,7 +141,6 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 1724,500,2636,0,https://magiceden.io/item-details/53NZfzqug9PwW3Y9CCSpshQy3gBj8jXeQCAyexpDLvYA,normal,2,xurk,1,,high,right,s,desert,none
 1727,19.95,5351,0,https://magiceden.io/item-details/AhxkC3UvDuR7onxqTDodkpfEV4HhVeqqn6DaV1ReKQ1s,normal,1,oliveth,1,,high,left,m,desert,none
 1729,9.99,5888,19.77,https://magiceden.io/item-details/A7tQBxmoecaRcZt4VxHqzHaM316nTsf5kUy5efJAVoVJ,normal,0,gn,1,,high,left,s,sharp,none
-1734,5.5,6557,60.66,https://magiceden.io/item-details/9Zo2cqaK3pmUGnDdxk7Q3NkX4cgEEDDvbXqZo2E3Rayk,normal,0,death,1,,high,left,m,cliffs,none
 1741,9,1963,53.22,https://magiceden.io/item-details/EhVFNoJ81PiLwDoCHxsNNvZAgLqBowL87anSPibitoxu,weak,1,mars,0,,high,left,l,desert,none
 1742,50,145,0,https://magiceden.io/item-details/FXnoiLpyb9e1s3ttsMNLLfoypSLvn3GKBPXCCzX6oFzF,normal,0,freezethor,0,,high,0,gone,desert,none
 1745,40,4232,0,https://magiceden.io/item-details/E9GtixvF37Bd9PZiaqTnZQ3bZx1VtPemyGYfb3gs27Z9,normal,1,inferno,1,,high,right,s,hilly,none
@@ -324,6 +323,7 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 4738,12,251,33.49,https://magiceden.io/item-details/GJbbx75Vm2Qt8cQBwhy6Pm8xYkT2q3sB9RdG6Z6QQjqK,normal,1,starredemption,-1,,low,center,m,flat,snow
 4749,15,1225,0,https://magiceden.io/item-details/Hb6gMNYzkcLx2LfoQ4mLXnQ7A8KnqyKvAtxfMMTiqGaY,normal,0,solano,2,,low,left,m,flat,none
 4756,9.4756,2093,47.69,https://magiceden.io/item-details/AgzBfrApTL8oT8m7kvp26Sw5ZozvX9m2mRSYbBesbRRU,normal,0,starredemption,0,,none,left,m,rocky,none
+4785,5.5,6192,62.85,https://magiceden.io/item-details/5G2Y73FS77YQcp3CmXKLHqzUsXXUSy5FJDXjzxTKN1WM,normal,1,inversesolano,1,,high,left,l,cliffs,none
 4804,8,2706,58.76,https://magiceden.io/item-details/FGLSteRDTe9smjPJ77TxQkRbXJVW4xVyK9VicexkcKCY,normal,0,landofaliens,-1,,high,left,m,sharp,none
 4832,7.5,5997,44.02,https://magiceden.io/item-details/ChvBNaY3XLVP6CHUWJ5cK89FyYKeNb73cMwKQVTpS2j5,normal,1,lagrange,1,,low,left,m,cliffs,none
 4996,19.99,3474,0,https://magiceden.io/item-details/3VtUci96pEPqsHXf2abp8fwR4NubJh2SvfnNL7eTQTE9,normal,3,namaste,1,,low,left,l,cliffs,none
@@ -370,7 +370,8 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 5556,9.5,3616,38.31,https://solanart.io/nft/65NmeSMhju8WKS5WcBxsdZGHZFrVSdzLw6tPU9t24CCQ,normal,2,rumiscall,1,,low,left,m,sharp,none
 5576,8,1286,67.28,https://magiceden.io/item-details/D5gJC2vp9UaXR7CgnYZjD9FwPh5VFTDPGJ1PreokKx2y,normal,1,firecrash,0,,none,right,m,cliffs,none
 5618,10,2361,40.83,https://magiceden.io/item-details/DvBMg8ugXMk9nNeLa1wX2JGTrrpBKmqgsNySjifob7cw,normal,1,hoth,2,,high,center,m,hilly,none
-5629,7.5,3989,56.07,https://magiceden.io/item-details/Esqgwz9wM5cUd2rPYNmkYkcdgrLpKYUaSP1BsC5PTYEx,normal,1,tith,-1,,high,left,l,sharp,none
+5629,5.6,3989,75.07,https://magiceden.io/item-details/Esqgwz9wM5cUd2rPYNmkYkcdgrLpKYUaSP1BsC5PTYEx,normal,1,tith,-1,,high,left,l,sharp,none
+5630,5.5,5233,68.6,https://magiceden.io/item-details/7rawvYukhTxCQCDpRmx2M9s2fi9z9ZsFB3ThsayYtJzm,normal,0,ikigai,0,,low,left,l,cliffs,none
 5658,6,4211,69.74,https://magiceden.io/item-details/2qz5TmLujZjRNWFtFMkCCABeqBmWvUygMpuRsdqGhNrs,normal,0,shugar,-1,,low,left,m,cliffs,none
 5675,10,6191,17.86,https://magiceden.io/item-details/76ahb1zoFEFE7ygcAdaQQwU1UgXxhYvgUVePxMkRhcDk,normal,1,tith,0,,high,left,l,hilly,none
 5686,9.5,2675,43.95,https://magiceden.io/item-details/Ec2eAtaxTXrajc4kvSGVJ6xgxzo6w8v1NYAGdoPECgvp,normal,1,starredemption,1,,none,center,s,cliffs,none
