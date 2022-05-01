@@ -282,6 +282,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Body,Cap,Earrin
 2669,10,904,0,https://magiceden.io/item-details/EzTJfhZgiea8SKwbjW3JBqXP5fQfuHKhufEgu8r7yHgD,Peace Necklace,Pearlescent,Golden,Trippy,None,Round Spectacles,None,Normal,Mushie Trackie,Dark
 2699,2,1204,74.64,https://magiceden.io/item-details/AaY5z8t3cpbYk6jARK28ZiJu281iFd4dj1F8jC9pdRQT,None,Stellar,Blue,Red,Lightning Bolt,Melting,Crown,Grin,Gray Hoodie,Dark
 2710,3.9,828,59.03,https://magiceden.io/item-details/4rnNcXCdSarkpMz6t2QVeKqdR7r6KMKrbp7cwvfMpeje,Skull Pendent,Earthbound,Trippy,Red,None,Acid Trip,None,Mustache,Yellow Hoodie,Light
+2714,0.6,3247,70.22,https://magiceden.io/item-details/3D8Q9zNwNYuYs45xzw22TjFSUn1e32DtanYjv2RjiNrY,None,Flowstate,Blue,Red,None,Hearts,Crown,Smile,Gray Hoodie,Light
 2726,1.45,548,86.05,https://magiceden.io/item-details/2Y8rE5xjpB7W5mVjTkWMB9poMXJCf7GmLV7Qx5NP7cWf,Fannypack,Orange,Normal,Red,Weed,Normal,Juice,Joint,Yellow Hoodie,Dark
 2736,1.4,3501,59.94,https://magiceden.io/item-details/3daUqVDhcVf2M9Z3hvgM8GF7AsJkSBDaEWbDh5xpquXE,None,Flowstate,Normal,Red,None,Dead,Smoke Ring,Frown,Blue Jersey,Light
 2744,1.7,2429,66.6,https://magiceden.io/item-details/A8ZS8SPqUVUDJWCeKPpbYRNJ14RM4bnCfyTvEG12VYhx,None,Blue,Blue,Red,Solana Ring,Empty,Biker Bandana,Frown,Red Jersey,Light
@@ -367,7 +368,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Body,Cap,Earrin
 3613,1.5,1344,78.38,https://magiceden.io/item-details/5eZ5swBc5Caq2U3Uk2iFRMwzhEYcidBjsEf9FzKoR66C,None,Green,Blue,Blue,Blue Gem,Dead,Crown,Laughing,White Tank,Dark
 3616,1.5,1833,73.97,https://magiceden.io/item-details/6ugipPThch4FWMEe5pEcXjpABxyuwgL7PJ81W2hwNRBG,Weed Necklace,Blue,Zombie,Golden,None,Normal,None,Sown,Red Hoodie,Light
 3620,1.6,2426,67.62,https://magiceden.io/item-details/7cbTn6e9vrMdcNrQsZrGr7BXJjMTFdSKp8UUHv7vjPaY,None,Pearlescent,Blue,Solana,None,Shy,Hippie Bandana,Goatee,Yellow Hoodie,Dark
-3622,0.63,3213,70.23,https://magiceden.io/item-details/2iCFSUaaHEfMUqyQqkd5s6LBcbTjcMvFQzUT1qAGCW6F,Skull Pendent,Blue,Normal,Red,None,Big Eyes,None,Overbite,Mushie Trackie,Dark
 3629,1.69,566,83.49,https://magiceden.io/item-details/Bv5KVeH95qh5i9v2AFQ3SF6p54CCPcsbMZ9X5XnJQo7x,None,Blue,Trippy,Blue,Airpod,Big Eyes,Smile Mask,One Tooth,Robe,Dark
 3631,1,3908,60.27,https://magiceden.io/item-details/5taVTF5dtnvEFsVqhSvcCAfkR6wDvUrEw7wSJXBRAKKX,None,Green,Normal,Red,None,Normal,Juice,Laughing,Tracksuit,Dark
 3640,2.5,70,79.86,https://magiceden.io/item-details/Ht3DJWtEcVX2PwNUGBgHjPg9HG6ugPAmk2V1grCigK3Z,Lightning Chain,Orange,Robot,Red,Solana Ring,Empty,Blue Aura,Tab,Simp Shirt,Light
@@ -423,9 +423,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Body,Cap,Earrin
 4211,0.98,1314,83.85,https://magiceden.io/item-details/GWN6Yn3u6wEK9BqJrGfN9kYnZptfTyWmkqnZDPwgjXHm,None,Orange,Eyes,Zombie,Airpod,High,None,Frown,Biker Vest,Dark
 4219,1,2550,72.51,https://magiceden.io/item-details/HN4SaRCGHRygixPXnoAU4YNFkDtSRcWVUn7CTkzgPn8x,None,Blue,Robot,Zombie,None,Empty,Smile Mask,Normal,None,Dark
 4227,1,1290,83.86,https://magiceden.io/item-details/GWo5TEmSmdo3cJ6cPfSJN8DWHWej4Q58CBh9qBiPcokb,None,Earthbound,Robot,Golden,None,Cool Glasses,Biker Bandana,Monster,Biker Vest,Dark
-4234,0.7,4313,59.62,https://magiceden.io/item-details/5GXFVFGykK5QJMrkQpbXqJhT9WkqXdShe1SpE1EAqFSB,None,Purple,Normal,Golden,None,Shy,None,Smile,White Tank,Dark
 4235,1,3098,67.57,https://magiceden.io/item-details/52MAujuSzMthpkE1jvp8QdspfrKdWYTyUNWEB1Bknw2c,None,Pink,Normal,Solana,None,Dazed Glasses,Top Hat,Frown,Yellow Hoodie,Light
-4250,2,666,79.49,https://magiceden.io/item-details/AKhsmwnP4fH77hwGPbirJ4SrZgUY6WFApNDhExC9nJ16,None,Stellar,Zombie,Blue,Airpod,Round Spectacles,Top Hat,Goatee,Blue Hoodie,Dark
 4260,0.68,3438,67.7,https://magiceden.io/item-details/7PqA4fLWdzQYWeKLj2kgwafMHiZLfSTXFt41h6s1jFcx,None,Flowstate,Blue,Blue,None,Cool Glasses,Beanie,Angry,White Tank,Dark
 4262,1.5,3521,58.75,https://magiceden.io/item-details/Czm3KS4doTn2BPgj4KJuBpJdunqACcDNU32DtS4Arvjq,None,Blue,Normal,Red,Airpod,Cool Glasses,None,Normal,Red Hoodie,Dark
 4292,1,1672,80.42,https://magiceden.io/item-details/D7mWYWB1FkQ1qQU2dt2eF6PaxvAGBRUjDE9aVyn6cYt2,None,Pink,Eyes,Solana,Airpod,Shy,None,Grin,Red Hoodie,Dark
@@ -442,7 +440,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Body,Cap,Earrin
 4342,2.6,2204,59.63,https://magiceden.io/item-details/8DVL7LdkivhVJpmFibazYgpeY2pgcqDCLVAoRiECtdCu,None,Pearlescent,Solana,Trippy,None,Fire,None,Angry,Black Suit,Dark
 4349,0.639,1742,83.4,https://magiceden.io/item-details/69mir85JYFuo1cct9g6hxF2Yj5SYuPpYpdDTHuCvLRjj,Gold Mushie Chain,Orange,Normal,Solana,None,Zombie,None,Underbite,Robe,Dark
 4350,1.88,406,83.03,https://magiceden.io/item-details/DvNhyZFRUujb3rbKynzFNXdAy99WAgtm2iNxuB84fYEF,None,Stellar,Zombie,Red,Solana Ring,Eye Patch,Fire,Underbite,Red Jersey,Light
-4361,1.29,189,90.89,https://magiceden.io/item-details/445FkY9BcABSHKs39xfmG1rXFyzQq2fv51ghWNpe47hM,Skull Pendent,Orange,Blue,Golden,Mushroom,Melting,Santa Cap,Joint,Designer,Dark
+4361,0.99,189,93.89,https://magiceden.io/item-details/445FkY9BcABSHKs39xfmG1rXFyzQq2fv51ghWNpe47hM,Skull Pendent,Orange,Blue,Golden,Mushroom,Melting,Santa Cap,Joint,Designer,Dark
 4364,1.99,1624,70.95,https://magiceden.io/item-details/BrFouLU7YUqKkReFSb3eACeoSKih1GUCLhC9pPWzXyqQ,None,Pink,Golden,Golden,Blue Gem,Big Eyes,None,Laughing,Navy Sweater,Dark
 4379,1.1,2789,69.35,https://magiceden.io/item-details/Cn64Syg9RL4ppW5ypzUxf3Q82dXzokWAAmEPavyVWmUg,None,Green,Blue,Red,None,Zombie,Fire,Grin,Gunter Garb,Light
 4392,1.5,4250,52.18,https://magiceden.io/item-details/4bd7YwYHGLHGq6Q1ASSHAAzosURj3npDQX7TFeW7gipk,None,Blue,Blue,Solana,None,Zombie,None,Beard,None,Light
