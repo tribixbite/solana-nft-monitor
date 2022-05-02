@@ -101,6 +101,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 1394,2.1,1096,74.69,https://magiceden.io/item-details/8qyRVHTSC2vdVSt8NW5DKqTG16vNgRz6ngkvNXTEbM4Y,None,Pyramid,Hoodie,Devil,Golden Circle,Earthquake,Arab Sword,Wide Smile,Reptilian Alien
 1396,1.699,2087,67.74,https://magiceden.io/item-details/FkH2LGsEYejcmkDqV9BssNtzz6PQcRSTn2sQGWH35ScH,Normal Glasses,Grey,Solana Hoodie,Green,Skull & Bones,Red,Robot,Neutral,Human-Tan-Skin
 1398,2.2,1815,65.74,https://magiceden.io/item-details/Cg1EBvcAqUkSiWyDMavLFYSDtsoUu3JAySV7PBjejZHE,Normal Glasses,London,MIB,Blue,House of Degen,Robot Grey,Navigator,Wide Smile,Human Dark Skin
+1405,0.8,2327,74.08,https://magiceden.io/item-details/9FZDmZFMY71wdTGwR1xUSq5AD8m81CEEndCxaXQAxuoR,None,Dark Green,Reaper,Heavy Makeup,Golden Circle,Red,Grey Skull,Neutral,Human-Tan-Skin
 1414,22,16,0,https://magiceden.io/item-details/9HnVMTNLkrGzxsaWuHHsHhR9fdBaRkfED87Sp7Kgq4gv,Black Rebel Bandana,Blue Brush,Black Cloak,Ice,Skull & Bones,Green,Robot Eye Golden,Slightly Smile,Blue Alien
 1416,1.95,412,83.75,https://magiceden.io/item-details/Gd8DjzsEr1ok6vJH6sd7kWPSzWarQW9Vvh7sJ1sL44Ly,Small Roundglasses,Blue Brush,Pimp,Brown,Golden Circle,Red,Compass,Slightly Smile,Human Light Skin
 1417,1.89,3532,49.86,https://magiceden.io/item-details/Grmd5QnJgjP1voshHw4AcS2cAZ4bUFG5ofwj853hpzfy,None,Rio Favela,Red Cloak,Blue,Skull & Bones,Robot,Compass,Normal,Human Dark Skin
@@ -124,7 +125,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 1566,2.5,407,78.3,https://magiceden.io/item-details/DdTxZHuYHZvNPaBKG8buuxGJFf9sUiqEppQZTrqcBQZ,None,Grey,Brown Mage,None,Skull & Bones,Robot Grey,None,None,Faceless
 1569,99,20,0,https://magiceden.io/item-details/HM3csbBYhbKnRtf7zYSLurzQGAFixDf55c3gcFpDLRUf,Gas Mask,Dark Green,Army,Brown,Golden Circle,Fatima,Radar,Slightly Smile,Human-Tan-Skin
 1570,2.49,995,71.9,https://magiceden.io/item-details/EVXoTDLbUmtj6Hia7y8v7qGKEtMBwqWU2p3CG8WhP7Sm,None,New York,Sailor,Brown,Golden Circle,Golden,Grey Skull,Neutral,Human-Tan-Skin
-1573,1.69,2182,66.78,https://magiceden.io/item-details/HSH3ie318mUnTQRsNaTkUfCvEjtcnv9qVirjkNCBHdxe,None,London,Red Cloak,Water,Golden Circle,Robot,Grey Skull,Normal,Human Dark Skin
 1576,2.5,2930,50.42,https://magiceden.io/item-details/Dd317hbtx3nBJUKyQZESk2e51VUCYgQPQTrziikf6qPM,None,Pyramid,Priest,Green,Skull & Bones,Black,Compass,Normal,Human Dark Skin
 1600,29,1888,0,https://magiceden.io/item-details/2B6rKMuA35PoscRoc1pjP4uTRxFWHCUnYXZGb6vvSnsN,None,London,Academic,Crystal,House of Degen,Robot Grey,Gold Skull,Normal,Reptilian Dino
 1637,1.7,150,89.14,https://magiceden.io/item-details/BHkQApFt5GVh1TqZwcXNQeV2baw8TeqkezsYAEbjChz6,None,Red Brush,Army,None,House of Degen,Gender,Black Skull,None,Faceless
@@ -158,6 +158,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 1962,2.5,2818,51.65,https://magiceden.io/item-details/AJ7PaUCHfxFjbcqCoRkL4MotWfgcWdVv8VMF4mynXkSk,None,Dark Green,Hoodie,Blind,House of Degen,Red,Navigator,Normal,White Alien
 1968,2,425,83.1,https://magiceden.io/item-details/Cg7CFEPNmva9sgPCN9BnL6LXvjTFK9gNt8T41e7w7tBz,Hannibal Mask,Grey,Napoleon,Blue,Golden Circle,Red,Black Skull,Slightly Smile,Human Light Skin
 1975,5,537,51.86,https://magiceden.io/item-details/DSoAqRyLgjRBQZLtnupLAtwYvWvgcRy5t8bzWeRuXHmi,Surgical Mask,Beige,Suit,Devil,Golden Circle,Gender,Compass,Sad,Reptilian Alien
+1982,0.87,1817,79.02,https://magiceden.io/item-details/3V9Ps7U9zN78xQCbM72Hnbo8TXze6oJvs5SQMzodVjQ7,None,District Spaceship,Red Cloak,Sharingan,House of Degen,Black,Grey Skull,Normal,Reptilianus
 1993,4.39,685,56.33,https://magiceden.io/item-details/7RPY61CKvh2cXwdiAA8K9q34MMawHMcS6XNxqoKfpo9u,Small Roundglasses,Tokyo,Hoodie,Blue,Golden Circle,Red,Owl,Wide Smile,Human-Tan-Skin
 2011,6.66,195,39.04,https://magiceden.io/item-details/6rLRUYQEr9cqkdzWim6GjL26KgavS3axhGXbh8gUHoXa,Classic Sunglasses,Red Space,Black Cloak,Elder,Skull & Bones,Earthquake,Gold Skull,Normal,Elder
 2023,2.05,2799,56.36,https://magiceden.io/item-details/7rnCLMfRMnqHUGm8xV5WvnXKkHjGcsYJfG8doVS8hGBN,None,Rio Favela,Brown Mage,Green,House of Degen,Vertical,Pyramid,Slightly Smile,Human-Tan-Skin
