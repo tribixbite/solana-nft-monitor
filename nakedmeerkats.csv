@@ -27,6 +27,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 0216,1.75,1969,79.11,https://magiceden.io/item-details/FViXBvZ1Ei9cmAxbrQ6MNfZPAzxLT8nwt6eJ1xD6AxLJ,Static II,Closed eyes,White,Lion Mane,Robot Mouth,Penguins
 0224,1.88,9972,45.76,https://magiceden.io/item-details/GrNix7mdDBdDgBkU41kUZC4b2ZyuHpJXpNgYzThPt5Uk,Blue,Squid Square,Dark Brown,Mullet,Sick Mouth,Trippy Bunny
 0232,0.9696,9980,54.84,https://magiceden.io/item-details/5LqEXKRVeWiRbM7FUc9Ur275u26axWXjsc2z6ht1XVbK,Blue,X eyes,Dark Brown,Mullet,Sick Mouth,Turtles
+0234,0.5,1366,94.03,https://magiceden.io/item-details/7ykUTZpXf7SqH173nkz3DsSM6vXY6ptzGFk9HFJ7Akut,Light Blue II,Squid Triangle,Black,ManBun,Zombie Mouth,Normal Chain
 0238,7.45,3553,15.77,https://solanart.io/nft/7EapwjzkT2UEWcaEgxbVZRGuKzHhYhFqupFZ2uhAHFeH,Green,3 Bars Eyes,Brown,Big Afro with Comb,Sideways Smile Mouth,Penguins
 0250,1,7194,65.69,https://magiceden.io/item-details/7udKBv2vrWuucJsNCsHiVXLBr3uArNqA6jJ5HwEMBNRE,Grey II,Squid Circle,Blue,Tall Block Afro,Squigly Mouth,
 0280,2.88,5715,52.81,https://magiceden.io/item-details/8bV4HnKQPpFnnMEgqPTQ9Xdqz17nFK2jgPr7fSFz3rmK,Hot Pink II,Alien Eyes,Pink,Default Hair,Squigly Mouth,Piggies
@@ -48,6 +49,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 0418,0.95,3684,80.25,https://solanart.io/nft/7K6DUit8mFHkvunyn7f8UV3WTtCN3HULuHJazmC4B3TY,Yellow II,Googley Eyes,Solana,Afro,Smile mouth,Trippy Bunny
 0440,3.2,2041,64.33,https://magiceden.io/item-details/99ZPYNgtBmDwgQvB2F1UBFkdSqRSfoWGdRSywSLFxEoM,Red II,Solana Eyes,Grey,Bowl Cut,Angry Mouth,Piggies
 0466,2,5678,61.76,https://magiceden.io/item-details/7Ke64Tiwmybz78GECqCvRi6K2coLc5X2xfdshnSDjUg2,Green,Justin Sun Eyes,Green,Lion Mane,Sideways Smile Mouth,Sunrise Rebels
+0472,16,2177,0,https://magiceden.io/item-details/BBAwuzurBbPABqfMHwbKPMBschGYb3ZaFgXiW3zm8Efy,Red II,Double Eyes,Grey,Bowl Cut,Angry Mouth,Geckos
 0476,2,1036,80.35,https://magiceden.io/item-details/GBSExLRRnxuP737YN8gACHJ2v78eTHg4ze5478LdGEED,Dark Pink II,Angry Eyes,Night,Mohawk,Robot Mouth,Sollamas
 0480,5,4345,37.1,https://magiceden.io/item-details/AWYKga6RafHFw7kKKsVywLHLsebrzZPa5AJztW4sNH8w,Green,Closed eyes,White,Lion Mane,Robot Mouth,Normal Chain
 0484,0.95,744,92.02,https://solanart.io/nft/6rey9Qi7atWhnBtfYKKNntnmL4xZErXmDQVbWvLBFibe,Sribble 4,Flat Eyes,Solana,Afro,Smile mouth,Geckos
@@ -92,6 +94,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 0829,0.8,5830,73.15,https://magiceden.io/item-details/EBoZqaxD6dLdRQGUX6gD3ZvaE7FzMky7J749ezTA817r,Hot Pink II,Squid Circle,Blue,Default Hair,Squigly Mouth,Normal Chain
 0832,100,3040,0,https://solanart.io/nft/54wqEj7ymX3dYprmtc2VPz2tsST8hy1y8ji35DsvyLFc,Light Blue II,Squid Triangle,Green,ManBun,Fish Mouth,Penguins
 0850,2,1140,79.93,https://magiceden.io/item-details/GJNNSs9pjDd9YmQcrVSjEM3VTYw3q9X8pcc7ngMpzfEs,Light Blue II,Wink Eyes,Black,ManBun,Zombie Mouth,Geckos
+0861,0.46,4679,81.16,https://magiceden.io/item-details/FURHaDeHYJ4Co4ZJS436DDwbeZRB1aX18ap4C8iTNetb,Yellow II,Zombie Eyes,Cream,Mohawk,Insect Mouth,Normal Chain
 0867,50,2,0,https://magiceden.io/item-details/ADWAyQ9fUeM3A8UaTNVuMgzMDYLEY3NziFu74QV4Qoyo,gmoot II,Zombie Eyes,Zombie,ManBun,Zombie Mouth,OOGA Chain
 0871,14,8841,0,https://magiceden.io/item-details/EA81fFMRnejqPGnc99aGkG3xnVTfwm7vsJGB27K3V3DE,Blue,Plus Eyes,Dark Brown,Dreadlocks,Fish Mouth,Piggies
 0874,5,830,51.18,https://magiceden.io/item-details/JBkV2G5pwsvNhUgF1HsbZH1PgxVUVFmu7HaSmXz8536E,Light Blue II,Squid Triangle,Blue Camo,Curtined Hair,Bored Mouth,OOGA Chain
@@ -187,10 +190,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 1577,3.5,402,67.89,https://magiceden.io/item-details/D8M7YMJfzJd1qgNBoSavYKYAhNLVzfDmqmdSFizx5bm5,Light Blue II,Plus Eyes,Circles,Curtined Hair,Straw Mouth,OOGA Chain
 1581,10,494,2.52,https://magiceden.io/item-details/Aq4uNE3GbKyJLsKRhfmA64Fn9YhWQvfQyj6NHmFwQDRR,Matrix II,Robot Eyes,Robot,Mullet,Robot Mouth,Penguins
 1582,5,9780,15.33,https://solanart.io/nft/PkaornZJK5hYnQVAS19dmGLVV3YmWMs8vKJJp7c1AZj,Blue,Solana Coin Eyes,Dark Brown,Dreadlocks,Sick Mouth,Sollamas
+1584,0.6,4347,81.09,https://magiceden.io/item-details/DAEvJ1KuFxEoAWRMCVe7riBteLzvKJp6wPyiToYKKyiQ,Red II,Blue Laser Eyes,Grey,Default Hair,Cigarette Mouth,Solana Necklace
 1621,19,864,0,https://solanart.io/nft/9cMXcY5JBxppN8hXTqno5RT57mNiWv6pH7DSSLFdcHTH,Stained Glass II,Red Laser Eyes,Cream,Afro,Robot Mouth,Turtles
 1625,10,7747,0,https://alpha.art/t/6GZMsdBtN6HaZ2gG6vKXJMYduWdVaWSFvG2VYqmyQ1ZV,Grey II,Gold Laser Eyes,Blue,Default Hair,Squigly Mouth,Penguins
 1638,15.37,4160,0,https://alpha.art/t/FGWwz5ANMNsADeQkZ5RYV1U8ANXgKDYghAX12eMpNcsR,Blue,Robot Eyes,Robot,Mullet,Robot Mouth,Geckos
 1641,2,2924,72.79,https://magiceden.io/item-details/HHuxCcRckcezuRXq3zSMVMVKKLXNkh2WBLryqiAvqmJH,Green,3 Bars Eyes,Zebra,Big Afro with Comb,Sideways Smile Mouth,Solana Necklace
+1674,0.45,7488,70.01,https://magiceden.io/item-details/3fRms6YKFZWQVV9S3vu2gfh3JgDpj8nMmCQfyb2ZPh77,Grey II,Squid Circle,Pink,Default Hair,Cute Mouth,Penguins
 1675,1.99,3088,72.23,https://magiceden.io/item-details/8bShustj37MNhhfP4StjLij1fLjDjyHG4qYgfPjXm6pY,Yellow II,Zombie Eyes,Rainbow Synesthesia,Afro,Mouth Juul,
 1676,0.7,7138,68.91,https://magiceden.io/item-details/Gt3cNNDa1tFiDDFsWpCUjkDHNRybTsXGGuVfiKSoq13b,Grey II,Bored Eyes,Cheetah,Tall Block Afro,Squigly Mouth,Sunrise Rebels
 1686,2.98,674,72,https://magiceden.io/item-details/7Bf9zXAdAiLXQFxUeGjAT7dXATnhrXVy6b4YNTsiq17U,Sribble 1,White Laser Eyes,Black,ManBun,Bored Mouth,Penguins
@@ -222,6 +227,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 1918,7,823,31.2,https://solanart.io/nft/G4eh6eUCnCYx2HVhMec2fp9sRaJnkP5jVeJc2TDKSiNg,Hot Pink II,Robot Eyes,Robot,Tall Block Afro,Robot Mouth,Sollamas
 1921,1.45,7973,58.07,https://magiceden.io/item-details/Ea4GfHKRVpALMMngiRy21duCmzAfLbA2g9HxW52LAWL6,Light Green II,White Laser Eyes,Dark Brown,Mullet,Bacon Strip,OOGA Chain
 1923,0.99,8422,60.87,https://magiceden.io/item-details/4eu7Hj4CUji5bsSyVyobJwjWd53X3EWk6SpdAvgJgvpf,Blue,Zombie Eyes,Solana,Mullet,Sick Mouth,Solana Necklace
+1952,0.5,9442,61.69,https://solanart.io/nft/3hHdNCzw1U3rLRUdkom4mGBuQvJ6KpvG5wHSFJiFXxLC,Blue,X eyes,Dark Brown,Mullet,Vape,Rogue Sharks
 1953,2,4007,68.45,https://magiceden.io/item-details/4HngKTutWJ3HJQwjhiit5386bt91VKYMrp1wNgvetxVP,Green,Heart Eyes,White,Lion Mane,Sideways Smile Mouth,Trippy Bunny
 1956,0.59,4808,79.34,https://magiceden.io/item-details/D7KrkAvjV9EEvVYrXQjSiS9aF4D34SZY7KqifGdCMgPB,Hot Pink II,Bored Eyes,Pink,Tall Block Afro,Vape,Penguins
 1961,0.5,3390,85.92,https://magiceden.io/item-details/CL5grSeQokZdY6AUPKMqZAQbK43f1CYQ1NMwy34KfmHA,Orange,Plus Eyes,Black,Curtined Hair,Zombie Mouth,Geckos
@@ -336,6 +342,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 2802,2,2064,76.23,https://solanart.io/nft/A2NJVAc883PTBKPhH3XDiNMJK4BNFemfDzmCo9bVQ3T6,Static II,Justin Sun Eyes,Brown,Lion Mane,Sideways Smile Mouth,Turtles
 2804,1.68,2672,77,https://magiceden.io/item-details/56kduEssMnWHWoG7RN8f6LvwUzXbmb1o9KdnixcrvD5x,Static II,Flames Eyes,Brown,Lion Mane,Sideways Smile Mouth,Piggies
 2807,55,3475,0,https://solanart.io/nft/G4LN6k5UsUrx9R4LPmzhD59XJ3zcegqhfRq1VjvwAYAT,Nude Beach,Squid Circle,Pink,Default Hair,Vape,Turtles
+2811,0.6,1417,92.83,https://magiceden.io/item-details/59yV1QNLtkdrrqnN7DE1xR8bPrzL4KexzNvoP2JmajN4,Dark Pink II,Zombie Eyes,Camo,Afro,Smile mouth,Penguins
 2814,0.5,7217,70.6,https://magiceden.io/item-details/EKt66cMxE6TUsNw5Y1hkNyZkEzcH8RmmaunPV4aoqkLx,Grey II,Squid Circle,Circles,Default Hair,Squigly Mouth,Solana Necklace
 2819,5,1103,50.08,https://solanart.io/nft/4YLeM5NA25CrzGwwEpwSR6SzHvxdhwx1PtQDsqd7rBkw,Pixels 2 II,Flames Eyes,Brown,Big Afro with Comb,Sideways Smile Mouth,Solana Necklace
 2836,2.5,8404,45.84,https://alpha.art/t/49KjQ1FFE99GxxePBnaWSuywDgceJmbFXpcQJ12Jy45K,Blue,Bored Eyes,Trippy  1,Dreadlocks,Bacon Strip,Geckos
@@ -461,12 +468,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 3968,12,708,0,https://alpha.art/t/2VjFiz8HMgBn3vNSWS9ZyiVfoqgxyN8TEJhU25QyqhQq,Rainbow Synesthesia  II,3 Bars Eyes,Brown,Big Afro with Comb,Robot Mouth,
 3974,2.8,2578,66.18,https://magiceden.io/item-details/7csi2ZNHnVTReoD12a8LxjtESFpEnnCH4oJqH6tr4DLe,Green,3 Bars Eyes,Alien,Big Afro with Comb,Robot Mouth,Turtles
 4001,4.25,741,59.03,https://magiceden.io/item-details/JDag1z8SbADnYrzBactcKDmfQY3pKu31CEu9arptkHwG,Pixels 2 II,Heart Eyes,Gold,Lion Mane,Sideways Smile Mouth,Penguins
+4018,0.6,3277,85.38,https://magiceden.io/item-details/FXMbQjnejuVeZuaGQghLELnS7xU5J696zp3ygkyKA2wE,Pixels II,Bored Eyes,Zebra,Tall Block Afro,Cute Mouth,Sollamas
 4027,6.69,127,37.09,https://magiceden.io/item-details/AJZM33C6wHQCrUQpgTJi2mW5yc3k5kyayJDNHzRH6K5T,Sribble 3,Solana Eyes,Yellow,Flock of Seagulls,Angry Mouth,Solana Necklace
 4048,15,53,0,https://magiceden.io/item-details/9Jwx5xDqMMByYakb8PVHFcCKTGpJa4BcSMDUjnnbrLj2,Golf,Robot Eyes,Grey,Bowl Cut,Cigarette Mouth,Sollamas
 4073,2,644,81.92,https://magiceden.io/item-details/FLf8LEEvvaA1Wm5D6sMCvwYeAGHmVWLuKTF3vX18Gh2V,Light Blue II,Solana Coin Eyes,Cheetah,Curtined Hair,Straw Mouth,Geckos
 4084,2.25,6008,57.94,https://magiceden.io/item-details/6tfe377qkLB8pKYosWu3wxQLo3s9WDLqzM6DipcyUmjh,Orange,White Laser Eyes,Black,Default Hair,Zombie Mouth,Penguins
 4088,18,1444,0,https://magiceden.io/item-details/4af8MaqfAbxUkaNJ43EvvMSHNT63p6XbmZvQBdEE9Nxu,Nude Beach,Alien Eyes,Blue,Tall Block Afro,Vape,OOGA Chain
 4094,7,5695,11.69,https://solanart.io/nft/5Jih6Jhnu7ZGZyhsMswaAANahqPjw4aKM8A9J1TqFUed,Hot Pink II,Squid Circle,Pink,Default Hair,Cute Mouth,Trippy Bunny
+4110,0.45,5473,78.08,https://magiceden.io/item-details/3JdUhpEs87iK3hxdHoXbhrhH39PTM36G9qQSHmkhaKPi,Hot Pink II,Squid Circle,Blue,Default Hair,Cute Mouth,Trippy Bunny
 4123,1.25,8463,58.11,https://magiceden.io/item-details/2amQihDCTBpu9Jfjc2bmxKBTE9KuVnU5xGtGd71BcUBX,Blue,Flames Eyes,Dark Brown,Dreadlocks,Pizza,Piggies
 4133,5,2799,43.29,https://solanart.io/nft/94bJNqxLbJHi32xneQYc2p6mpgCUfEWSthUTPTJzQc6Q,Static II,Flames Eyes,White,Lion Mane,Cute Mouth,Rogue Sharks
 4142,2.5,699,76.7,https://magiceden.io/item-details/GVcLzyDWNBLQqZ9MGsXPHakLADHjTRdYCS2o6eWgnJpZ,Pixels 2 II,Flames Eyes,Brown,Big Afro with Comb,Pizza,Geckos
@@ -519,6 +528,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 4569,1,3319,81.21,https://magiceden.io/item-details/BF9FJpZcuXdD8f1Gv1nLgRPBGBYE9s2WeTwkQ37Kj1mi,Orange,Plus Eyes,Cheetah,Curtined Hair,Fish Mouth,Turtles
 4573,4.2,1425,56.79,https://magiceden.io/item-details/KD4YXJ2hq8LhHmoQ6apr2hgsf4o6wNUw4bPJrr9w1Ep,Red II,Solana Eyes,Grey,Flock of Seagulls,Cigarette Mouth,Normal Chain
 4580,2.22,3047,70.1,https://magiceden.io/item-details/AfbzANBVfT9ADJioWBMcRxf5orxr3ZVyVvPZDGUH64vh,Light Blue II,White Laser Eyes,Blue Camo,Default Hair,Bored Mouth,Piggies
+4591,0.45,9392,62.39,https://magiceden.io/item-details/8aQ67YAkwMcPSzuVccxDyiykZ2UHuqfKpsTEvEo778MB,Blue,Double Eyes,Dark Brown,Dreadlocks,Bacon Strip,Normal Chain
 4600,88.800003,68,0,https://solanart.io/nft/GsUAeJC4yiW6dBjaQtV82t6UpfrQ6BrMNzBEA55shDJC,Golf,Robot Eyes,Yellow,Bowl Cut,Angry Mouth,Piggies
 4606,1.2,853,89.08,https://magiceden.io/item-details/7wBNLDZtgPNbVLjTybQGxqQvuyDqw4dBRDG69BDkF2tp,Static II,Flames Eyes,Brown,Big Afro with Comb,Tongue Out,Penguins
 4620,2,7352,55.06,https://magiceden.io/item-details/9npHqGN7itu1MB1XVGQ8uV421r2gGXrB4DWiEUkWgqMm,Purple Amber Synesthesia  II,Squid Square,Dark Brown,Dreadlocks,Insect Mouth,Piggies
@@ -535,7 +545,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 4672,1.28,7553,61.45,https://magiceden.io/item-details/BzPvcd1BuyEb4RaA2hDEaf7Ewwr2e7aBne9rnC7aC2j,Light Green II,X eyes,Trippy  2,Mullet,Sick Mouth,Sollamas
 4679,1.82,7464,56.41,https://magiceden.io/item-details/EcpNgEJLzY5ozKTb4ihr7LNGgF9vRqt3c2q7vivgkbS4,Grey II,Hypnotic eyes,Trippy  2,Default Hair,Cute Mouth,Sollamas
 4681,2.1,9723,44.56,https://magiceden.io/item-details/9JCgbeghfYM1HJttV44YYt11KchFg7YaL6GSgurW8Qww,Blue,X eyes,Red,Mullet,Sick Mouth,Sunrise Rebels
-4682,0.9,8668,60.79,https://magiceden.io/item-details/ARHYkkPRG3GpB5y4yHoo3jv1NPu2MnrFbWD1QEPsn9Jr,Light Green II,Angry Eyes,Dark Brown,Dreadlocks,Sick Mouth,Sollamas
 4689,4,8256,31.44,https://solanart.io/nft/H8TvhqrQnBwVyCZQkkPfjngBu7i3qd69VVYLN33QNrxj,Blue,Squid Square,Tiger,Dreadlocks,Sherlock pipe,Piggies
 4698,7,528,32.39,https://magiceden.io/item-details/4fRacVejTa97Q9Wh2tU8Nbpn8HKPxXidCetHytta7Aiu,Solana Gradient Inverted II,Solana Eyes,Yellow,Bowl Cut,Angry Mouth,Solana Necklace
 4699,6.969,8795,0,https://magiceden.io/item-details/7Ui5EGc7pByaiZ4qHXUx1VGDpocpMrsBqoS6GyAHViMX,Blue,Solana Coin Eyes,Dark Brown,Dreadlocks,Fish Mouth,Rogue Sharks
@@ -699,6 +708,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 6262,250,9346,0,https://magiceden.io/item-details/G7S7ZBdmyDhn8vncvGicNqTCe2VdfF8uPdjY91UkEtNA,Blue,X eyes,Green,Mullet,Sherlock pipe,Turtles
 6272,4,1131,59.97,https://magiceden.io/item-details/kXyQVYm3TTHGcsrLkVELev8Bq1tPf9gACZL5dKuHuTE,Pixels 2 II,Flames Eyes,White,Lion Mane,Sideways Smile Mouth,Sollamas
 6324,69,280,0,https://alpha.art/t/6BUznriqtiNnUbeGryBQqjmZJAaA75ACz7X9ZM4JJU5u,Sribble 3,Double Eyes,Yellow,Bowl Cut,Bubble Gum,Sollamas
+6325,0.45,9251,62.95,https://magiceden.io/item-details/8tK3eCjmCNDexMVAmo1qYbx9ZTUADJtNGtv6NYsBWtn2,Blue,X eyes,Red,Dreadlocks,Sherlock pipe,Solana Necklace
 6339,1.6,2912,76.84,https://magiceden.io/item-details/E9izmmYbPYDEkqe9BQZoFTZd7PJjDgaoDcFcHtcSC7rw,Yellow II,Googley Eyes,Camo,Mohawk,Mouth Juul,Solana Necklace
 6349,1.4,8089,58.11,https://magiceden.io/item-details/Vmod2z9yn97QB9soNAXSjDKD3DeZ3tPTUSm9iLtAnjJ,Grey II,Squid Circle,Solana,Default Hair,Squigly Mouth,
 6350,2.5,3403,65.87,https://magiceden.io/item-details/2grVNQ1yFJSLhhgkVB2cVpG24mugMhE9ZNQ4itvW3mG7,Orange,Squid Triangle,Cheetah,Curtined Hair,Fish Mouth,Sunrise Rebels
@@ -909,6 +919,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 8274,2.22,5780,59.15,https://magiceden.io/item-details/9wUZdEz1b6Nj3FSxzMSAXfb2iTECrzXkshABNXKgn2zA,Sribble 2,Bored Eyes,Green,Tall Block Afro,Sherlock pipe,Rogue Sharks
 8275,2.5,7328,50.15,https://magiceden.io/item-details/58SP8N9vs3msmdKxdTiuAAD8iej8N28h489XsniwmoiB,Light Green II,Squid Square,Purple Amber Synesthesia,Mullet,Sick Mouth,Geckos
 8301,5,8625,19.96,https://magiceden.io/item-details/6kLfpGtQr3saAnK2mFiPTPsyH5nnok3nDGKCqqQonoKu,Light Green II,Gold Laser Eyes,Green,Mullet,Sick Mouth,OOGA Chain
+8304,250,8993,0,https://magiceden.io/item-details/AoAKzyexBprdN3Le6joVh2bUKC8HVUK1tsy8F7S2RU4e,Blue,Red Laser Eyes,Dark Brown,Mullet,Insect Mouth,Rogue Sharks
 8308,2.77,6278,51.66,https://solanart.io/nft/3QCJSXsjVPqCB7mDQBF8N9CpwiY1mmjyk2cuDhU9Yh5i,Grey II,Alien Eyes,Blue,Default Hair,Vape,Sunrise Rebels
 8330,23.99,4134,0,https://solanart.io/nft/qChvh7CFU688nZR6JPkoFTWTDxDB8tUpiCwwiDyu9y1,Matrix II,Squid Square,Night,Dreadlocks,Bacon Strip,Solana Necklace
 8332,13,896,0,https://magiceden.io/item-details/BEJVrqqfMYNtnQFmx2tMg6M3qFjczvowTikEfi1YB5sF,Sribble 2,Double Eyes,Rainbow,Bowl Cut,Zombie Mouth,Turtles
@@ -950,6 +961,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 8700,1.2,8845,57.08,https://magiceden.io/item-details/89BxpmyCDYsFDMUzAScZACZzAPUrVqHkRn78JrWje6sk,Blue,Plus Eyes,Dark Brown,Dreadlocks,Fish Mouth,Rogue Sharks
 8717,5,5219,33.6,https://magiceden.io/item-details/DzU9EnCNjKW6RdYsfprZKHdzyM4623kpfvb26dTJWVNA,Green,Justin Sun Eyes,Brown,Default Hair,Pizza,Normal Chain
 8727,2,3239,71.53,https://solanart.io/nft/EgbZqFvy6Y6gmYnpn9mgZ4P9ujNK2G4re5NriMQVnHop,Green,Justin Sun Eyes,Gold,Lion Mane,Sideways Smile Mouth,Trippy Bunny
+8728,0.45,8213,67.11,https://magiceden.io/item-details/6W2j1amSTf3o16BK2fqvZ9tbprW5PbeAu1kEqhrrhy55,Blue,X eyes,Purple Amber Synesthesia,Mullet,Bacon Strip,Piggies
 8731,25,9223,0,https://solanart.io/nft/H47hgs6rptGymZgN2bPGMVzArY9Qiz8b1GZTXzGu9ck2,Blue,Flat Eyes,Dark Brown,Dreadlocks,Sherlock pipe,Sollamas
 8752,1.89,4084,69.24,https://magiceden.io/item-details/6rrr9HYLBGSKu7FVWWtN5RaSSGHL8bui2XLp3JR6QYKf,Yellow II,Googley Eyes,Camo,Afro,Insect Mouth,Solana Necklace
 8764,10,1177,0,https://alpha.art/t/2eS9wqsos1U1irXVN4QkdhvhhxvCKJ6AYcUaYxZNsUW8,Pixels 2 II,Justin Sun Eyes,White,Lion Mane,Cute Mouth,Trippy Bunny
@@ -1034,7 +1046,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 9465,15,8792,0,https://solanart.io/nft/3hVeRzMzEfzFNudar9gwL4iC9kxnT4CB9MuYy1JVYvXS,Blue,Gold Laser Eyes,Red,Mullet,Sherlock pipe,Penguins
 9481,0.78,6174,71.97,https://solanart.io/nft/3NpmyiGi9YhC9AZEZ4v4Jm8ZCzsqb6FSVLKSHhJmmSLm,Purple Amber Synesthesia  II,Flat Eyes,Solana,Dreadlocks,Sick Mouth,
 9482,0.96,5135,74.34,https://magiceden.io/item-details/GQEKF1Enxc7ERErtZCLQgXRRaKc2ijfW5zZdcVmauWjL,Green,Heart Eyes,Brown,Lion Mane,Insect Mouth,Piggies
-9486,0.45,8635,65.42,https://magiceden.io/item-details/3u6V3Wn7WTkDrDHMm8tXcpecD9ToHLurjfYKx1FR5cmM,Blue,Squid Square,Red,Mullet,Insect Mouth,Rogue Sharks
 9502,3.5,7463,39.61,https://magiceden.io/item-details/B43bvMTMSssB6TwDcmvmgT5WJhigAxnGksLZP3CuVzDa,Blue,Robot Eyes,Tiger,Mullet,Sherlock pipe,Solana Necklace
 9504,10,7712,0,https://solanart.io/nft/5cQfkvbsFo2NjoKEhFT6WaHeT1jERiPRBfH8ehqVjUS6,Blue,Squid Square,Static SR,Mullet,Vape,Turtles
 9511,0.64,8513,64.01,https://magiceden.io/item-details/J1PHQEfhvwXvMbZkshVLqqtrUVKWmCM8TqefqnHmMtVR,Light Green II,Angry Eyes,Green,Dreadlocks,Sick Mouth,
@@ -1058,7 +1069,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Fur,Hair,Mouth,Necklac
 9710,4,2082,56.16,https://magiceden.io/item-details/B5PkSB6QnYG8CUaScUvV7txrJ81jbAvEn6VjvKcCQnzP,Sribble 1,White Laser Eyes,Blue Camo,Default Hair,Fish Mouth,Sollamas
 9744,5,3523,40.39,https://magiceden.io/item-details/2jaFLT9sizcqEChsPWi5NeT6gNTLzbgDyhvoZM5Usa2C,Pixels II,Alien Eyes,Rainbow Synesthesia,Default Hair,Squigly Mouth,Normal Chain
 9747,1.7,9746,48.47,https://magiceden.io/item-details/B21eCc5UPkuNQFx5twHxVg9YZ5qLEvT9Kqbr6vdBFB3Q,Blue,Hypnotic eyes,Red,Dreadlocks,Sick Mouth,Sollamas
-9753,0.777,5886,73.16,https://magiceden.io/item-details/FuvMThc76HbdUDG9X2Dr1a9aXovBxq4MDUjttWJqWoxu,Purple Amber Synesthesia  II,Squid Square,Rainbow,Mullet,Sick Mouth,Turtles
+9753,1.11,5886,69.83,https://magiceden.io/item-details/FuvMThc76HbdUDG9X2Dr1a9aXovBxq4MDUjttWJqWoxu,Purple Amber Synesthesia  II,Squid Square,Rainbow,Mullet,Sick Mouth,Turtles
 9756,4,5860,41.03,https://magiceden.io/item-details/2GYFUDKB2MQHcF22LbDd6BqhLgPWCEu81t23aRsHwhMT,Matrix II,Gold Laser Eyes,Dark Brown,Mullet,Vape,Turtles
 9787,2.15,3541,68.82,https://magiceden.io/item-details/5Sq7Xw7gvVg35wMqdJZx9HoNHBtd6JU9EnuoATd6KL93,Pixels II,Alien Eyes,Blue,Tall Block Afro,Squigly Mouth,
 9792,1,6057,70.24,https://magiceden.io/item-details/BjYVSafy6v5NBWxSjUd2LgXG7bYFU4JMHE5uFBr1yeqx,Green,Flames Eyes,Green,Lion Mane,Sideways Smile Mouth,Turtles
