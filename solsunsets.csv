@@ -1,6 +1,7 @@
 id,price,moonRank,💎 score (%),storeURL,clouds,far object,foreground,horizon,midground,near object,sky,sun
 11,1.3,2753,68.7,https://magiceden.io/item-details/FtZ51ddfeGod8K1F21h1NsHitDoaXRz1uGQkpZ7GsiJA,cirrocumulus,moon,coastal,coastal,cristal lake,blue lambo,pink,normal bright
 24,1.9,2483,65.17,https://magiceden.io/item-details/BAyDaSvpHfiXVEXpcEDPSMiZ13fS3RKTHwLgpEX3Ypws,altostratus,moon,dirt road,forest,cristal lake,campfire,sahara,sahara
+59,1,318,93.9,https://magiceden.io/item-details/AUXgVNnNqrax7MQZUMNrUn3Yj3E6CMcXedjVEhfnKCr5,stratus white,moon,prairie,industrial valley,cristal lake,motorcycle,dark blue,binary
 75,1.1,3359,65.18,https://magiceden.io/item-details/4zYPCnqys3KEuTjLukXn5FPDqtjuQHpFXUp9wsgAQdGM,none,none,prairie,rock mountain,beach,blue lambo,cyan,big sahara
 130,1.7,1467,76.43,https://magiceden.io/item-details/7pS1R12nGzxGYPPqDhB9YWRUtcqY9sFsFGe9kh3Lbcn,cirrocumulus,big-moon,prairie,pyramids,big river,none,turbidy,sahara
 132,0.949,4351,57.65,https://magiceden.io/item-details/4dF8P66pv2xXZY3K65JVSLRtMqKAXYndCytNutBJZSaz,altostratus,stars,crag,forest,cristal lake,blue lambo,chernobyl,normal warm
@@ -82,6 +83,7 @@ id,price,moonRank,💎 score (%),storeURL,clouds,far object,foreground,horizon,m
 1539,1.5,1737,75.97,https://magiceden.io/item-details/HbZY7w1sSKrpo89TumZx7a5ozbAj6rMgiXTmdM1SMtcN,early birds,stars,dirt road,skyline,beach,columns,turbidy,eclipsis
 1559,20,360,0,https://magiceden.io/item-details/7ZkYE2xbyXFZDEHVSLvoxgy6yn1mE7v9RdQePRuVrWEE,altostratus,tower,crag,jungle hills,big river,magic deer,turbidy,micro bright
 1563,20,999,0,https://magiceden.io/item-details/G9pucH1fphLNumYhePsobjfiJUxNzHgyJ9HXqJT8ajT2,cirrocumulus,moon,pine road,dragon castle,cristal lake,blue lambo,turbidy,normal warm
+1582,0.68,1322,87.95,https://magiceden.io/item-details/JAU1DkSisJXPtGQEuaXLwTf11v2C12BLPDqserVPibf4,none,tower,palm springs,forest,river,pair of pines,green,micro bright
 1590,2.5,1448,68.6,https://magiceden.io/item-details/GVJGWGemX7EZBA8ksHCQyTc2gbDBpup5BAG6hQarEewo,none,stars,marsh,arizona,lake forest,palms,sahara,west coast
 1595,350,405,0,https://magiceden.io/item-details/CQfom9wKF7fLUKu6iMfqHH1WrpxSWoyZXjXjmx8tTWxm,cirrocumulus,birds,crag,vulcan,cristal lake,magic deer,sahara,micro bright
 1625,1.1,2138,76.31,https://magiceden.io/item-details/F7kFXg5dVAEMmnTwPC8BkJ4HMBXhveUgY5gCbrNkQMRo,stratocumulus,stars,pine road,coastal,big river,tall grass,green,micro bright
@@ -94,7 +96,7 @@ id,price,moonRank,💎 score (%),storeURL,clouds,far object,foreground,horizon,m
 1810,1,502,92.22,https://magiceden.io/item-details/98W5EAvRt7iaYFMDe1wqxzWwrGPoJBRh9G5QBPMyvQnp,stratocumulus,moon,dirt road,amusement park,greek temple,palms,chernobyl,micro bright
 1828,5,3642,23.6,https://magiceden.io/item-details/62Hjsh6eFkPN4j31YPfQpqYHwch7CHeZrCEuUkz3Gtch,altostratus,tower,crag,jungle hills,lake forest,woofwoof,cyan,normal bright
 1848,2,1855,69.89,https://magiceden.io/item-details/7S5cC2H26MwPfqeubbwUwYJtMk9f3Xuh7iEEegt5Rec4,none,birds,crag top,rock mountain,big river,woofwoof,chernobyl,west coast
-1853,1.18888888,587,89.56,https://magiceden.io/item-details/CtSYRbN32C3wHAWaaZv5bQsT4947UHBm8jH4GgynoqnE,stratocumulus,big-moon,flower field,none,mud,palms,turbidy,big sahara
+1853,1,587,91.45,https://magiceden.io/item-details/CtSYRbN32C3wHAWaaZv5bQsT4947UHBm8jH4GgynoqnE,stratocumulus,big-moon,flower field,none,mud,palms,turbidy,big sahara
 1855,2,3801,52.15,https://magiceden.io/item-details/6AuMpR2mZZvsahbqQZuiisQZdkALH84AhMcDgcG4sEBi,stratus white,stars,crag,jungle hills,big river,motorcycle,turbidy,solana sun
 1857,0.9,2987,70.57,https://magiceden.io/item-details/Go9oNQg5Wunb9tT9ocCQkkV9tsq7t239L6vhAnCFk6hc,early birds,birds,high road,arizona,beach,motorcycle,turbidy,big sahara
 1877,1.49,1167,81.26,https://magiceden.io/item-details/AeMSruJW7cd4NKzJpBZry3XHZuMFteWDw42iCWcs1Q9p,none,none,coastal,industrial valley,big river,motorcycle,chernobyl,big sahara
