@@ -33,7 +33,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 648,45,1297,0,https://magiceden.io/item-details/HJRVL2voW6eyoFJ73zwXEn1QPaNNUfuo3HkBbVhXjAwF,Purple,,Wink,Safari,Stache,Shirt Red,Natural
 649,65,1287,0,https://magiceden.io/item-details/2owysxTRcwvJrPf7CDWiJ4aXtMpKS4gWgRueGnT4dyfD,Persimmon,,Jaded,Headband White,Closed,Captain Dark,Natural
 660,99,5678,0,https://magiceden.io/item-details/6HWfmVsDVmgvRsezgEKjfjonGUiwN5EeEZfPiuRx8wwq,Blue,,Jaded,Headband Patterned,Smug,COPE,Natural
-662,25,7390,61.38,https://magiceden.io/item-details/EDK7XQgV9TDVJG6xUu911FwGetXyEUfGqB3kKjbHYaPW,Amaranth,,Mutated,None,Smug,Shirt Blue,Natural
 690,99,2310,0,https://magiceden.io/item-details/9KzkkFABjwTeyAtGH7mYQYXHqqUzhd8QAKQxQ9vVKYNg,Rose,,Standard,Headband White,Grin,Astronaut Orange,Natural
 693,33,2861,4.74,https://magiceden.io/item-details/AzYbQkRitPjG7LYUcS5iSTyDYo5Bu2PS2EfCcjn7PJQ3,Purple,,Wink,Valet,Smug,T-Shirt Yellow,Natural
 747,74.7,5794,0,https://magiceden.io/item-details/HwEcEVH71Cov4m2D9SDD1ThSgZF7kTQuWVWrjxE8nuBn,Blue,,Standard,None,Beard,Hoodie Pink,Natural
@@ -64,7 +63,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 1233,29,4871,34.38,https://magiceden.io/item-details/hSvkATHBBJVgHicGpkVE4hxmfvy7aK2FzsBegRvoS2N,Amaranth,,Standard,Valet,Closed,Shirt Flannel Yellow,Natural
 1282,29,4678,35.37,https://magiceden.io/item-details/63WEkTogqdUdn5B1uqPFde1qESwSmSMkMMrsHFta1ofP,Rose,,Blank,Backwards Cap Camo,Smug,Shirt Flannel Red,Natural
 1303,250,31,0,https://magiceden.io/item-details/G9kELtjXXsd7AobSSQj3MTLzNRRfGjgjLb56ZmY1yCMt,Champagne,,Angry,Cap Blue,Beard,Armor Dark,Natural
-1321,40,595,0,https://magiceden.io/item-details/7iSiqFbYUSdF3vRdu2mEXhjmY8i49ex3WwQuBfxCfojc,Yellow,,Thug,Astronaut,Smile,Hoodie Green,Natural
+1321,38,595,0,https://magiceden.io/item-details/7iSiqFbYUSdF3vRdu2mEXhjmY8i49ex3WwQuBfxCfojc,Yellow,,Thug,Astronaut,Smile,Hoodie Green,Natural
 1324,30,4496,26.31,https://magiceden.io/item-details/8vZMS6NdGydW37N2mDawp2Rtdntp4XmYDmhwvMT8Wm3h,Mint,,Scar,Cap Pink,Smile,Tank Top Purple,Natural
 1325,30,5977,18.67,https://magiceden.io/item-details/8CUMvQYReyvvFktyJLTQL49LYKErcuBdgMjsqdUWKAjn,Green,,Wink,Bucket Hat Ivory,Blep,Shirt Green,Natural
 1342,45,7554,0,https://magiceden.io/item-details/8ohYG3r7cFMdLD4pAhruoWnxxDGDvuLY7adHddzCZ8B1,Mint,,Wink,None,Closed,Hoodie Pink,Natural
@@ -97,10 +96,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 1979,31,3114,23.44,https://magiceden.io/item-details/5P1QqbqH4iJLCSUN8XYjxvSaoABEXnDXzWbxuorGrDNv,Amaranth,,Blank,Backwards Cap Dark,Fangs,Shirt Flannel Red,Natural
 2007,35,5876,0,https://magiceden.io/item-details/ApFrkAk4YXUL1BDyFfUeivgZsTzCLcyqbiMk6KKDf4V2,Straw,,Standard,Backwards Cap Dark,Smile,Hoodie Pink,Natural
 2009,135,2638,0,https://magiceden.io/item-details/FYnb66tTmBgR2FiugsAk3Tx5C76gT6mZRCpyFGox61Pc,Straw,,Blank,None,Beard,Turtleneck Orange,Natural
-2027,420.69,4415,0,https://magiceden.io/item-details/4QuVJieeFhFHFrMBMAw6ttepNpfE3XKAJPBvNus8cU1o,Violet,,Thug,Bowler Light,Blep,T-Shirt White,Natural
+2027,50,4415,0,https://magiceden.io/item-details/4QuVJieeFhFHFrMBMAw6ttepNpfE3XKAJPBvNus8cU1o,Violet,,Thug,Bowler Light,Blep,T-Shirt White,Natural
 2041,34,2692,0,https://magiceden.io/item-details/4Y6PVYxFYXqsVkrk3CDd6yGSc893PS7UVDWwHJRTjWve,Rose,,Thug,Backwards Cap Dark,Smile,Shirt Flannel Red,Natural
 2056,99,4934,0,https://magiceden.io/item-details/HG8UdbzfK99Y8g3tfLZtFsf7iUZFBoAByMXSR4eSp2DF,Mint,,Scar,Headband Dark,Smile,Sweater Purple,Natural
 2081,45,686,0,https://magiceden.io/item-details/76sasdNcLjRT9Rg28d5DPy7j3xgRFo8C8d6XDU6thJP6,Alabaster,,Thug,Cap Blue,Drool,Monster Trainer,Natural
+2127,26.5,7308,46.81,https://magiceden.io/item-details/9ckcSuZioUauYUP81tnMDwc1rjzkc1QvG3CrEWBrAwj8,Persimmon,,Blank,None,Fangs,Shirt School,Natural
 2154,55,3850,0,https://magiceden.io/item-details/7vBYREbvNrsVHTqFcZ4tnowVX6m9PqTJKTB3y18VqVgc,Amaranth,,Thug,Headband White,Grin,Hoodie Green,Natural
 2194,28,2941,54.33,https://magiceden.io/item-details/9r2sehpnwke7cpGqvEo8sjW3Uvx3JsCdz1ZoPVCEE4Dy,Orange,,Scar,Bucket Hat Ivory,Smile,Tank Top Dark,Natural
 2293,33.5,6463,0,https://magiceden.io/item-details/ErcwCUrQSygU1UK2UxsPDETTCPSBffpNjy7aERdb9wYA,Persimmon,,Standard,Cap Blue,Closed,T-Shirt White,Natural
