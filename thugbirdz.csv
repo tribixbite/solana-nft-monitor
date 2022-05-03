@@ -54,7 +54,6 @@ id,price,moonRank,💎 score (%),storeURL,Background Color,Beak Color,Chain,Ear-
 0397,30,560,0,https://magiceden.io/item-details/36eghwXWkLfnvj2RYgtBUe2nDPxmjpYs7UC5m7LbJeYB,lightpink,lightsalmon,none,none,none,gang-star,normal,lightcyan,lightcyan,enforcer,standard,none,alien
 0415,58,120,0,https://magiceden.io/item-details/8Jqdbp8NKNRrrz8mdsLb7wPqrKxZU1JBcGPGwDGoMSPS,coral,tomato,none,none,teardrop,gang-star,forwards cap,tan,gray,thug,standard,none,spotted
 0417,20,2870,65.29,https://magiceden.io/item-details/BHxZ4pwFNebQyzAMWmF9CZWc7eWsYEFj4jhwrSLTtkWd,coral,darkslategray,none,none,none,biggie,normal,thistle,rosybrown,thug,standard,none,normal
-0429,30,2124,0,https://magiceden.io/item-details/5Pa14rg5Z6rAqYg1CGY9BnTyG3vPd82ht6kwpPyTZWRE,palegreen,tomato,silver,none,none,tupac,normal,palegoldenrod,gray,thug,standard,none,normal
 0455,777,183,0,https://solanart.io/nft/ETixXXcqVvKTyvdFyTJQSnfC94aj79zqf2DgMuiKXPpC,lightpink,lightgray,none,none,none,gang-star,beanie,powderblue,darkkhaki,thug,red,none,normal
 0464,55,1890,0,https://magiceden.io/item-details/3SqVv8r7hpN8hRGBbDgg1wrUAzzP6oixL323iAifqKZd,palegreen,darkslategray,none,none,teardrop,ditc,normal,powderblue,lightslategray,thug,standard,none,normal
 0476,149,768,0,https://solanart.io/nft/EUVverJcDGqZMbqYMUHFeLs3aamt9s8VTkHR8UWkLu5j,palegreen,saddlebrown,silver,none,none,ditc,normal,lightyellow,gray,thug,standard,none,normal
@@ -143,6 +142,7 @@ id,price,moonRank,💎 score (%),storeURL,Background Color,Beak Color,Chain,Ear-
 1330,50,733,0,https://magiceden.io/item-details/9nMMESxHPmimiDguEGPa5uZfVdBhVcawcp7RCDdB4hH3,thistle,gray,silver,none,none,wu-tang,forwards cap,beige,gray,thug,standard,none,normal
 1334,65,1939,0,https://magiceden.io/item-details/5yL7hnX22z2TcM2a4Bt6EF9djZLPhkZgdhSqJ1BvrkXE,lightpink,lightsalmon,gold,none,none,biggie,normal,silver,gray,thug,standard,none,normal
 1337,29,2584,0,https://magiceden.io/item-details/BDm5Gy1esRi2RUZZSRLu6SFnxGpSTbz2XaXuuWjj5pYN,palegreen,saddlebrown,none,none,none,tupac,normal,thistle,cadetblue,thug,standard,none,normal
+1339,20,2405,70.91,https://magiceden.io/item-details/5RuUEbkn43o2To6hAGugBsQSUXgQp8vVA2XncNPmZe9g,palegreen,lightsalmon,none,none,none,jay-z,normal,lavender,gray,thug,standard,none,spotted
 1383,29.95,618,0,https://magiceden.io/item-details/9vcqFTHqu7Thea91CTzhYJTLr9YjAzrUZMUFPEA9s6sL,palegreen,lightgray,none,silver,none,tupac,normal,wheat,gray,enforcer,standard,none,spotted
 1403,101.69,83,0,https://magiceden.io/item-details/AELKK66pF6Qv8sRcbAEpv5xpxAXVS9q8bnTPo1TUkkCw,thistle,gray,none,silver,none,gang-star,heisenhat,lightpink,gray,enforcer,standard,blunt,normal
 1412,33,948,0,https://magiceden.io/item-details/ziXZEGmGjVcpf9zMaD58g5VvAee3WqDSFigARBSAhhS,coral,gray,none,silver,none,tupac,backwards cap,paleturquoise,slategray,thug,standard,none,normal
@@ -162,6 +162,7 @@ id,price,moonRank,💎 score (%),storeURL,Background Color,Beak Color,Chain,Ear-
 1519,60,1248,0,https://magiceden.io/item-details/8Q3wyoKMcm73MTsSfLLyDRWZLcUNrbKCtqMB1vsnNjA2,lightpink,lightgray,none,none,none,wu-tang,normal,lightcyan,lightcyan,thug,standard,none,alien
 1531,25,2957,14.23,https://magiceden.io/item-details/AnumLer3mHQ79AGU5Ze2wqM7yWgiGufq9V7Te25uEk9p,aquamarine,lightsalmon,none,none,none,outkast,normal,gainsboro,lightslategray,thug,standard,none,normal
 1560,333.33,196,0,https://magiceden.io/item-details/ERgZ4CfdQ6RwwNVN6v8nVf4RdFkunGeDTD1FgLhCQxqb,lightpink,lightgray,none,none,none,nas,normal,honeydew,dimgray,underboss,standard,none,normal
+1566,22,3284,40.28,https://magiceden.io/item-details/iUySAzpqqDPj8BErypNgJeQ3ZL6NLMG9CUSRZHNcqpe,aquamarine,gray,none,none,none,ditc,normal,silver,gray,thug,standard,none,normal
 1567,1300,17,0,https://magiceden.io/item-details/H3WPzsuNdXsR8p3YJPkk9xQN43SxwzLHHhVBqavFq4YH,palegreen,darkslategray,gold,silver,none,ditc,heisenhat,antiquewhite,gray,thug,red,none,normal
 1571,30,2445,0,https://magiceden.io/item-details/CCc7VnyKDZJMZGqqxU59pddXtfLsp43mwTkLmHcHb5bq,khaki,tomato,none,none,none,biggie,normal,wheat,rosybrown,thug,standard,none,normal
 1588,88,1659,0,https://magiceden.io/item-details/ErgZxXqeC1GnCEc2XcyGrNrgGKXpApcJdGkMVifQJJyD,lightpink,lightgray,none,none,none,jay-z,heisenhat,lightcyan,rosybrown,thug,standard,none,normal
