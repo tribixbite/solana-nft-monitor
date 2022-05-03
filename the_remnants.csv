@@ -3,9 +3,7 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Backpacks,Bottoms,Headgear
 28,125,2,0,https://magiceden.io/item-details/3u9H41RY5fS74k5u2PtxdByU22nyseF5t8H3Nt5CVqq8,Grey,Superman,Superman,Superman,Superman,Superman,Superman,08/01/2022 18:03:19
 74,25,947,0,https://magiceden.io/item-details/FSzCMzYSs28bfrMeaQwAnJ7EpBA3h7BCbmC8NVisSc3m,Blue,Black Backpack,Black Jeans,Wolf Hat,Remnant1,Red Shirt,Bloody Boomerang,15/01/2022 18:00:47
 137,10.59,1414,81.73,https://magiceden.io/item-details/5mMuj9xUvSwxMLxfdGeWP2HwEiv5m6HrhD7sVg2L3DQn,Yellow,No Backpack,Grey Cargo Shorts,Green Helmet,Remnant1,Blue Hoodie,Bloody Battleaxe,22/12/2021 18:01:54
-193,14.5,2229,34.34,https://magiceden.io/item-details/2Dhs8LK6tw8eErCtjTG71u1EsjFbxe9CYaLXu5Zn9ffR,Purple,Green Backpack,White Pants,Red Cap,Remnant1,Red Denim Jacket,Blue Flare,08/01/2022 19:18:39
 199,19,1942,0,https://magiceden.io/item-details/Dx6DBUrW92XUFsH1q9ct725su36grBaK69y5885JZK2F,Orange,Brown Backpack,Black Shorts,Black Hair,Remnant2,White Hoodie,Sword,15/01/2022 18:00:53
-246,13.5,524,61.67,https://magiceden.io/item-details/4xD9Sh1xsK7yCRbFqXRnSEhL1fz6faXyobFUTqbCms1x,Red,Brown Backpack,Grey Cargo shorts,Teal Bandana,Remnant3,Fur Coat,Bloody Battleaxe,15/01/2022 18:01:17
 254,23,642,0,https://magiceden.io/item-details/24TQxSZ73dDzm3Dtcux3FKKfRfjYzUqaPpeK5PDMWZNT,Orange,No Backpack,Black shorts yellow crocs,Grey Bandana,Remnant2,Green Puffer Jacket,Sub Machine gun,15/01/2022 17:39:20
 301,16,3578,5.63,https://magiceden.io/item-details/5MREfcjEwPwPM65AsrK39i9SFvQLxDgUdUk7Xy9xZDto,Light Grey,No Backpack,Cargos,Green Beanie,Remnant3,Blue Shirt,Metal Bat,15/01/2022 18:00:03
 303,12,3617,45.23,https://magiceden.io/item-details/B8277oEoumgGKWk5vU9KG1siZEbpXACHT3XMhPGcAtNR,Light Grey,No Backpack,Tan Cargo Shorts,Green Cap,Remnant3,Brown Jumper,Katana,15/01/2022 17:35:51
@@ -14,6 +12,8 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Backpacks,Bottoms,Headgear
 324,35,2877,0,https://magiceden.io/item-details/GmZ73rMNuJfaKfhLqhpvNV7C6DseSJDAtxCKbWuTYakS,Red,No Backpack,White Pants,White Balaclava,Remnant2,Blue Hoodie,Bloody Boomerang,15/01/2022 18:00:56
 346,15,2319,28.43,https://magiceden.io/item-details/BnDDaYJrQbcLMXwuv6RiHNY9mjLKHZG6ssdbva1o3Ant,Yellow,Black Backpack,White Cargo Shorts,Teal Bandana,Remnant1,Black Hoodie,Torch,15/01/2022 17:47:52
 386,10.2,134,98.64,https://magiceden.io/item-details/3ka2W2ozZGk7vPrXusv9kRsQpAkC4vWkmVmrGQVHRXD6,Red,Black Backpack,Black Shorts Yellow Crocs,Grey Bandana,Remnant3,Brown Jumper,Bloody Knife,08/01/2022 18:02:14
+448,15.97,1150,30.61,https://magiceden.io/item-details/3RDhZUJLexBi8LVxkCrGPrNMx7dbLyChA2KdZoDCvk4j,Blue,Brown Backpack,White Cargo Shorts,Blue Sunglasses,Remnant1,Brown Jumper,Battleaxe,15/01/2022 18:00:13
+449,15,3586,15.55,https://magiceden.io/item-details/3JbsEEapFkHL8zXe7edhPNqFLHPCwvMHXMJk1WGZdJXw,Red,No Backpack,Tan Cargo Shorts,Motorcycle Helmet,Remnant3,Black Shirt,Green Flare,15/01/2022 18:00:25
 456,52,168,0,https://magiceden.io/item-details/8TB3tkPq7CoZLrbEKzKUbKBB3sNnLQ8kRnVPKWPcEYD1,Red,Black Backpack,Black Cargo Shorts,SWAT Helmet,Remnant2,Yellow Shirt,Scythe,15/01/2022 18:00:44
 493,30,3410,0,https://magiceden.io/item-details/44P13ejUFztBqHqtubiYKnGYg7FBKf9WGhjZQp8rAepY,Orange,No Backpack,White Jeans,Red Cap,Remnant1,Green Jumper,Bloody Axe,15/01/2022 18:00:20
 506,30,2667,0,https://magiceden.io/item-details/H9ww4bqLMkMdGVxmTjtQ9Mr9XctqHhJieNpQMaeLswma,Yellow,No Backpack,Tan Cargo Shorts,Blue Cap,Remnant3,Blue Hoodie,Grenade Launcher,15/01/2022 20:51:51
@@ -23,10 +23,10 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Backpacks,Bottoms,Headgear
 629,24,2183,0,https://magiceden.io/item-details/FjorZXT8FAzGRKQbvdKf1hrDYDbPgndF9XKyTDhPgwqT,Purple,Green Backpack,Black Cargo Shorts,Red Cap,Remnant1,Blue Trenchcoat,Sword,15/01/2022 17:49:31
 687,35,793,0,https://magiceden.io/item-details/CSaeTNyMQSpqqwAmix697WJny9KxByGFBwLYnHtdqvPT,Dark Grey,Green Backpack,White Pants,Pirate Hat,Remnant2,Grey Hoodie,Metal Bat,08/01/2022 18:02:50
 703,28,627,0,https://magiceden.io/item-details/73KZKMfFMnshTvGHY2adqHZ2uSwd2YH2narEE8YoKqg7,Blue,Green Backpack,Grey Cargo shorts,Wolf Hat,Remnant3,Black Hoodie,Metal Bat,15/01/2022 18:00:18
-721,21,518,0,https://magiceden.io/item-details/AhRdnzJJT52rGqRtdBwkhfPNvU7EgQgXHDtjR5SFH8NW,Orange,Brown Backpack,Grey Cargo Shorts,Teal Bandana,Remnant3,Blue Hoodie,Bloody Sword,22/12/2021 18:01:00
+721,10.2,518,94.73,https://magiceden.io/item-details/AhRdnzJJT52rGqRtdBwkhfPNvU7EgQgXHDtjR5SFH8NW,Orange,Brown Backpack,Grey Cargo Shorts,Teal Bandana,Remnant3,Blue Hoodie,Bloody Sword,22/12/2021 18:01:00
 825,34.5,1220,0,https://magiceden.io/item-details/8bFTYHoMXPUPW6gbE1pBA62TW6UYozmYNTMVT2CRD2SV,Dark Grey,No Backpack,White Pants,White Beanie,Remnant2,Black Shirt,Red Lightsaber,15/01/2022 18:00:00
 892,19,324,8.71,https://magiceden.io/item-details/48RAQzy2mLM9aQkaAJ7RCp4GbURhLMh2m29NgEa7YBLj,Red,No Backpack,Grey Cargo Shorts,Grey Hair,Remnant2,SOL Hoodie,Blue Flare,22/12/2021 18:01:48
-914,18,1777,3.94,https://magiceden.io/item-details/AHhJAJbfBJA4deU3XmfEZ8f8TWgvB2yL4PKDHfWb8VnZ,Red,Black Backpack,Black Jeans,Black Beanie,Remnant3,Brown Jumper,Battleaxe,22/12/2021 18:11:22
+914,17,1777,13.94,https://magiceden.io/item-details/AHhJAJbfBJA4deU3XmfEZ8f8TWgvB2yL4PKDHfWb8VnZ,Red,Black Backpack,Black Jeans,Black Beanie,Remnant3,Brown Jumper,Battleaxe,22/12/2021 18:11:22
 931,16,3574,5.67,https://magiceden.io/item-details/9R8p2a3CoBDgahMxVSVmkRdP8xK37rUi2j2iM6bnFTZG,Red,No Backpack,Cargos,Grey Bandana,Remnant3,Red Denim Jacket,Red Flare,15/01/2022 18:00:12
 967,13.8,2548,38.1,https://magiceden.io/item-details/9AX4hSZJCVHbrMmTEKZ2wWtAmGvJZHUxKNBeJn1t3Zq,Blue,No Backpack,Black Shorts,White Mask,Remnant2,Red Shirt,Blue Flare,08/01/2022 19:27:20
 998,16.2,853,31.33,https://magiceden.io/item-details/AdJMme2Mg2qKHxN8cjJP8P3KAJSKpkg5BVPgqJP1JLTj,Purple,Green Backpack,Black Cargo Shorts,Red Balaclava,Remnant2,Red Hawaiian Shirt,Bloody Knife,08/01/2022 18:02:50
@@ -39,8 +39,8 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Backpacks,Bottoms,Headgear
 1077,225,254,0,https://magiceden.io/item-details/ZyJEDeXqwPkkDox7YNuaVSamHqJdaE2dkpfqwfnD4hR,Red,No Backpack,Black Shorts Green Crocs,Red Balaclava,Remnant2,Black Hoodie,Blue Lightsaber,22/12/2021 18:01:37
 1096,17.8,3935,0,https://magiceden.io/item-details/7mdjmQkgxfvvUVevBZP2cW8yimPy7ir8SsL9HeUUbvLa,Yellow,No Backpack,White Pants,Green Cap,Remnant1,Black Shirt,Axe,15/01/2022 17:47:12
 1140,15,1850,33.19,https://magiceden.io/item-details/4B3qyJ3C166RS1ivT272coSa1MrwHWvNaatdALqBTvS2,Dark Grey,No Backpack,Black Shorts Green Crocs,Red Cap,Remnant1,Green Puffer Jacket,Bloody Sword,15/01/2022 18:00:14
-1226,12,2378,57.83,https://magiceden.io/item-details/B37NTv7GX9vZNY1r8LsZLm2ZwpH2yrWEzJktdNyzbUmq,Green,No Backpack,Black Pants,Red Sunglasses,Remnant2,Blue Sport Jersey,Bloody Metal Bat,22/12/2021 18:01:47
 1257,29,86,0,https://magiceden.io/item-details/8Mbg5g8s4wntEzb4z4sPyzu5daVrEFeYpbpe9Wu3KSYF,Red,Black Backpack,White Cargo Shorts,Pirate Hat,Remnant1,Blue Puffer Jacket,Bloody Chainsaw,15/01/2022 18:00:56
+1264,15,1585,35.89,https://magiceden.io/item-details/BB2pE8Vt49yViZDh89MsaokmnPBmPqGiwnZwqiscDqEC,Blue,Brown Backpack,Tan Cargo Shorts,Black Helmet,Remnant1,Blue Denim Jacket,Blue Flare,16/01/2022 20:47:51
 1290,16.2,2068,18.98,https://magiceden.io/item-details/78hYz6oLwAseHxe2SRVh287Kvdo9rM1XAYgysrcsxRX9,Light Grey,No Backpack,Black Jeans,Wolf Hat,Remnant1,Red Shirt,Bloody Katana,08/01/2022 18:01:40
 1315,12.3,2373,54.88,https://magiceden.io/item-details/HR1o5Tj9UqgKb7oBLF4i586fyzSGywFdyfzd9n7urBSP,Yellow,No Backpack,White Jeans,Black Hair,Remnant1,Grey Hoodie,Assault Rifle,08/01/2022 18:00:29
 1318,28,3130,0,https://magiceden.io/item-details/EHvGsVcHhYux2SmkzfZgLeojt4B67JKkKDbhLtp6Uqv7,Yellow,No Backpack,White Cargo Shorts,Brown Hair,Remnant2,Brown Jumper,Battleaxe,08/01/2022 19:21:05
@@ -66,40 +66,38 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Backpacks,Bottoms,Headgear
 1737,24,687,0,https://magiceden.io/item-details/99xZ2oDPEi6o9ZuGm7WDGwD31gV6ytZZbahtfduD99z,Green,Green Backpack,Black Jeans,Motorcycle Helmet,Remnant3,Blue Trenchcoat,Crossbow,08/01/2022 18:01:19
 1757,17.99,714,14.84,https://magiceden.io/item-details/9Gt4dBmzyBEHg268sTkqjt4HvEF9J8eFyr2mVRte2tiy,Yellow,Brown Backpack,Cargos,Blue Mask,Remnant3,Black Hoodie,Red Flare,08/01/2022 19:14:29
 1787,15,3328,18.17,https://magiceden.io/item-details/3j8N4itMJk1UnKZim9NsdZ3ipnZvsyUz35xygUdUcfs4,Purple,No Backpack,Cargos,Brown Hair,Remnant2,Black Trenchcoat,Blue Flare,15/01/2022 18:00:12
-1795,20,1209,0,https://magiceden.io/item-details/8FXgrCr8pK18dWcy1YTA9YR5RChX3QTRZJxuNc2FQbWJ,Blue,Green Backpack,Black Cargo Shorts,White Balaclava,Remnant3,Blue Trenchcoat,Green Flare,15/01/2022 18:00:18
+1795,17,1209,19.71,https://magiceden.io/item-details/8FXgrCr8pK18dWcy1YTA9YR5RChX3QTRZJxuNc2FQbWJ,Blue,Green Backpack,Black Cargo Shorts,White Balaclava,Remnant3,Blue Trenchcoat,Green Flare,15/01/2022 18:00:18
 1807,14,2327,38.35,https://magiceden.io/item-details/964ZgYCPYL2SG7SxPiGAcbybPHfjcdxYkrtbaZAoDfJm,Dark Grey,No Backpack,Cargos,Wolf Hat,Remnant2,Blue Trenchcoat,Metal Bat,08/01/2022 18:00:15
 1859,21,938,0,https://magiceden.io/item-details/HtWCtUR4qqtgXqcrXvGJXvhFJFcicyXCHiR3QegNgL98,Red,No Backpack,Black Pants,Blue Sunglasses,Remnant3,Raincoat,Sub Machine gun,15/01/2022 17:49:44
 1908,25,2930,0,https://magiceden.io/item-details/hkyUJdZA3V64hmEjgjBGhwt39GmLw2tgytAYKo98miv,Light Grey,No Backpack,Black Cargo Shorts,Red Cap,Remnant1,White Hoodie,Bloody Katana,15/01/2022 18:00:19
 1928,11,2925,62.27,https://magiceden.io/item-details/7UtVYSBaxyebcNAyVjtf7Pqi2XDhFLQ71NVJFn1zdWLJ,Green,No Backpack,White Cargo Shorts,Black Hair,Remnant1,Blue Puffer Jacket,Bloody Axe,08/01/2022 19:14:37
+1937,10.5,817,88.7,https://magiceden.io/item-details/BFc9KBFn2X5KuwLSHptQ42tFqeqvbQfjmRUkir6riyEs,Dark Grey,Green Backpack,Tan Cargo Shorts,Black Balaclava,Remnant2,SOL Hoodie,Torch,08/01/2022 18:01:16
 1963,14,2698,34.57,https://magiceden.io/item-details/6PCHAYFWbMkLHnfnd7XtEHNVtZeFw9Qc5KhKVdYK7vbd,Orange,No Backpack,Black Cargo Shorts,Blue Cap,Remnant1,Raincoat,Battleaxe,15/01/2022 18:00:15
 1963,17,2698,4.57,https://magiceden.io/item-details/3HMdbziEkcP8QNYYDXRVWbQYfy9zNVvEPPQF7vjJKTze,Orange,No Backpack,Black Cargo Shorts,Blue Cap,Remnant1,Raincoat,Battleaxe,15/01/2022 18:00:15
 2089,13.5,100,65.98,https://magiceden.io/item-details/6GHLsxPh3AAHBsMXNgKz7ZQVjbRoxVv4Kd97PREEs9fi,Dark Grey,Black Backpack,Black shorts yellow crocs,Pirate Hat,Remnant2,Red Shirt,Bloody Battleaxe,15/01/2022 18:00:02
-2097,10.48,1986,77.01,https://magiceden.io/item-details/Dh4NvLkkYTdgW3jyX5RjhnGgGw1aiBrdj1Kq485yb5Yj,Orange,Brown Backpack,Cargos,Red Sunglasses,Remnant2,Black Hoodie,Katana,15/01/2022 18:00:14
-2108,18,1232,9.48,https://magiceden.io/item-details/GQ6gzKcw7tCmdUDJ5AZLoUVkn1rEaH1LDtdmYYXURiBV,Yellow,No Backpack,Tan Cargo Shorts,Blue Mask,Remnant3,Red Hawaiian Shirt,Bloody Knife,15/01/2022 17:46:34
+2108,16,1232,29.48,https://magiceden.io/item-details/GQ6gzKcw7tCmdUDJ5AZLoUVkn1rEaH1LDtdmYYXURiBV,Yellow,No Backpack,Tan Cargo Shorts,Blue Mask,Remnant3,Red Hawaiian Shirt,Bloody Knife,15/01/2022 17:46:34
+2111,10.5,1587,80.87,https://magiceden.io/item-details/9KLT46xmSWpRPhVJJhuRwTwuLfdUMyXY1Fqk4LWdaRcM,Purple,Green Backpack,White Cargos,Blue Cap,Remnant1,Fur Coat,Bloody Battleaxe,15/01/2022 18:00:55
 2130,12,3226,49.21,https://magiceden.io/item-details/2K91K2DWbqVF3CvHmJtChVNmfmNgEPgB3SJhpYWKvoug,Light Grey,No Backpack,Black Pants,Red Bandana,Remnant2,Black Trenchcoat,Red Flare,22/12/2021 18:02:27
 2154,20,3431,0,https://magiceden.io/item-details/Avr5uYALpdYkSfSWvp4VpzJVoTZzPriw749zoQefjuEU,Purple,No Backpack,White Cargo Shorts,Red Beanie,Remnant1,White Hoodie,Metal Spear,15/01/2022 18:00:00
 2170,25,3208,0,https://magiceden.io/item-details/9STMXM1dHmxDpgq7NiYDLBTJ8mXBRb7v7AGp5b8jEDF5,Green,No Backpack,White Cargo Shorts,Yellow Sunglasses,Remnant3,Black Hoodie,Bloody Sword,08/01/2022 18:01:16
 2239,69,705,0,https://magiceden.io/item-details/6uKGBsycjDV9NVBDvpnLHjrSk5ehx415hAJpehDkDrea,Green,No Backpack,White Jeans,Green Helmet,Remnant3,Blue Sport Jersey,Flaming Sword,15/01/2022 18:00:25
 2263,13,2597,45.6,https://magiceden.io/item-details/4yFeQhXQ1ofirL9SvLFwnkr4PKrbjn6TFup87AaT7AVm,Green,No Backpack,White Cargo Shorts,Grey Winter Hat,Remnant1,Black Hoodie,Knife,08/01/2022 18:01:38
 2266,60,10,0,https://magiceden.io/item-details/B4XSnGh36BhMvtquHxQzTQcUJ48oJxdi249mBUWaXcrJ,Grey,Contestant,Contestant,Contestant,Contestant,Contestant,Contestant,15/01/2022 17:38:36
-2340,10.4,2193,75.71,https://magiceden.io/item-details/7fCxkcgPHxKe2aZSSd4z6zmqZsYLneAfo7tA2qZhfnjX,Green,Black Backpack,White Cargos,White Beanie,Remnant3,Grey Hoodie,Battleaxe,08/01/2022 18:01:11
 2363,11.5,991,76.93,https://magiceden.io/item-details/DW52TD91G4rQUHqqQ6gqcWGywEfwC57d5KorD5dLUZ1r,Green,Green Backpack,Black Cargo Shorts,Black Mask,Remnant3,Black Hoodie,Alcohol Bottle,08/01/2022 18:02:05
 2375,12.5,173,75.24,https://magiceden.io/item-details/8sDsWEncWhiYPseNgtxp3XqgMdAakSpbJVP77cwTRYEj,Dark Grey,Green Backpack,Tan Cargo Shorts,Red Sunglasses,Remnant2,Blue Denim Jacket,Blue Lightsaber,15/01/2022 17:46:44
 2398,23.2323,827,0,https://magiceden.io/item-details/5GszQRBVDYQ2kAHtPHY9vrq9fN9f4gYLuEdFvYrJygMg,Yellow,Brown Backpack,Black Shorts,Blue Cap,Remnant2,Red Sport Jersey,Alcohol Bottle,15/01/2022 19:15:24
-2408,25,763,0,https://magiceden.io/item-details/8C7gvLSce6chHTSS2BCEcjarJ3Hrpf8wEv3PqDgSzcPZ,Orange,No Backpack,Cargos,Grey Winter Cap,Remnant1,Red Hawaiian Shirt,Scythe,15/01/2022 18:01:04
-2411,12,3570,45.71,https://magiceden.io/item-details/7XftntXFw13ScJKr6T9Y1uiBvBctRotQtdwV6DnzqSZs,Light Grey,No Backpack,Cargos,Grey Bandana,Remnant1,Green Jumper,Blue Flare,22/12/2021 18:01:49
+2408,17,763,24.24,https://magiceden.io/item-details/8C7gvLSce6chHTSS2BCEcjarJ3Hrpf8wEv3PqDgSzcPZ,Orange,No Backpack,Cargos,Grey Winter Cap,Remnant1,Red Hawaiian Shirt,Scythe,15/01/2022 18:01:04
 2431,42.42,1099,0,https://magiceden.io/item-details/HfTfUmW46Q5j9xoYTcCvphQXQfN8cEm7KtBYFLNPCXQ1,Dark Grey,No Backpack,White Pants,Black Mask,Remnant2,Fur Coat,Scythe,15/01/2022 18:00:17
 2521,10.44,3247,64.59,https://magiceden.io/item-details/7JPsGJoJjtE9Cvu3XeHNPKxy1z2vQkq5DHsydrHKAKYQ,Dark Grey,No Backpack,Cargos,Black Hair,Remnant1,Blue Hoodie,Alcohol Bottle,22/12/2021 18:02:36
 2549,10.9,978,83.06,https://magiceden.io/item-details/Avdt3JdamocBQeVExD2ssZc8UB6eCP4J2WoWUbMmgfSc,Yellow,No Backpack,Cargos,SOL Sunglasses,Remnant1,Blue Hoodie,Chainsaw,22/12/2021 18:04:50
 2578,50,3417,0,https://magiceden.io/item-details/2ehh2TQREyPKpebEqwD7GZGCGNpJxhwh2A3KtSc9vruM,Green,No Backpack,Cargos,Green Cap,Remnant2,Blue Puffer Jacket,Sword,22/12/2021 18:31:45
-2603,13,1671,55.01,https://magiceden.io/item-details/3gP8u1oHbr1paPGzxAGSFfqykbVXU7svbznhLQazcZ9m,Purple,Green Backpack,Black Cargo Shorts,Grey Bandana,Remnant3,Green Puffer Jacket,Bloody Boomerang,15/01/2022 18:00:56
 2621,19,239,9.57,https://magiceden.io/item-details/ApUUmFmgbGk2kz4UGqL6rv6cQLatibnzmP943okePK9c,Yellow,Green Backpack,Black Shorts Green Crocs,Blue Cap,Remnant1,Blue Hoodie,Grenade Launcher,08/01/2022 19:13:07
 2622,12,348,78.46,https://magiceden.io/item-details/FQGNBjxVVsnL8BRrTroJTFaiYuuka22eYa1C86r83Hsn,Light Grey,Green Backpack,Black Cargo Shorts,Blue Mask,Remnant3,Red Shirt,Bloody Katana,22/12/2021 18:11:50
 2632,33.33,1576,0,https://magiceden.io/item-details/EQo7twvzaSiN82PD8JVSkjoBZtboZLLQYHiG2gpBD5UK,Purple,No Backpack,White Pants,Yellow Sunglasses,Remnant1,Blue Hawaiian Shirt,Pistol,15/01/2022 18:00:14
 2661,17,1689,14.83,https://magiceden.io/item-details/HSrkxWxWfJTV3BBEM8e4mNBNBEzi5cPLdSLE6cd6aUeZ,Green,No Backpack,SWAT Pants,Black Beanie,Remnant3,Blue Shirt,Blue Flare,15/01/2022 17:47:29
 2674,49,2798,0,https://magiceden.io/item-details/5WDScjyKdnsuTSAvqFvWccRtRDPH1KXr6Y2sKroTGQ6T,Blue,No Backpack,Black Shorts Green Crocs,Black Hair,Remnant1,Yellow Shirt,Green Flare,08/01/2022 18:01:38
 2693,23,900,0,https://magiceden.io/item-details/FTy3hHxVXigYrHB6J9ZYsqtCcSuofLsmSP4yNq1ACAYa,Red,No Backpack,Black Shorts Green Crocs,White Mask,Remnant3,Black Hoodie,Knife,15/01/2022 18:00:32
-2786,12,3231,49.16,https://magiceden.io/item-details/BYdeY5eD6EbKz67Gp41YbNdNT5UH1dRx9RbLBJTmtenB,Green,No Backpack,Cargos,Black Helmet,Remnant2,Black Shirt,Bloody Metal Bat,22/12/2021 20:17:50
+2842,10.5,2862,67.91,https://magiceden.io/item-details/DtQtms78nRdL112YfSybXtvNfCN26XH4CeiPLdVFezKg,Purple,No Backpack,Cargos,Pirate Hat,Remnant1,Red Shirt,Knife,15/01/2022 18:00:40
 2861,15,383,48.11,https://magiceden.io/item-details/A1RyWLBcHXDghJezRWAo93XAD9xawR2xybuKr4a2F42q,Red,Brown Backpack,Black Pants,Black Helmet,Remnant3,Blue Denim Jacket,Scythe,15/01/2022 18:00:55
 2864,21,2562,0,https://magiceden.io/item-details/HxCsx1HMfWCXvMhkeeFMDbi84n9gFdk2RgBLECfV6Aua,Green,Brown Backpack,White Cargos,Green Beanie,Remnant2,Red Shirt,Axe,15/01/2022 18:00:20
 2915,15,2757,23.97,https://magiceden.io/item-details/EDQWrWjToKPgQLvYf6Ty6x1WQ3Aykqox3xxM7F9r72sS,Orange,No Backpack,White Pants,Blue Cap,Remnant1,Raincoat,Katana,08/01/2022 19:14:20
@@ -108,8 +106,11 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Backpacks,Bottoms,Headgear
 3018,12,3406,47.38,https://magiceden.io/item-details/HTSXbcvSx1aTzua4R8g9BTVwtzSe3cXTiqbgwiZY3VKf,Light Grey,No Backpack,Black Pants,White Beanie,Remnant2,Red Sport Jersey,Torch,15/01/2022 18:00:32
 3073,16.2,3775,1.63,https://magiceden.io/item-details/43BH5zZuWNDJXFku5MDgqHfypxk42S4FsL7fLzMigEDc,Light Grey,No Backpack,Black Jeans,Blue Beanie,Remnant1,Blue Shirt,Green Flare,15/01/2022 18:00:36
 3084,22,2058,0,https://magiceden.io/item-details/3vVgfhRTcunFg4MkpqCzakuU6bLm89fH4Z2AWiC8iEjA,Orange,No Backpack,Cargos,Brown Hair,Remnant2,Green Jumper,Sub Machine gun,08/01/2022 19:24:13
+3138,23,1302,0,https://magiceden.io/item-details/D3QjKh7DnnbxMU2f5dfMiyGDXhJ9R7qqGoTxqDHKT1ow,Dark Grey,Green Backpack,Black Pants,Black Hair,Remnant2,Red Denim Jacket,Metal Spear,15/01/2022 18:00:25
 3151,16.63,1527,20.18,https://magiceden.io/item-details/3CxjSncBZsm3EsNVqaZVdTLHrJerTn14KrjdTeK7FDGJ,Green,Black Backpack,White Pants,Brown Hair,Remnant3,Brown Jumper,Katana,15/01/2022 18:00:15
 3160,10.8,688,87.01,https://magiceden.io/item-details/DGGAL7ZMdZNumCMfgFUH18wXzATRcg8XsVuFZoe6gCJz,Purple,Brown Backpack,Cargos,Blue Sunglasses,Remnant3,Black Hoodie,Chainsaw,22/12/2021 18:00:49
+3176,11.5,405,82.88,https://magiceden.io/item-details/EkTapiraLUefErHm6Ctq6T5DpiVnoEfjq1cBoFHHSwRi,Blue,Green Backpack,Grey Cargo Shorts,Teal Bandana,Remnant3,Red Denim Jacket,Knife,08/01/2022 18:00:54
+3184,10.5,3585,60.56,https://magiceden.io/item-details/B1a38WZugDfGNhe4E99c4FmwvqpruijdtHx2Bh4PxoXn,Light Grey,No Backpack,White Jeans,Blue Cap,Remnant2,Red Sport Jersey,Wooden Spear,08/01/2022 19:13:57
 3201,46,2604,0,https://magiceden.io/item-details/AS1BYdvU7CNjhXQQDYU2xbcEFB1BuFpvqxdniZTWCc47,Yellow,No Backpack,White Jeans,Blue Mask,Remnant2,Red Shirt,Knife,15/01/2022 18:01:06
 3240,14.9,1837,34.33,https://magiceden.io/item-details/8r3FrEzWL6mRXGvSHJzVQ9B5rraK1PVFyMNEdRdyQrmA,Yellow,Black Backpack,Black Shorts,Sheriffs Hat,Remnant3,Blue Hoodie,Torch,15/01/2022 18:00:22
 3260,200,3498,0,https://magiceden.io/item-details/GcjY6kGmkT5MRg7c2EnMTfyYcikMbspdbG9aJ7UuxSyF,Blue,No Backpack,White Cargos,Green Helmet,Remnant2,Black Hoodie,Red Flare,15/01/2022 18:00:30
@@ -127,11 +128,13 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Backpacks,Bottoms,Headgear
 3610,20,3138,0,https://magiceden.io/item-details/pJhN7F3TDe4YUJQdccAUM6VKq4ouc8wWMCSSFZqT7yV,Red,No Backpack,Black Jeans,Grey Bandana,Remnant1,Red Denim Jacket,Metal Spear,15/01/2022 18:01:03
 3689,55,3183,0,https://magiceden.io/item-details/ECSSEQbyWWX1cwuKTHm51dnjtmJgS91ok2V4RP5xMWFf,Purple,No Backpack,Black Shorts,Grey Bandana,Remnant3,Brown Jumper,Bloody Battleaxe,08/01/2022 18:05:03
 3704,17,469,27.23,https://magiceden.io/item-details/8Tmhd99v8ZvMuEKFTf2SLAESdZDVKiFa3hSJtSa3eCsy,Orange,Brown Backpack,Black Jeans,Green Beanie,Remnant3,Blue Trenchcoat,Nailed Wooden Bat,15/01/2022 17:46:21
+3717,14.39,3477,22.76,https://magiceden.io/item-details/4CdBbaPnUzYGZdN2571uGtfj8BuLfstq6sLrAR93eVYA,Yellow,No Backpack,White Cargos,Blue Beanie,Remnant2,Green Jumper,Axe,15/01/2022 18:00:36
 3722,11,2263,69,https://magiceden.io/item-details/AmpFWW6o1pkY7yZC7i52NTWdBBfQXrnZqJuQZcMD5MNS,Yellow,No Backpack,White Cargo Shorts,Green Helmet,Remnant1,Blue Hawaiian Shirt,Knife,15/01/2022 17:46:32
 3750,14.899,3677,15.63,https://magiceden.io/item-details/7uhQ2w8PWiL5e81RFxmYKKNR8hNVuehcC44oY89FWXLg,Dark Grey,No Backpack,Black Shorts,Red Bandana,Remnant2,Red Shirt,Torch,15/01/2022 18:00:48
 3844,14,2932,32.2,https://magiceden.io/item-details/5AQLC92ZM2uy6baqy87gjP6cCcKi1Xb2Tj4f6RhzUuuy,Green,Black Backpack,White Jeans,Black Beanie,Remnant3,Yellow Shirt,Red Flare,15/01/2022 17:46:42
 3870,15,2075,30.91,https://magiceden.io/item-details/3Q2ksdJ1TPavP9fTnFFS6cQLWpuj63aMK2WQaYX7uJS3,Orange,Black Backpack,White Jeans,Red Cap,Remnant3,Red Shirt,Pistol,22/12/2021 18:03:29
 3882,13,2985,41.66,https://magiceden.io/item-details/FGrE6XQBFAgSkgEz7Tj4B6SnMSQf82btW1XqKBooDiyj,Light Grey,No Backpack,Black Shorts,Motorcycle Helmet,Remnant1,Green Puffer Jacket,Torch,15/01/2022 18:00:02
 3900,45,30,0,https://magiceden.io/item-details/6aZRVUuS3e5gNhSZRM6MY4jHV4BiS7dyfgBSjjUsbR6p,Yellow,Brown Backpack,Grey Cargo Shorts,Pirate Hat,Remnant2,SWAT Jacket,Bloody Axe,08/01/2022 18:00:44
+3944,20,3418,0,https://magiceden.io/item-details/A6YV52AZdND5DQaVK7zdSTEJHBE2G4t4C2YttxFAnteW,Light Grey,No Backpack,Black Shorts,Green Helmet,Remnant1,Red Shirt,Red Flare,15/01/2022 17:46:15
 3968,13,3787,33.5,https://magiceden.io/item-details/7DSLJL7pXPXQwmv27PfyoDrZb9q8dQwhtjJpEkixrgAB,Orange,No Backpack,Black Jeans,Black Helmet,Remnant1,Grey Hoodie,Wooden Spear,15/01/2022 18:00:43
 3974,16,2629,15.28,https://magiceden.io/item-details/5NnjdQPDBYVCKXSJmDzUnR5qgDEP2NcMdEpb3Yb6YULd,Blue,No Backpack,White Pants,Grey Hair,Remnant2,Blue Hoodie,Metal Spear,15/01/2022 18:00:11
