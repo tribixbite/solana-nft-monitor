@@ -18,7 +18,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 237,8,67,27.26,https://magiceden.io/item-details/EQtBy6EdLvyqBcfYmVqFz3jyNhBkSi9TFxAaCCF7nqj7,Rebel Bandana,Blue,Pirate,Yellow,Skull & Bones,Earthquake,Grey Skull,Wide Smile,Reptilianus
 254,2.7,2010,58.78,https://magiceden.io/item-details/HU64sFxcZ1jLgipQUzkSTbMGQ7YTiQa8cbtyJmjbyXjR,None,Taj Mahal,Black Cloak,Air,Golden Circle,Fatima,Owl,Normal,Human Dark Skin
 259,33,3,0,https://magiceden.io/item-details/Bx34x4agqsLiGaULBAiagHNHZ2f7dUrNaf4mRHmQyDnn,Anonymous Mask,Red Brush,Suit,None,Golden Circle,Robot Red,Navigator,None,Faceless
-262,0.95,436,93.68,https://magiceden.io/item-details/4YbY1hWXWaG6UFHKhacWvM9H6amiFyAzW7g2HLQVpDxR,Small Roundglasses,Taj Mahal,Reaper,Yellow,House of Degen,Earthquake,Radar,Normal,Reptilian Dino
+262,1.39,436,89.28,https://magiceden.io/item-details/4YbY1hWXWaG6UFHKhacWvM9H6amiFyAzW7g2HLQVpDxR,Small Roundglasses,Taj Mahal,Reaper,Yellow,House of Degen,Earthquake,Radar,Normal,Reptilian Dino
 312,1.5,2606,64.2,https://magiceden.io/item-details/8YVpxnLgKYdKV1jvFWSLajRtiF9N6XZ3aPiGaDuq9eqH,None,District Spaceship,Brown Mage,Ice,Skull & Bones,Gender,Crucifix,Sad,Human Dark Skin
 328,5,3160,23.07,https://magiceden.io/item-details/3kf7QTsqncwNMaDJDbxTV3hSot5V1uAADmV3RzW7dt8C,None,Pyramid,Brown Mage,Devil,House of Degen,Vertical,Robot Eye Golden,Normal,Reptilian Alien
 346,1.3,2251,70.12,https://magiceden.io/item-details/FqbJYGviStonAPDHSoxx2dnwG12bjMNEbrGoo62tT8Wo,None,Blue Brush,Brown Mage,Sharingan,House of Degen,Red,Robot,Normal,Reptilianus
@@ -160,7 +160,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 1961,2.25,279,82.42,https://magiceden.io/item-details/BwQJpRdgBUHWuWqjgY4F18BAk5bH6xoWASxEqPxTYrFj,Classic Sunglasses,Hell,Reaper,Fire,Skull & Bones,Spiral,Compass,Slightly Smile,Human Light Skin
 1962,2.5,2818,51.85,https://magiceden.io/item-details/AJ7PaUCHfxFjbcqCoRkL4MotWfgcWdVv8VMF4mynXkSk,None,Dark Green,Hoodie,Blind,House of Degen,Red,Navigator,Normal,White Alien
 1968,2,425,83.3,https://magiceden.io/item-details/Cg7CFEPNmva9sgPCN9BnL6LXvjTFK9gNt8T41e7w7tBz,Hannibal Mask,Grey,Napoleon,Blue,Golden Circle,Red,Black Skull,Slightly Smile,Human Light Skin
-1975,5,537,52.06,https://magiceden.io/item-details/DSoAqRyLgjRBQZLtnupLAtwYvWvgcRy5t8bzWeRuXHmi,Surgical Mask,Beige,Suit,Devil,Golden Circle,Gender,Compass,Sad,Reptilian Alien
 1993,4.39,685,56.53,https://magiceden.io/item-details/7RPY61CKvh2cXwdiAA8K9q34MMawHMcS6XNxqoKfpo9u,Small Roundglasses,Tokyo,Hoodie,Blue,Golden Circle,Red,Owl,Wide Smile,Human-Tan-Skin
 2011,6.66,195,39.24,https://magiceden.io/item-details/6rLRUYQEr9cqkdzWim6GjL26KgavS3axhGXbh8gUHoXa,Classic Sunglasses,Red Space,Black Cloak,Elder,Skull & Bones,Earthquake,Gold Skull,Normal,Elder
 2023,2.05,2799,56.56,https://magiceden.io/item-details/7rnCLMfRMnqHUGm8xV5WvnXKkHjGcsYJfG8doVS8hGBN,None,Rio Favela,Brown Mage,Green,House of Degen,Vertical,Pyramid,Slightly Smile,Human-Tan-Skin
@@ -204,6 +203,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 2479,2.5,637,75.96,https://magiceden.io/item-details/AAbGzoH4EANzBDsr3qPYJPfFPwcYavoWiE3JpizB3xpn,Surgical Mask,Rio Favela,Suit,Devil,Golden Circle,Sauron,Grey Skull,Sad,White Alien
 2495,1.6,2334,66.2,https://magiceden.io/item-details/9jf2A3QWW7MyWfwTXFDmt4mjvdCqwiLeuKQumtz9fSV5,None,Taj Mahal,Solana Hoodie,Blue,Golden Circle,Vertical,Gold Skull,Smile,Human Light Skin
 2508,2,2311,62.46,https://magiceden.io/item-details/7BqgqUzQvsrGp38k4fuaZED1Q36nihYSQrTdYP7WRPaY,Normal Glasses,Rio Favela,Suit,Green,House of Degen,Red,E Crucifix,Neutral,Human-Tan-Skin
+2549,1.094,337,93.34,https://magiceden.io/item-details/MH4B3V8DCgAJn3rRenoYKM9MJFYExnrbYmu6HggJzFc,Normal Glasses,Dark Green,Napoleon,Earth,House of Degen,Earthquake,Gold Skull,Smile,Human Light Skin
 2555,1.85,2525,61.59,https://magiceden.io/item-details/6e3KTppydeEtKApAyYhXJ5azxMrRHATPuGFq6DqBQMHY,None,Blue Brush,Hoodie,Devil,Skull & Bones,Black,Gold Skull,Smile,White Alien
 2560,1,2335,72.19,https://magiceden.io/item-details/F97HhYxHgS5713BskLnCaRQ16XAxcxcCfo5peGUkBw2L,None,Hell,Brown Mage,Demon,House of Degen,Red,Black Skull,Normal,Blue Alien
 2611,2.29,662,77.78,https://magiceden.io/item-details/74dK64wy7v9RzHBxeY4WopDamvpNXp3w5AahpMA7Jbxs,Normal Glasses,Beige,Napoleon,Water,Golden Circle,Sauron,Compass,Neutral,Human Light Skin
@@ -254,6 +254,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 3213,3.99,640,61.03,https://magiceden.io/item-details/4a7rMmVvDwbctfHfGdYejLctEnp3cPeLfJp6hnCMxdCE,Rebel Bandana,Hell,Suit,Devil,Skull & Bones,Robot,Gold Skull,Slightly Smile,Reptilian Alien
 3230,1.06,1467,81.19,https://magiceden.io/item-details/H8haZCcy6ehnx4fjkeZSrkA2expUSYi8UsGD3673vHWV,None,Red Brush,Sailor,Green,Golden Circle,Black,Compass,Wide Smile,Human Dark Skin
 3298,2.1,1247,73.22,https://magiceden.io/item-details/3cb2jv1KDHRYcPphV4k4w3SKMvgj1U8j8d8jG5djHpCH,Small Roundglasses,Pyramid,Red Cloak,Devil,House of Degen,Black,E Crucifix,Neutral,Human-Tan-Skin
+3300,0.8,3018,66.64,https://magiceden.io/item-details/B3Xf7wEj6j8x4MDz4DRtax2Y5obL5Y6YiSmP8t1YuKvE,None,New York,Red Cloak,Brown,Golden Circle,Robot Grey,None,Normal,Human Dark Skin
 3360,1.6,1896,71.04,https://magiceden.io/item-details/7ADG1U57BiZGHaucmPPsGg7wVuP1DSYGpbVBbSuvxCqa,Classic Sunglasses,Hell,Hoodie,Devil,Golden Circle,Vertical,Robot Eye Golden,Sad,Reptilianus
 3399,2.5,2608,54.17,https://magiceden.io/item-details/BQ52u3iBRNjepK1sonWC9FrsbVFugf1eDd56LdZHpYEE,None,Tokyo,Brown Mage,Ice,Golden Circle,Robot Grey,Navigator,Sad,White Alien
 3400,1.65,939,81.12,https://magiceden.io/item-details/6736Ngg2YHzb99Bghj8jcbFKUi4bYcnytFjk1kG5UQgq,None,Beige,Army,Yellow,Golden Circle,Fatima,Grey Skull,Sad,White Alien
@@ -272,6 +273,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 3559,1,669,90.61,https://magiceden.io/item-details/FMjTVosN4DKu659g2U955sDA65PXo9NUmHp9ZGbismjb,None,Taj Mahal,Black Cloak,None,House of Degen,Robot,Grey Skull,None,Faceless
 3567,3.49,569,66.81,https://magiceden.io/item-details/4oNeQL6A6CTLDwsRSrhRy9SPP2mic4JemBxpjfiHXazD,Normal Glasses,Hell,King1,Blue,House of Degen,Gender,Owl,Sad,Human Light Skin
 3573,2,944,77.57,https://magiceden.io/item-details/2o9jWFZyHV9gtwfVCETKmNb4cGpdD66zKAKoQBsF3wGd,None,Beige,Kimono,Brown,House of Degen,Ice,None,Neutral,Human Light Skin
+3637,1.49,439,88.25,https://magiceden.io/item-details/3ffjEhUN4MyKkE1NXZUq5CwPauVqbK88df9LL676F2yp,Normal Glasses,Dubai,Armour,Sith,House of Degen,Black,Radar,Neutral,Human-Tan-Skin
 3648,2.25,310,82.07,https://magiceden.io/item-details/Bn7cw7jLM9fjuKezvrura2mENKKSAYAc4Hs7aL4YEb7r,None,Beige,Pimp,Blue Cyborg,House of Degen,Ra,Black Skull,Slightly Smile,Human-Tan-Skin
 3650,5.22,62,55.11,https://magiceden.io/item-details/13Rk2AkG8TzgbMgSG3pLhhpSXEE2rRxygRJMkeanZFYj,Skull Bandana,Tokyo,Brown Mage,Brown,House of Degen,Water,E Crucifix,Sad,Human Dark Skin
 3657,7.5,591,26.47,https://magiceden.io/item-details/8nt6tRxd1fJnW4ouq2rjifASUNtXX3Sm784stWQVntAA,Classic Sunglasses,Grey,Academic,Sith,House of Degen,Gender,Crucifix,Normal,Human Dark Skin
