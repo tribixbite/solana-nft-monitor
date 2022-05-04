@@ -5,7 +5,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 21,11.1,4226,34.57,https://magiceden.io/item-details/5iouK3KTqY7gva9yZdUm5zBatUwP9EU34Aa2V3xZDKWw,Purple,Leather Jacket,,Purple - Smirk,Reading Glasses,Trucker Cap,,Burnt Spoon - Smirk,1
 39,17.69,4537,0,https://magiceden.io/item-details/69RF4wS4twA8JzjwKZyD8SweJKYXSGhSbhBnx2Dj8BcY,Purple,Chav Jacket,,Purple - Smirk,No Traits,Boot,,Burnt Spoon - Smirk,3
 58,500,186,0,https://magiceden.io/item-details/2obuLmiAD9Xn3vUk3XuTU4FU45TG4rtoqzDQv481E9EG,Yellow,No Traits,EXILED: Just kidding.,Brown - Smirk,Trash Vipers,Pirate Hat,,Bird Foot - Smirk,1
-94,17.3,690,0,https://magiceden.io/item-details/A4XP5DEnE8UBUM5ZQX6ChCoJ4UUB7YN524BBivMS6Bqg,Yellow,No Traits,RUGGED_COUNT: 2,Brown - Grin,Designer Glasses,Lampshade,,Acid - Grin,1
+94,16.8,690,0,https://magiceden.io/item-details/A4XP5DEnE8UBUM5ZQX6ChCoJ4UUB7YN524BBivMS6Bqg,Yellow,No Traits,RUGGED_COUNT: 2,Brown - Grin,Designer Glasses,Lampshade,,Acid - Grin,1
 98,20,451,0,https://solanart.io/nft/kxb9QXr5kkjf6fwoFdbt9FLQaNDQs4Bmcwk2EDpEg18,Yellow,Bandana,RUGGED_COUNT: 2,Brown - Grin,Trash Vipers,No Traits,,Acid - Grin,6
 119,27,137,0,https://magiceden.io/item-details/D2PkMKSMzCxLRJVsKkrgMgkQyCUvzYA4p6gV11yupETU,Green,Hockey Pads,RUGGED_COUNT: 2,Scarred Green - Grin,No Traits,Takeout,,Dirty Fiat - Grin,1
 121,181,71,0,https://solanart.io/nft/7F28eqnwN8DrgCZJahpUHV8BznWh3njrbXzA1bxR8cSC,Red,Bumbag,PSYCHOLOGICAL_TRAUMA_LEVEL: Medium,Red - Smirk,Designer Glasses,The Gambler,,Cigarette - Smirk,5
@@ -74,7 +74,6 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 934,20,5663,0,https://solanart.io/nft/J6VoboaZH98ojLkL5x8SJnqRJwzEgagrFnY64bQazLg6,Blue,Fishing Vest,,Blue - Grin,No Traits,Colander,,Bone - Grin,5
 986,35,112,0,https://magiceden.io/item-details/95Zdb4WiTrgPXqQiHhSQHCaCZ2Jddwcte7dVTci3e1zN,Red,Overalls,MONOLIFF?: Mono-LEAF!,Red - Smirk,Designer Glasses,Paint Can,,Rat Tail - Smirk,6
 993,6.69,8562,66.43,https://magiceden.io/item-details/GKDNAP196h8wN8Qr8SpVTWqfYGZYFT6rJhad9EJubq22,Black,Xmas Sweater,,Scarred Black - Smirk,No Traits,Colander,,No Traits,1
-1018,44,178,0,https://magiceden.io/item-details/CWW9cMic4PkWZHW7mj81QP2vHJgCdhsC8zc9Tfi7wTj7,Red,Chav Jacket,TELL_ME_A_JOKE: Mint Date,Red - Grin,No Traits,Pirate Hat,,Lollipop - Grin,6
 1066,11.95,4770,24.54,https://solanart.io/nft/3qXRKoYJecaf9aRSPcnCaCvUoxUGv7vYZs3cAsAY6PWN,Purple,Dress Shirt,,Scarred Purple - Grin,Trash Vipers,No Traits,,Bone - Grin,1
 1069,14,3866,6.59,https://magiceden.io/item-details/ASfWShu63YB7MCAHuyZ9phER8JqPSBRowQJQECMpfPcd,Black,Fishing Vest,,Black - Grin,Trash Vipers,No Traits,,Acid - Grin,4
 1076,47.69,1798,0,https://magiceden.io/item-details/7hLCRNEDx659quj5ZkRYNQTc77VsWofm31vSjMHMU4v,Yellow,Degen Service Polo,RUGGED_COUNT: 2,Brown - Smirk,No Traits,Boot,,No Traits,1
@@ -135,12 +134,12 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 1719,12.5,9923,4.49,https://magiceden.io/item-details/C7p3Dy14vMYEsm9ksx5KBisA8oeukUgRwwF3GUjKCqPz,Purple,Football Jersey - Red/Blue,,Scarred Purple - Smirk,No Traits,Beret,,No Traits,1
 1726,25,3268,0,https://magiceden.io/item-details/9ybWJ1aB47bAAPoJNoUKDFqSJCkgs8Am95R7ADUAv9EG,Yellow,Chav Jacket,,Scarred Brown - Smirk,No Traits,Road Cone,,Burnt Spoon - Smirk,1
 1744,89,4029,0,https://magiceden.io/item-details/8xYwkF2V128TEVe8K4GDzb61zE4QeCeC8sQekKNBrTna,Yellow,Bumbag,,Brown - Grin,No Traits,Urn,,No Traits,1
+1761,6.77,3732,79.27,https://magiceden.io/item-details/25CFVDLqJpMkv8fJTNJNmfNuxgq13FutQMFm8RywuQQc,Blue,Leather Jacket,,Scarred Blue - Grin,No Traits,Ice Cream,,Acid - Grin,6
 1766,9.99,6286,39.86,https://magiceden.io/item-details/FHLZxNBv9uFSsNFMdbfyLToQcFiFm3R65PskWN9a6pjZ,Yellow,T-Shirt,,Brown - Grin,No Traits,Tomato Soup,,Lollipop - Grin,1
-1773,69,1232,0,https://magiceden.io/item-details/aYaZ4mMmmgbo7pjk9XKueWEadapnuMpXDKzuq82EUia,Blue,Hoodie,,Scarred Blue - Grin,Trash Vipers,Road Cone,,Bone - Grin,1
 1774,12.5,7150,12.32,https://magiceden.io/item-details/Dr8PqLxHgmEAfhQETNr8wcpH6xg2bTovEvaDtYsKjwgd,Yellow,Turtle Neck,,Scarred Brown - Smirk,Reading Glasses,Pandas Pickles,,No Traits,5
 1777,21,10650,0,https://magiceden.io/item-details/BXJATAa4VhPjEh4hLeM7xpXxfVdYqXMwuSKx5unV6MQB,Red,Degen Service Polo,,Scarred Red - Grin,No Traits,Cardboard Box,,No Traits,6
 1782,38,1086,0,https://magiceden.io/item-details/3XbXoR9ns6URw8frZpcYnwUJxGscMnRw2bDFfdsotKA9,Black,Crayon Farmer,,Black - Smirk,No Traits,Unicorn Headband,,Cigarette - Smirk,1
-1800,8.69,1963,65.06,https://magiceden.io/item-details/3EWtZgMtQVgYZQ19yof23zVmUksXa5hXU7ZNYk3xmLqk,Red,Fishing Vest,,Scarred Red - Smirk,Trash Vipers,No Traits,,War Medal - Smirk,6
+1800,8.5,1963,66.96,https://magiceden.io/item-details/3EWtZgMtQVgYZQ19yof23zVmUksXa5hXU7ZNYk3xmLqk,Red,Fishing Vest,,Scarred Red - Smirk,Trash Vipers,No Traits,,War Medal - Smirk,6
 1812,8.5,7893,50.22,https://magiceden.io/item-details/3i6fSa8Yd4o7F8e3TYdbLT7LH1fsY4DbgEq5iF8V7tf5,Green,Overalls,,Green - Grin,Designer Glasses,Ice Cream,,No Traits,6
 1819,20,906,0,https://magiceden.io/item-details/FeXuUdr5nSsYswmretm4UN1JSN58GL7DcSvB3rWF7GAf,Blue,No Traits,,Scarred Blue - Smirk,Star Glasses,Sock,,Cigarette - Smirk,6
 1824,33,11713,0,https://magiceden.io/item-details/FKpn9NsicqhNgVZ4xYwLbcoYfHpVMVZ3Jxyqq4SYLchD,Purple,Degen Service Polo,,Purple - Smirk,Reading Glasses,No Traits,,No Traits,6
@@ -152,7 +151,6 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 1875,36,7085,0,https://solanart.io/nft/BEJX596cxWbDLBsAoUJ3yjxH5BdJUYq2anhAtGotUTGD,Yellow,Singlet,,Fox - Smirk,No Traits,Degen Service Hat,,Match Stick - Smirk,4
 1876,9.95,9320,31.69,https://magiceden.io/item-details/753851A9knmJ97Rpk1UXHR7GJrbXZrZC6EUySXGerBQ1,Green,Overalls,,Green - Smirk,No Traits,Cardboard Box,,Burnt Spoon - Smirk,2
 1880,20,5351,0,https://magiceden.io/item-details/z4TgoRz77ZkZVH2rxvrC6aU7gkppy6n5kySEm6jDre3,Blue,No Traits,,Scarred Blue - Smirk,Reading Glasses,Trash Lid,,Crayon Shiv - Smirk,6
-1883,5.8,9283,73.3,https://magiceden.io/item-details/BHbFLhCa1DwJWqZ2HtVBLMzPV2LeSJ5jLVtJKD7H3kPn,Yellow,Knitted Vest,,Scarred Brown - Smirk,No Traits,Pot,,Burnt Spoon - Smirk,5
 1916,20,2612,0,https://magiceden.io/item-details/fCC9GGeFB4cpi7odsD9Me5jp49Q1DA54WjsNefRkRsT,Yellow,Fairy Wings,,Scarred Brown - Grin,No Traits,Tomato Soup,,Bone - Grin,6
 1942,6.5,8337,68.97,https://magiceden.io/item-details/59yFe6Jes1DhjnifsRELFAxMTq7M2vKhzEPTmGzMLrQ3,Green,Overalls,,Green - Smirk,No Traits,Pandos,,Burnt Spoon - Smirk,5
 1965,20,4094,0,https://solanart.io/nft/76Wp95wyCU5kmAwZ6nAp1P62ZypmYgd3XX2zw44QuTUG,Blue,Engineer,,Scarred Blue - Smirk,Trash Vipers,No Traits,,Rat Tail - Smirk,4
@@ -171,7 +169,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 2089,99,7127,0,https://solanart.io/nft/B82b1HozuwPziaem6ZKDnbA2PHjHDGeSKvtu8uqfV4HG,Purple,Spacesuit,,Purple - Smirk,No Traits,No Traits,,Burnt Spoon - Smirk,2
 2106,9.95,12692,22.17,https://magiceden.io/item-details/3uLzH6G323YHSUrhMgethd1unpAFk28TuaXDvsF7o8gc,Green,Turtle Neck,,Scarred Green - Grin,No Traits,Plunger,,No Traits,1
 2117,10,6025,40.49,https://magiceden.io/item-details/D7rBdBMdceXvmLbsFkToHqpWS3UgQESP161ZB2hfkVU3,Black,Hoodie,,Black - Smirk,Designer Glasses,Cardboard Box,,Rat Tail - Smirk,5
-2134,9.66,1987,55.29,https://magiceden.io/item-details/6axmELkoEcwETYLStHQem4NrykutXYAVZdAJ3RVxSzXD,Blue,Football Jersey - Red/Blue,,Blue - Grin,Designer Glasses,Ice Cream,,Acid - Grin,1
+2134,9.55,1987,56.39,https://magiceden.io/item-details/6axmELkoEcwETYLStHQem4NrykutXYAVZdAJ3RVxSzXD,Blue,Football Jersey - Red/Blue,,Blue - Grin,Designer Glasses,Ice Cream,,Acid - Grin,1
 2136,13,10333,0,https://solanart.io/nft/2BsrHdnd2j1kcdoDmLTdxhN37cGZZ8qm49FqWER4nSSv,Blue,T-Shirt,,Blue - Smirk,No Traits,Tamberine,,Rat Tail - Smirk,5
 2151,20,2607,0,https://magiceden.io/item-details/5eDektfuVos3pKJKYvbzbW8zorb1xw3bRJmo22HE12nE,Yellow,Knitted Vest,,Scarred Brown - Grin,Reading Glasses,Lampshade,,Acid - Grin,1
 2182,35,9341,0,https://magiceden.io/item-details/7hicQyAt7LAhMH81exx2eHiMiYVztgiJkJgMApvUqEx8,Red,Crayon Farmer,,Red - Grin,No Traits,No Traits,,Bone - Grin,4
@@ -185,6 +183,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 2272,20,3146,0,https://magiceden.io/item-details/Dv2QcK86WKErFXcx9qZeJESV9LcRJdGYUvnjRH3m65wG,Green,Football Jersey - Red/Blue,,Green - Grin,Designer Glasses,Beanie,,No Traits,1
 2291,11.2,1514,41.23,https://magiceden.io/item-details/HcnpMrUTNyCHQpeEu7enZNQc8rL113QAVkzS3kv4hrCT,Black,Slav Jacket,,Black - Smirk,Trash Vipers,Tamberine,,Rat Tail - Smirk,6
 2322,18,3673,0,https://magiceden.io/item-details/8ibjZVyECVKoAKHZX6k7BQzdXoCGHAftBHvePpD8S1R9,Green,Overalls,,Scarred Black - Grin,No Traits,Sock,,Lollipop - Grin,1
+2328,9,4682,54.28,https://solanart.io/nft/qcjT1YcwB2En63HgzdjgGrF7Kq3qgTuGDNPbfhJrYh8,Purple,Fairy Wings,,Scarred Purple - Grin,No Traits,Ice Cream,,Bone - Grin,3
 2335,100,1009,0,https://magiceden.io/item-details/AwmLBn27QVUGxkw9tBbdWXfPQuH5dotvjsa55dqJitFg,Black,Designer Jacket,,Scarred Brown - Grin,Reading Glasses,Lampshade,,Dynamite - Grin,1
 2348,216,4827,0,https://solanart.io/nft/4cgiD7PHrjJPj9dnyKKYn1gmrvAmj7cUTiBZr4nb3SY2,Black,Overalls,,Fox - Grin,Reading Glasses,Lampshade,,No Traits,6
 2358,149,12945,0,https://magiceden.io/item-details/BEdpFDjNW5MqH8RMD5ak7p8pKXjpLpgGZV449uByCofK,Red,T-Shirt,,Red - Grin,No Traits,Degen Service Hat,,No Traits,1
@@ -220,7 +219,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 2700,14.9,2115,2.53,https://magiceden.io/item-details/Epe7ScdQ7wR59NwBF5cLyNE2JqXZ1kLepADtyk8aV7do,Red,Dress Shirt,,Red - Grin,Reading Glasses,Sombrero,,Bone - Grin,6
 2701,30,13085,0,https://magiceden.io/item-details/EATXpZdxKrLB2H9d5eXCReXAEiQJwbYj1zKqz2ZaV4ix,Red,Designer Jacket,,Purple - Grin,No Traits,No Traits,,No Traits,6
 2706,9,13513,29.36,https://magiceden.io/item-details/663WCxpJQtmsm2NbxKDcc9g7wXeePip9qfgRztrHHwRG,Green,No Traits,,Green - Smirk,No Traits,Trash Lid,,Match Stick - Smirk,4
-2713,8,11284,45.65,https://magiceden.io/item-details/6MdU6ySRxS4RpHNpuPsU5RnJPtByEuYXMmye9xbgqTKP,Blue,Chain,,Blue - Grin,No Traits,Pot,,No Traits,1
+2713,7.5,11284,50.65,https://magiceden.io/item-details/6MdU6ySRxS4RpHNpuPsU5RnJPtByEuYXMmye9xbgqTKP,Blue,Chain,,Blue - Grin,No Traits,Pot,,No Traits,1
 2717,13,10369,0,https://magiceden.io/item-details/FVBF1eipP3e3ftjeWAim1gn2UBCVgUyfomemLEQvkcTs,Yellow,Down Jacket,,Brown - Grin,No Traits,Paint Can,,No Traits,5
 2720,10,5114,43.06,https://magiceden.io/item-details/HiptHCvWnsWMyyKqFgiofxHm8M58BgDAkNhY1xQVAdNM,Black,Knitted Vest,,Scarred Black - Grin,Designer Glasses,Sock,,No Traits,1
 2730,55,3725,0,https://magiceden.io/item-details/7qxZfxkpo7a7ULFNmoe3Z88mBeHzpUebQnP5AwVWyTba,Purple,Degen Service Polo,,Scarred Purple - Smirk,Designer Glasses,Trash Lid,,Rat Tail - Smirk,5
@@ -265,7 +264,6 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 3172,25,7916,0,https://magiceden.io/item-details/HyaTk13WXxK961j5bVvK4CnsmZ5wzSPcsBshNhzYQVBZ,Green,Denim Vest,,Green - Grin,Designer Glasses,Pandas Pickles,,No Traits,1
 3199,15,5216,0,https://magiceden.io/item-details/HvdmZT2CbpYXtmLMDczukWXHZqd7Cz6uxRj7CgQo7AbT,Yellow,Knitted Vest,,Red - Smirk,No Traits,Takeout,,Joint - Smirk,6
 3224,29,10374,0,https://solanart.io/nft/J5wPpzP7PSn3Kzm8KVUYAZnVZeedFnZS8daeSX5zLE1y,Black,Denim Vest,,Scarred Black - Smirk,Designer Glasses,Trash Lid,,No Traits,6
-3231,11.5,1814,37.38,https://magiceden.io/item-details/4SgmwWAz5ZWtfx2sZDCet8WHt5MLEbFfnJAnNRv7LWQz,Black,Denim Vest,,Scarred Black - Smirk,Reading Glasses,Beanie,,Bird Foot - Smirk,1
 3234,189,855,0,https://solanart.io/nft/2eFMRu6GkNZfqrDfGu2MWNB3kUuQUmTBRb7yyW8qKyeg,Yellow,Spacesuit,,Scarred Brown - Grin,No Traits,Colander,,Smashed Bottle - Grin,1
 3237,16,10469,0,https://solanart.io/nft/4Bh86asRyMNfjMrF6q3LPwo6f9cSGGnRc43pPwfUMTFC,Black,Chav Jacket,,Scarred Purple - Smirk,No Traits,Trash Lid,,No Traits,2
 3241,55,255,0,https://magiceden.io/item-details/HxfzFeAvjrYWBvuVZAf24Jsbbg8f1Ntrs6Ds2tASCSNz,Yellow,Rain Jacket,,Brown - Grin,Swimming Goggles,Crown,,Bone - Grin,1
@@ -348,7 +346,6 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 4123,25,3286,0,https://magiceden.io/item-details/5a3TYPCR6dQyrwh2zC5z5KpbkJ33FTUmgSY2jUi3tecx,Black,Dress Shirt,,Scarred Black - Smirk,Reading Glasses,Road Cone,,Bird Foot - Smirk,1
 4174,12,9286,11.29,https://magiceden.io/item-details/6F2otowswj9hqFA23iRKEDKdZ32XZUxysW6r1hyUoYcp,Red,Singlet,,Scarred Red - Grin,No Traits,Tomato Soup,,No Traits,1
 4207,20,10486,0,https://magiceden.io/item-details/GTtU7fqzHQXnn53S8cgXKo2SbbWRmzorqmh2zai8V7mT,Green,Singlet,,Green - Smirk,No Traits,Cardboard Box,,Match Stick - Smirk,1
-4212,7.25,8790,60.19,https://magiceden.io/item-details/At45UqqViUatgKdDCQMCmAjkm9ZDacMv1pJ4NkUwiPBh,Purple,No Traits,,Scarred Purple - Grin,Reading Glasses,Tomato Soup,,No Traits,1
 4219,25,6898,0,https://magiceden.io/item-details/6g5ic3QdnnBb7XamG2RdyYt61CU6JC5BkQntynD5UBVV,Green,No Traits,,Scarred Purple - Grin,Swimming Goggles,No Traits,,Bone - Grin,1
 4227,9.7,2796,52.61,https://magiceden.io/item-details/7EihaYEmtDX4RPxRCzQMmmeeRtcLvyaAGHv3k8Wpnnkf,Yellow,T-Shirt,,Brown - Smirk,Swimming Goggles,Degen Service Hat,,Match Stick - Smirk,2
 4234,10,9993,29.29,https://magiceden.io/item-details/8tCu5uA7NVwHknd2CndmQJCboSzGmCKTNLgA51HCYyF2,Purple,Open Shirt,,Purple - Smirk,No Traits,Tamberine,,Bird Foot - Smirk,6
@@ -474,7 +471,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 5716,20.97,11134,0,https://magiceden.io/item-details/3pKtiw1YSw75BSqtNUXv9YdrAsPTNCxTiWS2nouzGe54,Black,Dress Shirt,,Antique - Smirk,Reading Glasses,No Traits,,No Traits,2
 5723,18.75,12753,0,https://magiceden.io/item-details/4GFhUzMKEXYfbfS6AP5vgLYhdVsqixtMpSp1DUFF478m,Yellow,Singlet,,Scarred Brown - Smirk,No Traits,Plunger,,No Traits,2
 5734,10,11598,24.76,https://solanart.io/nft/6ocra8g65iRN6zNB7EZ3e9qKMwViQkhpRT8UsHc7Sdfz,Blue,Knitted Vest,,Blue - Grin,No Traits,Colander,,No Traits,2
-5743,15,2512,0.41,https://magiceden.io/item-details/CBpdqiBo1NLhHNDwRt4sEZVbrFagedyf8SDBjyhrtFxa,Yellow,Turtle Neck,,Scarred Brown - Grin,No Traits,Sombrero,,Smashed Bottle - Grin,3
+5743,13,2512,20.41,https://magiceden.io/item-details/CBpdqiBo1NLhHNDwRt4sEZVbrFagedyf8SDBjyhrtFxa,Yellow,Turtle Neck,,Scarred Brown - Grin,No Traits,Sombrero,,Smashed Bottle - Grin,3
 5749,25,1657,0,https://magiceden.io/item-details/Gx2SnYVcZRWYuzvZbnmi9rsuA6fPCRSLvse4U2m1kRXC,Black,T-Shirt,,Antique - Smirk,Reading Glasses,Headband,,Cigarette - Smirk,4
 5755,25,8734,0,https://magiceden.io/item-details/DoqMsX72TFq2R1J423jP6Gv7MePivMLPv6UzMyYLUAnG,Black,Football Jersey - Blue/White,,Black - Smirk,No Traits,Sombrero,,No Traits,4
 5761,10,11267,25.7,https://magiceden.io/item-details/FrJiF8TRF3AaiLHFiVSWdb16hX6hjNpVf9U8KRpaioBB,Green,Chain,,Green - Grin,No Traits,No Traits,,Lollipop - Grin,2
@@ -590,7 +587,6 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 6960,10,7536,36.23,https://magiceden.io/item-details/Em1KNuXsuRvdeXuLQASmGihNc9sHzGXqD8sxTTDV6xdi,Green,Bandana,,Green - Smirk,No Traits,Paint Can,,Crayon Shiv - Smirk,3
 6976,35,10785,0,https://solanart.io/nft/T226u8n7hLqW9PS6tqhtvBBaGA1HwkjYNkqq7PXbVVi,Red,Leather Jacket,,Red - Grin,No Traits,Pirate Hat,,No Traits,5
 6980,16,265,0,https://magiceden.io/item-details/2j9SouT9cwUwpsVQqUrgM23TvPSqBCHPTBn1uHoFK61H,Green,Hockey Pads,,Scarred Green - Grin,Star Glasses,Beret,,Cigar - Grin,5
-6986,22,9105,0,https://magiceden.io/item-details/BuKZRUXxpk2a71Bz86CDp89bkQEkCMM89SEhQHcaSJt3,Green,T-Shirt,,Scarred Green - Grin,Trash Vipers,No Traits,,No Traits,3
 6996,12.7,8504,6.5,https://magiceden.io/item-details/7K6aJygtkSa7sKztSs558YDMUXjkdTX1QoPqGqiSa8c6,Purple,Chain,,Purple - Smirk,No Traits,Trash Lid,,Burnt Spoon - Smirk,4
 6999,13,1788,22.45,https://magiceden.io/item-details/6g5oL8JMEA41ZEpffWCeGMjYeGdzQv9Duq6BxgLFBCtb,Green,Toga,,Green - Grin,Reading Glasses,Takeout,,Bone - Grin,5
 7008,12,6150,20.14,https://magiceden.io/item-details/5TB9u2oeXq7suR3z1EknV8ki7tCbLnY1qhtKo2capdtr,Yellow,Hockey Pads,,Scarred Brown - Smirk,No Traits,Beret,,Bird Foot - Smirk,2
@@ -665,7 +661,6 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 7937,11,11018,16.4,https://solanart.io/nft/7P97Zs1s8EhwUgDFDzvrztN3aBTE38eHp4n4wQgxeQo8,Black,Hockey Pads,,Scarred Black - Smirk,No Traits,Road Cone,,No Traits,3
 7944,176,1115,0,https://solanart.io/nft/7wEwiVUK8S1CdTK3NCwLS1voDXxR7V49HHVc6PBQAfpx,Black,Admiral,,Scarred Red - Smirk,Reading Glasses,Boot,,No Traits,5
 7948,13.13,4851,12.51,https://solanart.io/nft/J9fztcd3RBznwnqbRXfkvDfcyp6DJMvDYMrsn9nxJH9L,Purple,Fishing Vest,,Scarred Purple - Grin,No Traits,Pot,,Smashed Bottle - Grin,3
-7949,14.99,2092,1.69,https://solanart.io/nft/GyaL9Wt5PY3jcwxLchVLCUhEfxCrGnAbsBdpnooteF11,Yellow,Hockey Pads,,Brown - Grin,Reading Glasses,Tomato Soup,,Bone - Grin,3
 7950,69.69,8031,0,https://magiceden.io/item-details/FsryKFosadSfpGHNrnHMH5ev7PH5xzKZou9NMTfHa9do,Yellow,Mummy,,Brown - Smirk,Designer Glasses,Cardboard Box,,No Traits,3
 7953,79.53,7046,0,https://magiceden.io/item-details/9xCc4nbJVhUNwFSEhrb413g93q97LapQSycnbqLv6eoT,Black,Dress Shirt,,Antique - Grin,No Traits,No Traits,,Smashed Bottle - Grin,3
 7954,23,8520,0,https://solanart.io/nft/BuWjsx7fhrLYB24F9Mj8paEcrf15EJjBeVa8TXjNGCWL,Yellow,No Traits,,Antique - Smirk,No Traits,Headband,,Bird Foot - Smirk,3
@@ -748,6 +743,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 9149,54.2,3324,0,https://magiceden.io/item-details/134oscM8EJMqnefqH8tc19ysJ9eH4MR8QUnzN79c3wUb,Red,Engineer,,Red - Smirk,Designer Glasses,Pot,,Cigarette - Smirk,3
 9165,15,6568,0,https://magiceden.io/item-details/EZxbbAZYt2ixMkv8FotzNSwqLw5dWELhQ1tvb7tt5zRF,Black,Degen Service Polo,,Black - Grin,Reading Glasses,Takeout,,No Traits,5
 9198,10.5,10341,23.31,https://magiceden.io/item-details/7YHKSHKDe1UHhbjRiwCVWMNTKst1VC9UXRf8DZzTcNa5,Green,Football Jersey - Blue/White,,Green - Grin,No Traits,Boot,,No Traits,3
+9234,269,2502,0,https://magiceden.io/item-details/FVBxqkdGBn7ExBV49mownpijpHY3GneRu9ZaN8dEAV42,Yellow,Hockey Pads,,Gold - Grin,Designer Glasses,No Traits,,No Traits,3
 9241,13,8438,3.68,https://magiceden.io/item-details/4oZho3AEKqu8YjZ6FXgtCsUCTLSSpezaed7CJJ4d77xz,Yellow,Down Jacket,,Green - Grin,No Traits,Boot,,No Traits,3
 9254,22,5333,0,https://magiceden.io/item-details/5Ld6oJNuGkcHwX9uNagxm3xtn55nowreuMyqLgo7EkQb,Black,Turtle Neck,,Antique - Grin,No Traits,Lampshade,,Bone - Grin,6
 9293,269,306,0,https://magiceden.io/item-details/DCra55UBywaZXFHXwUJkcixQ8TYo2d87wyxggheWv4Xv,Yellow,Hoodie,,Gold - Grin,Reading Glasses,Pot,,Dynamite - Grin,6
@@ -837,6 +833,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 10404,60,7599,0,https://magiceden.io/item-details/EE9tX8zkFgf1aQD6vRanc1xQRjxSvSz3MoFpei2ozRrq,Red,No Traits,,Red - Smirk,Reading Glasses,Boot,,Bird Foot - Smirk,4
 10413,15,3352,0,https://magiceden.io/item-details/HwYKj2HMNa971cWUxLuFw3g58NaZkUYn4WCgkoyaDZJZ,Purple,Bumbag,,Purple - Grin,Snow Goggles,Trash Lid,,No Traits,4
 10422,69,1277,0,https://solanart.io/nft/CwpeENcPxiwULnSV2DDjEzyWLp8aeo3AkYEi6Sh6EuqW,Blue,Slav Jacket,,Blue - Smirk,Trash Vipers,Ice Cream,,Rat Tail - Smirk,4
+10442,6.5,7596,71.06,https://magiceden.io/item-details/DDDVuqNbvt2g631f4uRnoBUHXtKgWAq6k9wtBukZQ7NS,Red,Overalls,,Scarred Red - Smirk,Reading Glasses,No Traits,,Match Stick - Smirk,6
 10444,14,5536,1.87,https://magiceden.io/item-details/BcxUgy2Mm3WD7dUfoZ5p9w5vc356od7Pp4JjAfNAoCBU,Red,Fairy Wings,,Red - Grin,No Traits,Pirate Hat,,Lollipop - Grin,4
 10488,14,4500,4.8,https://magiceden.io/item-details/AVXD2SL9nwkZVLTSbSBwMJe6GAbuvSPAgN4PuBfpVJWS,Black,Turtle Neck,,Scarred Black - Smirk,Designer Glasses,Lampshade,,Bird Foot - Smirk,6
 10517,9.3,11214,32.85,https://magiceden.io/item-details/41mgGKXfmXFTBNkkpn4vKuuEpftARygmghtpuTLKES8s,Black,No Traits,,Scarred Black - Grin,Designer Glasses,Takeout,,No Traits,4
@@ -918,7 +915,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 11459,16.42,3067,0,https://magiceden.io/item-details/GwELjuFGdJVYL7uXKEKduWy74nLuw4YPxHR4XqABEJeu,Yellow,Overalls,,Scarred Brown - Smirk,Designer Glasses,Beret,,Rat Tail - Smirk,4
 11485,30,12936,0,https://magiceden.io/item-details/GymZZWKapArvUfP5Xzq8cV2hRYV5eQrwPtxTKSFgsPr8,Black,No Traits,,Antique - Grin,No Traits,No Traits,,Lollipop - Grin,6
 11492,888,4686,0,https://magiceden.io/item-details/3KVqKnsenuQFJSP3evT2EnBFkdqTfebKPugHfTZFBNG1,Black,Spacesuit,,Fox - Grin,No Traits,Trucker Cap,,No Traits,5
-11516,6.5,9753,64.97,https://magiceden.io/item-details/C8jFujLcfgAXDJJmZbiDdKLVyau5LELFHT4U7oWezyeb,Blue,Hoodie,,Blue - Smirk,No Traits,Takeout,,Rat Tail - Smirk,4
+11516,9,9753,39.97,https://magiceden.io/item-details/C8jFujLcfgAXDJJmZbiDdKLVyau5LELFHT4U7oWezyeb,Blue,Hoodie,,Blue - Smirk,No Traits,Takeout,,Rat Tail - Smirk,4
 11557,300,1716,0,https://magiceden.io/item-details/ER5XRt9caEvv6vTXf5KKkmE1szZ6AyA9FhDqaKBukHLh,Red,Spacesuit,,Red - Smirk,Designer Glasses,Trucker Cap,,Burnt Spoon - Smirk,4
 11559,28,1288,0,https://magiceden.io/item-details/5dA6kVWSDSh7x8RbjuHCGhcawfGfPwPFjNpEiCrLdjFH,Green,Mummy,,Antique - Smirk,Trash Vipers,Trash Lid,,Match Stick - Smirk,4
 11576,12.8,3932,18.4,https://magiceden.io/item-details/HEmj4p4tszc3zQDmNLnUVKdiHm4x2oKCxW31s8Cu8QaU,Red,Singlet,,Red - Smirk,Designer Glasses,Pandas Pickles,,Bird Foot - Smirk,4
@@ -982,6 +979,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 12411,12,1893,32.16,https://magiceden.io/item-details/FBxVDADTe8hKFPi8YATYRiwjrQFBQGFBHU5oWSMA6yrF,Purple,Turtle Neck,,Purple - Grin,Trash Vipers,Pandos,,Acid - Grin,4
 12413,9.99,11901,24.01,https://magiceden.io/item-details/AjziSbA6Pb7is2zAXUmwXsNgQBT9H4dYKhhKG4TSRYpS,Blue,Chain,,Blue - Smirk,No Traits,No Traits,,Match Stick - Smirk,4
 12415,2500,1436,0,https://magiceden.io/item-details/6ky7dtP6JYnRd1BK9F8pLWS6vyb152Pn6DUMejWy9WDx,Blue,Chav Jacket,,Acid Trip - Grin,No Traits,No Traits,,Lollipop - Grin,5
+12476,12,5750,21.27,https://magiceden.io/item-details/HHnCxPka3X46zBBSyNsJjDVKo3UpuGgsh28Kh7o2mGwm,Black,Chain,,Fox - Smirk,No Traits,Trucker Cap,,Bird Foot - Smirk,6
 12487,77,14171,0,https://magiceden.io/item-details/6qvra2eFPgxRZY4M1ycAyHanSTLG3uTmo3U9kzZQ3r1N,Green,No Traits,,Green - Smirk,No Traits,No Traits,,No Traits,5
 12521,9,4223,55.58,https://solanart.io/nft/4zqRFjGnL8A6SXFDtMHhxfzQNsSG8SZrtf6rvt5ZdUkf,Blue,T-Shirt,,Blue - Smirk,Star Glasses,Paint Can,,No Traits,5
 12549,18.12369,3753,0,https://magiceden.io/item-details/4HgHLoGLvVP7cryFzmU35rXiNpsxxdYi71mtrfNHTdrn,Blue,Bandana,,Blue - Grin,No Traits,Sombrero,,Acid - Grin,5
@@ -1009,6 +1007,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 12751,15,1287,3.87,https://magiceden.io/item-details/DhffVJ8kcbXa1NXAfbYKX4RoPJvDwD694Xgb3PrExntW,Black,No Traits,,Antique - Grin,Swimming Goggles,Tamberine,,Smashed Bottle - Grin,5
 12760,13,10970,0,https://magiceden.io/item-details/9US7sTLvHZfN5NKaJccjsQLqYN51v3qX4hTYWeCYHHA5,Black,No Traits,,Black - Smirk,Trash Vipers,No Traits,,Match Stick - Smirk,5
 12760,13,10970,0,https://solanart.io/nft/9US7sTLvHZfN5NKaJccjsQLqYN51v3qX4hTYWeCYHHA5,Black,No Traits,,Black - Smirk,Trash Vipers,No Traits,,Match Stick - Smirk,5
+12766,6.77,1539,85.46,https://magiceden.io/item-details/4tKe45XRvtttnEnVjUswBNZNhXPPeVBQGNs2zgYtajua,Yellow,Dress Shirt,,Scarred Brown - Grin,Swimming Goggles,Tamberine,,Bone - Grin,5
 12767,199,11510,0,https://solanart.io/nft/8Qx6RYc4mCwVKvdXyS4CdtQAScuGTyFLA6W8yhDcRu5U,Red,Engineer,,Red - Smirk,No Traits,Beret,,No Traits,5
 12789,15,1551,3.12,https://magiceden.io/item-details/4UkyM74yL61bePjxWnS5Jr1oZnQvySirawLFJ92GtxsE,Black,Engineer,,Scarred Black - Grin,No Traits,Beanie,,Smashed Bottle - Grin,6
 12805,9.48,13835,23.65,https://magiceden.io/item-details/DFnoDNr59PKjTuguvrCCUSpCE6V5vy8sdqUsxWipCBEV,Green,No Traits,,Scarred Green - Grin,No Traits,Plunger,,No Traits,6
@@ -1030,7 +1029,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 12980,25,1257,0,https://magiceden.io/item-details/9wZrL8y2X6fShGNbFY2BCaYfK5cADQzhx8TqjeQc23GJ,Purple,Engineer,,Scarred Purple - Smirk,Designer Glasses,Pot,,Joint - Smirk,5
 12991,150,2730,0,https://magiceden.io/item-details/CtbCMWmM6P7H4d4J4EZj4DzByzeKp6JTzFBDm9s9FdWZ,Green,Engineer,,Zombie - Grin,No Traits,No Traits,,Lollipop - Grin,6
 12998,100,3622,0,https://solanart.io/nft/DcPWybqQceLdR1fSy3fxqMvHT6AtkRcw5Kw4G2ruKRDy,Yellow,Tweed Suit,,Brown - Grin,Designer Glasses,Trash Lid,,No Traits,5
-13006,15,10002,0,https://magiceden.io/item-details/HP25r2ypg2Sj6XshwQkW1weHt26VeQAHQ1Gdyp35S63A,Red,Toga,,Red - Grin,No Traits,Tamberine,,No Traits,5
+13006,9.5,10002,34.27,https://magiceden.io/item-details/HP25r2ypg2Sj6XshwQkW1weHt26VeQAHQ1Gdyp35S63A,Red,Toga,,Red - Grin,No Traits,Tamberine,,No Traits,5
 13009,11,9991,19.3,https://magiceden.io/item-details/7ejvBnaYdYf3rGFpsYkrkvR2DLoJmuLujZW2oC61vm4S,Purple,T-Shirt,,Purple - Smirk,No Traits,Lampshade,,Match Stick - Smirk,5
 13010,17,6162,0,https://magiceden.io/item-details/BZHU719xShhT5d2Aeze7QyHjsZoAv4KPesuXRfYg4t8t,Purple,Dress Shirt,,Scarred Purple - Grin,No Traits,Trucker Cap,,Smashed Bottle - Grin,5
 13015,50,4789,0,https://solanart.io/nft/8StQb8N4Jomkg9e1bcWrGWH5BpjXTWbPoq1szJeubHGN,Purple,Dress Shirt,,Scarred Purple - Grin,No Traits,Steampunk Hat,,No Traits,5
@@ -1102,7 +1101,6 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 14755,100,12312,0,https://magiceden.io/item-details/BPi36UCHEovnqMKxibysEfxP1oExozbw1QgfAtGreoz1,Blue,No Traits,,Blue - Smirk,No Traits,No Traits,,Joint - Smirk,6
 14791,24.200001,10706,0,https://solanart.io/nft/CpNNw2xdmeGC69AqAnv54EySNpz9QnfXsu6ghzJqSCaa,Black,Chain,,Scarred Black - Smirk,No Traits,Belt,,No Traits,6
 14807,22,NaN,0,https://solanart.io/nft/CGN5rav47PGqwxc2KDB8LuRog9fYb7HnBBXxATr3ozQd,,,,,,,,,
-14841,100,NaN,0,https://magiceden.io/item-details/DchdHHqVmAc7ykywdCmSQNuBkHjPu8hiRE5rzRGKbbZX,,,,,,,,,
 14896,20,NaN,0,https://magiceden.io/item-details/BXtDkZw8HhmeicNdfmK4kXZbahV5UenhZjJfqsbQGYr5,,,,,,,,,
 14909,122,NaN,0,https://solanart.io/nft/7B1KCBjYZqyh8PSfj16Wrxa3tcYn5tnwioyp1JizEobX,,,,,,,,,
 14910,18,3323,0,https://magiceden.io/item-details/E8kVuPjDDe4xLBMorJowDJbGLUehVRi6PL6AQbAUZWbe,Green,Slav Jacket,,Scarred Green - Smirk,No Traits,Degen Service Hat,,Cigarette - Smirk,6
@@ -1123,7 +1121,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 15556,29,NaN,0,https://magiceden.io/item-details/6JfoMTSkQKfgRy8Vm2M6GGJxDLSQ1wpo1qpC15s5PDbD,,,,,,,,,
 15633,15,NaN,0,https://solanart.io/nft/HXMkaWcN1yRQxWiLks4NrpP19VeVPgWkFbJ9jydcjRHy,,,,,,,,,
 15643,888,NaN,0,https://magiceden.io/item-details/Ek2wjBcDJXjEujzFTXEPDBn79BszPtuXC57dcXe2PRL4,,,,,,,,,
-15655,9.25,NaN,0,https://magiceden.io/item-details/8KKma2CGA65RhPVYNxL5JufmE1aVKdN4nttADcyVGGSv,,,,,,,,,
+15655,8.75,NaN,0,https://magiceden.io/item-details/8KKma2CGA65RhPVYNxL5JufmE1aVKdN4nttADcyVGGSv,,,,,,,,,
 15664,28.88,8679,0,https://magiceden.io/item-details/H7PxNXmE38TQ2jG9ZxkrqfhezvDGbgxUPaUMZgftCXSr,Black,Denim Vest,,Black - Smirk,Designer Glasses,No Traits,,Cigarette - Smirk,5
 15666,22,NaN,0,https://magiceden.io/item-details/FDFHPKFQts9EPXxE26fDXwpzGbtJ2KUNZc77hYMmus22,,,,,,,,,
 15706,200,NaN,0,https://magiceden.io/item-details/AU3UVihbpQR4mbru76y6qU3vw4EuD5vfZAvbrTw4vfWs,,,,,,,,,
@@ -1146,6 +1144,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 16216,9.99,3814,46.83,https://solanart.io/nft/4Qr5r3hbbMT4XquBquqNoRWmMEcC8GV2RyNwotXrWHrB,Green,Xmas Sweater,,Green - Smirk,Reading Glasses,Plunger,,Match Stick - Smirk,6
 16273,11,NaN,0,https://magiceden.io/item-details/B2781dRyCBuJP7QBqbkwvxjjqRqQznx5YLPZYbrGozK7,,,,,,,,,
 16293,69,NaN,0,https://solanart.io/nft/G8jBjRkPTFnMJ8D8TNeT2uq8tnzVGScq8XswEdGtjN84,,,,,,,,,
+16307,14,NaN,0,https://magiceden.io/item-details/4FWvPEguB32rtAFX1pFhpv3n1DbebPLBv16tj5bcf52U,,,,,,,,,
 16344,9.5,NaN,0,https://magiceden.io/item-details/3WE5ZUkbksMy7v5Vqoxxf6qPDP8DD1yCTdzxFP5h6Yk2,,,,,,,,,
 16345,13.11,NaN,0,https://magiceden.io/item-details/5ugtTwWwy884U1g56TKjZUZZjPYf2ubEJwkddQXVU1ak,,,,,,,,,
 16353,6.4899,NaN,0,https://magiceden.io/item-details/Bp4vsb6wdLCDEeRdEwBZzGmuiyGTBcBMoCnEi5Qayae8,,,,,,,,,
@@ -1225,7 +1224,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 18766,49,NaN,0,https://solanart.io/nft/FEEsiBkY5Mc22J6y5ZNV8EVphBWHvh1Gt62obT6FVim1,,,,,,,,,
 18808,18,NaN,0,https://magiceden.io/item-details/Hd4PLazvoD4wNotwA2wYf6FLR6ggh1751pbjKmXaiRwM,,,,,,,,,
 18847,32,NaN,0,https://solanart.io/nft/Hwv999Hh1s7Gpgxa1bNA7aFfVroLhoDWPpX7d5CDw4Jc,,,,,,,,,
-18903,9.25,NaN,0,https://magiceden.io/item-details/BChwhyRiaE2bX6WoNawAdfU8f9PL9msRkp4L2Kd49tzM,,,,,,,,,
+18903,9,NaN,0,https://magiceden.io/item-details/BChwhyRiaE2bX6WoNawAdfU8f9PL9msRkp4L2Kd49tzM,,,,,,,,,
 18942,15,NaN,0,https://solanart.io/nft/7VADTVzeThPa4kE9xe1h5LhMo9uNA9t55ofqRcCcNU6s,,,,,,,,,
 18968,7,NaN,0,https://magiceden.io/item-details/7xdDJCJMSZ9cC93R5sYSLn9RUBmeKBTYgXpvV6Vfrgs6,,,,,,,,,
 19009,12,NaN,0,https://solanart.io/nft/G76UbYzbXSjKCaiKK6S2NaSCPMToqu9V8KXMsU9qiLjy,,,,,,,,,
@@ -1254,7 +1253,7 @@ id,price,moonRank,💎 score (%),storeURL,BACKGROUND,BODY,EXALTED_STAT,FUR,GLASS
 19722,69.69,1303,0,https://magiceden.io/item-details/GUNWZRHG3SqUTpwy7SrR6K8Brde5rXMJJ3w4D3idULbR,Purple,Dress Shirt,,Scarred Purple - Grin,Star Glasses,Degen Service Hat,,Lollipop - Grin,6
 19728,9.99,NaN,0,https://magiceden.io/item-details/FCiFU795MQcTRjZpGEVYnMqB6EVKQXdrncV2zKSXNhvJ,,,,,,,,,
 19729,30,NaN,0,https://magiceden.io/item-details/DpSrhAYkHjCWagaWyumt1BNrHQJgZQitLFh3opcNwEHL,,,,,,,,,
-19781,6.4,NaN,0,https://magiceden.io/item-details/4HAonk5EbD5KQFaJ6Vg2H42wXkdT3CvTgmZXJgPYPKac,,,,,,,,,
+19781,6.5,NaN,0,https://magiceden.io/item-details/4HAonk5EbD5KQFaJ6Vg2H42wXkdT3CvTgmZXJgPYPKac,,,,,,,,,
 19809,22,13888,0,https://solanart.io/nft/A5qbBmHPwSVVXGCKzPwT6iTFQYQx7oAx5mbDa72WCqs1,Yellow,No Traits,,Brown - Grin,No Traits,Takeout,,No Traits,6
 19824,8.5,2296,66.02,https://magiceden.io/item-details/AL14ARwKt5Go6WDQzdnm2eFw6AxxC8FsxqHHZjRcjVjT,Green,Turtle Neck,,Green - Smirk,Reading Glasses,Paint Can,,Match Stick - Smirk,
 19851,10,NaN,0,https://magiceden.io/item-details/HWZLuDKZKVfsH9RmxHgAk82ZSRng6bzPhafu3e6gAvm9,,,,,,,,,
