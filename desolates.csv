@@ -69,7 +69,6 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 0686,8,6524,30.86,https://magiceden.io/item-details/A21mn5WtPWwPYxTcCwUTat6Y2ArheEckCeP8yiBoMKuf,normal,0,necromancer,0,,high,left,l,cliffs,none
 0688,6.75,5101,51.9,https://magiceden.io/item-details/HBgRphS6XLvsQcZo1wUzhb4FZEgsopsD2rpB59EsD2Ug,normal,2,marun,1,,high,left,m,hilly,none
 0698,6.33,2442,72.05,https://magiceden.io/item-details/ALFd4PikRaB9hbsjxZmaPeDUS1NCd5orroTbQvRk7BY1,weak,2,ianvanks,1,,high,left,m,desert,none
-0699,5,6622,60.27,https://magiceden.io/item-details/22hJSUgbZtTv14doaS66jNNGsMdZcDVYq9fDoHY1DSVN,normal,1,necromancer,1,,high,left,s,cliffs,none
 0742,15,5763,0,https://magiceden.io/item-details/JAZbhdcN3aF8Q985fTxBHduSw3GEQzUDFfmf25HrRJcc,normal,0,readydesolateone,0,,high,center,s,cliffs,none
 0748,8.1,5913,33.52,https://magiceden.io/item-details/3F9YiKa66dArzyk33fc2F35M4pcjvzFhMFDHA534cNKE,normal,2,lumenk,0,,high,left,m,desert,none
 0754,20,6070,0,https://magiceden.io/item-details/9XqWv1Ljo9CDGDKfKax31Qq5ksgBvYT7muKJuSddh4xw,normal,0,ianvanks,0,,high,left,m,hilly,none
@@ -157,6 +156,7 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 1835,8.49,5693,30.94,https://magiceden.io/item-details/4pTp6mYScLogT63X3S7ZgTCogiMMbHqot7XsGu6Cn8Cg,normal,0,xurk,1,,high,center,m,cliffs,none
 1838,10,4481,23.12,https://magiceden.io/item-details/DKkQdsFfwpqXgCsSLo8djjG564i7MQcGKjnsw7Uckspt,normal,1,magmark,0,,high,left,m,flat,none
 1856,6.4,5977,50.14,https://magiceden.io/item-details/DVtkA2W67NRM16tSkHScqwq3zeQf8nYKqWj2nceZxmUn,normal,0,harshmistress,1,,high,left,l,desert,none
+1870,6.94,5332,48.61,https://magiceden.io/item-details/CL8EzKUerh2w78XweZjomS8r6YzD2LUmugxCBUUDuopA,normal,0,cixxin,1,,high,left,s,rocky,none
 1872,21,1261,0,https://magiceden.io/item-details/DHaEnxgC6megv8o9yUcJWZQYYnfNg9ncxFGCfCmhoiss,normal,0,death,1,,high,left,l,desert,snow
 1915,40,3792,0,https://magiceden.io/item-details/C28VBDXJaJsvKU2wtdYqyMXFad5xfqeURrSAUF1VWEEM,normal,0,lumenk,1,,high,right,s,sharp,none
 1916,8.6,1572,54.57,https://magiceden.io/item-details/BLK68ZrtX3gS9QGS6NAszyG3DGiqBVJk2VyExVDJfrTB,weak,1,tatooine,1,,low,left,m,desert,none
@@ -406,7 +406,6 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 5818,13,522,16.87,https://magiceden.io/item-details/GRy1pncBc9wQiWBg6NRAbrU7S4YDcKt2vUqBBewu6Z9y,weak,0,marun,2,,high,right,l,cliffs,none
 5819,5.1,4556,71.67,https://magiceden.io/item-details/Co7qzQPGhPBLSUa8DaFXf94QCJC9idYrFjDLXUDQcPNf,normal,1,tith,-1,,high,left,l,hilly,none
 5823,6.1,5083,58.5,https://magiceden.io/item-details/F1U7ebvn8p6Qfhn9YhdZTvmRQmitHV7B4LVgqL84axXh,normal,2,tith,-1,,high,left,l,cliffs,none
-5827,5.5,5353,62.88,https://magiceden.io/item-details/5iiyK4ffAUtZxWion3SbfiGB1jQ4k6DGZXszobUynVbv,normal,0,namaste,1,,high,center,m,cliffs,none
 5874,7.7,4411,46.54,https://magiceden.io/item-details/5Q1iifkZyyN8Cez9HpHEVcgzEmKifAyTCef31k9Vykq,normal,2,inversesolano,1,,high,center,m,cliffs,none
 5895,10,981,44.11,https://magiceden.io/item-details/C3rW715tnUCNwEj2P3FvsAHdpTqLMPdKsJoTdbEBMr6H,normal,0,ikigai,2,,low,center,s,sharp,none
 5935,56,3390,0,https://magiceden.io/item-details/7rzNQos8BVjh4ULnSt5arRv8ghZQdgyE9XZZLgpP2FVm,normal,3,satori,1,,high,left,l,hilly,none
@@ -469,5 +468,4 @@ id,price,moonRank,💎 score (%),storeURL,gravity,moons,palette,rings,species,st
 6636,971,971,0,https://magiceden.io/item-details/2q9qNQ5JvfPC44fySj3Rezr2ZhtBY8FhMbpe2fxXnMGS,normal,1,rumiscall,2,,low,center,l,flat,none
 6637,15,1229,0,https://magiceden.io/item-details/6dhc3KspwymZchPfZxnHrjmHKREqU4kc5uvwLcM9BFy8,normal,0,korea,-1,,low,center,l,flat,none
 6644,7.13,1778,68.03,https://magiceden.io/item-details/7EvuTigEZ92LNRZdK3NgYecjB7A2R6S36w7GgE2dhdVg,normal,1,fluor,1,,none,right,l,cliffs,none
-6655,5,3556,78.67,https://magiceden.io/item-details/4zpF74aesiftvnXsgS3cqTDpmrttLRrN5D4J5XWnNZWo,normal,0,puma,1,,low,right,m,cliffs,none
 6665,19.3,5197,0,https://magiceden.io/item-details/AtjqZ2hW8wvuSePVh5xAXtRt94oQF1GucxSqetMGgAiE,normal,2,marchofmadness,0,,low,left,m,cliffs,none
