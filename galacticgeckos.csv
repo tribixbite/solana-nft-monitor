@@ -209,6 +209,8 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 2618,98,9400,0,https://solanart.io/nft/E9afpzRHRMdUbXcwBCmGbesE7UBy368B5KfV69aShGmE,,4,Brick,,Funky Shades,Barada,,Toothy
 2620,12,951,74.2,https://magiceden.io/item-details/5fb8MtBrJYwifFUQyDwrb2ukPfFMBVyER38x6m3RbfmB,Spikey Space Trash,7,Spotted Turquoise,Ionic Flux Inhibitor,Paranoid Eyes,Martu,Defensive Cannon,Hungry
 2621,20,8542,0,https://magiceden.io/item-details/E7dZMZKvbHvQ17Vk9fsvhjnYePQbtWjjkmMtiwENfWAn,,5,Orange,,Gilded Lenses,Alura,Taxidermied Space Pink,Pensive
+2647,12,6397,52.41,https://magiceden.io/item-details/3R2xT3NMpfn5bwjNHs1oGJZ2rd3D7HHmUZh17umnr132,,6,Spotted Turquoise,Cooling Vent,Augmented Surveyor,Targari,Viral Intruder,Pleased
+2665,12,7844,46.62,https://solanart.io/nft/6oUhuejyFK11MNHrg58NEUabGBZXZyMW2DB5ruyP1ik9,,5,Lime,,Plasmatic Array,Alura,Aluminum Cap,Fanged
 2669,19,3648,0,https://solanart.io/nft/G47yWJmWWpamrnGrU94ciPYuDFrCL1rcQFPgHTH7DHux,Excess Hosing,7,Brick,Gravity Dongal,Augmented Surveyor,Alura,Aluminum Cap,Pleased
 2681,17,5805,4.78,https://magiceden.io/item-details/5XLRvNMpUYVJw7HYdMjBoNLDgUndaej2WHQouo2R7f9X,Technical Swag,6,Printed,,Incisive Oglers,Barada,Gibbous Blaster,Pensive
 2686,17,9769,0,https://magiceden.io/item-details/AS573RHRweee85E3HJGM9BTCypMGPcUVxeTgV5FnnNc7,,4,Light Pink,,Nebular Optics,Martu,,Pensive
@@ -222,6 +224,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 2800,34,7533,0,https://solanart.io/nft/F2P8boroWMn6oeEJuY3UdHSxFeEyUJ42xhAVQge6UND7,,5,Brick,,Optical Enhancements,Barada,Plasma Beam,Hungry
 2803,205,2602,0,https://solanart.io/nft/6b3GLaSV6GghpZxP1QLAjZgA6gdaKoybEzYxGoWAeWkn,Spectral Companion,7,Striped Blue,Metallic Mesh,Glassy Detectors,Martu,Grabber,Pensive
 2815,79,8353,0,https://magiceden.io/item-details/GbLjc9TAWDPvRenissHq3w8cL7XYPME32VBPDQKy7fkZ,,4,Printed,,Reptilian Gazers,Alura,,Augmented
+2833,19.83,2313,0,https://magiceden.io/item-details/9heJCW6cARwt5T3EQyN7Qnvt5ayKEtdEVeFmKY3ideNT,Terraformers Uniform,7,Light Pink,Sublimatic Surveyor,Wonky Headlights,Barada,Glorious Trespasser,Pensive
 2838,18.4,9500,0,https://magiceden.io/item-details/J2yanAHvaDZhQ7uwx8KjXXHX4sQuMbzXuGatYmSSe1Ji,,4,Orange,,Sullen Eyes,Martu,,Wise
 2858,30,5914,0,https://solanart.io/nft/5APSc1JhradnKYB6dZmQYNRJN3F7BitTCUyZ2UEwEs4n,Nebular Wormhole,6,Spotted Kiwi,,Galactic Inspectors,Martu,Aerodynamic Cap,Pensive
 2869,32,1345,0,https://solanart.io/nft/9aVShSJEgYKeKrHL7gRyLMCvs2eYczooW83hoT3NJ8vY,Mini Cruiser,7,Orange,Viral Implant,Orbital Retinas,Barada,Useless Compass,Hungry
@@ -283,7 +286,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 3360,299.98999,9982,0,https://solanart.io/nft/B5yVwhRLLho4SVgdaNwUfdTagm6qPCRmRjuuGTJT25J4,,4,Light Pink,,Stoned Eyes,Targari,,Pensive
 3361,29,2840,0,https://solanart.io/nft/2y1nx6k9XEJdU7eguh383Tx5gCH8jotzESXKK2VdgSXc,Martian Tunic,7,Orange,Intergalactic Fins,Cybernetic Beamers,Targari,Crystal Swag,Pensive
 3381,179,4708,0,https://solanart.io/nft/7ZPAopuK7anWKp7eNGyxoavz3ScGtSc5cPyjwU4Z6KJR,,6,Spotted Kiwi,Splendid Recorders,Creepy Peepers,Targari,Ionic Fizzler,Fanged
-3383,55,5917,0,https://magiceden.io/item-details/4BDfbWsp73WUz9hrr5kg4BNU48pe5a1Xf63Wo3maz78V,,6,Striped Blue,Cosmic Gas,Gilded Lenses,Targari,Ionic Fizzler,Pensive
+3383,45,5917,0,https://magiceden.io/item-details/4BDfbWsp73WUz9hrr5kg4BNU48pe5a1Xf63Wo3maz78V,,6,Striped Blue,Cosmic Gas,Gilded Lenses,Targari,Ionic Fizzler,Pensive
 3399,40,8202,0,https://solanart.io/nft/FoE6LATSoJsxnxp5QDmkrZVGv3gCwdhvJDP6HWXKh4Qw,,5,Printed,Cooling Vent,Stoned Eyes,Targari,,Pensive
 3403,15,9467,10.13,https://magiceden.io/item-details/4TSdFTxrQqKWZt5LZreGwqjpPCAxruuPmtAimMUZMEVK,,4,Lime,,Creepy Peepers,Alura,,Wise
 3416,50,8232,0,https://magiceden.io/item-details/FHidKnWmivZLejiG6ZrkGXZB9vge2PcvWmCHa4feHBux,,4,Light Pink,,Gilded Lenses,Targari,,Aggressive
@@ -301,7 +304,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 3616,19.99,4669,0,https://magiceden.io/item-details/F9KZoDhwfce5dqqWZx9bd1JUJutkA64bxkSyaEkSptsN,Cosmonautic Shielding,6,Light Pink,,Wonky Headlights,Alura,Space Rat,Toothy
 3635,95,217,0,https://solanart.io/nft/DRSprKKXAZbJ7cB5Lh6sB8QbFrEZPm2WcBNDdJANxvzi,Technical Swag,7,Spectral Black,Cooling Vent,Gilded Lenses,Barada,Micro Thingamajig,Wise
 3640,20,9785,0,https://solanart.io/nft/9V15GZWf7jpUQLngsUc2PGhnifQ9JGnvS8RpWBTWSk1J,,4,Light Pink,,Glassy Detectors,Martu,,Pleased
-3653,15,6833,20.67,https://magiceden.io/item-details/FNnzCdYJqCUGHSY4uDf7UoBg1ui9CBNQDV2Q2oPsGcYw,,6,Spotted Kiwi,Gravity Dongal,Plasmatic Array,Martu,Fried Lenses,Pleased
+3653,10,6833,70.67,https://magiceden.io/item-details/FNnzCdYJqCUGHSY4uDf7UoBg1ui9CBNQDV2Q2oPsGcYw,,6,Spotted Kiwi,Gravity Dongal,Plasmatic Array,Martu,Fried Lenses,Pleased
 3654,39,1594,0,https://solanart.io/nft/7c8MJP19Vs6ZXarezxxiWF86dmqx2MdFJrsDymfdLYVR,Resplendent Deflector,7,Orange,Martian Speakers,Augmented Surveyor,Martu,Micro Thingamajig,Fanged
 3663,17.6,4192,5.23,https://magiceden.io/item-details/5fWTrDmpos7CkG6osf88sazvgM5px2SP8FRpsSFWqdeB,,6,Brick,Equinox Boosters,Plasmatic Array,Martu,Budding Coral,Excited
 3672,30,887,0,https://magiceden.io/item-details/Efkrch4T5VE2bbPJrcU9hsWifvXVsSkn5MZoJjBbPQYn,Augmented Exoskeleton,7,Brick,Cooling Fan,Engaging Pupils,Targari,Princely Helm,Toothy
@@ -416,7 +419,6 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 4995,135,1468,0,https://solanart.io/nft/Eanf8WzJGMWhUZPv7Je8gdFnzY76bHw56wP6mhtjXMVD,Cosmonautic Shielding,7,Spotted Turquoise,Cosmic Gas,Augmented Surveyor,Targari,Useless Compass,Pleased
 5024,30,4188,0,https://solanart.io/nft/4uAdSvkGmo4YVP8ZhYVMbPxzveAvjtewUTVqVmXUND7r,Nebular Wormhole,7,Printed,Ionic Flux Inhibitor,Funky Shades,Targari,Photon Harvester,Pleased
 5033,50,9594,0,https://solanart.io/nft/DLXWCXkVScNjD4FwZBhUZG75FQnM71mjy9MGPPmxLFak,,4,Striped Blue,,Prying Eyes,Targari,,Pleased
-5048,27,6801,0,https://magiceden.io/item-details/GAfv7MczvEHUkrBeyxvf318tfPDtunar5WnvRsjssCTA,Excellent Padding,6,Light Pink,,Sullen Eyes,Targari,Viral Intruder,Pleased
 5053,12.5,955,69.18,https://magiceden.io/item-details/5kF2a39FbhS7pn1G7aAgZDwHcycYc4eBTMcjRhrXNgKp,Pilot Garb,7,Orange,Decorative Bolt,Cybernetic Beamers,Alura,Solar Converter,Fanged
 5068,144,233,0,https://solanart.io/nft/9JbwbzsUHxraL7xwziix2Dx6c2rAK6ZNgKopktcvWJn1,Lunar Robes,7,Lime,Stellar Shifter,Ionic Disruptors,Targari,Grabber,Excited
 5073,20,4694,0,https://magiceden.io/item-details/Ehz3EnWfX4whTXjgwKAmU9pA38NgnCrAhJtVtVNcic5X,,6,Orange,Portable Satellite,Deluxe Shutters,Targari,Glorious Trespasser,Toothy
@@ -476,6 +478,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 5598,150,97,0,https://magiceden.io/item-details/7snaZSNfRWxqBq7KpqGAHtSKSKWbiJr4aNxjQVoeuz9v,Excellent Padding,7,Spotted Turquoise,Interdimensional Transistor,Sun Beams,Martu,Identified Flying Object,Augmented
 5600,200,2459,0,https://solanart.io/nft/9DnQ1y8PAkdGXQVmhC8f4jdUoYLwuXqNtH2zN5nSFAxe,Planetary Kirtle,6,Brick,Lunar Squid,Optical Enhancements,Martu,,Augmented
 5603,75,1429,0,https://magiceden.io/item-details/Am6C68Dy144So56XjDgvHMJuz1TcaDXkSWb4iMWC9AC7,Plutonic Plating,7,Printed,Intergalactic Fins,Mixed Reality Grid,Targari,Reliable Antennae,Wise
+5614,17.56,2429,12.68,https://magiceden.io/item-details/6X1hg2TnfTrbacowUugonY9NmL4TGXTcUqKdhQxA3PsA,Technical Swag,7,Orange,Intergalactic Fins,Geckonic Sight,Targari,Glorious Trespasser,Pensive
 5617,89.989998,4268,0,https://solanart.io/nft/3QjYNvpn8xi7wmnnnxEVFEQERvWLWzLcqZAVjG4PouhA,Technical Swag,6,Spotted Turquoise,,Villainous Visor,Martu,Space Scraps,Toothy
 5625,24.9,5652,0,https://magiceden.io/item-details/3WwgzoJ53zCaEgXQGunA3c1rCuCMgE6crYK9y1Rh1k5y,Orbital Frock,5,Light Pink,,Galactic Sequencer,Targari,,Excited
 5635,300,1458,0,https://solanart.io/nft/2RxqUrYAMBWfkD7yenRwVWEXzEv7wDCTyDkcpb1KDdsW,Pilot Garb,7,Neon Green,Viral Implant,Ionic Disruptors,Martu,Viral Intruder,Pleased
@@ -719,7 +722,6 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 8062,50,5429,0,https://magiceden.io/item-details/7L9XZFdBExBggfLbhUmUVKs7uccW1XjLoZQAtocxnamk,,6,Lime,Pulsing Sizzlers,Glossy Zoomers,Alura,Electric Doodads,Wise
 8064,64,6765,0,https://solanart.io/nft/6Z9ASNUg1QXRF4ymyLf6DRDSomsNozraxu2kNZcZnVFo,Colonels Finery,6,Printed,,Optical Enhancements,Martu,Ionic Fizzler,Pleased
 8069,10,2955,86.18,https://magiceden.io/item-details/JDRoG3zw4KoQELMFPiWB9Ju6EMZ9C3qU2D42mmMUzTv1,Cosmonautic Shielding,7,Printed,Planetary Muffler,Scoundrel Winkers,Martu,Micro Thingamajig,Pleased
-8090,90,7870,0,https://magiceden.io/item-details/Ho1h5XchxptJPCRRSA7cscXYBA6CEtWTx4BxYtQPTUpK,,5,Neon Green,,Spectral Auditors,Alura,Gibbous Blaster,Pensive
 8092,49,5161,0,https://magiceden.io/item-details/8poZPg4VMygjRpjyHV1asPraggtNf2YQk8jXaVgrWJpN,Mini Cruiser,5,Spectral Black,,Expensive Scrutinizers,Targari,,Toothy
 8099,50,7713,0,https://solanart.io/nft/4tKypZDtPutero466K7VwasfkAUwCzX5CX9ynvVxPir5,,5,Printed,,Villainous Visor,Barada,Useless Compass,Fanged
 8109,25,8354,0,https://solanart.io/nft/7tsAeejkRLk7JhSsP168SwtiA77cc9Nd5wjFextR1xjH,,4,Lime,,Geckonic Sight,Alura,,Excited
@@ -803,6 +805,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 8869,13.69,5793,37.93,https://magiceden.io/item-details/JCRMFDhrh1EWRRPDDTTAWe4u39hjV6YBTjjnE39XnyXf,,5,Lime,Splendid Recorders,Orbital Retinas,Alura,,Excited
 8870,30,1211,0,https://solanart.io/nft/8oy5N9MmCiufXZQ5XYz4gJyFFiua3LWupbZk3SGdpyvm,Excellent Padding,7,Lime,Equinox Boosters,Spectral Auditors,Targari,Identified Flying Object,Hungry
 8877,70,4787,0,https://magiceden.io/item-details/5cMaDNoKphXNhYiC13wu4Bd2dqNGFoSPQiDnpgdq867y,Nebular Wormhole,6,Spotted Kiwi,,Glassy Detectors,Targari,Ionic Fizzler,Toothy
+8895,14.8999,5273,27.91,https://magiceden.io/item-details/6KrLsBVk8qrvomM3D65QKozHhPAsmnouTWeNFy3ptLXm,,6,Orange,Equinox Boosters,Expensive Scrutinizers,Alura,Reliable Antennae,Toothy
 8897,40,5919,0,https://solanart.io/nft/8E4y5Xz5hofEbdQdHUDDWMFdpzUuHXk5q8zEnpnQCPt1,Frivolous Costume,6,Orange,,Augmented Surveyor,Martu,Gibbous Blaster,Wise
 8901,36.699,5215,0,https://magiceden.io/item-details/E2wAWgB7wRjXWAWanNFQyYVQtWDgALE5yb6z919pcwZk,,6,Spotted Turquoise,Escape Rockets,Sun Beams,Targari,Lunar Replica,Fanged
 8907,250,1000,0,https://solanart.io/nft/3W2Xn9U3x9Zqs3ffTpXbm5GB3hyhh1AHuMqQM7gQFohu,Technical Swag,7,Printed,Miniature Geckos,Deluxe Shutters,Alura,Useless Compass,Wise
@@ -831,7 +834,6 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 9099,22,7628,0,https://magiceden.io/item-details/5sLTbPDDPtsxAWG1gJJhcK7jwiRWsrpPZqc8DbRUSHXz,,5,Lime,,Ionic Disruptors,Alura,Kingly Rings,Hungry
 9107,100,257,0,https://magiceden.io/item-details/5ciLuxNUoDkGVSxanrJpBSdtYhMexfB1fz9VnyL8qchP,Lunar Robes,7,Ghostly White,Cybernetic Recorders,Sullen Eyes,Alura,Princely Helm,Wise
 9142,133.699997,1689,0,https://solanart.io/nft/38HvgN7FBL2JZdR16oYBEg9i6af6JSinTr7C86QpK81R,Frivolous Costume,7,Spectral Black,Splendid Recorders,Engaging Pupils,Martu,Viral Intruder,Pensive
-9143,10,3462,84.15,https://magiceden.io/item-details/CHjHoUnnLg9odeuMKuoVS9Ki4GLoS2UDDEjnctw5ywpJ,Distinguished Shirting,7,Orange,Martian Speakers,Orbital Retinas,Targari,External Hard Drive,Pleased
 9158,31,8841,0,https://solanart.io/nft/98CGL4cHefv4cifVevxXNHcbCNEgyGdabq3TN6hGzThr,,5,Striped Blue,,Wonky Headlights,Alura,Grabber,Pensive
 9160,49,5031,0,https://solanart.io/nft/CHXXsHFzkbn8vCzkn2PbzYNWYafFcbgePHxx5A8Psk3J,Cosmonautic Shielding,6,Printed,Ionic Flux Inhibitor,Villainous Visor,Targari,,Pleased
 9174,19.5,4729,0,https://magiceden.io/item-details/HaB4BgNdF2N1AomWmPF6FuL9T3t4R49KrceUg5RFD8eL,,6,Spectral Black,Cooling Vent,Vulgar Eyes,Martu,Signal Deflector,Pleased
@@ -877,7 +879,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 9636,20,5633,0,https://solanart.io/nft/CrFzb85fhDk5QPiWGe1UDA6DZ4Cp8KxjkvZzccfPS2Rv,Magnanimous Rocketeer,6,Lime,,Ocular Scanner,Targari,External Hard Drive,Pleased
 9665,35,2844,0,https://magiceden.io/item-details/DwWesDRZ2KnFo1DxRpmkuXKvYivGLxYU1VfBDkkHc26i,Planetary Kirtle,7,Lime,Prismatic Sensor,Villainous Visor,Alura,Clever Coathanger,Pleased
 9678,500,3983,0,https://solanart.io/nft/84wpPASnKbZvfk74k9heV5AXinZkYTaTE6FhVK12Soiz,,6,Printed,Miniature Geckos,Galactic Sequencer,Barada,Crystal Swag,Aggressive
-9682,10.75,3211,77.65,https://magiceden.io/item-details/9STKyj4bSHakaccdkNDeE1cDHRhnuvGxnHCoWq4pJUuT,Frivolous Costume,7,Light Pink,Prismatic Capacitors,Glossy Zoomers,Alura,Space Roach,Pensive
+9682,10.48,3211,80.35,https://magiceden.io/item-details/9STKyj4bSHakaccdkNDeE1cDHRhnuvGxnHCoWq4pJUuT,Frivolous Costume,7,Light Pink,Prismatic Capacitors,Glossy Zoomers,Alura,Space Roach,Pensive
 9704,500,6726,0,https://solanart.io/nft/E3e4WMb3H8uBC49LThYjXSySdd2ktfPHqnDUmDmwXzEJ,Reptilian Thorns,6,Orange,,Geckonic Sight,Targari,Slab,Pensive
 9705,99.69,9152,0,https://magiceden.io/item-details/HSoMKhPdtFuq2e1ESKUgvDeSEptSK8YCYzUqbVy81shE,,4,Spotted Turquoise,,Gilded Lenses,Targari,,Wise
 9732,45,38,0,https://magiceden.io/item-details/E5D2Es9vMEmFRQggAnfpyceioJGx4j8vmvRE68U26XX8,Resplendent Deflector,7,Striped Blue,Planetary Muffler,Optical Enhancements,Alura,Solar Converter,Augmented
