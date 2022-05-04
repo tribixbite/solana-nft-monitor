@@ -11,6 +11,7 @@ id,price,moonRank,💎 score (%),storeURL,ARTIFAKT,Colormap,Form,Geometry,Scalar
 330,0.9,1292,57.86,https://magiceden.io/item-details/7Hz6HQMUHHq6mW4LeQxEJT1tLc1GDY7yA8mTS3B6S7dR,Torre de Aragon,Tango,Wireframe,,Verticality,,,,,,,
 388,0.75,280,86.81,https://magiceden.io/item-details/3VnhX7Cui92N2iVnSs1JFUyu2zmg8q7FGMJe2nYQBYSg,Temple of Concordia,Pizza,Geometric,Cone,Planarity,,,,,,,
 516,0.5,155,92.7,https://magiceden.io/item-details/5x21qdr7pau38PkBzV5Ca6PBJapyDsU22FXJEsHtDBbp,Puerta de Toledo,Electra Planet,Geometric,Triangle,Omnivariance,,,,,,,True
+528,1.5,1376,49.58,https://magiceden.io/item-details/7aRoinMd8u7JXhH3BJCtowxtvN3eCfvSNzY2vP2LJVax,Puerta de Toledo,Tango,Wireframe,,Illuminance,,,,,,,
 547,0.79,95,91.42,https://magiceden.io/item-details/GXa4tWfBZXFNBY2qNk57nMiwLQfQD1g6iVza5ZrefBqx,Umm an-Nar Tomb,Otono,Geometric,Cube,Illuminance,True,,,,True,,
 576,23,1467,0,https://magiceden.io/item-details/EsWXDZ3Um2eWsoPFGbP2Zf7JatFMpTabNb9zoxHUP2o8,Temple of Kukulcan,Tango,Wireframe,,Verticality,,,,,,,
 601,0.3,360,89.14,https://magiceden.io/item-details/J23r5ov1VaVcsr6b1AgeoZmBDpygob5vaFYpSZmxCNmY,Rinsi Church,Duality,Geometric,Icosphere,Linearity,,,,,,,
@@ -61,6 +62,7 @@ id,price,moonRank,💎 score (%),storeURL,ARTIFAKT,Colormap,Form,Geometry,Scalar
 1270,0.5,186,91.86,https://magiceden.io/item-details/DbsZRQbWiPZV6pmvh7y6V19Vmpa8wUPx8veiSxfc1n9G,99 Domes Mosque,Fusion Factory,Geometric,Tetrahedron,Illuminance,,,,True,,,
 1317,0.55,1260,62.23,https://magiceden.io/item-details/3VhzbMmdavrKFFcwQHem7hCwowiescLVN9x9YwkVbFQu,Puerta de Toledo,Aubergine,Wireframe,,Linearity,,,,,,,
 1320,1.4,847,64.93,https://magiceden.io/item-details/BmpugnkXYpFVZS98M7e5Y7LoD8jNP59ve5mNYVoXFuEw,Herstmonceux Castle,Virid,Voxel,,Illuminance,,,,,,,
+1340,3.5,187,61.83,https://magiceden.io/item-details/7a21NPcgvaFKn32ECPadgw3SmE4reXTucE6b2mFUpUaY,Temple of Kukulcan,Thrust,Geometric,Tetrahedron,Illuminance,,,,True,,,
 1341,0.88,348,83.66,https://magiceden.io/item-details/4rGb6G8Nm2Ujxv9hTm42DYdBAfCRZFL99bop7aixYAm6,Torre de Aragon,Fusion Factory,Geometric,Triangle,Omnivariance,,,,,,,
 1344,1.42,1442,48.59,https://magiceden.io/item-details/5yGVabd5YadoYjQkAwsLGvaPV6iPHbmJiRfmjd54MFtx,Temple of Kukulcan,Balsamic,Voxel,,Omnivariance,,,,,,,
 1361,1.1,995,63.92,https://magiceden.io/item-details/2wE8s2RCtPTS9ouyLAT19JwDPEdE765otorHqzkfUHD3,Umm an-Nar Tomb,Hi-C,Wireframe,,Verticality,,,,,,,

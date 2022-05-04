@@ -262,7 +262,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Big Item,Floor,Floor Item,G
 72-8,0.18,6186,74.69,https://magiceden.io/item-details/CoVJAMhPoxiSnCgePFMdL4Pn9oUzJ1VxFtXLtnQtqPYq,Green1,Beanbags,Carpet,Confetti,,8,Cartire,,72,Blue2,Silver Bricks,Neon Arc Blue Sign
 72-17,0.23,2092,90.68,https://magiceden.io/item-details/7JV494RhhWcPGVrFkL7o8fLPbAELvqbXc1G5H66pTaoW,Burgundy,Poker Round Table,Lightbrown Tile,Crystals,,17,Classicchairs,Pizzabox,72,Goldwhite,Gray Panels,Dartboard
 72-9,0.8,653,90.77,https://magiceden.io/item-details/5Mbmgu6vtCoy6asaZ6kFC1XUzQu6CbsMP9Nq5tnoUEXE,Black,Tiedie Bed,Gmoot Tile,Socks,,9,Brown Bedtable,Wizardhat,72,Blue5,Ice Bricks,Binaryclock
-72-10,0.19,4594,81,https://solanart.io/nft/559PgdKGx16WhC9j87rfdfjnSUME1oZx457Bnf8PoaMA,Rose,Blue Couch,Void,,,10,Glass Coffeetable,Magic8ball,72,Blue3,Void,
 72-16,7,3340,17.95,https://solanart.io/nft/FsTsAVVeJuWkjdphTg9yaH1vnV8EZLehw3qQZEakrnre,Teal,Orange Couch,Lightbrown Tile,,,16,Glass Coffeetable,Blackswan,72,White,Lightbrown Planks,Katakana Sign
 74-9,3.55,5312,44.51,https://magiceden.io/item-details/7eKm6t4bA5NucJDWjdNdRyoZ2ZoDCXZU1Vj1Eew3pAcM,White,Evening Dining Table,Sand,,,9,Brown Coathanger,Normal Loot,74,Black,Silver Bricks,Neon Arc Purple Sign
 74-16,123,7001,0,https://solanart.io/nft/ADju8wsThbN7j6agbboqKHxSx61XLpTJRgULBnjshJae,Purple1,Silk Couch,Glass,Bananas,,16,Crayons,,74,White,Glass,Sol Marble Sign
@@ -293,10 +292,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Big Item,Floor,Floor Item,G
 82-7,4.4,1979,49.43,https://solanart.io/nft/bPEp42ZEQrKsCcbu9oFUUn9hsWxzhEDRSra97xnqrik,Rose,Beachy Chairwplant,Gray Tile,Sneks,,7,Safe,Gummybear,82,Blue5,Gray Panels,Star Sign
 83-1,0.19,5865,75.88,https://magiceden.io/item-details/BH6N9RFpJ3kxa7uWMFbFW1vhRoEf12o2eJGvNcdYiG4F,White,Blue Cornered Couch,Lightbrown Tile,,,1,Crystal,Modelbot,83,Peach,Gray Panels,
 83-6,0.19,8598,64.88,https://magiceden.io/item-details/FZ4ngzxWBMpE7z3ujFREdSs31ViiaDxpwwbapYnsD9KS,White,Lunch Dining Table,Black Wood,Crystals,,6,,,83,Blue4,Ice Bricks,Neon Gmi Sign
-83-10,0.2,3081,86.99,https://solanart.io/nft/DcPzpsxkKpVfwzHRf8oNFxT7MyQTym5nmSZ5UcnaCpJg,Pink,Futuristic Cornered Desk,Void,,,10,Rendering Supplies,Shark Acquarium,83,Blue4,Jungelvines Gray Bricks,Neon Arc Red Sign
 83-15,0.48,5754,73.43,https://solanart.io/nft/4GVfVBdgAduVxWAEUCoTuReQ9J1LsXF4sRa9SA48c6Qv,Blue2,Green Couch,Black Slate,Bananas,,15,Candymachine,,83,Peach,Lightgray Stone,Katakana Sign
 83-3,0.5,5461,74.41,https://solanart.io/nft/2Ky95LiWZpPpvXP6gZLa2KGsQgCmeFiNNWuM5sB2st8M,Burgundy,Ratchet Bed,Grass,Rocks,,3,Brown Bedtable,3DGlasses,83,Green1,Bamboo,
 83-11,12,2232,0,https://solanart.io/nft/4raboMnWbYnVxaksTFsAsieZSvzdT5XZz83bm7WSUHs3,Blu+e1,Treadmill,Lavarock,Sneks,,11,Balanceball,Waterbottle,83,Purple,Darkgray Stone,
+83-10,100,3081,0,https://solanart.io/nft/DcPzpsxkKpVfwzHRf8oNFxT7MyQTym5nmSZ5UcnaCpJg,Pink,Futuristic Cornered Desk,Void,,,10,Rendering Supplies,Shark Acquarium,83,Blue4,Jungelvines Gray Bricks,Neon Arc Red Sign
 84-15,0.24,5386,77.31,https://magiceden.io/item-details/ABQ2SyQD4R6f63Xw5Et6mjMmjWGSLXKvFLwqoLuTd6Xb,Green2,Morning Dining Table,Silver Tile,Bananas,,15,Silver Coathanger,,84,Blu+e1,Brass Metal,Neon Arc Purple Sign
 84-9,1,740,88.42,https://solanart.io/nft/GhveV9sPoLnQdeNVzaNXp3x9yxbToLgYXKgBzXNix9AZ,Orange,Marble Round Table,Checkered Tile,Lightbrown Rug,,9,Classicchairs,Bigbrain,84,White,Blue Crystal,Neon Arc Purple Sign
 84-6,2,8797,45.97,https://solanart.io/nft/GCmM7aptmh9PedtfbLP5YVUL7cMvur1fMLXYWGXZw18G,Blu+e1,Djstand,Gold Tile,Rocks,,6,,,84,Blu+e1,Junglevines Tree,Sol Marble Sign
@@ -415,6 +414,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Big Item,Floor,Floor Item,G
 123-13,2.49,309,75.26,https://solanart.io/nft/FEGbM1UZ1gACVewEfwcZRruiKHSrr4R6jgvXzSs4gHhD,Yellow,Weightrack,Darkbrown Tile,Bananas,,13,Yogaset,Jumprope,123,Red,Gray Bricks,Clapperboard
 124-4,0.15,5366,78.29,https://magiceden.io/item-details/2ed6T98JyGD3zMyRfg9XVHX7nQmwE51Zpx5fy943rFnF,Teal,Bar,Snow,Rocks,,4,Canstack,,124,Blue3,Blue Crystal,Heart Sign
 124-20,2.69,3819,59.12,https://magiceden.io/item-details/z8tRweUBEwPaDq3aZxCkn6G17h4GD2cM7DVEmmUSDBM,Pink,Futuristic Cornered Couch,Lavarock,,,20,Brown Round Coffeetable,Modelbot,124,Black,Steel Metal,Neon Grindset Sign
+124-20,2.69,3819,59.12,https://magiceden.io/item-details/z8tRweUBEwPaDq3aZxCkn6G17h4GD2cM7DVEmmUSDBM,Pink,Futuristic Cornered Couch,Lavarock,,,20,Brown Round Coffeetable,Modelbot,124,Black,Steel Metal,Neon Grindset Sign
 124-1,5,8952,15.35,https://magiceden.io/item-details/ETJvqRNwJyiDY7rp1pGt6EEcc4HnAsyFvpULRDVCGV6b,Yellow,Gray Cornered Desk,Black Slate,,,1,Coding Supplies,,124,Black,Silver Bricks,
 124-5,4.3,6180,33.51,https://solanart.io/nft/HESeov3ZfJPKecB4xapvSdocgYRRmK18exYnLJtbXCF8,Black,Cotton Bed,Carpet,Socks,,5,,,124,Green2,Blue Crystal,Infinity Sign
 125-14,0.399,9487,59.21,https://magiceden.io/item-details/GNwZrNZF6x76LqFiFqtSffuJe4J1D12sEi3DxhwWivL7,Turquoise,Beachy Chairwplant,Lavarock,,,14,Crayons,,125,Black,Ice Bricks,
@@ -454,7 +454,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Big Item,Floor,Floor Item,G
 133-20,2.5,3392,62.74,https://solanart.io/nft/36PMNvKxbWPyLKsnKNWXEbVjQp9N8LuTte6a2fYum9h7,Blu+e1,Blacknwhite Couch,White Slate,,,20,Cardboardbox,Grenade,133,Blue2,Green Crystal,Star Sign
 134-5,3.99,5490,39.39,https://magiceden.io/item-details/4hCrcxWB5hRPL1iTHFcginZxdWnxd1GYi92GQvHH4m9T,Purple3,Bar,Glass,,,5,Canstack,,134,Peach,Lightgray Smooth,Skyline Poster
 135-11,0.5,596,94,https://magiceden.io/item-details/AmumSJjYrrstM1j6AyErSEFUHijKvcKkWtYTCtDae6RU,Green1,Cotton Bed,Snow,Volleyball,,11,Brown Bedtable,Wizardhat,135,Black,Gold Bricks,Clapperboard
-135-19,2.5,9174,39.46,https://magiceden.io/item-details/9CJgt5j1DGgGzJxXueAZNt2bQwjDXoQcyWnQWFCHFb8L,Purple2,Green Couch,Sand,,,19,,,135,Red,Jungelvines Gray Bricks,Neon Arc Purple Sign
 135-9,3,7196,42.42,https://solanart.io/nft/4ipR6t9iByG4ftcfSbL9QU8Mc7jrLtxvownaZF92Cmpm,Teal,Tiedie Bed,Lightbrown Tile,Volleyball,,9,,,135,Purple,Concrete,
 135-3,4,2159,52.71,https://solanart.io/nft/A6rqw1TVWYc8DBPQ19sxF4gmp5FBiURmZGzQ2XLnSAUC,Black,Lunch Dining Table,Lightgray Wood,Bananas,,3,Silver Coathanger,Normal Loot,135,Blue3,Futuristic Panels,Neon Arc Purple Sign
 135-17,5,9686,12.39,https://solanart.io/nft/BPrTsjkdrZirSNPBJY3Jh75NqafabSDzsJrA6jhnzbyN,Black,Djstand,Silver Tile,,,17,,,135,Green1,Jungle Tree,Neon Gmi Sign
@@ -477,9 +476,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Big Item,Floor,Floor Item,G
 139-18,2.5,614,73.93,https://magiceden.io/item-details/6F3XwaQtBeUjSk5B2wfy74Mm6gbMUaFmz3p77zrym4zy,Purple2,Weightrack,Snow,Snowballs,,18,Barbell,,139,Yellow,Void,Heart Sign
 139-5,3.4,4848,47.88,https://solanart.io/nft/BcbNA1ui5giEZyoxL7vZwnWSGTrU4wGmCbbJoEaSb1Ar,Blu+e1,Gray Cornered Desk,Carpet,,,5,Garage Supplies,Shark Acquarium,139,Black,Ice Bricks,Sol Marble Sign
 139-20,5,4825,31.97,https://solanart.io/nft/CXJ67RmWZvVTaJXe8DbJFQy2oj8YsoTcNDLBdVMYv4Ng,Orange,White Bed,Gold Tile,Rocks,,20,Brown Bedtable,Solanavisors,139,Orange1,Brass Metal,
+140-9,0.156,8851,64.2,https://magiceden.io/item-details/DMxj34weDfRP8y6YFHd5VuX9ukkTop9wVitECJsYPSV6,Orange,Beanbags,Cobblestone,Confetti,,9,Bike,,140,Black,Jungle Tree,
 140-15,0.32,9479,60.03,https://magiceden.io/item-details/CrBUB1KKfdw9ZvbZ2dvpwF13gxfst4f42MFNzZd3Fo8U,Rose,Bathtub,Grass,,,15,Bike,,140,Pink,Lightgray Smooth,
 140-5,1,703,88.57,https://magiceden.io/item-details/Gqk3wEZbNSsMSQqK86tuQDMvLhun2Kik5kfAr9Z8V7PY,Blue2,Brown Cornered Desk,Mud,Crystals,,5,Trading Supplies,Sunkenship Acquarium,140,Blu+e1,Concrete,Binaryclock
-140-9,5,8851,15.76,https://magiceden.io/item-details/DMxj34weDfRP8y6YFHd5VuX9ukkTop9wVitECJsYPSV6,Orange,Beanbags,Cobblestone,Confetti,,9,Bike,,140,Black,Jungle Tree,
 140-19,2,4966,61.4,https://solanart.io/nft/77GCdr67wJ4LQiszAcbqf8ka44dcTMgAmL8eFNyE5o51,Yellow,Black Bed,Lightgray Wood,Sneks,,19,Brown Bedtable,Pearlnecklace,140,Pink,Futuristic Panels,
 141-7,0.45,4951,76.96,https://solanart.io/nft/GJWSzcf4KN1sGnRrg9ofRQsaCXpVXMfiYim8uYqLsLGT,Turquoise,Blue Cornered Couch,Glass,,,7,Glass Round Coffeetable,Modelufo,141,Blue5,Psychedelic Smooth,
 141-9,11,2837,0,https://solanart.io/nft/HRujd98rzmGWUPyL1BpKAjLy6f2QwUE4XKPhDeautLYw,Yellow,Treadmill,Gold Tile,,,9,Balanceball,Kettlebells,141,Black,Solana Smooth,Sol Marble Sign
@@ -1333,7 +1332,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Big Item,Floor,Floor Item,G
 388-20,3,8610,36.73,https://solanart.io/nft/By6jAEXJV33CufTZkw8LNrHxhAfg6dMbm7JvXp1rDi94,Blu+e1,Tiedie Bed,Gray Tile,Socks,,20,,,388,Black,Junglevines Tree,
 388-6,10,6414,0,https://solanart.io/nft/F2oZfKUvf4Do4bkBbsJwUmCVkuWxAmo4veV9iyCH2Y2N,Yellow,Brown Round Table,Lightgray Wood,,,6,,Bigbrain,388,Black,Lightgray Smooth,Neon Gm Sign
 388-17,11,3729,0,https://solanart.io/nft/EExFYRRSSSW6z3bVQ8PkaY9K9NftMVQFKrrs6eaW9AZc,Green1,Marble Kitchen,Darkbrown Tile,,,17,Cuttingboard,Knifeblock,388,White,Lightgray Stone,Heart Sign
-389-12,2.5,2241,67.38,https://magiceden.io/item-details/Gqko6PZNnQNwQQJCxZtcsRxhdPopCh6WPw8F8Vz93yGN,Rose,Blue Couch,Void,,,12,Futuristic Coffeetable,Winebottle,389,Pink,Concrete,Gray Clock
 389-5,3,8499,37.17,https://solanart.io/nft/Bi3fTzgEgqaJwBEhCwxWKiXa7idSEGLDnxqzcPoXVcks,Turquoise,White Bed,Dirt,Crystals,,5,,,389,Black,Forest Tree,Neon Arc Blue Sign
 389-19,4.5,9833,16.8,https://solanart.io/nft/HiyjKnurg9U4AfeGeorjB597LvS6zS58ftJKF6s55btF,Turquoise,Silk Bed,Carpet,,,19,,,389,Orange2,Lightgray Stone,
 389-10,10,9759,0,https://solanart.io/nft/8mKqZWkyxRZLMAPmv5HAmuVnxC83NywxeBcpNPHpCDi7,Black,Paintersdesk,Lavarock,,,10,,,389,Goldwhite,Lightgray Stone,Dartboard
@@ -1462,6 +1460,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Big Item,Floor,Floor Item,G
 422-18,6,1426,35.66,https://alpha.art/t/7HEFZnSG2DnGZhRCiTJfC8dNGbkkKA9m1rX24xA8Q9fW,Purple1,Poker Round Table,Brown Wood,Rocks,,18,Classicchairs,Bigbrain,422,Peach,Darkbrown Planks,Star Sign
 423-10,0.15,3168,87.14,https://magiceden.io/item-details/FZCmbGNeaWzyMsVwvxGwgDKjR9BVbp753vuYqfXQJ71m,Purple2,Futuristic Cornered Desk,Cobblestone,,,10,Trading Supplies,Gecko Terrarium,423,Peach,Concrete,Candles Shelf
 423-18,0.75,414,92.23,https://magiceden.io/item-details/8FBpiM4JwJ9o1XqaCNtikkps1g2xGwC9uywnowjbQWDL,Green2,Weightrack,Lightgray Wood,Fish,,18,Balanceball,Waterbottle,423,Black,Adobe,Gray Clock
+423-17,2.69,4849,54.97,https://magiceden.io/item-details/CURdbN7UQD1hTsrgWi3akA3vA5R5PHimEhh5rBXAAbgE,Blue2,Poker Round Table,Gold Tile,Cotton Rug,,17,,Bigbrain,423,Green1,Orange Crystal,
 423-17,2.69,4849,54.97,https://magiceden.io/item-details/CURdbN7UQD1hTsrgWi3akA3vA5R5PHimEhh5rBXAAbgE,Blue2,Poker Round Table,Gold Tile,Cotton Rug,,17,,Bigbrain,423,Green1,Orange Crystal,
 423-2,4,5797,38.06,https://solanart.io/nft/7TGVjqw7TC3SceBhFh8BU8KpzsEkfjgh2jojTgXYM43X,Yellow,Gray Deskwchair,Void,Fish,,2,Bike,,423,Red,Silver Bricks,Clapperboard
 423-19,5,9547,12.95,https://solanart.io/nft/7xMS2mzZp6n2BesAsRDCJWkTmtmT7X7jhS8zCYr8megA,Green2,Black Chairwplant,Carpet,,,19,Hotpottable,,423,Black,Forest Tree,
