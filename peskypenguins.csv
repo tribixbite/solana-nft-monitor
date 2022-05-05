@@ -245,6 +245,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Beak,Body,Eyes,
 3178,9.5,6143,36.28,https://magiceden.io/item-details/8kocdFs2QwWHxGq94TFLUwc9ZncEnuqqw6b4HE9RzDUw,None,Greyteal,None,None,Eye Patch,None,Skeleton
 3222,6.89,7142,57.73,https://magiceden.io/item-details/AZ2YeQqA4m9JiQsp9Erz7hXsNzMrPVD4SXZZ4h6bkuEB,None,Greyteal,None,Life Saving Tube,Normal,Tiara,Green
 3251,6.2,5905,70.39,https://magiceden.io/item-details/8rzgcewBQpdde5GsFzF5R2LCVARAVqR6WE3eAPFcb3f2,None,Greyteal,None,Kimono,Surprised,Vampire Hair,Green
+3253,11.44,450,43.4,https://magiceden.io/item-details/HhYMNsfjJQoySJtHv2zoS9tskBENuwgZpyVHwwMTD3tT,None,Violet,Joint,None,Superhero,Black Mohawk,Purple
 3266,8,7790,43.61,https://magiceden.io/item-details/p88hXKQ39m8YoViz8jpogP6n2ryLoGzxrREDBfx9e4U,None,Greyteal,None,Bathrobe,Normal,None,Robot
 3325,38,6950,0,https://magiceden.io/item-details/8Mqb8HyQ7epH3DVjvm7h3YQjEwF6mEoxk69fvsf2vt16,None,Greyteal,None,None,Big Shades,Cap Backwards,Orange
 3328,10,595,57.13,https://magiceden.io/item-details/ffusamDuzkcXet6vceT9nrVoi1Kbhp6jefwacvHVwvs,None,Cocoa,None,Bathrobe,Closed Eyes,Pirate Bandana,Skeleton
@@ -404,7 +405,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Beak,Body,Eyes,
 5065,10.32,6459,26.61,https://magiceden.io/item-details/DvbN6NHQFpQQ7wNwjrPNDEmivCgSJd1FQvSXHTFnpyN7,None,Greyteal,None,Hi-Vis Vest,Normal,Crown,Black
 5081,9.65,1324,57.23,https://magiceden.io/item-details/Fkkum1KhMYNZ1ia1cjm7CUA6pk5V7Fb4433J9tqwhTK,None,Greyteal,None,Hi-Vis Vest,Big Shades,Black Mohawk,Skeleton
 5106,11,4756,27.74,https://magiceden.io/item-details/83vY97E5XyS7ricy1NCQsuxVqh1SX1BsNyYPtvxkj1iR,None,CoolBlue,None,Hi-Vis Vest,Normal,Feather Headband,Robot
-5112,7,4195,70.36,https://magiceden.io/item-details/CkdmEfm3eTrGYXmUqUrz41im7Z6rgQLaJH2r4NTSHeVz,None,CoolBlue,None,Kimono,Normal,Red Crazy Hair,Robot
+5112,5.99,4195,80.46,https://magiceden.io/item-details/CkdmEfm3eTrGYXmUqUrz41im7Z6rgQLaJH2r4NTSHeVz,None,CoolBlue,None,Kimono,Normal,Red Crazy Hair,Robot
 5144,12,8352,0.99,https://magiceden.io/item-details/CKxVKNHBYiwwraVERJZM5BcrK7FbsBX3Yepbkzb2q2wD,None,Cocoa,None,None,Closed Eyes,None,Black
 5147,69.42,500,0,https://magiceden.io/item-details/FYtGsC2Y8RqCxSDhBMNzmXZzDn2zMxKwqfWfsbxNdCz5,None,Greyteal,Warforged,None,Sunglasses,Black Mohawk,Black
 5157,16,6543,0,https://magiceden.io/item-details/dGNwRKsBs2fKxZHJuzyDttyDzLrvfZzwyWsvDssmyys,None,CoolBlue,None,None,Surprised,Bandana,Green
@@ -460,7 +461,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Beak,Body,Eyes,
 5892,7,1985,80.65,https://magiceden.io/item-details/68RQLuVW3Vhbp9TWavyDSXFH3fcFSVwMqv8SGyynVe9i,None,CoolBlue,Cigarette,Life Saving Tube,Regular Shades,Cap Backwards,Black
 5894,18,674,0,https://magiceden.io/item-details/45nqrfZHKNszAMygmvwpBUwkR7GuzSQL9zt6pc4Hj5Pv,None,Violet,Cigarette,Dog Leash,Normal,Tiara,Zombie
 5895,7,8184,51.77,https://magiceden.io/item-details/6XQZWk5VQimxXEGi8M36NMEWdgrgN91HKhsoYP63acNu,None,Greyteal,None,None,Normal,Tiara,Green
-5899,6.6,165,93.13,https://magiceden.io/item-details/GfJkrPdFU2vioBhz2Uscd8PdUtnghth4xSRH7LExH8bS,Earring,Cocoa,None,Tuxedo,Closed Eyes,Police Cap,Orange
 5909,150,2030,0,https://magiceden.io/item-details/H7csDRTh21RedyAyCUnz9iWLg4aLh6gLyhyJQtJ3juWD,None,Greyteal,None,Black Suit,Regular Shades,Tiara,Green
 5928,7.7,1396,76.4,https://magiceden.io/item-details/QfiTZ4rQbrK85tKufn62bmXrUmegaNJzh9MFuAHLUKm,None,Greyteal,None,Tuxedo,Wink,Vampire Hair,Skeleton
 5937,13.37,4975,3.02,https://magiceden.io/item-details/HMHNhVfyRQBwjvXCw6Pphq9EzL8reWva2Vt1o3KxoM7e,None,Greyteal,None,Hi-Vis Vest,Relaxed,Vampire Hair,Green
@@ -523,7 +523,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Beak,Body,Eyes,
 6712,299,11,0,https://magiceden.io/item-details/5zKETffAFRySvmA37Rfvou3cQktzTnoQ59jwY2DMM75b,Earring,CoolBlue,Mask,Life Saving Tube,Wink,Crown,Blue
 6752,7,6480,59.71,https://magiceden.io/item-details/66PnbnzSzmCRPZnqdqX7JTJ4emqG837UHLvdtU4ZsXr7,None,Cocoa,None,Hi-Vis Vest,Normal,Feather Headband,Black
 6759,22,685,0,https://magiceden.io/item-details/E1WnyXiZByg9BHJ6zaCEFWxSi2nUFr48uhqJDF3RdLrJ,Earring,Violet,None,Hi-Vis Vest,Normal,Pirate Bandana,Black
-6778,6.09,3961,80.55,https://magiceden.io/item-details/DBRMTXWbm8kE4cXMjyk6pyBSn9qd69RSQFmynfU5D3Ki,None,Greyteal,Vape,Black Suit,Normal,Fedora,Green
 6785,7,4242,70.14,https://magiceden.io/item-details/83i5KwvufLJb5vW4SBARubSgUGsSbZWamFEXHyecDhF1,None,CoolBlue,None,None,Cyclops Visor,Cap Forward,Orange
 6787,26.96,5619,0,https://magiceden.io/item-details/7jwth2nA6rX7zUmKb3jYoUHHrr5TiPVoUC5ahKiLPr56,None,CoolBlue,Warforged,None,Normal,Cap Forward,Robot
 6803,6,5165,75.84,https://magiceden.io/item-details/BxAo1uMPRaCmmVnPCc7d4Mshz4tkaii5AWnKeA3Jayha,None,Solana,None,Black Suit,Surprised,None,Orange
@@ -669,6 +668,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessories,Background,Beak,Body,Eyes,
 8648,25,1209,0,https://magiceden.io/item-details/AW87mqjt3A37y7XXFYxPs3fJZjQu7KjaBUi1NjGXm4tQ,None,Cocoa,Vape,None,Big Shades,Bandana,Blue
 8650,8.77,5493,46.61,https://magiceden.io/item-details/HZMxJ7yvxsRQ16p5VKB5zaZnmkq7Ss3htgyVwwBrUegA,None,Cocoa,None,Hi-Vis Vest,Normal,Feather Headband,Purple
 8680,30,1909,0,https://alpha.art/t/GURmrAZVzR5W8hUeTVQYHmii4JyMx5PjL4LDvNNnb6Mk,None,Violet,Vape,None,Wink,Police Cap,Black
+8681,5.99,1210,94.36,https://magiceden.io/item-details/G9htiaRJSLHSffnBFfjDmuzTZmkU19gMFQGhSsgAJsPJ,None,Solana,None,Kimono,Regular Shades,Burning Head,Green
 8712,13,4846,7.32,https://alpha.art/t/5s7MGNbavmYLeCkz2JtGULW5EJr48dTgh1MzqD8sAU3p,None,Violet,None,Bathrobe,Normal,Mohawk Thin,Black
 8715,9,3713,52.6,https://magiceden.io/item-details/A6YbsEKGquNaHzj8FRtGQB4jnRyfm8HoGUhVC4UaFm5y,None,CoolBlue,Cigarette,Kimono,Normal,Police Cap,Blue
 8719,12,8211,1.65,https://magiceden.io/item-details/4jEew1Vi3846LYG6gKJPepjeWcT6oH8D3UC8GEUKDCGW,None,Greyteal,None,Dog Leash,Normal,Fedora,Green
