@@ -5,7 +5,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 41,95,1730,0,https://magiceden.io/item-details/GFYBC2hAz3hUR3nSbKpDPuFFziPRY4ruSumCgNmhEdad,Base Background,Jean Jacket,Aave Glasses,Clementine Hair,No Trait,Cat Mask,No Trait,Solana Blob,Aurorian
 78,999,341,0,https://solanart.io/nft/FeVV93jve8j8UnL8yHnXFHot3mvfsx2ZnbTSXWaGEjXg,Base Background,No Trait,No Trait,Blond Hair Attached,No Trait,Cat Mask,Shark Necklace,Golden Blob,Aurorian
 178,1000,2024,0,https://solanart.io/nft/DFER2nWvvGsxfxVnnM2kn1hGJefTvtw3PiPAQL38gtq8,Soft Blue,Polo,Blue Skull Glasses,Combed Haircut,No Trait,Base Mouth,Solana Necklace,Human,Aurorian
-193,51.400002,9943,6.2,https://solanart.io/nft/CQzsqqiWzWxNwant5iPYcGSNEdUSJ1SPjbQzYnbQvgt1,Base Background,Base Cloth,Base Eyes,No Trait,No Trait,Base Mouth,Solana Necklace,Human,Aurorian
+193,51.400002,9943,16.2,https://solanart.io/nft/CQzsqqiWzWxNwant5iPYcGSNEdUSJ1SPjbQzYnbQvgt1,Base Background,Base Cloth,Base Eyes,No Trait,No Trait,Base Mouth,Solana Necklace,Human,Aurorian
 242,78,7750,0,https://magiceden.io/item-details/93pVGKtDs7fWemgD7S4bansEYS1euJ2s7nGq8gLrgMMR,Base Background,Overalls,No Trait,No Trait,No Trait,Base Mouth,Aurory Necklace,Solana Blob,Aurorian
 251,150,3691,0,https://solanart.io/nft/HU4a55PUUrRxM4JgiADbmZkqaawgnkByRrTHVjGzi7YM,Base Background,Yellow Stripes,Green,No Trait,Crown,Zipper Mask,No Trait,Human,Aurorian
 260,260,1388,0,https://magiceden.io/item-details/3NPvRjNer5kFXMTbMcgra77JY1nGNtgH13wueYBV23if,Base Background,No Trait,Aave Glasses,Green Hair,No Trait,Paint Mask,No Trait,Solana Blob,Aurorian
@@ -43,6 +43,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 774,66,7300,0,https://solanart.io/nft/Gjvoh3SQgZP22KMX94M2SDMjUwzLW9DqDTx869zqikUW,Soft Blue,Jacket,Steampunk Glasses,No Trait,No Trait,Base Mouth,No Trait,Human,Aurorian
 778,150,6108,0,https://solanart.io/nft/Dnj74mqRzrzbQ72ue1uheNut7WVx2GThQ85jJCCU2n6J,Base Background,Zzoo Outfit,Base Eyes,Curly,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 783,68.88,3486,0,https://magiceden.io/item-details/wCpfMwn9pzR9DVFnxyT6JVvn1kCQZxpWwEibdQoTxNd,Base Background,Shoulder Straps,Base Eyes,Clementine Hair,Beret Hat,Base Mouth,No Trait,Human,Aurorian
+788,70,895,0,https://magiceden.io/item-details/9xxHdU6RRrv3e8t261TAb3Csz3wFDa5SbSh56kgfF6wv,Gradient Blue,Bitebit Outfit,Red Eyes,Zero Two Hair,No Trait,Grin,No Trait,Human,Aurorian
 839,140,1316,0,https://magiceden.io/item-details/5iYNfzCgVU7WfX2AhradQz25n67sZfHZkX9itMFJwTcv,Soft Blue,No Trait,No Trait,No Trait,Sam Hat,Base Mouth,No Trait,Solana Blob,Aurorian
 875,70,6955,0,https://solanart.io/nft/GgXiYtqjWP46dqvHNNTKPazvvssmxNXVUdfhNpPy5hAT,Base Background,Yellow Stripes,Base Eyes,Playmobil,No Trait,Base Mouth,Solana Necklace,Human,Aurorian
 896,99,7787,0,https://solanart.io/nft/GbTcdqDeGHWnVZKAzAQnSEhxwEr8sbzTgf8NsrdtNEXx,Base Background,Leather Jacket,No Trait,No Trait,No Trait,Base Mouth,No Trait,Solana Blob,Aurorian
@@ -135,7 +136,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 2080,100,4891,0,https://magiceden.io/item-details/CPm4GhBscLuUESudunmTukP9i7sS2VvV62YC3Ehwp9iV,Base Background,No Trait,No Trait,Combed Haircut,No Trait,Base Mouth,No Trait,Solana Blob,Aurorian
 2087,80,7607,0,https://solanart.io/nft/AAmfasq3kLacCTjQcrkKMinAQQ8PLK3tZ6LassiDzCzb,Base Background,Jacket,Green,No Trait,No Trait,Zipper Mask,Aurory Necklace,Human,Aurorian
 2093,94,8849,0,https://solanart.io/nft/ZaDDjcwK46YpQxh4evLQnvykCBN4x1rQCqnKxj617YR,Base Background,Base Cloth,Green Eyes,Zero Two Hair,No Trait,Base Mouth,No Trait,Human,Aurorian
-2099,130,2729,0,https://magiceden.io/item-details/412dJDC6jmUJkB3ZcfhsF7mTEAYcdqFg4UfrRewjbaUd,Base Background,Dracurve Outfit,Green,Brown Dreadlocks,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
+2099,110,2729,0,https://magiceden.io/item-details/412dJDC6jmUJkB3ZcfhsF7mTEAYcdqFg4UfrRewjbaUd,Base Background,Dracurve Outfit,Green,Brown Dreadlocks,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 2185,68,4757,0,https://magiceden.io/item-details/AYbzZ4sGngimuVPSFm1GK4xa8oci8vBYyAWBMwexFYXV,Base Background,Base Cloth,Viper Shades,Combed Haircut,Moogle,Base Mouth,Aurory Necklace,Human,Aurorian
 2213,270,4565,0,https://solanart.io/nft/2sx9j2H8H4GQoEwHfWHKeQ4s7K9fVHzTCDe4WzzoAqay,Base Background,Base Cloth,Green,No Trait,Helios Hat,Base Mouth,No Trait,Human,Aurorian
 2222,59,9182,0,https://magiceden.io/item-details/H26dJhdvDYiDn4ekf4qc1J2rcA95xdCxWfNkEcsV6Y2Q,Base Background,Puffy Jacket,Steampunk Glasses,No Trait,No Trait,Base Mouth,No Trait,Human,Aurorian
@@ -203,7 +204,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 3470,199,3470,0,https://magiceden.io/item-details/6mKVQ715FTyq48T74h5EDgFCuMbwGQKqJZVmXsYaK3wS,Base Background,Dracurve Outfit,Green,No Trait,No Trait,Lollipop,No Trait,Human,Aurorian
 3471,268.989899,1937,0,https://solanart.io/nft/C3uBg3HmhfvfgZkNX69KU8CoCXG8v1QZ2kaeaX6AwPJo,Base Background,Leather Jacket,Viper Shades,Green Hair,No Trait,Base Mouth,Aurory Necklace,Zombie,Aurorian
 3476,176,4356,0,https://magiceden.io/item-details/Bt6AKmvF2y23Wg82hg3qp4h8RW4JM3fCPnyQ8n79iuh2,Base Background,Black Hoodie,Base Eyes,Undercut,No Trait,Plague Mask,Solana Necklace,Human,Aurorian
-3491,50,1209,55.16,https://solanart.io/nft/DuGsQoA6MeC1dPTykhDvuZjAnHPht7KXrfQ2uz6w7Z5S,Soft Blue,Puffy Jacket,Green,No Trait,Big Crown,Oni Mask,Aurory Necklace,Human,Aurorian
+3491,50,1209,65.16,https://solanart.io/nft/DuGsQoA6MeC1dPTykhDvuZjAnHPht7KXrfQ2uz6w7Z5S,Soft Blue,Puffy Jacket,Green,No Trait,Big Crown,Oni Mask,Aurory Necklace,Human,Aurorian
 3525,600,2275,0,https://magiceden.io/item-details/GyJQUpSuB36woyRpEERcBkd27nvjiiKcDBaS8Rc2YKJV,Base Background,No Trait,No Trait,No Trait,No Trait,Oni Mask,No Trait,Zombie,Aurorian
 3530,600,264,0,https://magiceden.io/item-details/C87aJWAKfRxR79vGNDoWYdDXbhthDota3y5EHmtnjdz9,Soft Blue,Open Leather Jacket,No Trait,No Trait,Gavroche Hat,Base Mouth,Aurory Necklace,Solana Blob,Aurorian
 3543,60,3972,0,https://magiceden.io/item-details/FxkyihxVo7cpbuRrYWAmiu6bLrnfc3P4gxeJASSv3DpL,Base Background,Base Cloth,Red Eyes,No Trait,Crown,Steampunk Mask,Flower Necklace,Human,Aurorian
@@ -225,7 +226,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 3728,155,2504,0,https://solanart.io/nft/47FxfsXXxCGUv8JUf6dpz7BrZpXUQxWYSR6RPJX6rFdN,Base Background,No Trait,No Trait,No Trait,No Trait,Steampunk Mask,Flower Necklace,Solana Blob,Aurorian
 3735,100,6326,0,https://magiceden.io/item-details/GBYQBMzi55W1B6QU988v6E9qFRu2H592vXNMyjvtKsNN,Base Background,Base Cloth,Black Eyes,White Hair,No Trait,Big Smile,No Trait,Human,Aurorian
 3758,199,2881,0,https://magiceden.io/item-details/5aqn7AsTwRFf1o8uVGpjDr4BfDrmTeRp747Bxp8v8Aa4,Base Background,Axobubble Outfit,Base Eyes,Undercut,No Trait,Grin,Shark Necklace,Human,Aurorian
-3779,51,4905,30.37,https://solanart.io/nft/32hDcgBmbyyJd8QfVJw7Jjy1cvapksESewihEJBG74MK,Soft Blue,Base Cloth,Base Eyes,No Trait,Doughnut Hat,Angry,Aurory Necklace,Human,Aurorian
+3779,51,4905,40.37,https://solanart.io/nft/32hDcgBmbyyJd8QfVJw7Jjy1cvapksESewihEJBG74MK,Soft Blue,Base Cloth,Base Eyes,No Trait,Doughnut Hat,Angry,Aurory Necklace,Human,Aurorian
 3808,987,278,0,https://solanart.io/nft/7VXdvmQP4p1NUSmsWtophEvHNjJ2e7YKPwsS9DDieR7z,Base Background,Leather Jacket,Heart Glasses,Pigtails,No Trait,Barely Angry,No Trait,Golden Blob,Aurorian
 3844,72,8245,0,https://solanart.io/nft/4CkW6hfAuxw4eCEuTmPdK8msVQB56LCn6bwd61GsYf4f,Base Background,Base Cloth,Blue Skull Glasses,No Trait,No Trait,Plague Mask,Flower Necklace,Human,Aurorian
 3859,120,4081,0,https://magiceden.io/item-details/5G5FvmAez6yLnQ9zvVQPS7KQeJKCHbkUnxSqxEzjSwDi,Base Background,Base Cloth,Cat Eyes Black,Pigtails,No Trait,Grin,Shark Necklace,Human,Aurorian
@@ -324,7 +325,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 5370,270,2553,0,https://solanart.io/nft/8XcR9EvhTR337VWJpYvEF8Efp8xnL9ZgP2tx76iXTuUL,Base Background,Polo,Black Eyes,No Trait,Beret Hat,Paint Mask,No Trait,Human,Aurorian
 5378,148,221,0,https://solanart.io/nft/AQkgSXG1nCKWW3PWqijvUSWJpmhcxTr4DbJm4MgFHiFB,Lagoon,Puffy Jacket,Green Eyes,No Trait,Dragon Hat,Steampunk Mask,No Trait,Human,Aurorian
 5381,54.99,2185,1.35,https://magiceden.io/item-details/HB2Ky1MrYcfafcvrth6YTAStQDanF6RaiSfF4QE7uzBx,Soft Blue,Polo,Black Eyes,Shaved,No Trait,Plague Mask,Aurory Necklace,Human,Aurorian
-5449,46.69,7146,64.5,https://magiceden.io/item-details/FotRhfEg8R87A6vD5W6VW4aXh6Aup3xDtCt1s2hrDSPf,Base Background,Base Cloth,Green,Blond Hair Attached,No Trait,Zipper Mask,Aurory Necklace,Human,Aurorian
 5451,99.989998,3195,0,https://solanart.io/nft/7q4cMeXTBxKvepbnnVqzzm7b6S1RvVqsv7qcXvTmvLPJ,Base Background,Polo,No Trait,No Trait,Witch Hat,Base Mouth,No Trait,Solana Blob,Aurorian
 5452,888,333,0,https://solanart.io/nft/5WJWmbeZvd1TVCeMLwihpeJ14VG9EuBEapSMA59q8CN2,Blue,No Trait,No Trait,No Trait,No Trait,Lollipop,Aurory Necklace,Zombie,Aurorian
 5455,88,3524,0,https://solanart.io/nft/FikvidTFK9kbbt4x28k2BUXGGZ3ZRbw7qfo9Hty5ArYV,Base Background,No Trait,No Trait,No Trait,Feather Hat,Base Mouth,No Trait,Solana Blob,Aurorian
@@ -343,6 +343,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 5660,160,2232,0,https://magiceden.io/item-details/3J3vUuhLJJCA8aakvT18dcRfNZFqAT5dm341Fm9yDC1f,Lagoon,Base Cloth,Base Eyes,No Trait,Axobubble Hat,Base Mouth,Shark Necklace,Human,Aurorian
 5660,160,2232,0,https://solanart.io/nft/3J3vUuhLJJCA8aakvT18dcRfNZFqAT5dm341Fm9yDC1f,Lagoon,Base Cloth,Base Eyes,No Trait,Axobubble Hat,Base Mouth,Shark Necklace,Human,Aurorian
 5667,164,6577,0,https://solanart.io/nft/7WGFdeMc5vwkxQKAYreghDgJTTm19fi963LSBuTwm76w,Base Background,Polo,Steampunk Glasses,No Trait,No Trait,Base Mouth,Aurory Necklace,Solana Blob,Aurorian
+5670,47.990002,6469,64.21,https://solanart.io/nft/7XkyUonHhh7eBHyY4AMnjSqWjBpFS2bjnr9eD8VgvNYi,Base Background,Jacket,Red Eyes,No Trait,Cute headphone,Base Mouth,Aurory Necklace,Human,Aurorian
 5680,57,9954,0,https://magiceden.io/item-details/FkoXF18ZkxS9w29EMmUdxb2n5nWQh72Xye7AYm8zSHGn,Base Background,Base Cloth,Heart Glasses,No Trait,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 5685,650,273,0,https://solanart.io/nft/f1AJbt1bnFzak1ZX2WmS1oAFRhHMAYs4Fu3w58iDiZH,Gradient Blue,Classy Outfit,Aave Glasses,Playmobil,Cute headphone,Paint Mask,No Trait,Human,Aurorian
 5686,207,1554,0,https://solanart.io/nft/CrPiJWhWvVBNNjHPo65UYAHku8SkhjQJg3STyCRJMWW1,Gradient Blue,Jean Jacket,No Trait,No Trait,No Trait,Grin,Shark Necklace,Solana Blob,Aurorian
@@ -365,7 +366,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 6053,169,6710,0,https://solanart.io/nft/EZZkgpWZkSPNYbL3waKDkHJ6YaaxNN45TUo4cPQJQktt,Base Background,Sam Outfit,Base Eyes,Playmobil,No Trait,Base Mouth,No Trait,Human,Aurorian
 6071,1250,729,0,https://solanart.io/nft/5njdvccj6TY3A73moinzL7krfXVsqv7BVGRHgG1RTGvd,Soft Blue,Puffy Jacket,Green Eyes,Shaved,No Trait,Paint Mask,Flower Necklace,Human,Aurorian
 6097,140,2062,0,https://solanart.io/nft/4goGpVr5NazTagdyPGyqL7sj3Fq4aUi5oCitfQPrGQvn,Base Background,No Trait,Steampunk Glasses,Combed Haircut,No Trait,Base Mouth,Flower Necklace,Solana Blob,Aurorian
-6098,47,6084,65.65,https://magiceden.io/item-details/9pC1U9qpQXuWZryRuqvZPRp68LC7MzX4NzTth1L7aRPw,Soft Blue,Base Cloth,Base Eyes,Brown Dreadlocks,No Trait,Bane Mask,No Trait,Human,Aurorian
 6107,75,8395,0,https://magiceden.io/item-details/3ZzfA6oJSzmG1Fhkw4gHe14ScxYiveJuRxoEd8daqJnT,Base Background,Classy Outfit,Base Eyes,White Hair,No Trait,Base Mouth,No Trait,Human,Aurorian
 6116,48,2528,69.88,https://magiceden.io/item-details/HxHMjqnUaQk9Eowmth1mbxq6bjE9rhQtUSx4QyEdcSEg,Gradient Blue,Polo,Base Eyes,No Trait,Crown,Bane Mask,No Trait,Human,Aurorian
 6119,175,2301,0,https://magiceden.io/item-details/9EBHepLagKL99Y54DrB5pTgRDHuDqVGYuCD5eArSZa7t,Base Background,Leather Jacket,Cat Eyes Red,No Trait,Jotaro Cap,Base Mouth,Shark Necklace,Human,Aurorian
@@ -381,7 +381,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 6213,65,8139,0,https://magiceden.io/item-details/Hzrz3yFqhqrMWmGjWxTMVHpSJZYbBGJKYWiddrtH7n8y,Base Background,Helios Outfit,Base Eyes,No Trait,No Trait,Base Mouth,Shark Necklace,Human,Aurorian
 6236,125,8177,0,https://solanart.io/nft/2gekaYqJPoVicQge1UuW72tMkFzuAhpHcimeQJXw5iZF,Base Background,Base Cloth,Base Eyes,Long Blob Hair,No Trait,Cat Mask,No Trait,Human,Aurorian
 6250,95,1456,0,https://solanart.io/nft/6PhvNsobur4B4P1rcJkc7DqVSBQp5c2RFGqRdFN2wVS4,Base Background,Jacket,Aave Glasses,No Trait,Big Crown,Grin,Solana Necklace,Human,Aurorian
-6280,46,9549,61.78,https://solanart.io/nft/CkSBUSXTn4RNpw4uxoZhwTY3YPoUThNFEtN8xwHzBnh2,Base Background,Base Cloth,Red Eyes,No Trait,No Trait,Bane Mask,Aurory Necklace,Human,Aurorian
+6280,48,9549,51.78,https://solanart.io/nft/CkSBUSXTn4RNpw4uxoZhwTY3YPoUThNFEtN8xwHzBnh2,Base Background,Base Cloth,Red Eyes,No Trait,No Trait,Bane Mask,Aurory Necklace,Human,Aurorian
 6311,2888,1324,0,https://solanart.io/nft/5D86vtZbszMfdcb8YfG34EtbEpojPBKFyBRcmgG6qWjA,Base Background,No Trait,No Trait,No Trait,Gavroche Hat,Bane Mask,No Trait,Solana Blob,Aurorian
 6318,99,2011,0,https://solanart.io/nft/3MG8xgz6SwG7517e94VNoocEfPpeAaYZX5gAGHRLKjhJ,Lagoon,Jacket,Cat Eyes Red,No Trait,No Trait,Oni Mask,No Trait,Human,Aurorian
 6349,249,4312,0,https://magiceden.io/item-details/3VPv62gic1wuj6xCPsLBJc27dYVArwvUTPRFVj3ppepR,Base Background,Dinobit Outfit,Cat Eyes Red,No Trait,No Trait,Plague Mask,No Trait,Human,Aurorian
@@ -413,7 +413,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 6674,68,8149,0,https://solanart.io/nft/HLgzg7GvKEeTAodGmkpXU2CYhscdyWAZpEfjTf5fVWJb,Base Background,Base Cloth,Base Eyes,No Trait,Phantom Cap,Oni Mask,No Trait,Human,Aurorian
 6680,50,7660,29.34,https://magiceden.io/item-details/CEWNAdZg5vipETUYyCxcHVY23zS314RArH2qyF6Mxund,Base Background,Base Cloth,Cat Green Pupil,No Trait,Feather Hat,Base Mouth,Aurory Necklace,Human,Aurorian
 6690,100,1972,0,https://solanart.io/nft/DSD7y5XBzv9JKB4QCwtgfR7SrWDXhDuW58xYp4Dyk4g3,Base Background,No Trait,No Trait,Shaved,No Trait,Lollipop,No Trait,Solana Blob,Aurorian
-6708,71,3194,0,https://magiceden.io/item-details/AMxB8Z584XJfkkxnmBGt8gHj7XC6fLBi9h1N8E3YDPVi,Base Background,No Trait,No Trait,Undercut,No Trait,Base Mouth,Shark Necklace,Solana Blob,Aurorian
 6715,128,2061,0,https://magiceden.io/item-details/33kfLJzBXNQxWrN251in4qSe8au3e43isrzoiU7QTkA6,Soft Blue,Dinobit Outfit,Viper Shades,Zero Two Hair,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 6715,128,2061,0,https://solanart.io/nft/33kfLJzBXNQxWrN251in4qSe8au3e43isrzoiU7QTkA6,Soft Blue,Dinobit Outfit,Viper Shades,Zero Two Hair,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 6746,150,2400,0,https://solanart.io/nft/2ijkdUPJxEhdE5fFhtDsq8CqbEgAJbDVwmW3PBnrKpdQ,Base Background,Green Sweater,Blue Skull Glasses,Purple Dreadlocks,No Trait,Big Smile,Aurory Necklace,Human,Aurorian
@@ -438,7 +437,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 7088,129,1406,0,https://solanart.io/nft/F1bF6QoD5JX9fDcZMZVGZ4NQx5GcFnddpxap8CmfSaPb,Soft Blue,Dipking Outfit,Red Eyes,No Trait,No Trait,Big Smile,Flower Necklace,Human,Aurorian
 7125,500,2404,0,https://solanart.io/nft/DmkZ4GvS37WP3YaaYCXtDXWgqy976xJeyWtLX1weG4gZ,Base Background,Shoulder Straps,No Trait,No Trait,Cute headphone,Base Mouth,No Trait,Solana Blob,Aurorian
 7139,159,3323,0,https://magiceden.io/item-details/BSxJHjdQEdmtA8XLMSqgvHBBD9YbGHnpGyJ7zasgXhca,Base Background,Jacket,Base Eyes,No Trait,Axobubble Hat,Base Mouth,Flower Necklace,Human,Aurorian
-7161,50,8875,24.48,https://solanart.io/nft/57eTWy5iQT8MUry2wwpknv9HMGv8GLmZxPAbLcm191Dt,Base Background,Base Cloth,Steampunk Glasses,Shaved,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
+7161,50,8875,34.48,https://solanart.io/nft/57eTWy5iQT8MUry2wwpknv9HMGv8GLmZxPAbLcm191Dt,Base Background,Base Cloth,Steampunk Glasses,Shaved,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 7168,83,5236,0,https://solanart.io/nft/3dBfKzjRPcfFNdgshvHKSFBbSSP8TsEtepcVYzhLGv4H,Base Background,Classy Outfit,Steampunk Glasses,No Trait,Twitter Hat,Base Mouth,Aurory Necklace,Human,Aurorian
 7173,90,969,0,https://solanart.io/nft/7he2z6SFUFJQiT2Mrtc7PciF79gd26GyiaJQPWWZF8Vi,Soft Blue,Leather Jacket,Blue Skull Glasses,No Trait,Crown,Zipper Mask,Shark Necklace,Human,Aurorian
 7175,75,7344,0,https://solanart.io/nft/8TivP1zfZWhnygyPCydu8e8UykttJK7M89cC84wZfwCa,Base Background,Pink Stripes,Base Eyes,Combed Haircut,No Trait,Cat Mask,Aurory Necklace,Human,Aurorian
@@ -459,10 +458,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 7542,80,3329,0,https://magiceden.io/item-details/3yeghv6PYWVgEVqjAURQn86DYZnvTB7R369M7AeZ2N8x,Base Background,Pink Stripes,Base Eyes,Clementine Hair,Luffy Hat,Base Mouth,Aurory Necklace,Human,Aurorian
 7561,75,6278,0,https://magiceden.io/item-details/6xBLniWr7UmDor516JpGvnjD7Musj9QaGo1Ev1ZKApcP,Base Background,Black T-Shirt,Base Eyes,Shaved,No Trait,Lollipop,Aurory Necklace,Human,Aurorian
 7574,111,4747,0,https://solanart.io/nft/B2MKqDSAnG8QHYieeSp1MHGHDK8t11EyC1w644p52w7F,Soft Blue,Black Hoodie,Base Eyes,Pigtails,No Trait,Cat Mask,No Trait,Human,Aurorian
-7579,52.400002,6882,8.46,https://solanart.io/nft/2qX8w4E6rKqv4oXVwL3jVRuyULr6je92QFN7ohgia5vt,Soft Blue,Black T-Shirt,Cat Eyes Red,No Trait,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
+7579,52.400002,6882,18.46,https://solanart.io/nft/2qX8w4E6rKqv4oXVwL3jVRuyULr6je92QFN7ohgia5vt,Soft Blue,Black T-Shirt,Cat Eyes Red,No Trait,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 7585,77,3507,0,https://solanart.io/nft/H28UBksHfh4FoTzyGK6y2ZazCDTFfBYJprZwJodk1cE3,Base Background,Shoulder Straps,Green,Long Blob Hair,No Trait,Base Mouth,No Trait,Human,Aurorian
 7612,64,4279,0,https://magiceden.io/item-details/58viJM1G2hkx2j2r7P281U8RaLuAHwuYm5GKxtYVRFQc,Base Background,Pink Stripes,Green Eyes,No Trait,No Trait,Steampunk Mask,Flower Necklace,Human,Aurorian
 7626,199,1391,0,https://solanart.io/nft/Dz2uQnhN5gZFGedqcydWt8vZVe3z3ffXMJcGLmdNnPHK,Base Background,Base Cloth,Aave Glasses,Curly,Beetlefox Hat,Cat Mask,No Trait,Human,Aurorian
+7635,49,1975,72.1,https://solanart.io/nft/5QnxLFhJaUsmGeimZptsiwhpmZfgP7a7aAnUDhK5VWav,Gradient Blue,Base Cloth,Black Eyes,Green Hair,No Trait,Grin,Solana Necklace,Human,Aurorian
 7644,200,619,0,https://solanart.io/nft/FyXG3Xx54vEoYD7a23N8zuWQbxVVAj5TVEv7AUjyU2ZV,Base Background,Bitebit Outfit,Aurory Glasses,Combed Haircut,Feather Hat,Base Mouth,Aurory Necklace,Human,Aurorian
 7648,110,3110,0,https://solanart.io/nft/EQyZDquxZPPrMXr3R1C7d96N8mX4FjG8rzFWtG6SZB7U,Soft Blue,Base Cloth,Blue Skull Glasses,No Trait,Zzoo Hat,Base Mouth,No Trait,Human,Aurorian
 7662,75,520,0,https://solanart.io/nft/3vuQMevCZD89hb5g12mzrptsuoEVJPmMYWe4CyKkgp6Q,Soft Blue,Leather Jacket,Cat Eyes Black,Playmobil,No Trait,Paint Mask,Shark Necklace,Human,Aurorian
@@ -474,7 +474,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 7776,60,3947,0,https://magiceden.io/item-details/6qFemyXtQZEpRuUPG6cPvagBkTMXBzPf7aMh4i9GBt8J,Base Background,Leather Jacket,Cat Eyes Red,Green Hair,No Trait,Zipper Mask,Aurory Necklace,Human,Aurorian
 7777,777.77002,8603,0,https://solanart.io/nft/BAdzztUQP9VJJ2pKdJEeFn3PrGQdrJVotqyzgAaPVFDz,Base Background,Puffy Jacket,Base Eyes,Zero Two Hair,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
 7817,125.42069,842,0,https://magiceden.io/item-details/DZzxL9jcqMhqY8DYxJSvbApHw9C3aLD8xuxRv3GjVjKD,Lagoon,Leather Jacket,Black Eyes,Brown Dreadlocks,No Trait,Zipper Mask,No Trait,Human,Aurorian
-7818,55,3431,0,https://solanart.io/nft/5c6ELt7237BYDQY9yydntabsejQ32HCFH5K6dToqGuoD,Lagoon,Base Cloth,Base Eyes,No Trait,Cute headphone,Oni Mask,Aurory Necklace,Human,Aurorian
+7818,55,3431,6.27,https://solanart.io/nft/5c6ELt7237BYDQY9yydntabsejQ32HCFH5K6dToqGuoD,Lagoon,Base Cloth,Base Eyes,No Trait,Cute headphone,Oni Mask,Aurory Necklace,Human,Aurorian
 7840,100,512,0,https://solanart.io/nft/E12hXNMnV5g3vajQJT6JceCH2JgcV5GEBunDeVdSum11,Base Background,Pink Stripes,Aurory Glasses,No Trait,Crown,Paint Mask,No Trait,Solana Blob,Aurorian
 7842,99,9940,0,https://solanart.io/nft/dDbYhSddadexXFHcLvP8Z36ajGcmD7eLANQeZLSAZ92,Base Background,Classy Outfit,Base Eyes,No Trait,No Trait,Base Mouth,No Trait,Human,Aurorian
 7861,200,6328,0,https://solanart.io/nft/593N2P7fMT3VJSFrep2C56L4h9YE6o2bEXNqQ5EY9m94,Base Background,Sam Outfit,Base Eyes,No Trait,No Trait,Paint Mask,No Trait,Human,Aurorian
@@ -483,6 +483,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 7912,149,4053,0,https://solanart.io/nft/68raREb4G4grMy8atvfuuazJ987gZWMwTNW9KoaKrJXG,Base Background,Classy Outfit,Red Eyes,No Trait,Gavroche Hat,Grin,Aurory Necklace,Human,Aurorian
 7919,99.989998,1124,0,https://solanart.io/nft/2kxX9D4oGsGN9p2xSA2mpVhdawK5e5c7xLZRfKWw2zmj,Base Background,Classy Outfit,No Trait,Clementine Hair,Raccoon Hat,Base Mouth,Aurory Necklace,Solana Blob,Aurorian
 7920,225,821,0,https://solanart.io/nft/4sKbzpQ2jJ9HYX3GQ9ibZo2r2GSd6Fm3brGeQjheTBHc,Soft Blue,No Trait,No Trait,No Trait,Crown,Zipper Mask,No Trait,Solana Blob,Aurorian
+7942,150,7657,0,https://solanart.io/nft/HYV4vBzuXn8rkjEzK5r2CgAESCzdZNJnVDqfCopViJLz,Base Background,Base Cloth,Base Eyes,Clementine Hair,Gavroche Hat,Base Mouth,No Trait,Human,Aurorian
 7947,58,4343,0,https://magiceden.io/item-details/2kxwuWaB7jsUuphKNAjHZwpNsHPiCQ3NFP1yLV2KGraE,Base Background,Jean Jacket,Green,Green Hair,No Trait,Big Smile,No Trait,Human,Aurorian
 7947,58,4343,0,https://solanart.io/nft/2kxwuWaB7jsUuphKNAjHZwpNsHPiCQ3NFP1yLV2KGraE,Base Background,Jean Jacket,Green,Green Hair,No Trait,Big Smile,No Trait,Human,Aurorian
 7950,125,3504,0,https://solanart.io/nft/G8pfJdCLbhhzwcuA1MgvTt3D8pAgJkpjPxfLjRDKL1g6,Base Background,Black T-Shirt,Red Eyes,No Trait,Crazy Horse Hat,Base Mouth,Aurory Necklace,Human,Aurorian
@@ -493,6 +494,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 8034,69.42,5071,0,https://magiceden.io/item-details/EA4eRvP7yd8cCJWdHXv7SApKTYRCkYjaYpmCkGEmXrtq,Base Background,Jacket,Viper Shades,Undercut,No Trait,Zipper Mask,Aurory Necklace,Human,Aurorian
 8049,300,83,0,https://magiceden.io/item-details/67eAZy6ejT6GyviKhAd4R4hyKyufrhYkAaxZemcFgZEN,Lagoon,Black T-Shirt,Black Eyes,Clementine Hair,Dragon Hat,Big Smile,No Trait,Human,Aurorian
 8054,169,121,0,https://magiceden.io/item-details/8Ftwdc1mBKJanz57qocZV54FLrk68dNYLbABjUEUjy3P,Blue,No Trait,No Trait,Combed Haircut,No Trait,Lollipop,Flower Necklace,Solana Blob,Aurorian
+8085,66.6618,9757,0,https://magiceden.io/item-details/HRtirSktTSiEt5BcuMXbHk7ZpjEBBXYeFgjuYioHZME9,Base Background,Base Cloth,Base Eyes,No Trait,Big Crown,Base Mouth,Aurory Necklace,Human,Aurorian
 8103,147.5,4488,0,https://magiceden.io/item-details/8uG158GqGq7NwryxbNQ8Xj7eZfsXRpiLoqfF3QK7Wh88,Base Background,Base Cloth,Base Eyes,No Trait,Dinobit Hat,Steampunk Mask,No Trait,Human,Aurorian
 8103,147.5,4488,0,https://solanart.io/nft/8uG158GqGq7NwryxbNQ8Xj7eZfsXRpiLoqfF3QK7Wh88,Base Background,Base Cloth,Base Eyes,No Trait,Dinobit Hat,Steampunk Mask,No Trait,Human,Aurorian
 8118,75,3964,0,https://solanart.io/nft/J6CMSHmiaBoy5LP257ome9EW2jY4HW7hFPJqSHSXeRKQ,Gradient Blue,Base Cloth,Green Eyes,No Trait,Beret Hat,Base Mouth,Shark Necklace,Human,Aurorian
@@ -507,7 +509,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 8227,109,5734,0,https://magiceden.io/item-details/59udBszfTdwN5xfftJ4493J4qqpqDnEktH7jRGF249eF,Base Background,Zzoo Outfit,Base Eyes,Zero Two Hair,No Trait,Base Mouth,No Trait,Human,Aurorian
 8230,400,760,0,https://solanart.io/nft/4pPWiGfd1is4zEZSTHmBExC5DVnzscmMr29n2Pdot6r4,Gradient Blue,No Trait,No Trait,Playmobil,No Trait,Base Mouth,Aurory Necklace,Zombie,Aurorian
 8247,100,5401,0,https://solanart.io/nft/AdNwb3NhGiAU8QkZDhC4Sxi1bs81881V7ZsbJSQX2Lo,Base Background,Base Cloth,Viper Shades,No Trait,Luffy Hat,Grin,Aurory Necklace,Human,Aurorian
-8256,50,8427,26.27,https://solanart.io/nft/FA9G4NrJCjiNiJzTnTCWfpXTvhwHvd7XmbEMkoiv246h,Base Background,Base Cloth,Base Eyes,Brown Dreadlocks,No Trait,Oni Mask,No Trait,Human,Aurorian
+8256,50,8427,36.27,https://solanart.io/nft/FA9G4NrJCjiNiJzTnTCWfpXTvhwHvd7XmbEMkoiv246h,Base Background,Base Cloth,Base Eyes,Brown Dreadlocks,No Trait,Oni Mask,No Trait,Human,Aurorian
 8261,53,5875,6.49,https://magiceden.io/item-details/8tDgf1AoY4mcyf5Jo8buQT9EP2z62PhfYqoxCo5XuT5R,Soft Blue,Base Cloth,Base Eyes,Undercut,No Trait,Big Smile,Shark Necklace,Human,Aurorian
 8277,139,4008,0,https://magiceden.io/item-details/5692rArLwtH1iV6BypfQZ6MFynbEJ9zmEqP5obyWXspr,Base Background,Base Cloth,Spring Glasses,Long Blob Hair,No Trait,Grin,No Trait,Human,Aurorian
 8308,75,2795,0,https://magiceden.io/item-details/BpBPvb9TH9tVsRmw5u9UQzfwHq8kG3gcV8JvaTSaBgNT,Base Background,Black T-Shirt,Red Eyes,No Trait,Jotaro Cap,Big Smile,No Trait,Human,Aurorian
@@ -516,7 +518,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 8341,76,5544,0,https://solanart.io/nft/H3PKtyK1KcSWqkiMf8MFJ5jLS6Sh3wA7rb8ECSm8YwaE,Gradient Blue,Base Cloth,Aave Glasses,No Trait,Phantom Cap,Base Mouth,No Trait,Human,Aurorian
 8372,79,599,0,https://magiceden.io/item-details/5piiSyNEKej7UrtS3MbFF3FZWwt8HAZkdVL6CX1eyJGR,Base Background,Overalls,Viper Shades,Curly,Cute headphone,Zipper Mask,No Trait,Solana Blob,Aurorian
 8388,241,2272,0,https://solanart.io/nft/ALTxevR4KPKkuPBpocgSW9cRJYDHj3n9xL5C9Ri9C53A,Base Background,Black T-Shirt,No Trait,No Trait,No Trait,Oni Mask,Solana Necklace,Solana Blob,Aurorian
-8407,51.990002,8921,4.39,https://solanart.io/nft/ChRhBkmiq6JyghMUPB1t9fj1gjkc3sp3VXoHQmNRrdU3,Base Background,Pink Stripes,Base Eyes,Pigtails,No Trait,Base Mouth,No Trait,Human,Aurorian
+8407,51.990002,8921,14.39,https://solanart.io/nft/ChRhBkmiq6JyghMUPB1t9fj1gjkc3sp3VXoHQmNRrdU3,Base Background,Pink Stripes,Base Eyes,Pigtails,No Trait,Base Mouth,No Trait,Human,Aurorian
 8422,65,2226,0,https://solanart.io/nft/2y3Wi8cb78s87oFdDnE7mkyMkuAPGViTyS8JdDQHZuau,Base Background,Jean Jacket,Base Eyes,Combed Haircut,Gavroche Hat,Paint Mask,No Trait,Human,Aurorian
 8442,60,2420,0,https://magiceden.io/item-details/9YMNRgkfutkKN6NoUpQ9vUddHa6emNeP2KfhtbpvzV97,Soft Blue,Classy Outfit,Red Eyes,Purple Dreadlocks,No Trait,Plague Mask,Aurory Necklace,Human,Aurorian
 8442,60,2420,0,https://solanart.io/nft/9YMNRgkfutkKN6NoUpQ9vUddHa6emNeP2KfhtbpvzV97,Soft Blue,Classy Outfit,Red Eyes,Purple Dreadlocks,No Trait,Plague Mask,Aurory Necklace,Human,Aurorian
@@ -524,7 +526,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 8469,100,569,0,https://solanart.io/nft/8e7Y8eXmYvwkDVRtGLFiD8L9wC4SVGPAPPFsv4zs6V9e,Soft Blue,No Trait,No Trait,Curly,Beret Hat,Base Mouth,No Trait,Solana Blob,Aurorian
 8484,200,2107,0,https://solanart.io/nft/9hwzD2V5y6ZU4voZ9H4xCUDCK7vSoUCaMC9DUwF2ePQQ,Base Background,Base Cloth,Base Eyes,Playmobil,Axobubble Hat,Barely Angry,No Trait,Human,Aurorian
 8512,250,7983,0,https://solanart.io/nft/HmpD2PfuPBi3kXBrqSR7NLLjwt1K7p9x2HxKDG4V84LE,Base Background,Base Cloth,Red Eyes,Undercut,No Trait,Big Smile,No Trait,Human,Aurorian
-8531,61,2421,0,https://magiceden.io/item-details/F55NjxCpxbZu4u6cccfx9CPqEeFdF8yoEp7JQizwfwUe,Base Background,Hawaii Shirt,Heart Glasses,Blond Hair Attached,No Trait,Base Mouth,Aurory Necklace,Solana Blob,Aurorian
 8537,123,5978,0,https://solanart.io/nft/AuGdZafJtMrKuP8z18Qg8ZUyPP3htkTrpbPQAwbXNtFS,Base Background,Puffy Jacket,Cat Green Pupil,No Trait,No Trait,Bane Mask,Aurory Necklace,Human,Aurorian
 8549,80,2637,0,https://solanart.io/nft/DbNAeLbM8TvSeUxmbaterVu9VYYuh2nuJ1DinkifLtj2,Base Background,Jacket,Steampunk Glasses,Combed Haircut,Crown,Base Mouth,Aurory Necklace,Human,Aurorian
 8556,59,7041,0,https://magiceden.io/item-details/Bysx6DVpgTni2bTKUdgnbgoJXZmCDgnayjkHH8zHCQyp,Base Background,Dinobit Outfit,Green,No Trait,No Trait,Base Mouth,Aurory Necklace,Human,Aurorian
@@ -545,9 +546,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 8831,200,7556,0,https://solanart.io/nft/HJnH9zQXxaVnNSsHfiQu3BS6kuHGgvcx8xotfbmAjy9L,Base Background,Base Cloth,Heart Glasses,Undercut,No Trait,Cat Mask,No Trait,Human,Aurorian
 8906,64.8,930,0,https://magiceden.io/item-details/3F1oGyHPrrthuRLkqMtBshiz3zurmbphZgv2NhuyjVSi,Base Background,Yellow Stripes,Spring Glasses,Purple Dreadlocks,No Trait,Grin,Aurory Necklace,Solana Blob,Aurorian
 8925,130,8400,0,https://solanart.io/nft/7YGMyuph15LsXQfazdbdnbDyQ52e6FHk8BZa7yy3JQWq,Base Background,Base Cloth,Heart Glasses,No Trait,Big Crown,Base Mouth,Aurory Necklace,Human,Aurorian
-8966,52,2527,29.89,https://solanart.io/nft/6oMMt4KQtux7pcx13QkCPWi4n5oei2j3F34vec8Qe6wP,Gradient Blue,Base Cloth,Blue Skull Glasses,No Trait,Gavroche Hat,Lollipop,No Trait,Human,Aurorian
+8966,52,2527,39.89,https://solanart.io/nft/6oMMt4KQtux7pcx13QkCPWi4n5oei2j3F34vec8Qe6wP,Gradient Blue,Base Cloth,Blue Skull Glasses,No Trait,Gavroche Hat,Lollipop,No Trait,Human,Aurorian
 8979,180,911,0,https://solanart.io/nft/8ZjAjGMZh95AnARnfmwz8d3Yj44wZkWRUaxGkDmtk22V,Base Background,Helios Outfit,Base Eyes,Combed Haircut,Dinobit Hat,Base Mouth,No Trait,Human,Aurorian
 8982,2000,3936,0,https://solanart.io/nft/G3YfpGKgf3DpquyADfuDEGiF1vLzP9624QXL4mQySjWG,Base Background,Green Sweater,Spring Glasses,No Trait,No Trait,Base Mouth,Aurory Necklace,Solana Blob,Aurorian
+8986,49,8076,47.68,https://solanart.io/nft/F3RBh9X216VnDChfugdTpbpe6gmUkeq6uHugb9fd5ugm,Base Background,Base Cloth,Base Eyes,Playmobil,Cute headphone,Base Mouth,Aurory Necklace,Human,Aurorian
 9013,177,2802,0,https://solanart.io/nft/EJscKkEKTG8X86SpeTXFjAk9BGHeo6v8YDF2WYcS8GpZ,Base Background,Base Cloth,Black Eyes,No Trait,Dipking Hat,Grin,No Trait,Human,Aurorian
 9032,60,2928,0,https://solanart.io/nft/5GNQ5PJoeWpcmiW8jxwaAWknosvTZos1GfgXpJ5DWCp9,Lagoon,Classy Outfit,Viper Shades,No Trait,No Trait,Lollipop,No Trait,Human,Aurorian
 9053,70,6490,0,https://solanart.io/nft/BNZBqf4SriqFaEGWw5VFoj3Q9GRt3My75yCwHkefQXrR,Gradient Blue,Jacket,Base Eyes,Undercut,No Trait,Base Mouth,No Trait,Human,Aurorian
@@ -555,14 +557,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 9070,60,3260,0,https://solanart.io/nft/98tHWcVh8HYWhLkVmXHNsdzVYfcyFLS85shWgj1MGqJM,Base Background,Black T-Shirt,Base Eyes,Playmobil,Big Crown,Zipper Mask,Aurory Necklace,Human,Aurorian
 9074,195,1277,0,https://magiceden.io/item-details/2NLbs24sNgoQq79wXTubLfJAHV7oPXC6vSkNJH59jv5a,Gradient Blue,Polo,Aave Glasses,Blob Hair,No Trait,Base Mouth,No Trait,Solana Blob,Aurorian
 9085,99.989998,1352,0,https://solanart.io/nft/8uJxoG26sqr2EfRcJmxbsRpb9fYthvstWCPhJxWsY4aD,Soft Blue,Overalls,Red Eyes,Clementine Hair,Phantom Cap,Base Mouth,Aurory Necklace,Human,Aurorian
-9097,57.25,7236,0,https://magiceden.io/item-details/FgUoTbK4qnuozuqFiikXTQrMnPD8TCXSxXhieTZMq4LG,Base Background,Base Cloth,Blue Skull Glasses,No Trait,Luffy Hat,Base Mouth,No Trait,Human,Aurorian
+9097,55,7236,0,https://magiceden.io/item-details/FgUoTbK4qnuozuqFiikXTQrMnPD8TCXSxXhieTZMq4LG,Base Background,Base Cloth,Blue Skull Glasses,No Trait,Luffy Hat,Base Mouth,No Trait,Human,Aurorian
 9104,200,982,0,https://magiceden.io/item-details/ABx4AXZKaLJzfnYqpD7aHXHSZud4MpLtFbBLdCmYd1Bv,Soft Blue,Dipking Outfit,Base Eyes,No Trait,Crown,Bane Mask,Aurory Necklace,Human,Aurorian
 9118,66,4784,0,https://magiceden.io/item-details/6XWrWqqiMCj5p1stKdmNxkJqJntgRDrjr2MuywjZKnuY,Base Background,Base Cloth,Base Eyes,Clementine Hair,Luffy Hat,Base Mouth,Shark Necklace,Human,Aurorian
 9124,100,288,0,https://solanart.io/nft/J54TpJRyakizKkVJLBa8uMpMzagMPyuBEPetmQH5tHWN,Gradient Blue,Classy Outfit,No Trait,Green Hair,No Trait,Big Smile,Solana Necklace,Solana Blob,Aurorian
-9138,99.99,6247,0,https://magiceden.io/item-details/yEeYTE2ejbF79Nm2mNSzQPhbWDpTNWgQfvuSyep1t8V,Base Background,Base Cloth,Blue Skull Glasses,No Trait,Phantom Cap,Cat Mask,Aurory Necklace,Human,Aurorian
-9138,99.989998,6247,0,https://solanart.io/nft/yEeYTE2ejbF79Nm2mNSzQPhbWDpTNWgQfvuSyep1t8V,Base Background,Base Cloth,Blue Skull Glasses,No Trait,Phantom Cap,Cat Mask,Aurory Necklace,Human,Aurorian
 9190,80,8241,0,https://solanart.io/nft/Cad3q2PHyjgnhSLMRpxjR8zTjZcYJSpPr8BH24HAmRjR,Base Background,Base Cloth,Black Eyes,No Trait,Twitter Hat,Base Mouth,Aurory Necklace,Human,Aurorian
-9197,52,6381,14.46,https://solanart.io/nft/BqsWphBy9g2Dq2oS8x23RxGujQTnA9mCwiYjQgKCB2JU,Gradient Blue,Base Cloth,Red Eyes,No Trait,No Trait,Zipper Mask,Flower Necklace,Human,Aurorian
+9197,52,6381,24.46,https://solanart.io/nft/BqsWphBy9g2Dq2oS8x23RxGujQTnA9mCwiYjQgKCB2JU,Gradient Blue,Base Cloth,Red Eyes,No Trait,No Trait,Zipper Mask,Flower Necklace,Human,Aurorian
 9231,100,5024,0,https://solanart.io/nft/EBP5wTAFMV5hdJJZHKm8pnKgAvDxLsDwKEQSh4LdZPwE,Base Background,Polo,Base Eyes,Combed Haircut,Doughnut Hat,Base Mouth,Aurory Necklace,Human,Aurorian
 9235,70,1485,0,https://solanart.io/nft/J9VEPkJcTfk57LarNEJZ75o6CRKkHRb83W1EAL6NfXNc,Base Background,Shoulder Straps,Base Eyes,Curly,Twitter Hat,Lollipop,No Trait,Human,Aurorian
 9252,100,174,0,https://solanart.io/nft/GUT1tP79SNVosKGZ2Xq2jjzeh9gDFFdSeqwARL6na6G9,Gradient Blue,Leather Jacket,Steampunk Glasses,Shaved,No Trait,Cat Mask,Solana Necklace,Solana Blob,Aurorian
@@ -576,10 +576,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 9395,200,198,0,https://magiceden.io/item-details/HiLEtN83ir7g3p79aMwT8kVkajsTGFbshm1sCwyDek9G,Blue,Leather Jacket,Base Eyes,Playmobil,Jotaro Cap,Lollipop,Aurory Necklace,Human,Aurorian
 9408,300,559,0,https://magiceden.io/item-details/DaCdGsWeQ22T4Ko8xphGySiqY7X3pGU5Q3WRhqQkPRkt,Base Background,Puffy Jacket,No Trait,Zero Two Hair,No Trait,Cat Mask,Aurory Necklace,Golden Blob,Aurorian
 9442,89,1019,0,https://magiceden.io/item-details/2NfQKTV1Kb4KLfB9Z9LmZk3Azqa7q89xHhBsH8XWcQ93,Base Background,No Trait,No Trait,No Trait,Doughnut Hat,Zipper Mask,Shark Necklace,Solana Blob,Aurorian
-9446,90,1273,0,https://magiceden.io/item-details/CCnPPKdTPMmofoqGE3RRodTv7E4eY2kXnSrYTDK9jPSx,Base Background,Overalls,Heart Glasses,No Trait,Dracurve Hat,Grin,No Trait,Human,Aurorian
+9446,88,1273,0,https://magiceden.io/item-details/CCnPPKdTPMmofoqGE3RRodTv7E4eY2kXnSrYTDK9jPSx,Base Background,Overalls,Heart Glasses,No Trait,Dracurve Hat,Grin,No Trait,Human,Aurorian
 9455,59,8645,0,https://magiceden.io/item-details/GFcmfuDsFTMsmUrw4sp1ZNAXgJpMAjSzvpo5bKMbxsCo,Base Background,Pink Stripes,Base Eyes,Blob Hair,No Trait,Base Mouth,No Trait,Human,Aurorian
 9468,58.8,3667,0,https://magiceden.io/item-details/J1JwGNkDUi6aR2vGXinygApgfRXMGfYCtAV4QCfNL6YN,Base Background,Pink Stripes,Red Eyes,No Trait,Sam Hat,Base Mouth,Flower Necklace,Human,Aurorian
-9469,53,8430,0,https://magiceden.io/item-details/J9U17UnNv7Nw7VNWhqeedGHY29mGLpZ5CRCsZhbKmkMt,Base Background,Base Cloth,Cat Green Pupil,No Trait,No Trait,Barely Angry,No Trait,Human,Aurorian
 9490,114,3682,0,https://solanart.io/nft/G35UbTcKtCusGmFgeUnMfpWCDLWQFYfHP7F8pk2irTbW,Base Background,No Trait,No Trait,No Trait,Beret Hat,Base Mouth,No Trait,Solana Blob,Aurorian
 9551,95,5841,0,https://magiceden.io/item-details/FsX4tkhnrsVxovm5BA7mp6ubNUgrLsBm2hgdsTwPb4BZ,Base Background,Base Cloth,Viper Shades,Combed Haircut,Plague Hat,Base Mouth,Aurory Necklace,Human,Aurorian
 9551,95,5841,0,https://solanart.io/nft/FsX4tkhnrsVxovm5BA7mp6ubNUgrLsBm2hgdsTwPb4BZ,Base Background,Base Cloth,Viper Shades,Combed Haircut,Plague Hat,Base Mouth,Aurory Necklace,Human,Aurorian
@@ -587,7 +586,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Cloth,Eyes,Hair,Hat,Mouth,N
 9596,79.89,2291,0,https://magiceden.io/item-details/DhgsZ1y6BBw6jUVNPcBrPz3C82ZzkPeJRBoNTr71x2aV,Base Background,Classy Outfit,Green Eyes,No Trait,Crown,Zipper Mask,Shark Necklace,Human,Aurorian
 9614,56.99,2995,0,https://magiceden.io/item-details/51H8Ak6vgEN3F8Xyw4YM2feVQCoU6hKcpayKBRbg6ypi,Soft Blue,Leather Jacket,Red Eyes,Green Hair,No Trait,Grin,No Trait,Human,Aurorian
 9622,145,1100,0,https://solanart.io/nft/DArB7NusjVoYyRGZ5cTwuahSgVP5ocCNy9rQXYTtUEHe,Base Background,Leather Jacket,Base Eyes,Combed Haircut,Dinobit Hat,Zipper Mask,No Trait,Human,Aurorian
-9662,54,3916,4.33,https://solanart.io/nft/ABo5hwZHsaYtwPFpu2vCce8XEaCpu1cPEKTdP6p18Sap,Soft Blue,Base Cloth,Base Eyes,White Hair,No Trait,Steampunk Mask,Shark Necklace,Human,Aurorian
+9662,54,3916,14.33,https://solanart.io/nft/ABo5hwZHsaYtwPFpu2vCce8XEaCpu1cPEKTdP6p18Sap,Soft Blue,Base Cloth,Base Eyes,White Hair,No Trait,Steampunk Mask,Shark Necklace,Human,Aurorian
 9685,150,7279,0,https://solanart.io/nft/HTWqZsYbRZGUYW7buDgvqsdWtkEJTkuKLowyHQY4HtpP,Base Background,Black T-Shirt,Base Eyes,Pigtails,No Trait,Zipper Mask,No Trait,Human,Aurorian
 9698,5000,2112,0,https://solanart.io/nft/F2R2PKdYktGAfRhEuFQoDbnGArPWwk1URFVJG9DYzJV6,Base Background,Leather Jacket,No Trait,No Trait,No Trait,Oni Mask,Aurory Necklace,Zombie,Aurorian
 9730,222,1117,0,https://magiceden.io/item-details/357bjuW193Z4Npess4ug1ivB7rYm5BH3Rc6N83A6N5Dg,Base Background,Black Hoodie,No Trait,No Trait,Dipking Hat,Base Mouth,No Trait,Solana Blob,Aurorian

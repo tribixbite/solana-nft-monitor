@@ -20,7 +20,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 0111,4.99,3797,46.87,https://solanart.io/nft/EdMwXK21G3U7R5gGzLuwsmy6DVmm5o9vvLv6gz9oTP5K,None,Aurora,White,None,Stitched,None,Zebra,Blue Puffer
 0112,20,1694,0,https://solanart.io/nft/9CzARRnT5mLEpkyREV9fY3huTcVFEkyh4hfoBb9Mqudf,None,Purple,Green,Pirate Hat,Pipe,Stud,Ice,Blue Sweatshirt
 0116,9,1333,24.7,https://solanart.io/nft/9BHqkPLL3duJqku6e9YkxW2EgZUNUXDUUkTzgbP5Kmpc,None,Blue,Laser Eyes,Beret,Mouse,None,Brown,Green T-Shirt
-0117,10,690,19.38,https://magiceden.io/item-details/BKJpAperPSp8fijjXkt8YXjaTMjL3J5bocj1ankGj8LY,Gold Chain,Yellow,VR Goggles,Sombrero,None,Stud,Lizard,Blue T-Shirt
 0128,36,184,0,https://magiceden.io/item-details/BSPTT4BRkWT9dmRv49Fuyi5TBKNj7tmV88v61QL9eYXa,Wings,Yellow,Steam Punk,Halo,None,None,Lizard,Blue Tracksuit
 0129,85,923,0,https://solanart.io/nft/9QSDufoxJDgpCVt6xgMtWtq1y4PyotYUGjRrJ5zD9NHn,None,Kings Card,Blue,Diamond Crown,Sneakers,None,Iridescent,Green T-Shirt
 0135,3.75,3845,58.92,https://magiceden.io/item-details/CzRsxb3KnF2cuDDZEJV1cVzgk2r6iAEa65jyQaAPUQ7Q,Gold Chain,Blue,Orange,Black Bucket Hat,None,None,Blue,Poncho
@@ -65,9 +64,12 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 0555,2500,1146,0,https://solanart.io/nft/DAoNmQFtpEZjr5Qdjn6hfhhAZTB5Fd82mbd9pbShrk6g,None,Brown,Green,Diamond Crown,Blunt,None,Cyber,Yellow T-Shirt
 0568,9.2,1746,19.69,https://magiceden.io/item-details/F9M4nFvq61SpKrAWC1w1RsZtHVAGhdiNfCzUtMmT1sAA,Camera,Kings Card,Buffs,Blue Fitted Cap,Pipe,None,Brown,None
 0600,6,1428,54.01,https://solanart.io/nft/69EHKPJXLhHsa7gTtiH7gKLL3HceugmKMUUfsSitYT2f,None,Grey,White,Safari Hat,Stitched,Ring 1,Brown,Camo Jacket
+0632,277,1543,0,https://magiceden.io/item-details/79P4KkAR3AdBUzy526bRodnjaz7GTNvWjjHYne3fZfmd,None,Kings Card,Vipers,Sombrero,None,Ring 2,Black,Cream Puffer
 0635,6,4585,31.04,https://magiceden.io/item-details/6XsnAaHdPzvr51JRdeK1txraQkhsMgmAi5NVXNsPfsiH,None,Red,White,Devil Horns,None,Ring 2,Purple,None
+0639,50,680,0,https://magiceden.io/item-details/9CSBvfczXre3S6CEU7RELRWyRGQqrCJuqFqTuJJLnoNE,None,Trippy,Laser Eyes,Plaid Bucket Hat,Stitched,None,Purple,King Robe
 0643,4,1420,74.07,https://magiceden.io/item-details/3AAhPnUt2hG3xoHLb3znv9J41btv5eWvn1Rn4ByZPvJa,Fomo Tattoo,Matrix,Green,Pirate Hat,None,None,Iridescent,Black Hoodie
 0653,3.3,5394,52.15,https://magiceden.io/item-details/717i3iyfK5WxKbkj2JkcG3wqpVuz5qEwzJNxYvcJHzxg,None,Kings Card,Green,None,None,None,Base,Blue Sweatshirt
+0658,40,235,0,https://magiceden.io/item-details/bkyGZ3EzxfHxjmEB5yiPNfZ7XhmHH4CUHuCcYoJLauC,RPG,Purple,Glowing White,Halo,None,None,Leopard,Matrix Jacket
 0659,11,1914,0.47,https://solanart.io/nft/2mJ415dU5y3VKv6Xt2vC88ckGLt4Jb1ik7gJTtd2hYWx,None,Kings Card,Buffs,Black Bucket Hat,Gas Mask,None,Blue,Solana Hoodie
 0661,5,4822,39.31,https://solanart.io/nft/93Wb7WHABBp6BVfDYUfqCi1uzVg9rDHKFv6LwMd8ioEr,None,Green,Blue,Black Fitted Cap,None,None,Lizard,Blue Sweatshirt
 0665,8,4877,8.91,https://magiceden.io/item-details/7eHr2NWWUJ5W3rRL7WvsQD2gG5fefaNiPqYYpHJwdk4W,None,Yellow,Camo Vipers,Fur Bucket Hat,None,None,Base,Yellow T-Shirt
@@ -106,12 +108,12 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 1012,22,1499,0,https://magiceden.io/item-details/6szvCZ9WPHgkY5pz6aMLd6u7KbJn5cZrvbqH4vNUxJH9,None,Red,Blue,VPN Halo,Gas Mask,None,Iridescent,Solana Hoodie
 1022,50,838,0,https://solanart.io/nft/3vmebR6yhdLHxFATaeQHuuXBMFASe4s3mjiq4NWsgWsZ,Bone Necklace,Watering Hole,Blue,Light Bulb,Cigar,None,Zebra,Black T-Shirt
 1023,4.2,3374,57.85,https://solanart.io/nft/GX6wWuaYpuVXgcRUMpAhUL7ui8NMA8F4XgoYcZjFMVT,None,Savanna,Vipers,None,Sneakers,None,Brown,Red T-Shirt
+1027,80,48,0,https://magiceden.io/item-details/9oqb94B7FbS7ct7uzVqVZ9WABpAsXu6zoveX3YqbGYYa,Wings,Green,Solana,Beret,None,Bull Ring,Albino,Yellow T-Shirt
 1029,16,3528,0,https://magiceden.io/item-details/2w4HX8JVKYfkNV1rjFmCPwZQqRr2xB2sBXTgyDkf9QBC,None,Brown,Blue,Red Fitted Cap,Scuba,None,Black,None
 1037,4,5318,45.7,https://solanart.io/nft/FoYCwmCkemnbuYaWPky2pH1nnhe4qfMhMSRVJN3AJi9W,None,Yellow,Camo Vipers,None,None,None,Base,Blue Sweatshirt
 1046,4.2069,5035,45.69,https://magiceden.io/item-details/5ysAXhSMQQps58eAc5496SaNqBKUCzY1e53Er4PdPDaX,None,Orange,White,None,Blunt,None,Purple,White Hoodie
 1052,6.3,3238,37.84,https://magiceden.io/item-details/9AMtAXDtbon7vrSk643BJh2BBcJPGpW2pxM79Jnjukn2,Diamond Chain,Red,White,Purple Fitted Cap,Whistle,None,Albino,None
 1054,5.77,4902,31.03,https://magiceden.io/item-details/GZHd3GT45REsG1cySsYRpNwYRSen34anhcmUV8aBCd1T,None,Matrix,Red,Blue Fitted Cap,None,None,Purple,Cream Puffer
-1060,6,1922,50.41,https://magiceden.io/item-details/6ctfNr1B7dBxjTbNDhybfQHH1fvW6MTtqAxk8ixTMkV2,Headphones,Red,Eye Patch,Chef Hat,Mouse,None,Iridescent,None
 1065,4,2816,63.91,https://magiceden.io/item-details/GFZXP7z3aDCziTLNqgnommYAEeWst3RxQ9nLqXuP9dVh,None,Matrix,Blue,Light Bulb,Microphone,None,Black,Blue Puffer
 1092,3.9,2055,70.45,https://magiceden.io/item-details/J8GmhNG1wLWcheRLG9XC6azXCPRYp9kgkoRY8q1zvTLZ,None,Purple,Buffs,Safari Hat,Stitched,None,Zebra,Construction Vest
 1099,7,1304,44.91,https://solanart.io/nft/2x7forKdFYrrZ6cqnV4Ly2P5iMBsYwbwc8k4QaADeXeC,Binoculars,Brown,Green,Black Fitted Cap,Pipe,None,Iridescent,Tank Top
@@ -124,6 +126,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 1161,13.375,586,0,https://magiceden.io/item-details/6c7aR8kJyBJwdGgVzHDxc2oegjwtMFaeaVuYB2hUPYEP,None,Jungle,Glowing Blue,Wizard hat,Flower,None,Zebra,Purple Shirt
 1182,7,1759,41.6,https://magiceden.io/item-details/BMafV6PL3sC7Azyeio8ZGGdhPm9QJQfX3iUAkoM1TGQR,RPG,Green,Camo Vipers,None,Cigar,None,Base,Black T-Shirt
 1183,6,2511,46.13,https://magiceden.io/item-details/6DFyTE9FKziVxV5LefV7LzCUFdRb7RQNbxG7u1F6Kcxb,None,Matrix,Camo Vipers,None,Pipe,None,Cyber,Green Tracksuit
+1185,69,3934,0,https://magiceden.io/item-details/C4JJf9YkB76qYPgsvB5NR43DrcTseaZh33bhjDg38ZtB,None,Grey,Aviators,Fur Bucket Hat,Stitched,None,Blue,Purple Shirt
 1197,15,3439,0,https://solanart.io/nft/EVpk6j5zgZejyaHowqaZFpEaBqXXW8GfK1nti66Ma9fP,None,Matrix,Buffs,Gold Crown,None,None,Brown,Matrix Jacket
 1198,4.2069,5172,44.7,https://magiceden.io/item-details/98jSDznuhcXg92BXnwiHHBrAPYLizfSAtZSGNhqviwEz,None,Blue,Orange,Black Fitted Cap,Pipe,None,Black,None
 1204,8,656,39.63,https://solanart.io/nft/8aNzG1Tim9UWK7CY67qPwE9RrKbXbifgM8RhpJw62iAX,None,Yellow,Glowing Yellow,Black Bucket Hat,Flower,Bull Ring,Blue,Red Tracksuit
@@ -183,6 +186,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 1591,7.6,4460,15.95,https://solanart.io/nft/6X3P54XwHgH5HQnMhYttRfpa3nuc5dDYusqKdNZG3pr,None,Blue,Orange,None,Microphone,None,Blue,Camo Jacket
 1607,15,2861,0,https://solanart.io/nft/7RS2qZn2LfwE3QzoAhQ3YYgTUAKKVhdvxw44Yf1XTa7T,None,Yellow,Blue,Gold Crown,None,Stud,Alien,Green T-Shirt
 1611,12,38,4.12,https://magiceden.io/item-details/GkLuPHiYQbjS3UVGcp42ZrGUZfdYN4ADctPkhXvUDBwT,RPG,Watering Hole,Green,Unicorn,Blunt,Ring 2,Albino,Blue T-Shirt
+1620,45,1483,0,https://magiceden.io/item-details/DzBn1kMmDuBogFtatqUfZxzn3SsWewEpvnJExT86edtb,None,Grey,Soundwave Vipers,Halo,None,Ring 2,Albino,None
 1622,5.79,1858,52.98,https://solanart.io/nft/3SJMv7MCVgNfKHp1FazGYpMSuhGYQ9uh8esFc27ruiZe,None,Trippy,Glowing Yellow,Red Fitted Cap,Blunt,None,Blue,Tank Top
 1624,10,254,22.55,https://solanart.io/nft/6iXftfAtmz5Q9LHK98aaDzncEjpqaPcdiPrEv6f1BFgK,RPG,Grey,Eye Patch,Brain,Flower,None,Albino,Yellow T-Shirt
 1643,250,1018,0,https://solanart.io/nft/Ebw4F14PJDtRRqDB2VgGjue3SPkxkucvpjg9VC6BvQ1Y,Headphones,Aurora,Orange,None,Bone,None,Ice,Cream Puffer
@@ -212,6 +216,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 1837,5,4095,44.6,https://magiceden.io/item-details/4ctyjr3vfj6EvyjBWEnTovmHvfSRrSFXZjZyCX3Yz7tN,None,Savanna,Red,Black Fitted Cap,None,None,Zebra,Black T-Shirt
 1846,4.5,4105,49.53,https://magiceden.io/item-details/yLirVQRHiG75AHBiVszivQJ9HQMphiBRy2npTChR27N,Camera,Brown,Blue,Plaid Bucket Hat,None,None,Base,Tank Top
 1847,5,1565,63.01,https://magiceden.io/item-details/4wXnxjf6C4QxMozMDiohtN1xtu5xEUmj79LDEz7vTnYd,None,Purple,White,Beret,Mouse,Stud,Zebra,Cream Puffer
+1858,100,1,0,https://magiceden.io/item-details/6LGRCEHNYqPfmUZ1jizx7DBoKTq9m6VhswtKarzor3Wf,Camera,Green,Ski Goggles,Halo,Blunt,Ring 1,Alien,King Robe
 1867,6.5,2659,40.05,https://solanart.io/nft/BhjmrDxxnGfWMCMxkkgJW8yTJDHKWedYoCej7dL5w1Nz,None,Matrix,Blue,Viking Helmet,Stitched,None,Iridescent,Black T-Shirt
 1873,31,5128,0,https://solanart.io/nft/6y2HxQWko5cRpzqMcLZeC1cgqAqFt1iY6hUyX5V4C8Zq,None,Matrix,Green,Wizard hat,Blunt,None,Base,None
 1887,3.2,556,88.35,https://magiceden.io/item-details/8VRjv4LZsSMZMXGhdqMLTBJoTgC7tS2yrMXZs7yZgpSo,Fomo Tattoo,Yellow,Dragon,Red Fitted Cap,Sneakers,None,Blue,Black Hoodie
@@ -231,7 +236,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 1954,10,2005,9.81,https://magiceden.io/item-details/AkkDBoSBS9LCnkHFmK5Yzvvm7oXELpdL8NsuQzACE3z2,None,Green,Eye Patch,Mushroom Hat,None,Stud,Iridescent,Black Hoodie
 1959,45,1552,0,https://solanart.io/nft/BDGSS32VHsnuw2SD5rBoWMGDT6QjhETSTRnRz6e6ig45,Fomo Tattoo,Orange,Green,Sombrero,Pipe,Bull Ring,Blue,None
 1965,4.2,2596,63.51,https://magiceden.io/item-details/2owcNLXagivvDnDeDB66xAxCKhE3xL6eJUTugdxFAkyw,Fomo Tattoo,Matrix,Red,Gold Crown,None,None,Albino,Green Tracksuit
-1968,3,3590,68.28,https://solanart.io/nft/6ojQj7Vwn55Yz5PDJkz6bFyDt2tVr6qAG81CisMxQAha,None,Green,Red,Wizard hat,Flower,None,Blue,White Hoodie
+1968,2.75,3590,70.78,https://solanart.io/nft/6ojQj7Vwn55Yz5PDJkz6bFyDt2tVr6qAG81CisMxQAha,None,Green,Red,Wizard hat,Flower,None,Blue,White Hoodie
 1969,3.3,2769,71.25,https://magiceden.io/item-details/6RtZsB8TKQW4BRRAv37xDZVLBfCbSx9Xa5jT3QnsnCfz,None,Grey,Orange,Plaid Bucket Hat,Bone,Stud,Albino,Yellow T-Shirt
 1970,3,1498,83.5,https://magiceden.io/item-details/CgRcJG4XAkgdMwGDMhYAhdgm47LV4SqBjRMcfyuA19eJ,Diamond Chain,Red,Blue,Sombrero,Stitched,None,Purple,Suit
 1971,6.99,380,51.73,https://solanart.io/nft/5XGbc4qpraLEovd4wnGYFQ94hhEALE9yDHggt4NaBBxB,Gold Chain,Green,Opera Mask,Black Bucket Hat,Whistle,Ring 1,Brown,Red Puffer
@@ -251,6 +256,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 2042,4.5,4149,49.21,https://solanart.io/nft/5EHMiYCBfMsg7p15uTYDcwig4QvunMMiJYk5ECiWaxvr,None,Purple,Green,Fireman,None,Stud,Brown,Red Puffer
 2046,6,3212,41.03,https://magiceden.io/item-details/4hcrtwLYiHvQG94bDMiEVFFLTB5hqaqMjMSNrzevBqyo,None,Yellow,Opera Mask,Fur Bucket Hat,Cigar,None,Brown,Camo Jacket
 2048,13,808,0,https://magiceden.io/item-details/8ZiRVgDM4K76v5fHWr3ndoTq7mWoLD9iBKBZbH8qPmH9,Gold Chain,Blue,Orange,Santa Hat,Bone,None,Ice,Blue T-Shirt
+2049,200,2378,0,https://magiceden.io/item-details/BeehiPD6HNHyKujp4KAEssJDhfKKeQbx8oa1v5BBdDPz,Headphones,Orange,Red,Sombrero,Blunt,None,Brown,Black T-Shirt
 2054,3.29,4835,56.32,https://magiceden.io/item-details/GxM9LXM3Zbx8gJbVdHDn5NoTkBdUPQ8KnBHqDV8kHDCY,None,Sand,Orange,Plaid Bucket Hat,None,None,Zebra,Green T-Shirt
 2059,6.9,5422,15.95,https://solanart.io/nft/GdYVKRiDwEFR3Cm9srk77QFPY1SWBmcVg3jG9AuctgXP,None,Trippy,Red,None,Whistle,None,Purple,None
 2062,6.8,375,53.67,https://magiceden.io/item-details/2AWJNLeBoFvX2nLNKfe2LN3hLyoFSZJ3nc8DgUURYfvo,None,Sand,Snake,Beret,Bone,Ring 2,Blue,Purple Shirt
@@ -292,6 +298,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 2340,3.5,4464,56.92,https://magiceden.io/item-details/CZHcUS8D6XKRZuLsgzWkpXmTU67uFcTyvD3dJDPav1Bw,Headphones,Orange,Blue,Black Bucket Hat,None,None,Base,Purple Shirt
 2344,4.25,1173,73.36,https://magiceden.io/item-details/AsX1fpFmVnVZ7UvtBEccktm6awinw6AdRQbP8KV2P8XC,None,Trippy,Cat,Beret,Microphone,None,Blue,Doctor Jacket
 2350,8,1711,31.95,https://magiceden.io/item-details/4NR1CQ3yryts5zgNK46EBzyB53Vzu3hkGBciSxRchdG9,Bone Necklace,Brown,Cat,Fireman,None,None,Zebra,Blue Puffer
+2360,88,214,0,https://magiceden.io/item-details/9kJSBBWnpJg596z4av9LqsY7RVJzGbGJZGBWUR8K5ubn,None,Kings Card,Snake,Purple Fitted Cap,None,Stud,Gold,Basketball Jersey
 2364,6,2218,48.26,https://magiceden.io/item-details/9BVq5tnFhz5FJtdpje6G8FfwyXsZwK5bUnqLc57dGf7g,None,Orange,Green,Blue Fitted Cap,Pipe,Bull Ring,Brown,Blue Puffer
 2371,8,3581,18.34,https://magiceden.io/item-details/939Th8mmqXQjuebAj9hFLwsbRbbKuhdMv968b6ocWwne,None,Purple,Solana,None,Sneakers,None,Leopard,Purple Shirt
 2390,3.5,3669,62.7,https://magiceden.io/item-details/Cp6vZHVsEcF3tkUDvRDt4pbg36xzkpiNtpagoYvB3bDs,None,Purple,Blue,VPN Halo,Whistle,None,Base,Blue T-Shirt
@@ -304,6 +311,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 2411,6,525,60.58,https://solanart.io/nft/BWSxiseDxUHqC3NQinSvBHr383WSqcykwCdFZ1FP7DDi,Binoculars,Blue,Orange,Fireman,Whistle,Stud,Albino,Matrix Jacket
 2416,9.4,1152,22.02,https://solanart.io/nft/3cUE8xdS6ZwUL5UXyACxXQv5fUP5i3o1youXvug1ch7D,Fomo Tattoo,Purple,Aviators,Santa Hat,None,None,Purple,Kimono
 2425,22,297,0,https://magiceden.io/item-details/78uPfzobyd1YQWdnXd2YvMJzrFyZmS4ZwYkmYR2qrQxM,Binoculars,Savanna,Camo Vipers,Halo,None,None,Leopard,Green T-Shirt
+2434,50,141,0,https://magiceden.io/item-details/64v1RtTkT6H8WyYoe4LjiKPBhx44AUvssFccEfZDApMs,Solana Chain,Grey,Orange,Eye of Horus,Bone,None,Blue,Suit
 2435,6.9,2120,39.97,https://magiceden.io/item-details/97Haz7zhp3N69iHovKFutSToAafaPnPkaLHmX6tJDqCZ,None,Blue,VR Goggles,Black Bucket Hat,Metal Chompers,None,Base,Green Tracksuit
 2454,40,5218,0,https://solanart.io/nft/5btrxhmLXHQ7GyLjiZzWDVfhp9cE8RzDTewyDGdWeCxi,None,Yellow,Red,Plaid Bucket Hat,Microphone,None,Base,None
 2464,7000,127,0,https://solanart.io/nft/oekhCpinF6Huh8XjVuLAGs77HmcqG9JtheTVo9guPvz,Wings,Aurora,Blue,Eye of Horus,None,None,Albino,Blue Tracksuit
@@ -370,10 +378,12 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 2987,11.5,4847,0,https://magiceden.io/item-details/5WT9XGWJxvoNczby21cGwTmQfqzqxkYzFFQnjDDNWudr,None,Purple,Eye Patch,None,Pipe,None,Base,Blue T-Shirt
 2999,300,1674,0,https://solanart.io/nft/7h7k6BaWJBwD7LqSvGC2HDFGr2WoT3ccsmrw1wbsbXYr,Gold Chain,Kings Card,Aviators,None,None,Ring 2,Base,Red Puffer
 3000,25,3036,0,https://solanart.io/nft/J4XvMoLTnVq7YpkRadLy5RQgnWnnuAycRw6W4hC9zjhQ,None,Orange,Buffs,Fur Bucket Hat,Cigar,None,Black,Camo Jacket
+3002,69,542,0,https://magiceden.io/item-details/44q7watvAGkXMp93DUwkPUj1XDh7gWrkGfzNL5NBvG9X,None,Orange,Buffs,Eye of Horus,Stitched,None,Leopard,Backpack
 3011,5,1537,63.22,https://magiceden.io/item-details/DmDko84k4QSmrLQAKjSQ6169Z5eqMkUsKgxHMPcAAEhV,None,Savanna,Aviators,None,Whistle,Ring 1,Base,Cargo Vest
 3043,165,3728,0,https://solanart.io/nft/7BvEqWxWcW8Jxy6f3xMcCJtPufipqwf96NDCyvmuP46f,None,Kings Card,Snake,Black Bucket Hat,Bone,None,Brown,None
 3044,8,758,38.88,https://magiceden.io/item-details/5mHgkCGJ1xa1skzsqB1BTm7ArJXyYpULZndmABXpXMQV,None,Blue,Ray Eyes,Santa Hat,Pipe,None,Brown,Soccer Jersey
 3061,10,3088,1.93,https://solanart.io/nft/13V1mW18T6FXwqrXXxvkJh1XLXWfLbEfRucQ74Yb28MY,None,Jungle,Red,Cowboy Hat,Blunt,None,Base,Purple Shirt
+3067,100,7,0,https://magiceden.io/item-details/2Q3VTJ7sBQscdXArLhEu2v5GD76QttZ2oaQK1sPCrh3o,Gold Chain,Green,Zombie,Sombrero,None,Ring 1,Zombie,Blue Puffer
 3078,8,3139,21.56,https://solanart.io/nft/245FBy6xNUCiCN2vQFbqnQjWGFp1ALT9B7qXQfKyMgdP,Bone Necklace,Kings Card,Green,Safari Hat,Pipe,None,Base,None
 3091,3.39,2203,74.47,https://magiceden.io/item-details/8UXQYvBezpXtYJivsBF3vL5BrjoXztteKaHt1rvCxPsj,None,Green,Orange,Purple Fitted Cap,Pipe,Ring 2,Blue,Green Puffer
 3118,7.7,3831,19.52,https://magiceden.io/item-details/2KkXR3DLyyVNMvgtd49vynbzrgNbe9aicfNJ1TQeedrZ,None,Kings Card,Buffs,Viking Helmet,None,None,Base,Green Tracksuit
@@ -382,6 +392,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 3147,4,5399,45.11,https://solanart.io/nft/BzCMMA3KBUuCEtCH9o491NnvYYnTnDF6N3HokBh8Q6J4,None,Trippy,Blue,None,Whistle,None,Black,None
 3151,10,4870,0,https://magiceden.io/item-details/3ipTGtBhQA9oi74AoeArqioysqbUuVPBLLtwrutNv2Mc,None,Kings Card,Red,Gold Crown,None,None,Lizard,None
 3163,25,812,0,https://magiceden.io/item-details/3YcTsGU5PTkBjPAqMvf6182zbctP2Kcj8edX1xoW3aMF,None,Grey,Soundwave Vipers,Sombrero,Whistle,None,Lizard,Solana Hoodie
+3172,2.44,4461,67.54,https://magiceden.io/item-details/DbAH1awMw5AT9D5YKD9ZfJTP54MMe5dttddbtFifiL5G,Bone Necklace,Purple,White,Black Bucket Hat,Blunt,None,Brown,None
 3181,1000000,3917,0,https://solanart.io/nft/DCSm8tqzmgpcE5vAFjUEZrHGHqcfBuwnQNi5A9TjHqr7,None,Matrix,Red,None,Pipe,None,Brown,Kimono
 3205,7.5,2318,32.53,https://magiceden.io/item-details/97KP2kTDpqtc384V46wgu5tSQwUTT7DzYEbGay47en75,None,Red,Snake,Beret,None,None,Cyber,Purple Shirt
 3213,6,1326,54.75,https://solanart.io/nft/H8RfuhYYYtPmSAHenHbWvG8XQUC2a4ei8SbCkrxGjFTV,Gold Chain,Green,Vipers,Plaid Bucket Hat,Mouse,None,Brown,Yellow T-Shirt
@@ -424,6 +435,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 3493,4.2,3836,54.49,https://solanart.io/nft/HXZeVc5wx4xWmHNR95pmW1w7mFYnt1U4qXUwiaD9uVnr,None,Red,Cat,Red Fitted Cap,None,Ring 1,Brown,None
 3498,100,4382,0,https://solanart.io/nft/3oyEN4qpXzzE5sdJ1WkgWbCsLmdzJJmaEiGWGdaictp1,None,Trippy,Red,Plaid Bucket Hat,Stitched,None,Base,Blue Tracksuit
 3518,3.6,714,83.2,https://magiceden.io/item-details/4nPnW6ZTow1LBvNFMM1DL1oBrHzyqR9JezWytWyu3X6S,RPG,Trippy,Orange,Plaid Bucket Hat,Sneakers,None,Zebra,Poncho
+3527,40,491,0,https://magiceden.io/item-details/B9NenELX4oucaHF3fZsbujySRdnGx3r1B8qkNAYJhnLQ,None,Brown,Camo Vipers,Soldier Helmet,None,Ring 2,Blue,King Robe
 3528,6,2192,48.45,https://solanart.io/nft/A3qHs3Q4gcqNhDSzWtwzCxd5ZpPEvmjouF4pWRKgCsgi,Binoculars,Grey,Red,None,Blunt,None,Ice,Cream Puffer
 3531,3.2,886,85.95,https://magiceden.io/item-details/6PcF8CM8rK6zBrCRXz1244rEJXmRqqYt9fyJjrVZx9hZ,None,Blue,Eye Patch,Cowboy Hat,Microphone,Ring 2,Blue,Green Tracksuit
 3532,4.5,3580,53.35,https://solanart.io/nft/EtxFNjt8ttJAS6EasWoS9Qm8coy4dQauB2dENUz7qT7n,None,Grey,Orange,Black Bucket Hat,None,Ring 1,Zebra,Green Puffer
@@ -457,6 +469,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 3723,22,124,0,https://magiceden.io/item-details/7sWzmr6Mb7Py2PAehKDioEvEkcqdDL87JmvjpvDWfDL7,Binoculars,Green,Glowing Blue,Mushroom Hat,Stitched,None,Ice,Red Puffer
 3725,8,1320,34.79,https://solanart.io/nft/CEibhRJ7VimsZkn4zqmVvdpynWK5LsUSNtbg3mgpvYkb,None,Trippy,White,Purple Fitted Cap,Whistle,Ring 2,Leopard,Red T-Shirt
 3726,10,3075,2.02,https://magiceden.io/item-details/6TX5jwm3NikyMvXJ7hmEdUvh8ggDPVx36yfBt5z9M8Ex,None,Matrix,Green,Sombrero,None,Ring 2,Brown,Red Puffer
+3729,66.6,173,0,https://magiceden.io/item-details/8ZGR8kh6LXBnwvodWrpcekKwaUggJq3C8syNUDhQeDNZ,Fomo Tattoo,Sand,Laser Eyes,Devil Horns,Pipe,None,Zebra,Green Tracksuit
 3730,3.49,2235,73.24,https://magiceden.io/item-details/G8zpy4cwnYAj2KbRy19A2KyzMAu9bp7iXYBwiGCAjA6v,Solana Chain,Red,White,Black Bucket Hat,None,None,Zebra,Cargo Vest
 3739,7,2352,37.29,https://magiceden.io/item-details/7eFTJkFQzoChq3JfdcHyj38ANi3wTRiaxnKQgonwBrRg,Gold Chain,Red,Buffs,Beret,None,None,Blue,Yellow T-Shirt
 3746,14,1225,0,https://magiceden.io/item-details/6BjNNJPdk3sqFqsEqESqiEsD3FT3rPiR62cVTzzuXdQb,Camera,Grey,Laser Eyes,Viking Helmet,Whistle,None,Purple,None
@@ -505,6 +518,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 4036,10,3225,0.93,https://magiceden.io/item-details/6Z1Gjx1MD9VWt8YBbSagxK3KnBVSPY6twcPKEcsrxA3B,None,Matrix,Orange,Devil Horns,None,Stud,Black,Blue Sweatshirt
 4053,3.65,3386,63.26,https://solanart.io/nft/E88JR7yJdGMcqswFwQw1DwTCuaVZc88hsaybPkSzQGvc,None,Grey,Buffs,Pirate Hat,Blunt,Stud,Base,None
 4059,4,2475,66.39,https://solanart.io/nft/5nzgVbqvQY3FNhhwDRYgwZtcKxaFQ9dsmayc2H1A6UN5,Bone Necklace,Matrix,Eye Patch,Viking Helmet,None,Stud,Purple,None
+4080,100,658,0,https://magiceden.io/item-details/5QBy13n7xAJRktiNoBjSUudHRxved5jRFo8Umxp1HAcA,Bone Necklace,Trippy,Green,Pirate Hat,Bone,None,Lizard,Fur Coat
 4083,8.5,3039,17.29,https://solanart.io/nft/4YbCQBNYkWdmoE8Rc3UWTb9SNAJJxQegnu65CCCBUo2h,RPG,Grey,Camo Vipers,None,None,None,Brown,Blue Tracksuit
 4087,199,2071,0,https://solanart.io/nft/hagGTQjjV9urKVHq8h1QAeY64isbhwE43ysNFkV8F9y,Fomo Tattoo,Grey,Red,Cowboy Hat,Sneakers,None,Base,Blue Sweatshirt
 4093,8.8,4033,7.05,https://solanart.io/nft/4PAyRKADgvatoDjot8hff8WtJd4CzuicFghNSDibVDPy,None,Green,Steam Punk,Gold Crown,Bone,None,Purple,None
@@ -536,6 +550,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 4293,5.15,4791,38.04,https://magiceden.io/item-details/3is4HZmTX3SHZRQYBtieTxHbyPtQ3YdJzUrWRJuZdT5G,None,Purple,Blue,Pirate Hat,None,None,Brown,Camo Jacket
 4297,10,3799,0,https://solanart.io/nft/72xQgTC4xo5qSD8YeZiF3xxAH71MfVCstVxTVKDnMyuS,None,Sand,White,None,Mouse,Stud,Base,Blue Tracksuit
 4302,14,1183,0,https://magiceden.io/item-details/2apVTLqXC4jDw9waokC4ZeM2NKGwCdhwLGoK2tDuwMzm,None,Savanna,Dragon,Black Fitted Cap,None,Stud,Albino,Camo Jacket
+4306,65,1794,0,https://magiceden.io/item-details/9P9Ez33BVp1RMEP1C3X2WRKG4Cz2F1JveJCsxWT9TmRQ,Wings,Brown,Opera Mask,None,Blunt,None,Black,None
 4319,25,1947,0,https://solanart.io/nft/2d2PkNSmjsM79ec8Ep4ojtHpu6ckJ7rRT9zcR8egicoq,RPG,Red,Dragon,None,None,None,Lizard,Blue Sweatshirt
 4354,6,462,61.04,https://magiceden.io/item-details/9UjX8w93KxmTzD89bxKmpmYVZZFiSTqnDPCC2FNGaZaK,RPG,Yellow,Eye Patch,Santa Hat,Microphone,None,Brown,Blue T-Shirt
 4373,7.77,1971,32.36,https://solanart.io/nft/4cGL9XA5aACs1ogHq5sKpJLt1uXm4KTeoKPHX2K5ErnK,None,Blue,Dragon,Cowboy Hat,Gas Mask,None,Base,Yellow Tracksuit
@@ -558,8 +573,9 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 4498,7,1461,43.77,https://solanart.io/nft/HnqPAR5nkJZwBVXrKjybwa6y8TYNuRVDbQ3F2Xea5LR1,Binoculars,Brown,Blue,Purple Fitted Cap,None,Bull Ring,Purple,Black T-Shirt
 4520,4.75,2939,55.51,https://magiceden.io/item-details/6n8kg1ZTVTQEsqxC54M4f4y2TZGa25LSJgmoPXEB7HAY,None,Matrix,Red,Viking Helmet,None,Stud,Albino,Poncho
 4527,4.5,2222,63.23,https://magiceden.io/item-details/GE8YzgfnNNo3sjJkEeth2QrDLJa1T3Hi7zQ2mx1GjUUp,None,Red,Laser Eyes,Sombrero,Stitched,None,Brown,Red T-Shirt
+4535,68.8,45,0,https://magiceden.io/item-details/5q3geWs6ujxgEw4vnVL61DfceD5YAuaJ28oMxDah3NHv,None,Yellow,Zombie,Devil Horns,Bone,None,Zombie,Matrix Jacket
 4537,7,1875,40.76,https://solanart.io/nft/DCwTMyZwzxaee6akKkkd1LvtbJ8HMReGnZxYWNRyimW3,None,Trippy,Solana,None,Pipe,Ring 1,Base,Black T-Shirt
-4541,6,1273,55.14,https://magiceden.io/item-details/2WpLnXD2mVSgqMd9t8S2qs8Qtj3pGNzzovjnqtajL8Uv,Camera,Green,Ski Goggles,Fur Bucket Hat,None,None,Zombie,Green Tracksuit
+4541,6.5,1273,50.14,https://solanart.io/nft/2WpLnXD2mVSgqMd9t8S2qs8Qtj3pGNzzovjnqtajL8Uv,Camera,Green,Ski Goggles,Fur Bucket Hat,None,None,Zombie,Green Tracksuit
 4558,3.55,3790,61.32,https://solanart.io/nft/AdKExaqj42uwxSaAqPb3BHRL8DxGPDSqyBRRga2mjeHi,None,Purple,Ski Goggles,None,Gas Mask,None,Purple,Green T-Shirt
 4577,8,1863,30.84,https://magiceden.io/item-details/6pACRq2MTqdnSskwysG3mSwCqryeFhbNQP3ouWGUsBsq,None,Aurora,Vipers,None,Microphone,None,Zebra,Doctor Jacket
 4578,7.6,3633,21.96,https://magiceden.io/item-details/Ex6h1dyao5C395B1UuzFyccyzAinhpTV5iUJsMP8DVBy,None,Red,Blue,Plaid Bucket Hat,None,Ring 2,Blue,Poncho
@@ -608,6 +624,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 4926,4.5,4118,49.43,https://solanart.io/nft/9i7Tun7F8Co1dyrxXHsfbsaaGqq5Ws8QPSqyAx3XptPr,None,Red,Buffs,None,Cigar,None,Zebra,Red T-Shirt
 4956,5,3182,51.25,https://solanart.io/nft/7CcduC83onz4rXRT1DMrQv452j3LRaSf4mSSv3Xx8WL,Bone Necklace,Orange,Aviators,None,Blunt,None,Base,Blue T-Shirt
 4967,6,246,62.61,https://solanart.io/nft/9tSvqQ7y39x9CYY4ZM17EDoVQkZyH2dbQBwbtyuWJo9f,Diamond Chain,Trippy,White,Beret,Metal Chompers,None,Albino,Green Puffer
+4970,50,2,0,https://magiceden.io/item-details/7xFRam6F52bQ8Q1omXCJ38w95g3nYQsbzA3hmiP7Uwwx,Fomo Tattoo,Brown,Orange,Viking Helmet,Bone,Butterfly,Gold,Cargo Vest
 4980,18,1389,0,https://solanart.io/nft/4TuDPaEqMHKme1GyEyX4TT8EWpwyxXG4bwrS3DWb38xm,Fomo Tattoo,Purple,Ski Goggles,Black Bucket Hat,Sneakers,None,Purple,Fur Coat
 4983,4.9,2991,53.64,https://magiceden.io/item-details/h3PENEUvGoV86m2go5C2nb7WyZyDWGsZuDBfiampgsw,None,Red,Orange,Sombrero,Blunt,Stud,Purple,Blue T-Shirt
 4984,99,2418,0,https://solanart.io/nft/3N8uBfmFnwYCgmQSLVVqXDfVxrBr6YFrAeg6reVa7jBE,None,Yellow,Green,None,Sneakers,Ring 2,Albino,Basketball Jersey
@@ -631,9 +648,12 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Head,Mouth,N
 5176,9,569,30.26,https://magiceden.io/item-details/CgctjxQsHKEvs5zL6idQzpUARP6agFYSq3GnvA4xSVht,None,Sand,Orange,Santa Hat,Microphone,Stud,Brown,Robot Arm
 5181,9.9,3636,0,https://magiceden.io/item-details/5ikt5wCZyF4CZTf9pzZ2Ccxa1X8zX1dEddhV5cvKY9JQ,None,Grey,Green,Gold Crown,Sneakers,None,Albino,Black T-Shirt
 5188,15,2146,0,https://magiceden.io/item-details/HMHvxntKTLrvYF1uUZmRZ4nPeowCM3DCCZdCkyyEFAyh,None,Purple,Glowing Blue,Blue Fitted Cap,Blunt,None,Black,Tank Top
+5191,50,14,0,https://magiceden.io/item-details/4oCbrmvk7jCmse5m9oY8MRvAc4ATKYXvP4ncBjb1G8b4,Wings,Kings Card,Blue,Red Fitted Cap,Knife,Ring 2,Albino,Red T-Shirt
 5195,13,1159,0,https://solanart.io/nft/GibFyebhNr5YsKG6d8tnmH4R4GAnHE1uFmBQkhj9rfBX,Headphones,Grey,Eye Patch,Wizard hat,None,Ring 1,Cyber,None
+5209,2.8,5064,59.55,https://solanart.io/nft/7eKtuzWUVQhNTfiuDnHHgRdkuQGjTdaCwgnYqxLb9Mja,None,Red,Orange,Fireman,None,None,Brown,Green Puffer
 5240,7,547,50.42,https://solanart.io/nft/FLpHF6n88wCzpRbjqDkJ9u7haHSNKfAko5KSJyXp9rtM,Fomo Tattoo,Trippy,Buffs,Fur Bucket Hat,Blunt,None,Alien,Black T-Shirt
 5242,8,573,40.23,https://solanart.io/nft/7h1A3VddviTPP16a5QgzhBHhWXLeUQSu7xPHg4hV3oyR,Binoculars,Grey,Orange,Safari Hat,None,Bull Ring,Lizard,Blue Tracksuit
+5253,60,287,0,https://magiceden.io/item-details/DCNCov5ffq75TbefiooTyWFCtJe2R8vUkDmZ4SLHZCJc,Bone Necklace,Sand,Glowing Blue,Santa Hat,Pipe,None,Brown,Black Hoodie
 5348,19,201,0,https://magiceden.io/item-details/4V298MREjt5V6b8uS75SVvodBmuDgT6UDA6S5Cjybox5,Fomo Tattoo,Purple,Glowing Blue,Plaid Bucket Hat,Metal Chompers,None,Purple,Green Tracksuit
 5358,11,413,11.39,https://solanart.io/nft/7offcT5bzeubV774X1wbDDaYZMRGByrq7CxemEMx4JUL,Gold Chain,Sand,Solana,Chef Hat,Cigar,None,Alien,Tank Top
 5364,4.5,4166,49.09,https://solanart.io/nft/8K1NN1cew3CNAg5cRHA2CZo6XpixJdHBV5sHftmGKL4V,None,Trippy,Steam Punk,Black Bucket Hat,Knife,None,Blue,None
