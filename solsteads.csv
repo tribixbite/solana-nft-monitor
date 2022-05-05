@@ -94,6 +94,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 300 Bit Boulevard,47.99,463,0,https://magiceden.io/item-details/HNLVwBojTEZb6tY2QdUuXWv7tLToiLVW8uuX55fUYciC,Beach,Red,300,Art Deco,,,Occult,,Mix,Food,Night,Bit Boulevard
 304 Bit Boulevard,50,465,0,https://solanart.io/nft/6mhspWAabvaYBsngVn74574NnwB9MtkuEfV9rwxdCXsn,Field,Lavender,304,Modern,,,Crystal,,Yellow,Tin,Stormy,Bit Boulevard
 309 Pico Street,49,932,0,https://magiceden.io/item-details/Dz1uNV15hyvh7nXniSBe7pR8i2s6fEqzVke4NNqg1ASL,Underwater,Blue,309,Art Deco,,Yellow,Rounded,,Yellow,Tin,,Pico Street
+314 First Avenue,33,2468,40.05,https://magiceden.io/item-details/5bgQP4wFn3SB2KxYHCXtzBfmn81oaPi55LokZ2htC1dG,Field,Blue,314,Cottage,,Red,Rounded,,Blue,Shingle,Day,First Avenue
 318 Bit Boulevard,36.5,1846,15.12,https://magiceden.io/item-details/H6FX7LZ4jmcrF63dCm5XcFzQB3xLUFYvvekgBRsX3kzP,Woods,Blue,318,Art Deco,Vines,Red,Shuttered,,Mix,Grass,Day,Bit Boulevard
 319 Bit Boulevard,50,370,0,https://solanart.io/nft/EctCkfZBSsCzufbfSgh7TpPAmUj6wkMd2iHE5NmVcEbS,Desert,Blue,319,Cottage,Brick,Green,Shuttered,,Green,Haunted,Sunset,Bit Boulevard
 325 Grime Lane,54.2,997,0,https://magiceden.io/item-details/8P4FydBR94YG9QWQQKMxxwc1TuppWeCP4J5aYEFLrSKD,Woods,Yellow,325,Art Deco,,,Occult,Rain,Yellow,Shingle,Day,Grime Lane
@@ -196,7 +197,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 603 Helix Avenue,43.5,1655,0,https://magiceden.io/item-details/BdGvkWcpWNecrYt4hooAKE6j2NAaU6GSK3NEYUFdQB3o,Beach,Blue,603,Mansion,Vines,,Glass,,Blue,Shingle,Day,Helix Avenue
 617 Poplar Street,92,1041,0,https://alpha.art/t/4JZhKgMxc5QKuzMPoWc15skaAAr4iYzGnSyTSd8ARBcA,Desert,Green,617,Modern,Vines,Red,Rounded,,Pale green,Shingle,Night,Poplar Street
 619 Dip Drive,75,219,0,https://magiceden.io/item-details/Gkz6pifsnnj9fqm2PzteasHfHY4JsvsnAW21E1tBX21i,Underwater,Red,619,Art Deco,,,Occult,,Mix,Food,,Dip Drive
-620 Dahlia Drive,42,525,0,https://magiceden.io/item-details/BQdSvm4kyzkHnVFvFqWV8mkaHMXkTubMqdgMLJzhhefd,Beach,Yellow,620,Mansion,,,Crystal,,Dark green,Tin,Night,Dahlia Drive
 623 Helix Avenue,225,80,0,https://solanart.io/nft/79d539bXb56bussrumjjgxrmuJg7oeucvfifpyKqFb1k,Underwater,Dark green,623,Mansion,Vines,,Crystal,,Blue,Tin,,Helix Avenue
 631 Epoch Avenue,80,418,0,https://magiceden.io/item-details/FnXmvdwmt5rwb1VdjkbkzC5ZmH15AkDvj1s2wamKhxWb,Treehouse,Dark green,631,Cottage,,Pale green,Shuttered,,Dark green,Patio,Day,Epoch Avenue
 634 Epoch Avenue,60,1393,0,https://magiceden.io/item-details/DztdM2PhCCoRZg65vqxE8vEeVo3LKgnHW2huTyj7ieMj,Field,Green,634,Art Deco,,Lavender,Shuttered,,Green,Shingle,Night,Epoch Avenue
