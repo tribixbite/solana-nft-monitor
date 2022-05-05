@@ -1,14 +1,11 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Flair,Mouth,Smoke
 13,2.4269,25,76.41,https://magiceden.io/item-details/EX2UMewfCXy7pMuKmn7jxjycD4bufQjYyJ8U1evP1FtU,Raspberry,Bat white,Watery,Lightning,Fangs,Mint
 28,2,16,81.23,https://magiceden.io/item-details/EBaEQsetTjv8EeFZwehmYiKY2trCmouUjPy78kCd9FL6,Ice,Stray bunny white,Spiral,None,Teeth,Toxic
-29,0.22,460,71.99,https://magiceden.io/item-details/5BwvyjUGaZ2as8P39anwbsmZTDm8WhXxk9JJeQcqZ4zB,Candy,Stray bunny,Watery,Rain,Scary,Mint
 50,0.88,395,69.35,https://magiceden.io/item-details/FhhQFcHDSR9uvxadXoXzpka3BDQbSo9eSEQ6vggCJzta,Ice,Snake,Bored,None,Scary,None
 71,0.48,549,63.98,https://magiceden.io/item-details/2mAyQBCHjZFgneTkiKGioSHvxePw6TRfT8XAaQnkNqhW,Raspberry,Bat,Flaming,None,Fangs,Mint
 89,0.45,401,73.29,https://magiceden.io/item-details/2YgHDk6en1evR6wXnhxZHPvYT8nYm2qs4TtJzKLuuv1d,Candy,Snake,Flaming,Rain,Teeth,Cotton candy
 133,0.69,610,58.16,https://magiceden.io/item-details/DAqHqwivrURV5NCcbDZoAyazXGobQvpTvWxrZPWxzbB7,Candy,Stray bunny,Spiral,None,Scary,None
-157,0.25,647,60.31,https://magiceden.io/item-details/4FM3FuHPYHYVA8cyCEwXXqUnCXZ5vs3aqpgnLwAyKVB9,Candy,Stray bunny,Flaming,None,Scary,None
 168,0.35,345,77.7,https://magiceden.io/item-details/HS2TddGTL1S3V7zNXT4Ty5sQe8uDcZxS8Lergcw8uPqq,Ice,Worm,Watery,Rain,Scary,Cotton candy
-169,0.22,418,74.55,https://magiceden.io/item-details/9jgaySuWXJL7MaDRsZbHvWqmrz6TLQEvAido7PnHjys4,Candy,Snake,Flaming,Rain,Fangs,Toxic
 178,1.25,429,63.58,https://magiceden.io/item-details/FEAr1fKt2FAdtr3JfcgE3LfWNUmrJQ66NRXFN36YWZGD,Candy,Stray bunny white,Flaming,None,Fangs,None
 191,0.5,142,88.55,https://magiceden.io/item-details/DXZkYotokheg2mgzwBzsPGyHZS2nMxq1uBuCbqobTkLj,Raspberry,Bat,Spiral,Lightning,Teeth,Mint
 209,0.45,595,61.47,https://magiceden.io/item-details/HhFyPwsWn5aiU9sjCMEmLTQJMiJYzaojeTQvPFngbRjC,Candy,Snake,Watery,None,Fangs,None
@@ -70,6 +67,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Flair,Mouth,Smoke
 401,0.48,643,58.25,https://magiceden.io/item-details/DkUGxu8ULsiJqcSSqNMZ71WHs7h7xWkeQazQzhDYNeSx,Candy,Snake,Flaming,Lightning,Scary,None
 409,1,417,66.81,https://magiceden.io/item-details/D5Do9ra4jCLsZxMmwzyEWLTKqSTVRig9ppjvQgPwcoS6,Fire,Bat,Flaming,None,Scary,Mint
 412,0.9,352,71.77,https://magiceden.io/item-details/BH6gqJMr1U4X4f3pZSAdtmLf4dQkxmJ2fgjY73UBu93g,Candy,Worm,Spiral,Lightning,Bored,Mint
+421,0.89,115,86.3,https://magiceden.io/item-details/3n7WcY5WBjY8jhJaocGipg82ZVERct21Tnhvp86bihxy,Fire,Bat,Flaming,Rain,Fangs,Toxic
 423,0.85,19,92.54,https://magiceden.io/item-details/Hw3FkC9CDLka4XBdeogv8KtLzKZYkXoENAZUmRBJNN4Z,Raspberry,Snake,Bored,Scribbles,Teeth,None
 430,0.69,378,72.29,https://magiceden.io/item-details/3jG65krrbGWUyh7rzzr3d6N29p5x2dwANrzK9KvdPjP7,Candy,Stray bunny,Flaming,Lightning,Bored,Mint
 450,0.9,500,62.76,https://magiceden.io/item-details/3YUojuu9RFkcc1buMmP8qVW9xt7Tek5PF4EjSRVKPYEh,Raspberry,Snake,Flaming,Lightning,Scary,Mint
