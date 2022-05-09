@@ -34,7 +34,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 973,42,5858,0,https://solanart.io/nft/2qncQUAiY6oKkDUyy6guNVGpej7uRX1GRt2HfTBzsbeG,,6,Spotted Kiwi,Martian Speakers,Groovy Perceptors,Targari,Useless Compass,Pensive
 1051,23,7684,0,https://solanart.io/nft/H2bNRrhjx3e5TNn27y6tsE3Pck6TtidakeAHLah4vmAX,,5,Spotted Turquoise,,Astral Projectors,Barada,Grabber,Fanged
 1169,25,9060,0,https://solanart.io/nft/36Sp3AQDWtpkYrJnRLBBtPBVmvmhqp73J4cS4gVfD4JN,,5,Brick,,Villainous Visor,Martu,Aerodynamic Cap,Pensive
-1228,40,3774,0,https://solanart.io/nft/FZntJcXEbq3ELMg9MmhbrCfPASqz9EJfDNsbtUqNrVoq,Nebular Wormhole,7,Printed,Prismatic Capacitors,Paranoid Eyes,Targari,Fried Lenses,Pleased
+1228,15,3774,54.9,https://solanart.io/nft/FZntJcXEbq3ELMg9MmhbrCfPASqz9EJfDNsbtUqNrVoq,Nebular Wormhole,7,Printed,Prismatic Capacitors,Paranoid Eyes,Targari,Fried Lenses,Pleased
 1335,200,1529,0,https://solanart.io/nft/GAXUbu676mRX1vrAGqnp8geE55our2BL44Mug3Y5LPZi,Martian Tunic,7,Printed,Cooling Fan,Deluxe Shutters,Barada,Solar Converter,Wise
 1440,42,1073,0,https://solanart.io/nft/HjkTELXM4nopqmXqCA375KRH8maxaRJTEM36TU3cgW2y,Mini Cruiser,7,Striped Blue,Captive Ear,Creepy Peepers,Alura,Space Roach,Hungry
 1497,188,161,0,https://solanart.io/nft/3DbezskfUzBFbP3CFkTVpJ6doxT7vjZnNet43QfbnGvY,Spikey Space Trash,7,Neon Green,Intergalactic Fins,Wonky Headlights,Barada,Identified Flying Object,Fanged
@@ -245,7 +245,6 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 7160,225,8053,0,https://solanart.io/nft/FyzZAVCyE1FkPmJcLq2ipKBFdb4i51iKKEVn5zu3TYzP,,4,Spotted Kiwi,,Haunting Slits,Targari,,Excited
 7167,30,8485,0,https://solanart.io/nft/AQSviCTEM1RXuRPTZHQxEm2fBfWPebtugomiZ3pYUzgw,,5,Orange,,Ocular Scanner,Martu,Aerodynamic Cap,Wise
 7280,30,2009,0,https://solanart.io/nft/F7tsAmkbSiMRSztorN2UAjBPgE8eWpmJjQ4E7HWcMARb,Planetary Kirtle,7,Printed,Pulsing Sizzlers,Gilded Lenses,Alura,Viral Intruder,Toothy
-7360,36,2705,0,https://solanart.io/nft/2udsZkEUjTbQwUVcxDZ2JYGyP8LP9J5RMciMPzw5isfu,Spectral Companion,7,Brick,Lunar Squid,Extendable Examiners,Targari,Useless Compass,Pleased
 7385,100,344,0,https://solanart.io/nft/HktQmcDRLGdV1Hc3emhayUn8KJmQonRhas6TsTFxRxDh,Galactic Scraps,7,Ghostly White,Equinox Boosters,Galactic Sequencer,Barada,Viral Intruder,Hungry
 7390,60,3507,0,https://solanart.io/nft/2sACXSC8NBEdp3boYv2K9XcgVTUFbLD9BBxyazw4XmGp,Lunar Robes,7,Orange,Martian Speakers,Reptilian Gazers,Alura,Budding Coral,Pleased
 7441,30,3228,0,https://solanart.io/nft/7sqAaQ38hz8DnPEucZbYaMRYEqyz6fXaU9wudxFzEWz5,Spectral Companion,7,Striped Blue,Cooling Fan,Funky Shades,Barada,Plasmatic Guzzler,Pensive
