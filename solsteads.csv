@@ -48,7 +48,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 94 Ape Lane,55,2049,0,https://solanart.io/nft/43trYa9VKVTgY88UDgAxHdc4b3HaMkX5kPickrEqy7Pt,Mountain,Blue,94,Cottage,,Green,Rounded,,Yellow,Patio,Day,Ape Lane
 96 Wall Street,69,923,0,https://solanart.io/nft/DYou6Pf25eHqnFYYVMyikrQjxAh8ug7tW6835CkorZR7,Beach,Blue,96,Cottage,,Red,Rounded,Rain,Green,Shingle,Night,Wall Street
 97 Rosa Street,1000,24,0,https://solanart.io/nft/397tLwKiqBjZtLoyrUGVwns9kb7ub7RaW2MEVxF7bdQz,Field,Gold,97,Cottage,Gold,Gold,Gold,,Gold,Gold,Day,Rosa Street
-100 Wall Street,45,1183,0,https://solanart.io/nft/H8Ny8YY9HdKcmLtXyquGaHXEXC3BvhGfmE4fUPCdX4T9,Treehouse,Green,100,Cottage,Vines,Red,Rounded,,Dark green,Shingle,Day,Wall Street
+100 Wall Street,41.689999,1183,0,https://solanart.io/nft/H8Ny8YY9HdKcmLtXyquGaHXEXC3BvhGfmE4fUPCdX4T9,Treehouse,Green,100,Cottage,Vines,Red,Rounded,,Dark green,Shingle,Day,Wall Street
 100 Stewart Avenue,39.5,1784,0,https://alpha.art/t/Cr3yaF4Wfd1UzMedMyppT6A2CiZm7rWuKNAuGVbkwLCz,Mountain,Lavender,100,Modern,,Green,Shuttered,,Green,Skylight,Day,Stewart Avenue
 104 Stewart Avenue,50,603,0,https://solanart.io/nft/Fk8XJ2GWRonekXWxBPuehtYp3XUPjM3v13xPMigcEdec,Arctic,Green,104,Mansion,,,Crystal,,Mix,Food,Day,Stewart Avenue
 106 Ape Lane,44.5,2209,0,https://solanart.io/nft/Fyr4ehLGT7BLigPgpBSLLjVKerZ4k53qCD3gsvCyejXu,Mountain,Blue,106,Modern,,Red,Rounded,,Yellow,Shingle,Day,Ape Lane
@@ -140,7 +140,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 420 First Avenue,52,2089,0,https://solanart.io/nft/FBoWbF5uZigGPiD9htXXCoWZ8qRhJ41pt3yYbu6Z61MC,Beach,Red,420,Modern,Brick,,Glass,,Pale green,Tin,Day,First Avenue
 420 Dahlia Drive,85,2289,0,https://solanart.io/nft/5jt7Xya3pgHJ79ri3dsyrZr5MgskfTVDyt5iE5KNJbzV,Treehouse,Green,420,Cottage,Brick,Yellow,Shuttered,,Red,Shingle,Day,Dahlia Drive
 421 Bamboo Boulevard,36,1610,33.94,https://solanart.io/nft/4iGVYAG15gekezGa8WYAFPkH43C9VfG1e5vyxLxt1bCC,Mountain,Yellow,421,Modern,,,Crystal,,Red,Tin,Night,Bamboo Boulevard
-421 Lamport Lane,55,1942,0,https://solanart.io/nft/9kfEznif73eQTt4bdrPZoDbB2nBjTeVF9i1uUMhKyn2M,Volcanic,Red,421,Cottage,Brick,Red,Shuttered,,Blue,Patio,Day,Lamport Lane
+421 Lamport Lane,47.5,1942,0,https://solanart.io/nft/9kfEznif73eQTt4bdrPZoDbB2nBjTeVF9i1uUMhKyn2M,Volcanic,Red,421,Cottage,Brick,Red,Shuttered,,Blue,Patio,Day,Lamport Lane
 421 Blaze Boulevard,55.689999,1480,0,https://solanart.io/nft/AX6r4GPPFRSXdAsxdwLjTstxoTdJakRw9v6WdbKwx4DR,City,Blue,421,Cottage,Brick,Yellow,Rounded,,Green,Tin,Night,Blaze Boulevard
 423 Blaze Boulevard,120,1816,0,https://solanart.io/nft/2Am6vbxwM9a5WgG6qmc6uhuUjzCkio32VTwbK9oZ6mQX,Beach,Blue,423,Art Deco,Brick,Yellow,Rounded,,Yellow,Shingle,Day,Blaze Boulevard
 426 Blaze Boulevard,169,129,0,https://solanart.io/nft/3922i2BUgph4N8cXgcK9w87GdFkLc6KnUVVMoegdmC9F,Field,Green,426,Mansion,Vines,Dark green,Shuttered,,Mix,Grass,Sunset,Blaze Boulevard
@@ -210,7 +210,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 676 Clipping Drive,35.689999,1291,42.2,https://solanart.io/nft/5fQrgEY5HFE6EJkj1XrY4eKfsHcJYBh252tnqSpMWYzP,Desert,Yellow,676,Art Deco,Vines,Green,Shuttered,,Pale green,Shingle,Day,Clipping Drive
 677 Helix Avenue,200,1239,0,https://solanart.io/nft/Bu2KiMD8TtKZiQzXNU5tkp32Z36t7Ru1MAzipcrktRc4,Beach,Green,677,Mansion,Brick,,Glass,,Yellow,Patio,Day,Helix Avenue
 680 Ramsey Street,81,1472,0,https://solanart.io/nft/CzkciCZsHi72iTq4ffX6MSWdLvFx2sPWsTDRd4c4Zypi,Treehouse,Yellow,680,Modern,Vines,,Glass,,Red,Shingle,Day,Ramsey Street
-681 Poplar Street,44.439999,512,0,https://solanart.io/nft/BpiBh3Cnr363oSeqB3WceSGcPC1vhTZA4qZaCqm6wrRV,Field,Yellow,681,Modern,Vines,,Occult,,Yellow,Tin,Stormy,Poplar Street
+681 Poplar Street,42.689999,512,0,https://solanart.io/nft/BpiBh3Cnr363oSeqB3WceSGcPC1vhTZA4qZaCqm6wrRV,Field,Yellow,681,Modern,Vines,,Occult,,Yellow,Tin,Stormy,Poplar Street
 689 Clipping Drive,39,755,17.78,https://solanart.io/nft/6Auebos4dbBy1HZxgd5CtxB6W1ro4NJLpnxHJ5ypQARc,Underwater,Green,689,Cottage,,,Crystal,,Blue,Skylight,,Clipping Drive
 695 Helix Avenue,100,1991,0,https://solanart.io/nft/Am9zXTXsmLZaA937bqgTRAq6VkdT4gYuLwkay7bjz42W,Volcanic,Blue,695,Art Deco,,Red,Shuttered,,Green,Shingle,Day,Helix Avenue
 704 Clipping Drive,50,740,0,https://solanart.io/nft/2tpnwPisnXw4yFzf7isVtAQykVGJrWVQ4BnVwcFHHygv,Field,Green,704,Art Deco,,Blue,Rounded,Rain,Mix,Food,Day,Clipping Drive
