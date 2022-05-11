@@ -161,6 +161,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 1211,100,1015,0,https://solanart.io/nft/2SL6hkFM7K1Lqmf9zfmXLL2BcChjELepMzn2sRaeQ191,Black,Tie-Dye T-Shirt,Wayfarer Glasses,Black / Peach,Top Hat,Eggplant,No Traits
 1352,6942.068848,1,0,https://solanart.io/nft/3WLWSvKMRnJpMgW5VfrohEHjYYYGgHiXnjAMeTqfu2m2,Teal,Jungle Explorer,Ape Vipers,Acid Trip,Beanie,Eggplant,Gold Tooth
 1537,8888,3610,0,https://solanart.io/nft/DRwTjHiczPgFnBavyaRoayxb27R6x4oEwrDUaoD9EhFt,Purple,Hawaiin Shirt,No Traits,Brown / Peach,Fireman's Helmet,Pipe,No Traits
+1587,10000,48,0,https://solanart.io/nft/Eb89RFb5MZh4QWaae7m3pMQf5S1eNwUvoaYcpiDGdBfE,Yellow,Space Suit,No Traits,Brown / Yellow,Space Helmet,Cigar,No Traits
 1674,8888,72,0,https://solanart.io/nft/DqfNUJDLDJRmiom8qgPP9GnukUoRr7S1MJZMbHEVRZ6P,Red,Silk Robe,No Traits,Albino / Peach,Harambe's Halo,Cigar,No Traits
 1704,5000,3005,0,https://solanart.io/nft/AwvhhcZenFBwwy5rdkk6JgH8DF8CaUGPmTNc8zqtaBDz,Blue,Wetsuit,Shutter Shades,Blue / Blue,Viking's Helmet,Banana,No Traits
 1807,5000,17,0,https://solanart.io/nft/BbJTn5o978dbyJzzzDBpnHHJP87h5G2Ljk1dE3uKV2cr,Green,Biggie Sweater,Aviator Glasses,Leopard,Laurel Wreath,Grilled Cheese,Wooden Tooth
@@ -182,7 +183,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothing,Eyewear,Fur / Skin
 4946,6500,149,0,https://solanart.io/nft/7UNdTsb1FwCK6DF2hiLxRbLMrRxHnZ6kejBV1nmySV75,Green,Bowling Shirt,Aviator Glasses,Acid Trip,Bucket Hat,Ape-le Juice,No Traits
 5036,3919,7695,0,https://solanart.io/nft/6o7tKDkLq9YtYFiKuRm1o8N4yVKTZrrUU8DPVGotGKwf,Blue,Wetsuit,No Traits,Blue / Peach,Mobster Hat,Grilled Cheese,No Traits
 5130,4969,502,0,https://solanart.io/nft/Etff559MmpYsrhBRkDbGriwNHLhp3KJuF5HLKRUM2VBK,Black,Turtleneck,Ape Vipers,Black / Gray,Harambe's Halo,No Traits,No Traits
-5314,3000,16,0,https://solanart.io/nft/93teXTdMk5LyTAf27hEyxBUQoNaSMAKQbHiUgy9BdZUa,Purple,Leather Jacket,Wayfarer Glasses,Black / Gray,Conical Hat,Eggplant,Diamond Teeth
 5405,5000,3340,0,https://solanart.io/nft/Eu9XrHwdTDf9vnnfWzV6K6vBpYY4SPydPFLMzLHssthR,Purple,Cheerleader,Wayfarer Glasses,Purple / Purple,Beanie,Soda,No Traits
 6117,3000,131,0,https://solanart.io/nft/HeVXJCURxNSjkXESJvnofvmxZ3bAziepJWLk5EfqEt3y,Purple,Prince Charming,No Traits,Purple / Peach,Roman Helmet,Drool,No Traits
 6322,4500,2526,0,https://solanart.io/nft/Avb2Sf2P43jHUad99hfAz3rYViMePm1shgtooSUQBrCU,Purple,Bowling Shirt,Wayfarer Glasses,Red / Peach,Musketeer's Hat,Ape-le Juice,No Traits
@@ -235,7 +235,6 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 1548,405,742,0,https://solanart.io/nft/Bmx9AQLSqBEMAeJMDZPGcvxwSctY5sTwe1AX8XHg1Jd2,Purple,Japanese Uniform,Wayfarer Glasses,Albino / Peach,Pilot's Hat,Ape-le Juice,No Traits
 1553,123,1099,0,https://solanart.io/nft/ums4YYFAYwKUs2f4FSWD2zfyWyGrPMh3czuETUgi6cj,Blue,Cheerleader,Ape Vipers,Purple / Purple,No Traits,Hotdog,Gold Tooth
 1560,120,900,0,https://solanart.io/nft/AqDTwo9s4BCqetGGeqTD2kod739kz1f3yeqAdA6qKfhJ,Teal,Bowling Shirt,No Traits,Brown / Yellow,Beanie,Sandwich,Gold Tooth
-1587,10000,48,0,https://solanart.io/nft/Eb89RFb5MZh4QWaae7m3pMQf5S1eNwUvoaYcpiDGdBfE,Yellow,Space Suit,No Traits,Brown / Yellow,Space Helmet,Cigar,No Traits
 1589,375,468,0,https://solanart.io/nft/Bhp4PVrk6PxRa1Yy9t3BqSgSXgDCD8MSVczmpk9HJaRw,Purple,Bowling Shirt,Ape Vipers,Ice,Sergeant's Hat,Burger,No Traits
 1606,625,1853,0,https://solanart.io/nft/GR5ojeG4KvywPqfLxewXycbLy7wau5DcbVGuJKWh7Fxb,Purple,NB-Ape Yellow,No Traits,Red / Peach,Beanie,Smooth Brain,No Traits
 1614,400,116,0,https://solanart.io/nft/8Kegm91ptuzRqN4mFQghUYBR1VLdaGHNyxGBEiXmWWmL,Blue,Leather Jacket,Aviator Glasses,Ice,Graduation Cap,Pizza,Gold Tooth
@@ -692,6 +691,7 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 5292,150,879,0,https://solanart.io/nft/G46muTAmKyfM8Us3xoH2bBQHQUFoAvGL27MR3FAXgXCf,Red,Hoodie,No Traits,Albino / Peach,Racoon Skin Hat,Hotdog,Gold Tooth
 5301,400,4725,0,https://solanart.io/nft/iHVLWDTAg5y576MRTkNGhMUcg2u3uUgPqZYuX1DYvGt,Blue,Maid's Uniform,No Traits,Purple / Peach,Pilot's Hat,Bubblegum,No Traits
 5311,420.690002,2396,0,https://solanart.io/nft/2SW48xArRik49tTgUq9to7Lha2wecSTPoXfpZxreKpoC,Green,Maid's Uniform,Ape Vipers,Green / Green,Straw Hat,Banana,No Traits
+5314,3000,16,0,https://solanart.io/nft/93teXTdMk5LyTAf27hEyxBUQoNaSMAKQbHiUgy9BdZUa,Purple,Leather Jacket,Wayfarer Glasses,Black / Gray,Conical Hat,Eggplant,Diamond Teeth
 5316,220,2867,0,https://solanart.io/nft/NPrdChSVytwYsJnEXJReXHXx2BBbZJByZpd8CBNtBP6,Blue,Leather Jacket,Round Glasses,Blue / Blue,Conical Hat,Bubblegum,No Traits
 5317,145,1295,0,https://solanart.io/nft/HPntvzHru7dz1U5nefyZ8JyjRzArFwpG99w7nK6GoSty,Yellow,Pilot's Jacket,No Traits,Black / Gray,Floral Crown,Dirty Fiat,Wooden Tooth
 5330,369,8208,0,https://solanart.io/nft/4DC8RbwFKCjFndhW9fModgdZiVFowq2GH3hdEKExi1ci,Black,No Traits,No Traits,Black / Gray,No Traits,6pc Tendies,No Traits
@@ -757,7 +757,7 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 5817,250,3783,0,https://solanart.io/nft/6whcsHzG4oEmDGVLFHsFUVYqpjAhWUPL7ab5tqTvbYMe,Black,Bowling Shirt,No Traits,Ice,Fishing Hat,Grilled Cheese,No Traits
 5831,135,1119,0,https://solanart.io/nft/53xLzktjAEsq6WAdPJMXDJD1CSd98jifrfmhexyWHQ5f,Black,Turtleneck,Round Glasses,Blue / Blue,Snapback Cap,Ape Force 1's,No Traits
 5832,100,9148,0,https://solanart.io/nft/3P9XUA4W7WXsWE1KxhEEhpBWeGNC4ckWJPzCaPYkuTHv,Red,No Traits,No Traits,Red / Peach,The Croc Hunter,No Traits,No Traits
-5847,75,9875,0,https://solanart.io/nft/2PhNxVnGVmEyKFxwmtTFnJtWr66DgfHeHy1hZH8wDT9r,Green,Black T-Shirt,No Traits,Green / Peach,No Traits,No Traits,No Traits
+5847,67,9875,0,https://solanart.io/nft/2PhNxVnGVmEyKFxwmtTFnJtWr66DgfHeHy1hZH8wDT9r,Green,Black T-Shirt,No Traits,Green / Peach,No Traits,No Traits,No Traits
 5852,118,8444,0,https://solanart.io/nft/FchCgnWmxewjKi2LwHM7HX7SQByNyMUFQs5s14P4ZSZt,Black,Striped T-Shirt,No Traits,Albino / Peach,No Traits,Drool,No Traits
 5875,121,2006,0,https://solanart.io/nft/3cb1233gPEq5bzJJfv3YAQUZG194U4CygzYyZ6us23DG,Red,Overalls,Wayfarer Glasses,Blue / Blue,Graduation Cap,Bubblegum,No Traits
 5876,120,3523,0,https://solanart.io/nft/4Ho48fGYEWKC85jX2T1wBxiGh6q1oAF3hs3rzBpKH5aH,Purple,Turtleneck,No Traits,Blue / Blue,No Traits,Burger,Gold Tooth
@@ -1164,7 +1164,6 @@ Degen Ape - WSB Mod,6969.689941,NaN,0,https://solanart.io/nft/8y1bt8iUJQTDeFzocH
 9344,159,6974,0,https://solanart.io/nft/HjS8Px6dhTEBHwS9QNP96WgGGGY3iBDXYG6bJngbB5Qf,Blue,Bowling Shirt,No Traits,Ice,Fishing Hat,No Traits,No Traits
 9345,125,6511,0,https://solanart.io/nft/tjpo5DKQDM2A3MCrcydv5bbM8vZjQuUMTpr6r44ptX4,Purple,Silk Robe,No Traits,Purple / Peach,No Traits,Corndog,No Traits
 9351,500,2767,0,https://solanart.io/nft/Bk5N6N2Px57nJobCbPZAaGVc8Ce1Z8nWsw7FKBYXSJ9S,Red,Denim Vest,No Traits,Red / Peach,Policeman's Cap,Cigar,No Traits
-9360,200,5676,0,https://solanart.io/nft/HzbDU71NMdgejpA6y9T1GeJtCWEm8GDUDCPTCTSG6n81,Black,Leather Jacket,No Traits,Black / Peach,No Traits,6pc Tendies,No Traits
 9364,999,1577,0,https://solanart.io/nft/5q1bJU2Rg7FPwNtAy2YYzctpyDNcPCBwzqjceCgQobhu,Blue,Black T-Shirt,No Traits,Ice,Captain's Hat,Cigar,No Traits
 9385,150,8512,0,https://solanart.io/nft/BE5AKjDM86srgWDHwV2XAK6uC8QzdZqQowt249TQCrSm,Yellow,Overalls,No Traits,Brown / Yellow,Floral Crown,No Traits,No Traits
 9389,78,7809,0,https://solanart.io/nft/boiDhs8ryD8tyqhhJDabRDaE1Y5GzUQR6wJrZ2kjZSp,Yellow,No Traits,No Traits,Brown / Peach,Straw Hat,Donut,No Traits
