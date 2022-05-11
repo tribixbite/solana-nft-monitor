@@ -65,7 +65,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 915,65,3874,0,https://solanart.io/nft/HXRQMw2BXygZZZwCfFnyDxwePoJAF8i5fB2ZWE64dmou,Pointy Statement,7,Lime,Gravity Dongal,Augmented Surveyor,Martu,Decorative Boomshot,Pensive
 916,200,4691,0,https://solanart.io/nft/GBv61Jwp7W1e9Xr98f7bVdZCmkuCfwqhxejWZPLzMu48,Mini Cruiser,6,Striped Blue,,Geckonic Sight,Barada,Photon Harvester,Toothy
 933,14,1927,45.19,https://solanart.io/nft/CFUaX1kQn9bgCMkezrn3cZt5XeFfZKCpNMQraMoffV3w,Terraformers Uniform,7,Spotted Turquoise,Cooling Fan,Expensive Scrutinizers,Barada,Decorative Boomshot,Pleased
-936,13,2880,51.38,https://solanart.io/nft/w2NWWHjC38WSD5tVTRstxsBfYsfB2tkVcEkFVh9w6Xm,Martian Tunic,7,Printed,Prismatic Capacitors,Vulgar Eyes,Barada,Decorative Boomshot,Pensive
+936,10.5,2880,76.38,https://solanart.io/nft/w2NWWHjC38WSD5tVTRstxsBfYsfB2tkVcEkFVh9w6Xm,Martian Tunic,7,Printed,Prismatic Capacitors,Vulgar Eyes,Barada,Decorative Boomshot,Pensive
 938,24,4166,0,https://solanart.io/nft/HeezE2zE9bQuVCvMErDCbgYvCs7X9dYYMJC7vsYsztMJ,,6,Lime,Cooling Fan,Glossy Zoomers,Barada,Micro Thingamajig,Excited
 957,40,3596,0,https://solanart.io/nft/BcKMa28euDyyffxg9wsRKJg563taunF2KF3MFyKBp12b,Plutonic Plating,7,Lime,Ionic Flux Inhibitor,Sun Beams,Barada,Ionic Fizzler,Pensive
 962,49.799999,483,0,https://solanart.io/nft/D8fB9btKm5Fdg8GqwEaVLyZoDfNCh4aE2UBfTQGdXFWZ,Magnanimous Rocketeer,7,Spectral Black,Side Plating,Engaging Pupils,Barada,Space Roach,Pensive
@@ -126,7 +126,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 1774,300,9244,0,https://solanart.io/nft/DZSHbPzbPXffNbWghhQSbFQbFTg5FKF6hxKB3pbUu29Y,,5,Orange,,Sun Beams,Alura,Space Rat,Pleased
 1777,50,4616,0,https://solanart.io/nft/8cMsN8J3Aa24y4VnyjQXN1koYN3LF2d9wz4any96djAj,,6,Spotted Kiwi,Nebular Amplifier,Paranoid Eyes,Targari,Ionic Fizzler,Hungry
 1816,20,6472,0,https://solanart.io/nft/3UZPCwJgb25rrWELFkwCsgUf8FbjZE7ZkbPUcJkrj3UR,,6,Printed,Gravity Dongal,Extendable Examiners,Targari,Useless Compass,Pleased
-1819,70,532,0,https://solanart.io/nft/DXHknFKKZejawBdiKSRb6iwpp2STnBs9sFbyFakozauo,Spectral Cheesecloth,7,Neon Green,Satellite Dish,Laser Sight,Targari,External Hard Drive,Pleased
+1819,65,532,0,https://solanart.io/nft/DXHknFKKZejawBdiKSRb6iwpp2STnBs9sFbyFakozauo,Spectral Cheesecloth,7,Neon Green,Satellite Dish,Laser Sight,Targari,External Hard Drive,Pleased
 1827,220,7319,0,https://solanart.io/nft/EvHsU5YjCSsYzr5fuYj8k69Jo4Fb4gx7KaHAiKjHLr2p,,5,Brick,,Galactic Inspectors,Barada,Viral Intruder,Aggressive
 1836,70,6649,0,https://solanart.io/nft/7oS4VUAK5bwhhxKQr2Yn9L5YJvSwi8BgVmnK8UPzPx4T,,5,Striped Blue,,Geckonic Sight,Martu,Galvanic Helm,Aggressive
 1837,50,8466,0,https://solanart.io/nft/FiVhRYp5dA57yaW8AGzzf6PahsReuJFf7aTb7CRmhGR7,,5,Light Pink,,Incisive Oglers,Alura,Fried Lenses,Wise
@@ -418,6 +418,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Attribute Count,Body,Ears,Eyes,F
 5510,19,3351,0,https://solanart.io/nft/4Ecn1SdSc3vHNAzNdYKm7tr6KYiaCiRMhGiS2PuZqDzt,Orbital Frock,7,Light Pink,Sublimatic Surveyor,Cybernetic Beamers,Alura,Ionic Fizzler,Pleased
 5515,26,710,0,https://solanart.io/nft/A4iP6TAPvWeKgtFqjC1MzXEaLRABdnG7fnPJLztEYGfy,Spikey Space Trash,7,Striped Blue,Pulsing Sizzlers,Paranoid Eyes,Targari,Useless Compass,Hungry
 5518,35,7397,0,https://solanart.io/nft/HeZUULGEViGwf87ba5k8XSUxWu37f9Xc6ACrPr6bqsLx,,5,Lime,Escape Rockets,Augmented Surveyor,Martu,,Toothy
+5522,16,9755,0,https://solanart.io/nft/H6MAboxhS2Q3VZ9sx8NnxsbPujSNu8PXvLT7xpY7MpgJ,,4,Orange,,Galactic Sequencer,Alura,,Pleased
 5537,21,9984,0,https://solanart.io/nft/H6PDC6m9ZHXZBDZB4RRREYwZ4MrZRaXr4sxJzFM3DgF8,,4,Light Pink,,Sun Beams,Barada,,Pensive
 5539,50,8021,0,https://solanart.io/nft/ARmrW56KahqU5ZkAue6zo7HvfDb7wYSmbozrzVnVXMeu,,4,Ghostly White,,Nebular Optics,Martu,,Fanged
 5597,58,6953,0,https://solanart.io/nft/A2fNe44a6s7cVvV1UXfBYNL1NV9V4oV6v4crmoc8UfWv,,6,Brick,Pulsing Sizzlers,Creepy Peepers,Barada,Identified Flying Object,Pleased
