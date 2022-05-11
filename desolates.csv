@@ -60,6 +60,7 @@ id,price,moonRank,💎 score (%),storeURL
 662,50,NaN,0,https://solanart.io/nft/BJSw4kGVrpSEtk5BTDQe9nUAnMG26dsSrUTmezuAfMJB
 670,33.299999,NaN,0,https://solanart.io/nft/8Pbm6PLufVjHtxkFYeoSsH5NauohLynG6FKyEeNvafRr
 673,7.7,NaN,0,https://solanart.io/nft/EcDJV94xScFoyw2gdRDU7f5G5CxVQVnPFuanNmY3Jzrt
+679,4.25,NaN,0,https://solanart.io/nft/GwU1waRLq3PTFeprfTY91LLNKCEc5UMnwDarEfc8soot
 686,8,NaN,0,https://solanart.io/nft/A21mn5WtPWwPYxTcCwUTat6Y2ArheEckCeP8yiBoMKuf
 688,6.75,NaN,0,https://solanart.io/nft/HBgRphS6XLvsQcZo1wUzhb4FZEgsopsD2rpB59EsD2Ug
 698,6.33,NaN,0,https://solanart.io/nft/ALFd4PikRaB9hbsjxZmaPeDUS1NCd5orroTbQvRk7BY1
@@ -80,6 +81,7 @@ id,price,moonRank,💎 score (%),storeURL
 933,5,NaN,0,https://solanart.io/nft/A9AfebbyXoFy7Qankj5KLtu7yUyUJ1ishSmti4RM3G6Y
 957,10,NaN,0,https://solanart.io/nft/APpsWa5aw75SECsAXx2EMGbg4BSTNsjnaGU6YLppQ8BR
 964,10,NaN,0,https://solanart.io/nft/5WXz6ge3i76tx4orJgoQ6fcFjUTeHrhn6yYTMQJQBgTF
+966,4.25,NaN,0,https://solanart.io/nft/D4c6xmnDGThunR8yAjUXGVonzh4iuqb6L3uEd1dFsGDF
 989,45,NaN,0,https://solanart.io/nft/GkLfAQZggjUzt8nTNph1uttCGMVaH4cfd9kcAcGPcLz6
 993,55000,NaN,0,https://solanart.io/nft/87ZAgT6Z3a5nHKV6vHK7vEPQapxCemhXzh5sfw7vwHnw
 1013,21,1610,0,https://solanart.io/nft/ENRvzdChEXNbCshfeqqjyDGVenjM4iFj81FuddhVBXPp
@@ -93,7 +95,6 @@ id,price,moonRank,💎 score (%),storeURL
 1116,7.99,6004,26.27,https://solanart.io/nft/9EajP7i7WZ7cjTqJduhBkoAj5sWudUdeXGCSyH3ybWc7
 1124,4.5,4576,69.81,https://solanart.io/nft/AcMndHy3MRKSkTWkZr5SMCZ3h69v97v5yPowGPCDsHYW
 1127,12,3490,1.38,https://solanart.io/nft/6bJawDjmUGjdVwdg6KA1ufy5xKBq9qY6uoBtkfQF1GS
-1151,4.4,1849,87.31,https://solanart.io/nft/7y5YcmmNsPruU6WMnzUGt2sCXnSvbVWV9Eu5vx6wMtrB
 1160,9.69,912,40.08,https://solanart.io/nft/3wrRuttZKvtDmQxbitENnqHiuUociU4XxJWEM5yJAfyF
 1173,9.5,4563,19.89,https://solanart.io/nft/9okXQUejCRZSi1Er8c2UnrLASbL1X5C63apPKLhRY57m
 1197,7.5,5969,31.38,https://solanart.io/nft/EERYcHcb6v32hm1efXtsoUyQyZEzvpHj42pRK4LVWAQb
@@ -150,7 +151,6 @@ id,price,moonRank,💎 score (%),storeURL
 1870,6.94,5332,40.84,https://solanart.io/nft/CL8EzKUerh2w78XweZjomS8r6YzD2LUmugxCBUUDuopA
 1915,40,3792,0,https://solanart.io/nft/C28VBDXJaJsvKU2wtdYqyMXFad5xfqeURrSAUF1VWEEM
 1916,8.6,1572,46.99,https://solanart.io/nft/BLK68ZrtX3gS9QGS6NAszyG3DGiqBVJk2VyExVDJfrTB
-1927,5.8,729,80.09,https://solanart.io/nft/GQ4QNnGonVk8kXk1kdgtjvEzKxtRQ4846GXHDWRJfC5x
 1981,4.8,5776,59.55,https://solanart.io/nft/BJZmLmp25p5zE2rEq6vbMMPfx2Z6PpPCQxW581akZFcS
 1982,4.6,5291,64.49,https://solanart.io/nft/5P9jcTw5b3GdKkmzSh9HegF12WHoivirZKGMtVSD3je5
 2001,45,635,0,https://solanart.io/nft/Azhj3ExseZLbFSzd1x4T3CZHMvdVXJJyxw4WRi8Xzq6
@@ -234,7 +234,6 @@ id,price,moonRank,💎 score (%),storeURL
 3133,6,4717,53.96,https://solanart.io/nft/Dp2gGEZwTkwXBkkpSXqEQGaFLs3Jex1DBLGK1vzDz1uo
 3139,4.99,4838,63.33,https://solanart.io/nft/CibvQ3cspVZv4qdN9tLi1XBNtwAkCDURP8mvtmq9h24B
 3144,1000,1418,0,https://solanart.io/nft/FWJX43e14tfeHyF298A5ai1pBjMfsdE7srXYC6QzPkNC
-3146,4.4,4003,74.28,https://solanart.io/nft/G1XocYf3JDdMjtDQLk6ALXE2TsGCpSomwD3xsbjs4Pub
 3148,7.4,5929,32.63,https://solanart.io/nft/78GPdvHpyffBybNKz1ShfUukYEMSMuS2d4HozsDJiLQR
 3168,15,1526,0,https://solanart.io/nft/A8UDt6bQJL28FKNpY33ezk6362WdqTAgwiTDgFU6vBFq
 3182,16.9,1775,0,https://solanart.io/nft/8xArj7NTZSdT1zv9Bo4n18Wz5spfm8C4vboBBed95Myr
@@ -357,6 +356,7 @@ id,price,moonRank,💎 score (%),storeURL
 5038,7.111,5774,36.45,https://solanart.io/nft/5bcb5oMcMCCmmJtjPALNUUDzuX4ishnnG4ic5hLQXBtk
 5071,9,4123,27.55,https://solanart.io/nft/GxdSiyeQStqQUn4DMGEpaMFK3yMjBeVCCMQTYhQpYAq5
 5087,10,3833,19.31,https://solanart.io/nft/6zfEnnYUFZWxLp6SRDap3r7drmGGJJw4GiArasrAJnYU
+5103,4.25,3392,79.48,https://solanart.io/nft/7idjzAY9fbuU9dFjyjgs76WobFAF2XaiKACbQupD47VP
 5106,8,2051,50.09,https://solanart.io/nft/JBrbrxRQLJ11si2wQiAMCHjWNEU7Q9C5SbZbptVDdgqB
 5128,8.98,1648,42.73,https://solanart.io/nft/HcDhy6rNzxELpH2FYwuUue9xnqHuDNRZH7Cv2s42areb
 5131,15,1006,0,https://solanart.io/nft/6QdsapuRqHy9RWR6mBvPsqGQBCyFHeTHcH4YYxEFVPJS
@@ -380,7 +380,7 @@ id,price,moonRank,💎 score (%),storeURL
 5329,4.25,1739,89.48,https://solanart.io/nft/DwcRTjhAZTcEnGerj7u5sdc3ce7XNoBNty1wKUtmRukE
 5338,8.87,222,52.46,https://solanart.io/nft/GUFoZ3uYwt4Yrmoq5KijCXk4tPbBSuRG8mV1Qq6QBA13
 5375,10,2200,29.19,https://solanart.io/nft/Fn1LwQ8DnkwRjkcRTis9uTK7GB1PcKFairqLrv8ahQ6L
-5392,6.66,2115,63.1,https://solanart.io/nft/ANwwjUgxRN6ds8YwzUv11m5tbezfamMRrUB8UznjPPbo
+5392,6.98,2115,59.9,https://solanart.io/nft/ANwwjUgxRN6ds8YwzUv11m5tbezfamMRrUB8UznjPPbo
 5404,4.49,4489,70.44,https://solanart.io/nft/5cxiYA1xespJhxqQupkiEWQXqEj9Kqpt74VbbTcxEV4A
 5418,7.9,1876,52.15,https://solanart.io/nft/uW2DUHhpRqaUM2bCg34bzDHQtqvHaULG1kpcrQ8sPTK
 5426,10,2401,27.97,https://solanart.io/nft/DV3BNnWeLQJxeBcUvdin8XPLoesCG5uinBajUXB6Wwds
