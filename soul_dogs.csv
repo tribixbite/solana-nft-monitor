@@ -26,6 +26,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 427,3.2,5362,57.27,https://solanart.io/nft/9hWFqmN9ZmRSyr9D6hcyrmT8izJ4xFW4cH7Cudpc7acb,Purple,Retriever,Checkered Tee,Laser Eyes,Black Newsboy Cap,Tongue Out,None,Cool
 435,7.89,3625,17.34,https://solanart.io/nft/wd7Tf5GSBHgv6gzmsHWjw2dc6uFfqYBB8Kzf3A8eYBH,Red,Beagle,Rebels Jersey,Cyborg,Brown Straw Hat,Tongue Out,Disco Ball Necklace,Cool
 441,1.799,9584,54.33,https://solanart.io/nft/7zbykTdbpUfLeLhSBgGq4kg12Tg82q2JktCwEFGBrsct,Orange,Collie,Silk Shirt,Angry,Brown Straw Hat,Open Mouth,None,Common
+446,10,5754,0,https://solanart.io/nft/Hd2ifmx1Rombissn9cwpo3ebocXcQbe5kpW6dFzzhyPe,Scooby Groovy Violet,Retriever,Rebels Hoodie,Monocle,Black Cap,Closed Mouth,Junk Yard Chain,Common
 453,4,627,68.28,https://solanart.io/nft/BP1hhQ8GQrkZM6bZxsrTC4bEDmcVABhzLVRKyM4MVaAM,Blue,Hound,Blue Overalls,Bored,Woofer Beer Trucker Cap,Gold Grill,Peace Sign Necklace,Fly
 512,8.99,3411,7.2,https://solanart.io/nft/HQfYv2cU4hvsNPNKZr5u4TXANuPPphXt2FYjFCq1YQKr,Pink,Dalmatian,Blue Hoodie,Circle Sunglasses,Woofer Beer Trucker Cap,Pipe,None,Cool
 544,3,2024,72.67,https://solanart.io/nft/F49SmGji9WWyw4gxrwWYbvuQnjPnzLLoVGL6vRyX2qdP,Pink,Lab,Checkered Tee,Monocle,Black Soul Dogs Cap,Kiss,USA Bandana,Cool
@@ -50,7 +51,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 1056,2999,6734,0,https://solanart.io/nft/GNZWPFziGLQeT8NXvktkmw7Qn1BEn7n19zFqzqjMMqdC,Orange,Collie,Red Hawaiian Shirt,Cyborg,Black Bandana,Beer Can Boi,None,Cool
 1059,10,82,10.47,https://solanart.io/nft/3gzQYoCsY4KpmuoLQ73ZCQkDhPcoxvf6XEdzE7ZKQVCu,STAT7,Beagle,Checkered Tee,Terminator,Brown Straw Hat,Kiss,Solana Necklace,Dynomite
 1081,4.5,6224,40.81,https://solanart.io/nft/4ZEzm7R6i9iCkD1zPEsR3pucfvyVtJ8KLjonzadhyVMq,Pink,Beagle,Purple Tee,Happy,White Backward Cap,Beer Can Boi,Black Bowtie,Common
-1098,1.29,6647,71.21,https://solanart.io/nft/9MeCK1vFaQPP98DQYy2MEUEsUbCbVb61BTKqgjiBcU5w,Miami Vice,Retriever,Lab Coat,Angry,Black Bandana,Cigarette,None,Cool
 1129,3.3,493,75.82,https://solanart.io/nft/7gaNEeWtAWZM6gWHLrCB1x3v2gbjtzsy7HebqNDYqm4w,Green,Shiba,The King,Flower Print Glasses,Pink Bow,Open Mouth,Bone Necklace,Fly
 1144,30,2832,0,https://solanart.io/nft/6ccKQjTVzixcV9hsZMr6Hoetf2XGF7DL68x3gUqUNqiN,90s Pop,Beagle,Lab Coat,Stoned Blue Eyes,Brown Straw Hat,Open Mouth,Heart Collar,Cool
 1177,10,2077,2.46,https://solanart.io/nft/5sWakUksTGu8rqjTKJgPb17NQ5Bfo2EMSLQUuvzcYD3R,Purple,Collie,Black Grateful Dogs,Bored,Red Bucket Hat,Tongue Out,Probation Tracker Collar,Groovy
@@ -79,7 +79,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 1852,6,3984,34.8,https://solanart.io/nft/GT4N8WtwuBJjEQ9yUDF3Ufxbc8fGMC4mD1byiJ6EZswh,Blue,Collie,White Hoodie,Drunk,White Bucket Hat,Gold Grill,None,Groovy
 1865,5000,1744,0,https://solanart.io/nft/BP7cJ8mBqCAdPsyTsUV816jSU5FqmfLzMSeUQqkGbiAA,Orange,Hound,Biggie Coogi Sweater,Laser Eyes,Black Bucket Hat,Beer Can Boi,None,Fly
 1890,2.6,4221,67.85,https://solanart.io/nft/4RUx4m254nm7TKed7hUvSrJGcUpwwmFcQCGZx8WXHLgz,Blue,Beagle,Tie Dye Tank,Stoned Blue Eyes,Black Mullet,Open Mouth,Chain Link,Common
-1891,1.75,6037,69.06,https://solanart.io/nft/8X47LBmSdhuf7MeHVwrHdSEx6p5L9yEA4QHQTtkmRLer,Green,Collie,Rebels Jersey,Angry,Brown Straw Hat,Beer Can Boi,Emerald Green Bolo Tie,Common
+1891,1.55,6037,71.06,https://solanart.io/nft/8X47LBmSdhuf7MeHVwrHdSEx6p5L9yEA4QHQTtkmRLer,Green,Collie,Rebels Jersey,Angry,Brown Straw Hat,Beer Can Boi,Emerald Green Bolo Tie,Common
 1948,3.5,8367,42.2,https://solanart.io/nft/9Cw97UQZywELbU46d6RdKeuFw8KajsQqfijbyXC8sVU6,Green,Retriever,Purple Tee,Lab Glasses,Black Bandana,Beer Can Boi,None,Common
 1983,4,793,67.62,https://solanart.io/nft/EM634gvHRNxmoYdnJRG9BJnzxwm4De5w1gWwnws7GpdW,Scooby Groovy OG,Hound,Rebel's Gym Tank,Monocle,Red Cap,Silver Nose Ring,White Bowtie,Groovy
 2011,20,1644,0,https://solanart.io/nft/2EjPkQNACm5WSfvjYCBMMzafGwGAyTXtw57fptbz5vYz,Green,Hound,Checkered Tee,Stoned Orange Eyes,Black Bandana,Chrome Grill,None,Fly
@@ -88,9 +88,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 2050,4.99,582,58.56,https://solanart.io/nft/E8y7euWB44SJybjqykWvmSVmRT7KfsHifpN2waAm7GCq,80s Rock Lightning,Shiba,White Tank,Stoned Blue Eyes,Black Mohawk,Yellow Frisbee,Black and White Bandana,Groovy
 2081,6,6367,25.23,https://solanart.io/nft/GRWwGEGeSrX8jQZ5ZPiHTVbqTw7tVGb3qrwEwouZj4Np,Red,Solana Special,None,Cute,Yellow Cap,Closed Mouth,None,Groovy
 2103,3.21,3075,66.35,https://solanart.io/nft/7L5N1DjJd5UqsiZCytUbW35kseQsPqGoGY68zxHEDNCW,Scooby Groovy Violet,Collie,Red Hawaiian Shirt,Cute,Rasta Beanie,Cigarette,None,Groovy
-2120,2.5,2572,75.47,https://solanart.io/nft/HpYrWTnmFrwmTC4a4poRnz6eN62vsXD8WZQZDgGSphUZ,Orange,Retriever,Checkered Tee,Bored,Uncle Sam Top Hat,White Frisbee,None,Groovy
+2120,2.3,2572,77.47,https://solanart.io/nft/HpYrWTnmFrwmTC4a4poRnz6eN62vsXD8WZQZDgGSphUZ,Orange,Retriever,Checkered Tee,Bored,Uncle Sam Top Hat,White Frisbee,None,Groovy
 2122,10.5,7626,0,https://solanart.io/nft/75uP5kRDcytoH4MS8wRhgHG9RFPFajQxaAeuJSdiG7yT,Green,Lab,White Hoodie,Stoned Blue Eyes,Brown Straw Hat,Cigar,None,Common
-2152,1.5,1135,91.24,https://solanart.io/nft/DmnFFJXfxvDUEa5KWmrCWncW59hfp8y7DUAJqAaDq8n4,Low End Theory,Hound,None,Circle Sunglasses,Brown Sherlock Holmes Hat,Tennis Ball,Chain Link,Groovy
 2153,4.9,1132,57.25,https://solanart.io/nft/9CfNMRh2LQcPKuxHiE9HTpVS47ajs5eNf1MYpQJy4GCE,Purple,Hound,Blue Hoodie,Stoned Blue Eyes,American Flag Bandana,Bubble Gum Boi,Pink Bowtie,Groovy
 2163,4.9,4675,43.03,https://solanart.io/nft/6V1Rf7BSzp5oXcmM8kS3wGWcGov67JRiNoA9X9EfWm6y,Low End Theory,Shiba,White Soul Dogs Tee,Stoned Blue Eyes,Black Mullet,Closed Mouth,White And Black Bandana,Common
 2177,5,7375,31.19,https://solanart.io/nft/5kmsSzrHiwJJBxQorNuSGA5EZD3LKt93a7LYLArnBdX3,Pink,Dalmatian,Blue Overalls,Angry,Yellow Cap,Open Mouth,Black Collar,Common
@@ -103,8 +102,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 2249,100,8146,0,https://solanart.io/nft/EPNANCBd7rCxif8y5Eo2ygytySUj4mS7nT5qBFXZkrDK,Psychedelic,Shiba,Plain White Tee,Drunk,Brown Straw Hat,Kiss,None,Common
 2271,4999,1016,0,https://solanart.io/nft/BWH1EPmUyNyjX7UfdC7Zwsg2XgkGQZYwZNFdo4Y1YsCr,Blue,Retriever,Lab Coat,Circle Sunglasses,Black Rock Locks,Cigar,White And Black Bandana,Groovy
 2293,15,2915,0,https://solanart.io/nft/Dfo8KUSGQGyfh9VWPiivPhGsWrGo3zFE9VRZ2997VC2,90s Pop,Beagle,White Soul Dogs Tee,Angry,Black Mohawk,Closed Mouth,Black Collar,Cool
+2296,2,2933,79.02,https://solanart.io/nft/2mvokA3ru1tcmYfmkZJjizyvXtoFDA2R9rtwr8hSTqH5,Blue,Retriever,White Soul Dogs Sweater,Drunk,Halo,Tongue Out,Turquoise Bolo Tie,Groovy
 2302,3,4452,62.92,https://solanart.io/nft/Hj9XFLEGBpF9xj6oaBTRPQs9EmLze98oSLR9BcJMBJzg,Low End Theory,Dalmatian,Purple Tee,Pilot Goggles,Black Backward Cap,Open Mouth,None,Cool
-2315,4,7825,39.38,https://solanart.io/nft/8wyN2wcpqeUGUWaJUBMekXjdnuhjWCabunFC3htjXZkS,Green,Lab,Blue Hoodie,Angry,Black Hippie Headband,White Bone,None,Common
 2344,4.8,336,61.45,https://solanart.io/nft/64Gnt62MLt384f1M8sKBMMMdDaZen6wEjmfewardTE7j,STAT7,Collie,White Soul Dogs Tee,Pit Vipers,Green Mohawk,White Bone,Swirl Guitar Pick Necklace,Groovy
 2348,50,4015,0,https://solanart.io/nft/Bpyp7dU9aqoQhSZSzgzmyMvTQqAxEVVvbRhckxEsnfrP,Pink,Collie,None,Bored,Red Cap,Open Mouth,Gold Guitar Pick Necklace,Groovy
 2360,3.99,6094,46.43,https://solanart.io/nft/3WQzN2f4Wnq6nxx24xXH8yhHTw7ihsVSAXVJBREYXmuv,Red,Dalmatian,Checkered Tee,Happy,Black Hippie Headband,Tongue Out Side,None,Common
@@ -184,7 +183,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 4368,1.9,9028,55.55,https://solanart.io/nft/5YfWjRMpLRh6hV7ZYHLEJMfSYxNwHbq81pHh7nh58S8e,Red,Shiba,White Soul Dogs Sweater,Happy,Retro Headband,Tongue Out,None,Common
 4404,8,389,29.24,https://solanart.io/nft/BWdsHJd1ZpVqjTYFLyGZNuBuZA838GMHFxHKHcwkNziz,Scooby Groovy Green,Hound,Black Soul Dogs Tank,Terminator,White Pimp Hat,Tongue Out Side,Black and White Bandana,Fly
 4409,4,2986,58.81,https://solanart.io/nft/9Sk5KXx1NyNUkMp8GfPTrAzaDTgPJ7zMmzKRs9DGN7Aa,Blue,Lab,Black Solana Tee,Drunk,Red Cap,Pipe,White And Black Bandana,Cool
-4419,1.08,7413,70.23,https://solanart.io/nft/6byUn7VgVgapBjXPeeJAwtQTopW1XcZvUsU3535hbKM1,Scooby Groovy OG,Hound,Black Tee,Circle Sunglasses,Black Cap,Cigarette,None,Common
 4428,1.9,7117,63.22,https://solanart.io/nft/GbmBvQJUhuF9zkffo8UaBZbf7R8uFWBx7cGTxgycvmxA,Orange,Collie,Plain White Tee,Stoned Blue Eyes,Brown Straw Hat,Closed Mouth,Bone Necklace,Common
 4469,2,7357,61.26,https://solanart.io/nft/DZAvYUuWsKKE4ZsXerM9aD961NE2PWN6HhmxGVWJmocX,Psychedelic,Lab,Blue Hoodie,Cypher Punk,None,Closed Mouth,None,Cool
 4475,2,7142,62.12,https://solanart.io/nft/ED21ZtHvymN93cf1NU2gAWcranZrUu8wcCLZJkUdcGDj,Yellow,Shiba,None,Aviators,Party hat,Cigarette,None,Common
@@ -243,6 +241,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Breed,Clothes,Eyes,Head,Mou
 5711,5,8215,27.81,https://solanart.io/nft/sGs6fFRb7iu3Wf5dkkuTXLpLy8Jexm2jGLQA4dPyqF9,Green,Lab,Blue Hoodie,Sus Look,Red Bucket Hat,Closed Mouth,None,Common
 5730,1.7,6579,67.38,https://solanart.io/nft/4FhC9BLqzA65b7myQcaxnJnJbfJAVa4DLxYPzjeBeUvT,Green,Hound,Rebels Jersey,Monocle,Black Mullet,Tennis Ball,None,Cool
 5744,4,9020,34.58,https://solanart.io/nft/GDdm5dZL9tMELKapP9jSi1LAGLzXUtgjoyb22JqrZZRG,Purple,Hound,Rebels Jersey,Laser Eyes,Brown Straw Hat,Tongue Out,None,Common
+5771,1.45,2641,85.7,https://solanart.io/nft/CEMETc8BgFrAtiYVEwovqLJEDJtMv85KfJLoCqvXeGnP,Miami Vice,Beagle,Black Tee,Sus Look,Bookie Visor,Tennis Ball,None,Cool
 5772,2,9381,53.13,https://solanart.io/nft/DihmVspAK1SZ9GTAA4TcQv51r66KNmjpFJEiiDvXdfyH,Blue,Shiba,Blue Hoodie,Happy,Green Mullet,Tongue Out,None,Common
 5776,1.75,5393,71.65,https://solanart.io/nft/7xvXfxPkr98yPz2TBaFMSVhk7s6tVokRdvZjRN5JrEFZ,Purple,Collie,Blue Hoodie,Stoned Blue Eyes,Black Bandana,Tongue Out Side,Disco Ball Necklace,Cool
 5797,3,2016,72.71,https://solanart.io/nft/8vmQC3nSeMptV4nJczz1cSQrfWmDFmhFVCN6Dry9Gm7V,Yellow,Dalmatian,Rebels Jersey,Angry,White Backward Cap,Muzzle,Spiked Collar Necklace,Cool
