@@ -10,6 +10,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 216,1.1,1110,80.03,https://solanart.io/nft/E6xQApYYy7dQE5QyWe3TGDsLkX1L2ANAKSmchMnbQ48G,Gem Drill,Black,Vector,Green,Vent Pack,Flattop,Copper,Extensions,Black
 225,0.99,3097,57.2,https://solanart.io/nft/3pCqWd5qykzXuLy1sA7UTG6wdRLuau4AhzvbFBiBsKD3,Drip,Sage,Issue,Black,None,Aero,Steel,None,Black
 253,0.7,1312,81.6,https://solanart.io/nft/FKHYTebdBD6dsxhSp2r8ASmexdXZHtyjzFaqtimgewew,Squidy,Sage,Heat Sink,Magenta,CryoFlow,Slim,Copper,Extensions,Black
+306,1.2,2902,57.45,https://solanart.io/nft/Ewcv4mQntajZ1Ki8FRDnbcEti3r1hCtN2johRnqogrjf,Zippy,Blue,Workforce,Red,Steel Insignia,Slim,Steel,None,Black
 336,1,1510,76.21,https://solanart.io/nft/69TFaXu7JLinenpPBVRjM7Cu7y5Vo5csp1Fzxq2tHKTi,Volt Pack,Solana,Workforce,Magenta,Pump,Atomic,Steel,Copper Insignia,Black
 357,0.999,2492,64.39,https://solanart.io/nft/34ympDroDptfKe6119CCzRbMAxCgzUGTzrV98mggaUKf,None,White,Quadrid,Teal,Facet,Hydro,Steel,Extensions,Black
 410,0.65,2021,73.56,https://solanart.io/nft/2xfXAvjDiiqwfujo9vwJ5RPzi4aoMxS5pzPstdoh7bF4,Minis,Orange,Issue,Magenta,Vent Pack,Slim,Copper,Extensions,Black
@@ -72,7 +73,6 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 2506,1,1559,75.62,https://solanart.io/nft/5amf7LQPudHtyfaKTYaLypND1W3SxX4u2ZgD5zrqzRxw,Detainer Clamps,Black,Scout,Teal,Facet,Swivel,Steel,Extensions,Black
 2523,0.8,1560,77.61,https://solanart.io/nft/6WzksnHRTCEW8mNJwTWpRoosy1TrQCSTB4BrU2c1H5V9,Minis,Sunburst,Scout,Blue,Grid,Entry,Steel,None,Black
 2525,1,1363,77.98,https://solanart.io/nft/BCzCkHW626sooCqSYfCxyLCJjzeYsHsKoj7d28Cvz4qP,Sector,Teal,Workforce,Black,CryoFlow,Entry,Copper,Duel Antennas,Black
-2533,0.44,1991,76.02,https://solanart.io/nft/C7MpWpbN9gKv1R8b3L57yJd1LtQyGbRLixKebLPymXr7,None,Black,Heat Sink,Red,None,Spirit,Steel,Gold Insignia,Black
 2566,1,1831,72.35,https://solanart.io/nft/4gqwmGsYjQUTckbSprarMatzwq1SyxL83W9cTjf4RuTj,Drip,White,Vector,Teal,Vent Pack,Spirit,Steel,Extensions,Black
 2574,1.1,3224,54.57,https://solanart.io/nft/EJRRmhCfrpRWtAb7dDHbWN22Zrm32tNEh4uDTh4QvZAE,Minis,White,Heat Sink,Black,Filter,Atomic,Steel,Fins,Black
 2590,1,2397,65.53,https://solanart.io/nft/Ax8ffFP8aDBwosWTm2FD9w1nA8uLNEFwZggibA1sXPff,None,White,Quadrid,Red,Facet,Atomic,Steel,Steel Insignia,Black
@@ -94,8 +94,8 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 3061,0.85,2580,64.83,https://solanart.io/nft/Ez2GxuxXprWy6XyWw2Ukb4YjJjNSEpQkhAFDvy4idmA3,Minis,Blue,Heat Sink,Red,Gold Insignia,Flattop,Steel,None,Black
 3076,1,2184,68.09,https://solanart.io/nft/rh6akHt7vCv3ANSrJJZVAuCXMSbn749tya2utFCYvty,Volt Pack,Blue,CryoTank,Black,CryoFlow,Miner,Steel,Dish,Black
 3082,0.96,2775,61.38,https://solanart.io/nft/8TQimV2rdz4FWrdrvhwx9eTrTtWD465M9dtqES6aR9XM,Gem Drill,Blue,Workforce,Blue,Vent Pack,Slim,Steel,Extensions,Black
-3102,1.1,607,86.09,https://solanart.io/nft/9jxGm6G67Gq1LYrzm7WLMfG7EoUF8sr6oMnZPQyncvcv,Shock Arms,Blue,Breach,Rose Gold,Filter,Swivel,Steel,Steel Insignia,Black
 3103,1,2175,68.2,https://solanart.io/nft/BRvD3Jhr9aCr8kVaHgacjGU4fqkEmH5QGeuZ5KUPJFpw,Staff,Teal,Vector,Blue,Jolt Pack,Hydro,Steel,None,Black
 3149,1.1,1045,80.81,https://solanart.io/nft/7KkrmkNKLeS2qKWmQyQmY5ej5Pc496c1DshbpTCEZN4K,Zippy,Blue,CryoTank,Orange,Copper Insignia,Airframe,Copper,Copper Insignia,Black
 3199,0.64,2674,65.79,https://solanart.io/nft/Gdka9akm9bu9AAYHetZXP7e4z1Z5QsPxTjjRqPSGASSi,None,Sage,Scout,Yellow,Copper Insignia,Hydro,Steel,Duel Antennas,Black
+3304,1.2,2767,59.07,https://solanart.io/nft/4y1qmomMA29HGfHb5aCwYQVki6dHw9yTujb3UZXfWpVj,Volt Pack,Sage,Heat Sink,Steel,Pump,Aero,Steel,None,Black
 3328,1,1043,81.84,https://solanart.io/nft/BoJJ4QzjUajdYT5SJ1hUd2y73GJEZjR7NaEBWqzGwGhf,Gem Drill,Teal,Breach,White,None,Aero,Steel,Intake,Black
