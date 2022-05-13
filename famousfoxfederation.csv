@@ -6,7 +6,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 105,44,2652,0,https://solanart.io/nft/EQrkM4249hkx2hynhhq4f5FLYW1mYBUZiC6WeujbsQY,Mint,,Angry,Backwards Cap Pink,Blep,Sweater Dark,Natural
 192,180,21,0,https://solanart.io/nft/3nmAJ1sykfKbCvx18UwRQCnT3XomfYhnvfwGsAPe5LrC,Persimmon,,Angry,Crown,Smirk,Monster Trainer,Natural
 214,37,2661,0,https://solanart.io/nft/PHyicbchnKouGnJrkm87nCRbo4V1CE2NUgdgXNrBv8g,Pink,,Sleepy,Bucket Hat Green,Fangs,Scarf Striped,Natural
-226,35,2003,19.66,https://solanart.io/nft/3YnNEx1N9MbA7KGux9yMdhNZbefRoUGhBRkj1zBgi18x,Emerald,,Scar,Sportsband,Smug,Shirt Pineapple,Natural
 287,50,2120,0,https://solanart.io/nft/3fToSn92DogAfx8Uccr9W43TsRYjEEcscSjCxRoj7GEC,Sky,,Thug,Cap Dark,Closed,Tank Top Dark,Natural
 305,30,6586,45.99,https://solanart.io/nft/FAPZgrmP4p1jQYMUA2941UuWnPAY2uGKrA4HHQ6LKmeG,Persimmon,,Standard,Backwards Cap Pink,Fangs,Hoodie Green,Natural
 321,99,3843,0,https://solanart.io/nft/7Tv8ejwRhjBRsbTLQC1Ru3UxYCadQVkp7Jzw14jfGYtA,Persimmon,,Jaded,Safari,Closed,T-Shirt White,Natural
@@ -20,7 +19,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 631,33,3012,34.45,https://solanart.io/nft/GrWpKun58TA94UKSgkTje37GcEzfNynoWzASBbfdx2qP,Champagne,,Scar,Backwards Cap Dark,Smile,Sweater Purple,Natural
 649,150,1287,0,https://solanart.io/nft/2owysxTRcwvJrPf7CDWiJ4aXtMpKS4gWgRueGnT4dyfD,Persimmon,,Jaded,Headband White,Closed,Captain Dark,Natural
 690,99,2310,0,https://solanart.io/nft/9KzkkFABjwTeyAtGH7mYQYXHqqUzhd8QAKQxQ9vVKYNg,Rose,,Standard,Headband White,Grin,Astronaut Orange,Natural
-779,34,1031,34.68,https://solanart.io/nft/FzgUUYRbVUXXRgvcaWpgxqsfgTQKpckwNAVqhcMLKcHz,Orange,,Solana,Bucket Hat Blue,Smile,Shirt Blue,Natural
+779,36,1031,14.68,https://solanart.io/nft/FzgUUYRbVUXXRgvcaWpgxqsfgTQKpckwNAVqhcMLKcHz,Orange,,Solana,Bucket Hat Blue,Smile,Shirt Blue,Natural
 840,45,6904,0,https://solanart.io/nft/8ArMf8mLzS9AVnhUbLEpPokUjm1wTwkUpsDMUshiWTrB,Rose,,Standard,Bowler Light,Blep,Shirt Flannel Red,Natural
 855,30,4474,56.9,https://solanart.io/nft/HKCuGYQ7ustJzvuDRLdEgTBbvrJxBgzkB8YN6ui4usH1,Mint,,Shades,Headband Dark,Drool,Shirt Flannel Red,Natural
 867,30,5092,53.71,https://solanart.io/nft/5yorhZfFWLiLExHRdkMRs6g7t7NoUqCfUCjgqw4Yzzsr,Champagne,,Eye Patch,Bucket Hat Ivory,Fangs,Tank Top Purple,Natural
@@ -34,6 +33,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 1088,55,619,0,https://solanart.io/nft/2QWKzADWtPKKw9GmAdS7iVnkwRHFpc5ht5U2XKSsGHj2,Mint,,Raised,Viking Dark,Fangs,Sweater Green,Natural
 1099,333,87,0,https://solanart.io/nft/CD1akobmKPF9waVdvoA6WT6Q29zbG7zDAYQsbcAQNrsh,Alabaster,,Raised,Crown,Stache,Hoodie Pink,Natural
 1215,30,6905,44.34,https://solanart.io/nft/HW53TdUgsYt9JApS2L6Jc8kwT5YghLDoCS9JNuUxcySg,Rose,,Standard,Backwards Cap Blue,Fangs,Shirt School,Natural
+1237,30,6939,44.17,https://solanart.io/nft/AEnnpq2gJLwFpEwFonfprcYtiZRV1R3VuVXZFWCygNDm,Orange,,Standard,Cap Blue,Smirk,Sweater Purple,Natural
 1248,46.900002,1945,0,https://solanart.io/nft/FWnAcxsBfrj4Ta3r2PmEQtoA7PDxug9SVysA64AsJQyM,Violet,,Standard,Bucket Hat Green,Smug,Captain Red,Natural
 1324,30,4496,56.78,https://solanart.io/nft/8vZMS6NdGydW37N2mDawp2Rtdntp4XmYDmhwvMT8Wm3h,Mint,,Scar,Cap Pink,Smile,Tank Top Purple,Natural
 1325,30,5977,49.14,https://solanart.io/nft/8CUMvQYReyvvFktyJLTQL49LYKErcuBdgMjsqdUWKAjn,Green,,Wink,Bucket Hat Ivory,Blep,Shirt Green,Natural
@@ -84,7 +84,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 2615,30,2611,66.52,https://solanart.io/nft/Hk8HeAc2dN6UxTUjouabfwX5QUZ8CMBc1Axp2g5DVAtC,Alabaster,,Eye Patch,Bucket Hat Blue,Grin,T-Shirt Yellow,Natural
 2711,37,3422,0,https://solanart.io/nft/DnbWvgu4py7pGiGk1XyF3XFoUoN5oW4D9oe8cTNN12yD,Sky,,Synth,Bowler Dark,Drool,Sweater Red,Natural
 2713,555,2804,0,https://solanart.io/nft/rucYfGarwaJjfGigLYp9mSr7WS8Gm9pUsAZQbP5MfHF,Mint,,Synth,None,Closed,Captain Red,Natural
-2748,40.689999,1709,0,https://solanart.io/nft/6xeNDGiFwk427UkCzKDF4ZwmUfeeqLoNCN7Yh1uUshME,Orange,,Sleepy,Headset,Grin,Hoodie Pink,Natural
+2748,69,1709,0,https://solanart.io/nft/6xeNDGiFwk427UkCzKDF4ZwmUfeeqLoNCN7Yh1uUshME,Orange,,Sleepy,Headset,Grin,Hoodie Pink,Natural
 2938,64,1270,0,https://solanart.io/nft/7LVVHLn4QTxNFeTp9choBDqx8t2P4Tmmr1fNWg6EPA3z,Sand,,Shades,Afro,Smug,T-Shirt Dark,Natural
 2980,40,898,0,https://solanart.io/nft/ERA8Mmaopfp8K3Td4gzH8x77YnZM2VTekZVcuGQ9J5xT,Purple,,Synth,Monster Trainer,Smile,Scarf Purple,Natural
 3045,40,6306,0,https://solanart.io/nft/7627BeUx768BjAsyko6Tp6e6pwqTAvEf6GN2niZ59SQr,Persimmon,,Jaded,Headband Patterned,Fangs,Turtleneck Dark,Natural
@@ -99,7 +99,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 3250,50,1381,0,https://solanart.io/nft/HAaaAxt2s9uhDbjcJtFx1BmBnyU1JLokc4BTYFcC95YA,Amaranth,,Solana,Bucket Hat Ivory,Drool,Scarf Striped,Natural
 3284,120,3514,0,https://solanart.io/nft/FmvC53AeosoMwJZKcd9NuLdYNAsfh7GQRkP1ggPokWi,Mint,,Sleepy,None,Smirk,Astronaut Orange,Natural
 3287,49,1910,0,https://solanart.io/nft/4k72sdkSJthneB8qjPPCxQdq1jJtemWLL4z4wfqUH28v,Orange,,Wink,Backwards Cap Dark,Stache,T-Shirt White,Natural
-3298,28.9,3468,73.09,https://solanart.io/nft/F9BHuUSp3kkk24GiqWD22CuRDYqjH6RTCw7YHY4ZtTEY,Champagne,,Jaded,Valet,Smile,Shirt Red,Natural
 3303,37.5,5526,0,https://solanart.io/nft/G5Swu4S5gvEmYtQWctcyQJs3kvNnxc3pMKxqTWRkY7zx,Emerald,,Standard,COPE,Fangs,Sweater Purple,Natural
 3352,33,4596,26.27,https://solanart.io/nft/DmdiEe1Lw7TNpdoWcFDF9iXm88AhBDhYezffj5zr5tvX,Alabaster,,Sleepy,Cap Pink,Grin,Scarf Purple,Natural
 3361,75,2986,0,https://solanart.io/nft/23zkmcj9JSBb9hkjYESyWpXd7QzNdSA9xMF8empugYd3,Rose,,Angry,None,Blep,Astronaut Light,Natural
@@ -114,7 +113,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 3586,35,6459,0,https://solanart.io/nft/FyeExkuqhtKYzFMQtSWHLYT4H2oLGweCn7dXrWJ7yuCg,Emerald,,Jaded,Bucket Hat Ivory,Smile,Shirt Blue,Natural
 3590,150,1554,0,https://solanart.io/nft/6QU1tPgqx5SJJURdQyHp22btKAgcARoRFNkNifx1ms6J,Blue,,Sleepy,None,Stache,Astronaut Orange,Natural
 3658,40,7508,0,https://solanart.io/nft/DeSRychE3ECqgFRJmgAZnY2TRFdNArS1td6Gs3znbc4R,Straw,,Jaded,None,Closed,T-Shirt Dark,Natural
-3718,28.9,5217,64.06,https://solanart.io/nft/AhzG7rc3eAjGEG5iMnGLkf2Bv7PpyTpQTRZZXtLz1PtE,Mint,,Eye Patch,Backwards Cap Blue,Drool,Shirt Green,Natural
+3718,28.99,5217,63.16,https://solanart.io/nft/AhzG7rc3eAjGEG5iMnGLkf2Bv7PpyTpQTRZZXtLz1PtE,Mint,,Eye Patch,Backwards Cap Blue,Drool,Shirt Green,Natural
 3720,29,2685,76.13,https://solanart.io/nft/BqsB5cD3ZHdZNcPC3vPCswGJz3cgMJcW5qRDTYskstzj,Persimmon,,Scar,Headband Patterned,Grin,Sweater Dark,Natural
 3737,37.369999,7416,0,https://solanart.io/nft/Bsc7fsRVMp7TvJPw7pbJskvjs9fHt1DNFrVv8ZgWSCG7,Yellow,,Synth,None,Grin,Tank Top Purple,Natural
 3806,50,709,0,https://solanart.io/nft/5WKS446t7YwgvgHAB9irymVTsuF9AfHkpSXsBsRy1RuG,Purple,,Scar,Captain,Grin,Hoodie Light,Natural
@@ -134,7 +133,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 4338,40,7404,0,https://solanart.io/nft/DeUVh52YzLcRngPoZ2S2k5bHRfAhgZQTv2m3vyUuSZ9a,Orange,,Synth,None,Smirk,Sweater Purple,Natural
 4378,39,4335,0,https://solanart.io/nft/8spmHspHWxWBGK7EGe4SfiRedaYgwEQnGAMZk7Qe73x8,Straw,,Eye Patch,Backwards Cap Camo,Blep,Scarf Red,Natural
 4391,51,1010,0,https://solanart.io/nft/6uBUAyhwnB5ojgxkZCgesr1W2irVAM8wxTN2cBZqVEYu,Amaranth,,Thug,Captain,Smirk,Shirt Green,Natural
-4396,44,449,0,https://solanart.io/nft/Fon1ZZemnNgqPcyTA326H8vLCvcCXFGtJJC3J2mEvA7J,Amaranth,,Blank,Headband Dark,Beard,Shirt Blue,Natural
 4426,100,2494,0,https://solanart.io/nft/Dtoo65NhdjtH9uoYq2FR8dLvy3k8gsuFgGozhBWSovec,Green,,Blank,Bowler Dark,Blep,Shirt Flannel Blue,Natural
 4442,50,5480,0,https://solanart.io/nft/AoEngXnxwUwFu9xB1VG7NnmLFJKaMEKE67FXa7mofKjS,Rose,,Synth,Headband Patterned,Smug,Shirt Flannel Yellow,Natural
 4451,41,1238,0,https://solanart.io/nft/FPtBF5VjvYy9uc1LXHFBqZUyv8X3JdPthfAqVk78AbEF,Rose,,Blank,Bucket Hat Blue,Stache,Shirt Flannel Red,Natural
@@ -164,7 +162,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 5403,35,6533,0,https://solanart.io/nft/GCtuiKdGTesWevyLePt2uvpSb3EqUaBurCY1SaRunsak,Rose,,Jaded,Bucket Hat Ivory,Closed,Tank Top Purple,Natural
 5427,100,1847,0,https://solanart.io/nft/EprzEVcJvWh2dMsLUQhDZP6hK8eomWtghJPLNTjMpG5s,Sand,,Standard,Headband Dark,Smirk,Astronaut Light,Natural
 5442,700,6,0,https://solanart.io/nft/9MyVM9AAa8jtimf2xVMpkBKpzobM2YrPi1soUjjPgSgk,,Star,,,,,
-5446,28.5,2892,80.07,https://solanart.io/nft/791tKwAoVCjHWzdgBB3w8Vyjr1F32Y7f9LwsVGitTmby,Mint,,Wink,Backwards Cap Dark,Smile,Sweater Dark,Natural
 5448,84,6352,0,https://solanart.io/nft/8gJ9PWwduW7mVFKdn7CYkDXVT3rKR3TgwWGDNMojNBp1,Alabaster,,Wink,Cap Pink,Fangs,Turtleneck Orange,Natural
 5521,35,5127,3.52,https://solanart.io/nft/3UureuGvxhDCeHdYJUxwp7XLRK8S9Mcg8DAowsrfo9Ys,Alabaster,,Mutated,Cap Blue,Grin,Scarf Red,Natural
 5543,42,2314,0,https://solanart.io/nft/C6hkaw7GmJEHnGJbPvHz3XXRRh98YmGEjLhiv4d8aWJN,Amaranth,,Jaded,Afro,Stache,Turtleneck Blue,Natural
@@ -181,7 +178,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 6111,100,875,0,https://solanart.io/nft/DLBKwVs1gFx9x7AWvVPPqGuE6Gg6JMLrvHaVrWjatXps,Amaranth,,Eye Patch,Backwards Cap Blue,Grin,Captain Red,Natural
 6153,60,1408,0,https://solanart.io/nft/DaiXNuZ7bVsPAoGLq3hC2Lj6msnjSUwN8AUTQz6ZRdmy,Straw,,Jaded,Astronaut,Smirk,Shirt Flannel Blue,Natural
 6167,43.5,1612,0,https://solanart.io/nft/8neqZ529MTWbL9yQjskps9aHg1sXCi6LHZKaoPC4mQFe,Sky,,Sleepy,Backwards Cap Dark,Blep,Sweater Dark,Natural
-6171,29.99,6102,48.59,https://solanart.io/nft/AU94H9NTF3v2XWH1tsbaycLkPimPUCXPPotsDrPKAoLT,Green,,Standard,Bucket Hat Blue,Smirk,Turtleneck Orange,Natural
 6179,38,4039,0,https://solanart.io/nft/9bVCp7y6opHPVqHni9ZtAs9knaCqoWakhoR1vc4XiFLS,Blue,,Jaded,COPE,Smirk,Hoodie Green,Natural
 6187,40,6852,0,https://solanart.io/nft/132czpyxsDGoKGUsXY742jBK2EX9CyiQSBpQnH7GDLfJ,Sky,,Standard,Headband Patterned,Blep,Sweater Light,Natural
 6248,30,5539,51.4,https://solanart.io/nft/3BnHoTsFBuMBTKvyVdCZYvKewdn9BHG86pdmZP2pwFb2,Champagne,,Jaded,Afro,Fangs,Sweater Red,Natural

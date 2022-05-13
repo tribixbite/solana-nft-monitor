@@ -182,7 +182,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 3381,5.69,886,55.54,https://alpha.art/t/7kuB2f7QQRJBkY5h91ZzGYHp3YFo7JmEqP6KMptondeg,Red,Zombie,Fancy Sweater,Red Diamond,Crying,None,Cigarette
 3393,25,408,0,https://solanart.io/nft/6RYqHjj4HAFuGBYds5eijeFDEJ1yenZST8PmQseQdRA8,Yellow,Solana,Pocket Watch,Earth,Closed,Beanie,Smiling
 3489,35,7300,0,https://solanart.io/nft/EpKya8zBReuaxk3qaB4qUSVCzbQbT1EC156MNgdnRkND,Yellow,Purple,Rich Jacket,None,Closed,Afro Tail,Neutral
-3494,1.6,8884,64.32,https://solanart.io/nft/6cEp3a2vSoKBE8dxdwefjHQbjBPytL4rgko9qpk6nGGV,Red,Salmon,Piggy Tee,None,Focused,Cowboy Hat,Party Horn
 3495,80,7674,0,https://solanart.io/nft/6TkoEq3A132ztqUhKdbST9o5BagHT9hAJ3unGMGHBb9b,Orange,Salmon,Fancy Sweater,Palette,Closed,None,Biting Brush
 3574,3.9,7671,46.19,https://alpha.art/t/8dkM972zUvyNfGBLGbERJM7utjXyEdFpDFM1CxmPaLQm,Green,Purple,Fancy Sweater,None,High,Officer Cap,Bubble Gum
 3582,2.9,469,85.12,https://solanart.io/nft/rtqo7yiB1Zh1MFxbShywg4JtHw388hDVTWNvRcbwhRt,Green,Pink,Artist Apron,Gold Ring,Monocle,Beret,Golden Teeth
@@ -205,6 +204,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 4049,13.7,173,0,https://solanart.io/nft/2HUkidoSKo9ocVhLoYRh7jfJ7oUgAsdXWgwGx6jRuGwo,Green,Yellow,Blanket,Solana,Beaten,Mushroom,Smiling
 4063,22,9395,0,https://solanart.io/nft/P7bng5rWQ89WRFV8EiV8UETgBPHRARobKfXYnxkhNxM,Purple,Purple,Piggy Tee,None,Beaten,Beret,Weed
 4069,8,4837,16.57,https://alpha.art/t/8H9ZXJvGPSnsJGhvio8HtyGgPJqUbSZWATBHeYC6F2wG,Orange,Purple,Pocket Watch,None,Wink,Elf Hat,Neutral
+4086,2.9,4642,68.36,https://solanart.io/nft/7adgwJ1iN1B19jBCk2co8dxTnjnC6dnhbUucz644fa56,Orange,Purple,Pink Leather Jacket,Kiss,Sleeping,Elf Hat,Smiling
 4096,50,4863,0,https://alpha.art/t/2UoLdoDwqmpaz8cEtaKaf9XppZGM88rSV4AgxaVWEGvY,Purple,Pink,Fancy Sweater,Weed,High,Party Hat,Smiling
 4099,4.99,5531,43.88,https://alpha.art/t/DZaBh5eTwfw9Y6qLAh8PqMNfxsdvTcXzjhQ1medtSxTd,Purple,Salmon,Piggy Tee,Gold Ring,Focused,Mushroom,Beaten
 4168,22,1368,0,https://solanart.io/nft/3or1b8xxKRAeRrYUncjvTPUrwYPGdrCpb9Wm8GJzcKbR,Orange,Yellow,None,Kiss,Wink,Mushroom,Weed
@@ -254,7 +254,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 4932,1.9,5881,73.38,https://solanart.io/nft/84PfMGDTtsaxYCXeF837ZnDov7ThQeZzNZXEJHxi3x99,Green,Salmon,Piggy Tee,Earth,High,Afro Tail,Party Horn
 4991,25,3318,0,https://alpha.art/t/9rXYfkVgGY91uwWkELxN75aqqQmX6ZCUYa2tpHfKHAFJ,Cyan,Salmon,Piggy Tee,Gold Ring,Star Eyes,Party Hat,Beaten
 5017,6.69,836,45.74,https://alpha.art/t/CMbdk97eJCyZ6wa28wPYoLdJdj8zQHKrnth329isuE5x,Orange,Zombie,None,Weed,Open,Cowboy Hat,Party Horn
-5103,15,1062,0,https://solanart.io/nft/8wFEnUaMdYdodqtNqy5cKgbYHnv44KDe9wH3WJPnJXng,Green,Solana,Singlet,Western,Open,Officer Cap,Weed
+5103,12,1062,0,https://solanart.io/nft/8wFEnUaMdYdodqtNqy5cKgbYHnv44KDe9wH3WJPnJXng,Green,Solana,Singlet,Western,Open,Officer Cap,Weed
 5108,2.5,7186,62.14,https://solanart.io/nft/DjUXNXxRmWufQ5DLm3gpphw1AvzbYHDkUgM9MCYZAxYc,Purple,Yellow,Artist Apron,None,Beaten,Beret,Lick
 5119,11.99,303,0,https://solanart.io/nft/5w1QMah5AFUTXSKFVfBzwNCA7hrEnWLk4WNhExW8E2Eu,Purple,Pink,Blanket,Gun,Laser,Cowboy Hat,Neutral
 5211,64.68,221,0,https://alpha.art/t/3XiC4kiUN3eM3UoUqezFLnH81thm7t6Rpt5wEqL6NGSr,Blue,Pink,Solana Tee,Weed,Dollar Sign Googles,Mohawk Hair,Cigarette
@@ -282,6 +282,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 5792,24.99,6542,0,https://solanart.io/nft/BX18mBhdUX9JBBfQnjw8ZsAeWhz9P5uDxHrMBCjjWqHt,Red,Pink,Pink Leather Jacket,None,Open,Afro Hair,Weed
 5804,20,233,0,https://solanart.io/nft/4hyLbi1d7TpH1DVziYLRq3oZsDaYy89iw4434cKjLacE,Orange,Zombie,None,Solana,Sleeping,Afro Tail,Smiling
 5809,15,613,0,https://alpha.art/t/AEuFwRQcsZqfP4sWvCfzTmtTMZMmZoL7LKHeV5jB9VF8,Cyan,Yellow,Artist Apron,Earth,Laser,Leprechaun Hat,Beaten
+5811,2.25,1229,88.56,https://solanart.io/nft/63fmwfu9fgGAqCBwWALLhgpfE1TALPBn7A7VrPCYJL7y,Purple,Zombie,Bone Necklace,Palette,Crying,Fedora,Annoyed
 5834,20,650,0,https://alpha.art/t/EHdzVAWcy8ModPqbdb2STZozMjds2hdFXRdauwEtdVmR,Blue,Salmon,Solana Tee,Western,Coin,Party Hat,Bubble Gum
 5866,12,9922,0,https://alpha.art/t/Bh7oxtLiDPsV5tqbNJPM3g2DRgS75XfUt2hhbMZ54sZ6,Cyan,Salmon,Singlet,None,Closed,Cowboy Hat,Weed
 5876,5,6874,38.39,https://alpha.art/t/9fzQv8xibDskQJa4oYCjXQX1xuhNCX2AsTMaFniRGGF4,Yellow,Pink,Artist Apron,Amulet,High,Cowboy Hat,Neutral
