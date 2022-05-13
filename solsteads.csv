@@ -29,6 +29,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 72 Abbey Road,80,838,0,https://solanart.io/nft/GThuu8Tny7czw1NRXm9tQ6D5VzMhHiDbDeKevNwKSEWV,Arctic,Yellow,72,Art Deco,,Blue,Shuttered,,Red,Patio,Night,Abbey Road
 72 Wall Street,149.990005,1923,0,https://solanart.io/nft/A4CVtBKiqrK9cjrxrXQHBLtS1iJaxCGQN6gfwMHLgGQA,Field,Yellow,72,Mansion,,Green,Rounded,,Yellow,Skylight,Day,Wall Street
 73 Stewart Avenue,69.419998,2471,0,https://solanart.io/nft/6wtFQjzoNxJZAequ2KTXWf1QDCpCTmnxh1xzmcdcgFn8,Field,Blue,73,Cottage,,Green,Shuttered,,Blue,Shingle,Day,Stewart Avenue
+74 Abbey Road,29,312,84.95,https://solanart.io/nft/28dWVg74pWLodguRee7j6kPzGKBt4nKosZ1FASNrgJeF,Mountain,Yellow,74,Cottage,Brick,Yellow,Rounded,,Lavender,Shingle,Sunset,Abbey Road
 75 Supple Circle,860,792,0,https://solanart.io/nft/4S2oWrogjzzrPtgcijkkMBErU6tSQxWk1qLkbwAYFdkr,Mountain,Yellow,75,Mansion,,Red,Rounded,,Yellow,Patio,Sunset,Supple Circle
 76 Ape Lane,40,2255,0,https://solanart.io/nft/9sbK8QrYGTCAsfhJKPeF5iJqw9MfdzDoQC56GFj1KCTS,Woods,Red,76,Cottage,,Pale green,Shuttered,,Blue,Tin,Day,Ape Lane
 77 Wall Street,49,1689,0,https://solanart.io/nft/7Bcrm3KNTkksTv52XYg1B6XeKt3G5rNMR2SRwWmECWQ8,Field,Yellow,77,Modern,Vines,Dark green,Shuttered,,Yellow,Patio,Day,Wall Street
@@ -107,7 +108,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 374 Bamboo Boulevard,888,19,0,https://solanart.io/nft/7uAXvEduPeYrfJWXzXQrmHHEEVVgwJKu83t8uSk29RsW,Desert,Gold,374,Mansion,Gold,Gold,Gold,,Gold,Gold,Day,Bamboo Boulevard
 375 Grime Lane,51,1121,0,https://solanart.io/nft/4qBgHnL9riYjRwqRD8CH3o4WMYhMR4jahp2mi7a4qFrR,Underwater,Yellow,375,Cottage,Vines,Blue,Shuttered,,Green,Patio,,Grime Lane
 376 First Avenue,69.690002,2370,0,https://solanart.io/nft/96gRnM5ubW6atv2Yn6mHKiRF8kVCHRpZCYXAPsueYmy,Desert,Green,376,Cottage,,Pale green,Shuttered,,Blue,Shingle,Day,First Avenue
-384 First Avenue,28,2394,61.25,https://solanart.io/nft/7cR9sU9vbzFEL9H9CSaGWeBQ6pLnFvpK993cfTS5Kbho,City,Red,384,Modern,,Blue,Rounded,,Yellow,Skylight,Day,First Avenue
 384 Pico Street,69,1433,0,https://solanart.io/nft/FyyFBsvuu2kqKd9vEsDNR6bioKpB9JNdMBmJGtugzDHr,Mountain,Lavender,384,Cottage,Vines,Red,Rounded,,Blue,Skylight,Day,Pico Street
 387 Bamboo Boulevard,45,1861,0,https://solanart.io/nft/6cLa938jznhYdJ4i8XubPwgsHD8rKS4df2ZGGLcNgwb6,Mountain,Yellow,387,Modern,Vines,Lavender,Shuttered,,Green,Shingle,Day,Bamboo Boulevard
 387 Sierra Avenue,65.5,1730,0,https://solanart.io/nft/7A4iLWaykhbZ6xpTZRpuBk1dWhVkqE7nzsgbad8a3nR5,Field,Red,387,Modern,,,Glass,,Mix,Food,Night,Sierra Avenue
@@ -194,6 +194,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 639 Epoch Avenue,76.69,2283,0,https://alpha.art/t/EW6V6nmx8bHUFhDhiMD1iFXsYR7mfDSKVyAgakbENgxG,Field,Yellow,639,Cottage,,Pale green,Rounded,,Red,Tin,Day,Epoch Avenue
 640 Clipping Drive,48,1263,0,https://solanart.io/nft/7d5Hj6LsDjSNkM7emW5d82T3o93THNzmd1i5jScjMspU,Woods,Red,640,Art Deco,,,Crystal,,Lavender,Tin,Day,Clipping Drive
 641 Dip Drive,230,432,0,https://solanart.io/nft/41kyAZLwYmcU6LK6uVhhaDV6FjCFmZZSmX5vsPJvB35z,Woods,Dark green,641,Cottage,Vines,,Glass,,Mix,Mushroom,Night,Dip Drive
+646 Epoch Avenue,31,692,58.8,https://solanart.io/nft/3gpbsVSoVWTCg6AXVWZUe7tenbJPP9LhAw4WQJWwMQXo,Arctic,Dark green,646,Modern,Brick,Pale green,Shuttered,,Red,Tin,Day,Epoch Avenue
 647 Clipping Drive,60,1966,0,https://solanart.io/nft/6H8ViJyrwjyWyz71s5AXtGZDEpA9rM9Jqsip58CWpqat,Treehouse,Yellow,647,Modern,,,Crystal,,Red,Shingle,Day,Clipping Drive
 649 Rip Street,49,1607,0,https://solanart.io/nft/JBnmsdEuUPzNeDaCB3o1k67KJtGGZTEkGcsY8foqoVbs,City,Blue,649,Art Deco,,,Occult,,Green,Skylight,Day,Rip Street
 652 Dip Drive,69,349,0,https://solanart.io/nft/EzGcN2EjwJRqc19p4HPiFXTnsWp2tGKn1AZnBmt4ALiv,Field,Blue,652,Mansion,Vines,,Glass,Rain,Red,Tin,Night,Dip Drive
@@ -239,5 +240,5 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 882 Broadway,95,1396,0,https://solanart.io/nft/DPseHEhDHPyGtBtFa4nNm3crNhZ6Z7RSbdMSyiVXNep9,Mountain,Yellow,882,Cottage,,,Glass,,Yellow,Patio,Day,Broadway
 891 Battle Street,66.890999,926,0,https://solanart.io/nft/6oTNGhBG84KEMBPKDgpQMUDjFoeHgY6iFq89XvbAUbwb,Woods,Yellow,891,Art Deco,Brick,Blue,Shuttered,,Mix,Mushroom,Day,Battle Street
 902 Battle Street,99,205,0,https://solanart.io/nft/Bmdv9NCHvbTQkN2iF5pcKumUsnGseEJ3GsCfY8hUSe5a,Desert,Dark green,902,Art Deco,Vines,,Crystal,Rain,Yellow,Shingle,Day,Battle Street
-927 Battle Street,44,662,0,https://solanart.io/nft/9mNpbsa3r3HRDeZC5aMBug9XiZ8CrGfNGPEr96RYw8Ge,Underwater,Yellow,927,Modern,Brick,,Glass,,Yellow,Shingle,,Battle Street
+927 Battle Street,37,662,0,https://solanart.io/nft/9mNpbsa3r3HRDeZC5aMBug9XiZ8CrGfNGPEr96RYw8Ge,Underwater,Yellow,927,Modern,Brick,,Glass,,Yellow,Shingle,,Battle Street
 933 Battle Street,100,50,0,https://solanart.io/nft/5dP9TEQ5fW1ngofjC1aW5zVxCbjRUCVGNCoBdhXWfWU1,Underwater,Pale green,933,Mansion,,,Glass,,Red,Patio,,Battle Street
