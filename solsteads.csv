@@ -69,8 +69,9 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 241 Privet Drive,43.799999,1981,0,https://solanart.io/nft/CZKbRQ48EQpgwu6VWnef8RQw8VyddZ4rkH6caZ77pHR7,Field,Blue,241,Cottage,,,Crystal,,Blue,Patio,Day,Privet Drive
 243 Privet Drive,75,295,0,https://solanart.io/nft/4NXG6Y4vcpJphfZSgGJhLzM1Rkm4BrmwCWrU3uBqmG6A,City,Green,243,Cottage,Vines,Blue,Rounded,,Dark green,Tin,Night,Privet Drive
 245 Privet Drive,99.690002,367,0,https://solanart.io/nft/9FTFkPe7WKoGRpRWLqh6r3wipEScWFiJgDNbNro4PAF4,Woods,Yellow,245,Art Deco,Brick,,Occult,,Lavender,Shingle,Day,Privet Drive
-245 Bit Boulevard,169.419998,69,0,https://solanart.io/nft/Ao5s25ehJcbCPLCqtJLeFBLSYrocHGw1pqs2VX4UNA2M,Woods,Red,245,Mansion,Brick,Green,Shuttered,Rain,Lavender,Haunted,Day,Bit Boulevard
+245 Bit Boulevard,100,69,0,https://solanart.io/nft/Ao5s25ehJcbCPLCqtJLeFBLSYrocHGw1pqs2VX4UNA2M,Woods,Red,245,Mansion,Brick,Green,Shuttered,Rain,Lavender,Haunted,Day,Bit Boulevard
 246 Baker Street,45,302,0,https://solanart.io/nft/6Uff22BhQh3gDMZ8nf1hP9hWPrFYUDPUTzC6Q4F5qfG1,Beach,Dark green,246,Modern,Brick,Pale green,Shuttered,,Blue,Haunted,Day,Baker Street
+247 Pico Street,35,1694,22.58,https://solanart.io/nft/FyqxfJGAAoeer4aSvtNNH9Uj6EA7iPA6pjCoaJHLMb19,Field,Blue,247,Art Deco,Vines,,Glass,,Mix,Food,Day,Pico Street
 247 Privet Drive,54,119,0,https://solanart.io/nft/9SQ2hXAsxV1UUYHKPq7pQj2DVsGcFsC94yYWdCn2JZDJ,Underwater,Dark green,247,Modern,,,Occult,,Yellow,Patio,,Privet Drive
 250 Baker Street,249,1110,0,https://solanart.io/nft/4mV1sdzWMWospB18CSxYAd2qrUECCKrS54fUZsm1z5aP,City,Red,250,Modern,Brick,,Glass,,Green,Tin,Sunset,Baker Street
 251 Baker Street,75,1385,0,https://solanart.io/nft/AZHagTrJsvLE89WtNc8cQdrYTUH98CEr7iE2DN9tXtEa,City,Green,251,Cottage,,Blue,Shuttered,,Red,Patio,Sunset,Baker Street
@@ -216,6 +217,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 718 Helix Avenue,83,1446,0,https://solanart.io/nft/HzBxF9r8XpAH13hLNW7TczQfZ3cgLb2wqhbxCK5SwoiU,City,Blue,718,Art Deco,,Red,Shuttered,,Mix,Food,Day,Helix Avenue
 727 Helix Avenue,1420.689941,13,0,https://solanart.io/nft/BeUqxwYogpgrwSRFvE2cULwmXsyDe9oaDrX1qAdQrWrT,Field,Gold,727,Modern,Gold,Gold,Gold,,Gold,Gold,Night,Helix Avenue
 735 Clipping Drive,76,903,0,https://solanart.io/nft/8XrDCC5VmRdaRcyGmBporvepxPwzkCeGkWGaCN6zLPTS,Arctic,Red,735,Modern,,,Crystal,,Green,Patio,Day,Clipping Drive
+737 Rodeo Drive,45,664,0,https://solanart.io/nft/9XwBhdWisR7Sw1nNMMHTemuUz2ESSSecGHYa96M1AmEV,City,Green,737,Cottage,,,Crystal,,Dark green,Shingle,Night,Rodeo Drive
 753 Rodeo Drive,44.439999,741,0,https://solanart.io/nft/3gW2sohjyDutfsYHLhrUWRxQjpaokRaNrJ9uG1aJ8DZj,City,Blue,753,Art Deco,Vines,Green,Rounded,,Yellow,Tin,Day,Rodeo Drive
 765 Rodeo Drive,150,161,0,https://solanart.io/nft/2BXb6m6edtY67m3X6bk4e2Kzz7Vo8hyaSsUXsyBg4QuK,Beach,Red,765,Art Deco,,,Glass,,Mix,Grass,Stormy,Rodeo Drive
 787 Rodeo Drive,60,415,0,https://solanart.io/nft/2N7G39uNA4UZwVTGD53hHPXjHnhouR9SoJ7y5dRHw2p8,Field,Green,787,Cottage,Vines,,Glass,Rain,Red,Patio,Day,Rodeo Drive
