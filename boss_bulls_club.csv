@@ -446,6 +446,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 3574,5,7498,21.89,https://solanart.io/nft/9eQdmswyjywSna51XNfJST7jPiW88StzFgCfvAcrYUxY,Green Blue,Black Viking Tattoos,None,None,Two Tone Horns,None,Gangster Toothpick
 3576,9,730,9.07,https://solanart.io/nft/29ftzMDAD9D1CHPMGeQuyjwRyhJReFpphcfvKu3UJ3hM,Blue,Orange Zombie,Bulladdin Clothing,Sunglasses,Two Tone Horns,None,Nose Ring Horseshoe
 3579,0.5,7071,68.6,https://solanart.io/nft/3sNj11EEfoRD2Ecr6qHAeJA6Z1Z9DHphmbkyUg83vyXN,Silver,Orange Tattoos,None,None,Zombie Ax,None,None
+3587,0.45,2208,88.63,https://solanart.io/nft/DmMvKRuaTw55R5gTkzpVArbgYBvRZc2mBs1mYDomFRaN,Yellow,Orange Viking Tattoos,Bulladdin Clothing,Round Sunglasses,Graduation Cap,None,None
 3591,3,4737,52.98,https://solanart.io/nft/5yP3Lc4enZMTxJhFeGxSGS63XiCtifsG7YpFN4crjSxz,Green,Red,Suit Cream,None,Bronze Horns,None,None
 3599,5,8967,15.99,https://solanart.io/nft/AAtXxwHJMKBVkH8pL1iLbienVAaxLcWTJ7FKbC3sX6h4,Red,Black Tattoos,None,None,Miner Helmet,None,None
 3602,2,2249,72.97,https://solanart.io/nft/5raabcYccKpmN6zfvndURZi1qp9EQwBkzfuiHYza6NWM,Orange,Black Viking Tattoos,Pirate Clothing,Mask,Cowboy Hat,None,None
@@ -765,7 +766,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 5605,0.59,1926,88.37,https://solanart.io/nft/AiLLmgCoqb7DMEeQ9UmcRSYyw9NN2faXzHTuheHU4TGh,Light Blue,Black Scars,Oriental Tunic Black,Commander Monocle,Normal Damaged Horn,None,None
 5610,0.75,5394,72.84,https://solanart.io/nft/F7C1MkhC8ZFUejksjKTeeyfEpeXohth4q3GvabZhrLAT,Yellow,Blonde Scars,Suit Bow Tie,None,Two Tone Damaged Horn,None,None
 5626,150,223,0,https://solanart.io/nft/G86GAbkWBtgGuNQLsFBBGfNkgMwbyWZSNhtD3GZxhpsb,Red,Bronze,Gangster Clothing,Sunglasses,Black Cap,Lightsaber Blue,None
-5635,0.57,1287,91.13,https://solanart.io/nft/72uqk6sAoaBsjBD6FuMiQhuotgxB7CnL3mUSJVZvAmeA,Gray,Blonde Viking Tattoos,None,None,Black Cap,Shield,Three Gold Earrings
 5656,7,4262,14.88,https://solanart.io/nft/GL5nvfrrfpCfyFqfX6K3mB9qWJ3jGGikFTosMiTjmFAb,Blue,White Viking Tattoos,None,Reading Glasses Black,Normal Horns,None,Silver Combination V6
 5660,0.75,1790,87.31,https://solanart.io/nft/5iF8uEWy2cxfyumkw7NgEXT2nNRaCBBPXv5DQvkL8Bkw,Orange,Orange Viking Tattoos,The One Tunic,None,Red Cap,Broom,None
 5663,0.49,5026,76.92,https://solanart.io/nft/9TWe1YgMZiYbQqNabWiohQFbYEYZXSSEV6un8j1M9x94,Gray,Orange Scars,None,None,Beret,None,Nose Ring Hex
@@ -1034,7 +1034,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 7277,0.3,4951,79.12,https://solanart.io/nft/FKMTVBZbxRbELGLV17ZKGtoMa3T2CYRic4XLWJV7kvkB,Red,Black,None,None,Orange Benie,None,Gold Combination V1
 7279,0.93,4363,75.18,https://solanart.io/nft/4nCF6mSEkX1MMZp3KydPsjLqvfVYCD9DWwmzBRGvyszK,Gray,Blonde Tattoos,None,None,Viking Helmet,Broom,None
 7296,25,584,0,https://solanart.io/nft/5doRrq5KfXwxKoYxuDMwsrF9X3sJmLPiJYW8LuonjaRX,Bronze,Orange Zombie,None,None,Normal Damaged Horn,Shield,Gold Combination V1
-7297,0.58,4729,77.21,https://solanart.io/nft/HZCAFeeJoXcAdxQKcSH6CgwnRAE4PQvKUk11KPq2ghDg,Gray,Silver,None,Reading Glasses White,Party Hat,None,None
 7305,0.2,4769,80.85,https://solanart.io/nft/97hbiEtdZQaVsBCs5Rhty7kUMLu11NfA4zkw5q6Jj5oT,Yellow,Blonde Scars,Bull of War Armor,Round Sunglasses,Normal Horns,None,None
 7311,1.75,7130,55.87,https://solanart.io/nft/EhD7Sxk3kjqUz3sh1AxSBGR5g8Pv6hUzzd7V7zUPbcki,Bronze,Orange,Prisoner Uniform,None,Normal Horns,None,None
 7327,1.75,1411,78.83,https://solanart.io/nft/4ETVTmn5GM2sscuN3nxdNeEgDxSUrbzfS5mmucsZvJR2,Green Blue,Bullminator,Police Uniform,None,Black Cap,None,Silver Combination V6
